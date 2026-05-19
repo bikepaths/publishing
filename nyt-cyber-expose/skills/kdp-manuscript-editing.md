@@ -13,6 +13,7 @@ This single skill replaces the previous three separate skills. It defines a repe
 1. Review `profile.md` for tone, voice, and style preferences.
 2. Review `Manual_of_Style.md` for current style rules.
 3. Review `Manuscript_Outline.md` to ensure chapter objectives align.
+4. **Mandatory Pre-Draft Logic Block:** Output a logic block defining the Character Pivot and the Structural Pivot for the target chapter. Establish the causal relationship between the specific human action and the systemic failure before initiating revisions.
 
 ## Revision Passes (hardening)
 ### PASS 1 – Structural foundation
@@ -51,6 +52,8 @@ This single skill replaces the previous three separate skills. It defines a repe
   - ✅ Experiential writing present
   - ✅ Paragraph segmentation 3‑7 sentences
   - ✅ Matches chapter objectives in `Manuscript_Outline.md`
+  - ✅ Alternating Lens Requirement satisfied (Micro/Macro integration)
+  - ✅ PACER Anchoring Rule satisfied (No speculative interiority)
   - ✅ Consistent with `profile.md`
 - Optional read‑aloud test for rhythm.
 

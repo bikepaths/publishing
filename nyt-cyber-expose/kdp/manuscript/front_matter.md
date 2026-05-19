@@ -5,15 +5,6 @@ author: "Nimmit X"
 date: "2026"
 ---
 
-# Minutes to Zero
-**Inside the Akhter Breach and the Contractor Blindness That Made It Possible**
-
-**Volume 1: The Architecture of Blindness**
-
-**Nimmit X**
-
-<div style="page-break-after: always;"></div>
-
 ## Copyright
 
 Copyright © 2026 Nimmit X
@@ -23,5 +14,4 @@ All rights reserved. No part of this publication may be reproduced, distributed,
 First Edition
 ISBN: [PENDING]
 
-<div style="page-break-after: always;"></div>
-
+\newpage
