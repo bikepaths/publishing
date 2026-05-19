@@ -32,14 +32,14 @@ The breach was not a failure of individuals. It was a failure of architecture a 
 
 ## AUTHOR BIO (back cover version — 75 words max)
 
-[AUTHOR NAME] is an investigative journalist/researcher specializing in federal contracting digital infrastructure and government accountability. [Prior publication credits. Relevant access or sourcing credentials. Institutional affiliation if applicable.]
+Nimmit X is an investigative journalist/researcher specializing in federal contracting digital infrastructure and government accountability. [Prior publication credits. Relevant access or sourcing credentials. Institutional affiliation if applicable.]
 # Note: Author bio to be finalized with GYLC Spokesperson — verify relevant access/sourcing credentials through collective network.
 
 ---
 
 ## SPINE TEXT
 
-MINUTES TO ZERO | Vol 1: The Architecture of Blindness | [AUTHOR LAST NAME]
+MINUTES TO ZERO | Vol 1: The Architecture of Blindness | Nimmit X
 
 ---
 
