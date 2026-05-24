@@ -1,30 +1,22 @@
-# Manual of Style — KDP Non-Fiction
+# Manual of Style — KDP Non-Fiction (Literary Narrative)
 
-Hemingway-inspired directness. Narrative non-fiction architecture. The text must reconstruct factual events through deep research to build a narrative that reads like fiction. Short declarative sentences, concrete endings, implicit causality.
+Literary narrative non-fiction architecture. The text must reconstruct factual events through deep research to build a narrative that reads like serious literary writing. Trust long, carefully built sentences to carry a reader through complex material without simplifying it.
 
 ## Core Rules
 
-1. **No em-dashes.** Use commas, semicolons, or rephrase.
-2. **Acronyms and jargon.** Define all acronyms on their first occurrence using standard parenthetical notation, such as Equal Employment Opportunity Commission (EEOC). Subsequent occurrences may use the acronym for convenience.
-3. **Make every unexplained term obvious** through context, action, or tangible detail.
-4. **Use experiential writing.** Show via sensory details, actions, and images; avoid pure exposition.
-5. **Adjacent sentences can complement and support each other.** Compound, complex, and compound-complex sentences are acceptable.
-6. **Paragraphs must end on a concrete image, action, or sensory detail.** Not on an abstraction or summary statement.
-7. **Ban causal-sentence endings.** Do not end a sentence with "because," "since," "as," or "due to."
-8. **Sentence length.** Keep most sentences average 8 to 10 words, no sentence exceeds 20 words. Vary length for rhythm.
-9. **Adverb usage.** Keep -ly adverbs below 0.2% of total words; prefer strong verbs.
-10. **Voice.** Favor active voice; limit passive constructions to less than 10% of clauses.
-11. **Clarity pass.** Verify that any term not self-evident is explained via a concrete image, action, or analogy.
-12. **Show essentials.** Illustrate critical concepts through examples or images rather than definitions.
-13. **No invented sensory details in nonfiction.** If the source record does not confirm an event, do not report it as fact. Every physical detail demands rigorous verification through deep research.
-14. **Alternating Lens Requirement.** The text must link a specific documented character action directly to the corresponding vulnerability within the federal contractor state. The narrative must integrate micro events with macro consequences.
-15. **PACER Anchoring Rule.** The text must derive character focus exclusively from verifiable actions documented in the source registry. Speculative interiority is strictly prohibited.
-16. **Narrative Architecture.** Trust the reader to follow a sustained, meticulously constructed narrative arc. Never format research findings as static lists or clinical reports. The author must reconstruct factual events and real people to generate the relentless forward velocity of fiction.
+1. **No em-dashes or colons.** There are no em-dashes and no colons used as hard stops within sentences. Connect ideas through the natural movement of the sentence itself, or separate them into complete sentences.
+2. **Expansive Sentence Architecture.** Sentences must flow sequentially, each growing from the conclusion of the one before it. Maintain an unhurried, deliberate rhythm. Do not cap sentence length.
+3. **Sustained Paragraphs.** Paragraphs must be long by contemporary standards to mirror the scale of the material. Each paragraph must build a single sustained thought and cannot move to the next until that thought is complete. Do not use short, punchy paragraphs.
+4. **Contextual Definition.** Introduce technical or specialized vocabulary when necessary, but explain all terms through context rather than explicit definition. Never stop the reader to teach them.
+5. **Narrator Positioning.** The point of view must belong to an informed, present, unhurried narrator standing slightly outside the story. Do not insert personal experience. Occasional direct address (using "you") is authorized only to place the reader physically inside the landscape.
+6. **Restrained Figurative Language.** Use figurative language only when plain description fails. Metaphors must illuminate the subject using ordinary experience. Eliminate all ornate or self-conscious metaphors.
+7. **Absolute Structural Purity.** Eliminate all headers, bullet points, and numbered lists within the chapters. The prose itself must carry the entire structure and all transitions.
+8. **General Audience Accessibility.** Assume the reader possesses curiosity and seriousness, but no prior specialized knowledge. Never condescend and never exclude. 
+9. **Rigorous Factual Integrity.** Every sentence must be grounded in verified fact. If the source record does not confirm an event, do not report it.
+10. **Thematic Convergence.** The narrative must allow disparate accounts to converge without explicitly arguing that one is more true than the other. Present the evidence and allow the reader to feel the convergence.
 
 ## Application Notes
 
-- Ground each beat in a physical place and moment.
-- End paragraphs with something the reader can picture.
-- Define technical terms through consequence, not definition.
-- Rewrite passive constructions to active where possible.
-- Reconstruct primary source data to maintain continuous narrative momentum.
+- Ground each sequence in specific, carefully researched detail rather than direct statement or advocacy.
+- Use the scale of the material to dictate pacing.
+- Ensure the reader arrives at thematic conclusions through their own response to the material, not through narrator instruction.
