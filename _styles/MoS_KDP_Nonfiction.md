@@ -1,6 +1,6 @@
 # Manual of Style — KDP Non-Fiction
 
-Hemingway-inspired directness. Short declarative sentences, concrete endings, implicit causality.
+Hemingway-inspired directness. Narrative non-fiction architecture. The text must reconstruct factual events through deep research to build a narrative that reads like fiction. Short declarative sentences, concrete endings, implicit causality.
 
 ## Core Rules
 
@@ -16,7 +16,10 @@ Hemingway-inspired directness. Short declarative sentences, concrete endings, im
 10. **Voice.** Favor active voice; limit passive constructions to less than 10% of clauses.
 11. **Clarity pass.** Verify that any term not self-evident is explained via a concrete image, action, or analogy.
 12. **Show essentials.** Illustrate critical concepts through examples or images rather than definitions.
-13. **No invented sensory details in nonfiction.** If the source record does not confirm an event, do not report it as fact.
+13. **No invented sensory details in nonfiction.** If the source record does not confirm an event, do not report it as fact. Every physical detail demands rigorous verification through deep research.
+14. **Alternating Lens Requirement.** The text must link a specific documented character action directly to the corresponding vulnerability within the federal contractor state. The narrative must integrate micro events with macro consequences.
+15. **PACER Anchoring Rule.** The text must derive character focus exclusively from verifiable actions documented in the source registry. Speculative interiority is strictly prohibited.
+16. **Narrative Architecture.** Trust the reader to follow a sustained, meticulously constructed narrative arc. Never format research findings as static lists or clinical reports. The author must reconstruct factual events and real people to generate the relentless forward velocity of fiction.
 
 ## Application Notes
 
@@ -24,3 +27,4 @@ Hemingway-inspired directness. Short declarative sentences, concrete endings, im
 - End paragraphs with something the reader can picture.
 - Define technical terms through consequence, not definition.
 - Rewrite passive constructions to active where possible.
+- Reconstruct primary source data to maintain continuous narrative momentum.
