@@ -1,0 +1,217 @@
+/* ============================================
+   The Weaponization of Compassion
+   ePub 3 Stylesheet — Chicago/IDPF Compliant
+   Charles J. DiBella / Material Dignity Press
+   ============================================ */
+
+/* --- Reset and Base --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* --- Body and Base Typography --- */
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1em;
+    line-height: 1.75;
+    color: #1a1a1a;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -epub-hyphens: auto;
+    widows: 2;
+    orphans: 2;
+}
+
+/* --- Chapter Sections (epub:type="chapter") --- */
+section[epub\:type~="chapter"],
+section[epub\:type~="bodymatter"] {
+    margin: 0;
+    padding: 1em 0;
+}
+
+/* --- Headings --- */
+h1 {
+    font-family: "Palatino Linotype", Palatino, Georgia, serif;
+    font-size: 1.6em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0.2em;
+    line-height: 1.25;
+    color: #111111;
+    break-before: page;
+    -webkit-break-before: page;
+    page-break-before: always;
+}
+
+/* Cover and title page: no page break before h1 */
+section[epub\:type~="cover"] h1,
+section[epub\:type~="titlepage"] h1,
+section[epub\:type~="frontmatter"] h1:first-child {
+    break-before: auto;
+    page-break-before: auto;
+}
+
+h2 {
+    font-family: Georgia, serif;
+    font-size: 0.95em;
+    font-weight: normal;
+    font-style: italic;
+    color: #555555;
+    margin-top: 0.1em;
+    margin-bottom: 2.5em;
+    text-align: left;
+}
+
+h3 {
+    font-family: Georgia, serif;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #333333;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+}
+
+/* --- Paragraphs --- */
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 1.5em;
+}
+
+/* No indent on first paragraph after structural elements */
+h1 + p,
+h2 + p,
+h3 + p,
+header + p,
+section > p:first-child,
+hr + p,
+div + p:first-child {
+    text-indent: 0;
+}
+
+/* --- Section Rule / Ornamental Break --- */
+hr {
+    border: none;
+    margin: 2em auto;
+    width: 100%;
+}
+
+hr::after {
+    content: "\2042";
+    display: block;
+    text-align: center;
+    color: #999999;
+    font-size: 1.1em;
+    letter-spacing: 0.4em;
+}
+
+/* --- Copyright Page --- */
+section[epub\:type~="copyright-page"] p,
+.copyright-page p {
+    font-size: 0.82em;
+    line-height: 1.55;
+    color: #555555;
+    text-indent: 0;
+    margin-bottom: 0.6em;
+}
+
+/* --- Title Page --- */
+section[epub\:type~="titlepage"] {
+    text-align: center;
+    padding-top: 3em;
+}
+
+section[epub\:type~="titlepage"] h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 0.4em;
+}
+
+section[epub\:type~="titlepage"] p {
+    text-indent: 0;
+    text-align: center;
+    font-style: italic;
+    color: #444444;
+    margin-bottom: 0.5em;
+}
+
+/* --- Table of Contents --- */
+nav[epub\:type~="toc"] ol {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0;
+}
+
+nav[epub\:type~="toc"] li {
+    margin-bottom: 0.5em;
+    font-family: Georgia, serif;
+    font-size: 0.95em;
+}
+
+nav[epub\:type~="toc"] a {
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+nav[epub\:type~="toc"] a:hover {
+    text-decoration: underline;
+}
+
+/* --- Bibliography / Citations --- */
+section[epub\:type~="bibliography"] p,
+.citations p,
+div.citations p {
+    font-size: 0.88em;
+    line-height: 1.6;
+    text-indent: -1.8em;
+    padding-left: 1.8em;
+    margin-bottom: 0.6em;
+    color: #222222;
+}
+
+/* Chapter sub-headings within bibliography */
+section[epub\:type~="bibliography"] h2,
+.citations h2,
+div.citations h2 {
+    font-size: 1em;
+    font-weight: bold;
+    font-style: normal;
+    color: #111111;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 0.2em;
+}
+
+/* --- Block Quotes --- */
+blockquote {
+    margin: 1em 2em;
+    font-style: italic;
+    color: #333333;
+    border-left: 3px solid #cccccc;
+    padding-left: 1em;
+}
+
+blockquote p {
+    text-indent: 0;
+}
+
+/* --- Links --- */
+a {
+    color: #1a1a1a;
+    text-decoration: underline;
+}
+
+/* --- Accessibility: Skip nav, screen reader utilities --- */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+}
