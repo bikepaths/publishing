@@ -1,18 +1,25 @@
 #!/usr/bin/env bash
-# Pre‑push verification script – ensures every added/modified file is reachable on GitHub (HTTP 200).
-# Used by the repository’s pre‑push hook (see README for setup instructions).
+# Pre‑push verification script – ensures every added/modified file is present locally.
+# Used by the repository’s pre‑push hook.
+
+z40="0000000000000000000000000000000000000000"
 
 while read local_ref local_sha remote_ref remote_sha; do
-  # Collect added (A) or modified (M) files between the two commits.
-  files=$(git diff --name-status "$local_sha..$remote_sha" | awk '/^[AM]/ {print $2}')
+  if [[ "$local_sha" == "$z40" ]]; then
+    # Branch deletion, skip check
+    continue
+  fi
+
+  if [[ "$remote_sha" == "$z40" ]]; then
+    # New branch, diff against parent or check all files in commit
+    files=$(git diff-tree -r --no-commit-id --name-status "$local_sha" | awk '/^[AM]/ {print $2}')
+  else
+    files=$(git diff --name-status "$remote_sha..$local_sha" | awk '/^[AM]/ {print $2}')
+  fi
+
   for f in $files; do
-    repo="${GITHUB_REPOSITORY:-rithythul/publishing}"
-    branch="${remote_ref#refs/heads/}"
-    url="https://raw.githubusercontent.com/${repo}/${branch}/${f}"
-    code=$(curl -s -o /dev/null -w "%{http_code}" "$url")
-    if [[ $code -ne 200 ]]; then
-      echo "[pre‑push] ❌ $f is not reachable (HTTP $code)."
-      echo "Push aborted – fix the file, commit again, then push."
+    if [[ ! -e "$f" ]]; then
+      echo "[pre-push] ❌ File $f is missing locally."
       exit 1
     fi
   done

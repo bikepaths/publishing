@@ -43,7 +43,7 @@ publishing/
 Before any build, copy the canonical template into the manuscript directory:
 
 ```bash
-cp /home/user0/files/SSRN_Strategic_Intelligence_Stack/publishing/_epub/epub_template.css \
+cp /home/user0/git/publishing/_epub/epub_template.css \
    /path/to/manuscript/epub_style.css
 ```
 
@@ -80,7 +80,7 @@ Author, Last. "Title." *Journal* Volume, no. Issue (Year): Pages. https://doi.or
 Run the assembly script:
 
 ```bash
-python3 /home/user0/files/SSRN_Strategic_Intelligence_Stack/publishing/_epub/epub_assembly.py \
+python3 /home/user0/git/publishing/_epub/epub_assembly.py \
   --manifest manifest.yaml \
   --output epub_source.md
 ```
@@ -107,6 +107,14 @@ Each chapter must be preceded by an H1 heading and an H2 location/subtitle line:
 
 ---
 
+## Step 3.5: Optimize Cover Image
+
+Do not compile raw PNG covers into the EPUB. Enforce JPEG compression to reduce file sizes:
+
+```bash
+python3 -c "from PIL import Image; img = Image.open('../handoff/cover_concept.png'); img.convert('RGB').save('../handoff/cover.jpg', 'JPEG', quality=90)"
+```
+
 ## Step 4: Build the ePub
 
 Run the following pandoc command from the manuscript directory:
@@ -117,7 +125,7 @@ pandoc epub_source.md \
   --to epub3 \
   --output ../handoff/[title_slug].epub \
   --css epub_style.css \
-  --epub-cover-image ../handoff/cover_concept.png \
+  --epub-cover-image ../handoff/cover.jpg \
   --toc \
   --toc-depth=1 \
   --split-level=1 \
@@ -187,7 +195,7 @@ git add -A && git commit -m "[Series] [Book]: EPUBCheck validated epub, complete
 Before uploading to KDP:
 
 - [ ] EPUBCheck passes with zero errors
-- [ ] Cover image is minimum 2500px on longest side, sRGB color space, under 50MB
+- [ ] Cover image embedded inside EPUB is optimized JPEG under 1MB; raw high-resolution cover remains in handoff for dashboard upload
 - [ ] All citations are Chicago 17th edition with no placeholder authors
 - [ ] Author name on cover matches KDP account author name exactly
 - [ ] BISAC categories confirmed in `metadata.yaml`

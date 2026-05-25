@@ -2,7 +2,7 @@ name: KDP Gold‑Standard Style Check
 on:
   push:
     paths:
-      - 'nyt-cyber-expose/kdp/manuscript/chapter_drafts/**/*.md'
+      - '**/kdp/manuscript/chapter_drafts/**/*.md'
 jobs:
   style_check:
     runs-on: ubuntu-latest
@@ -10,15 +10,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Set up script permissions
-        run: chmod +x scripts/run_kdp_edit.sh
+        run: chmod +x scripts/kdp_style_check.sh
       - name: Find changed markdown files
         id: files
         run: |
           echo "files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
-      - name: Run gold‑standard check on each file
+      - name: Run style compliance check
         if: steps.files.outputs.files != ''
         run: |
           for f in ${{ steps.files.outputs.files }}; do
-            echo "Checking $f"
-            scripts/run_kdp_edit.sh "$f" --verify || exit 1
+            if [[ -f "$f" ]]; then
+              echo "Checking style on $f"
+              scripts/kdp_style_check.sh "$f"
+              git diff --exit-code "$f" || (echo "ERROR: $f fails style guidelines. Run scripts/kdp_style_check.sh locally and commit." && exit 1)
+            fi
           done
+

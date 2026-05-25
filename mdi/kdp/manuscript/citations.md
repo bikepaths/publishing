@@ -16,7 +16,7 @@ Escobar, Reinaldo. Interview on Tinima TV. December 2025.
 
 Giddens, Anthony. *Modernity and Self-Identity: Self and Society in the Late Modern Age*. Stanford: Stanford University Press, 1991.
 
-## Chapter Three: The Incentive Engine
+## Chapter Three: The Revenue Machine
 
 Coalition for the Homeless of Houston/Harris County. *City of Houston/Harris County Homeless Encampment Response Strategy*. Houston: The Coalition, 2021.
 
@@ -42,7 +42,7 @@ United States Interagency Council on Homelessness. *19 Strategies for Communitie
 
 Westbrook, Marina, and Tony Robinson. "Unhealthy by Design: Health and Safety Consequences of the Criminalization of Homelessness." *Journal of Social Distress and Homelessness* 30, no. 2 (2021): 107–115. https://doi.org/10.1080/10530789.2020.1800584.
 
-## Chapter Five: The Architecture of Accountability
+## Chapter Five: The Demographic Delusion
 
 Streets Sense Media. *Washington D.C. Encampment Closure Tracking Report, 2023–2026*. Washington, D.C.: Streets Sense Media, 2026.
 
@@ -52,15 +52,15 @@ Washington Times Staff. "D.C. 2026 Homeless Count Shows Four Percent Overall Inc
 
 White House Office of the Press Secretary. *Executive Order on Restoration of Public Safety and Beauty in the Nation's Capital*. Washington, D.C.: The White House, March 2025.
 
-## Chapter Six: The Utility Mandate
+## Chapter Six: The Pipeline Calculus
 
 DiBella, Charles J. *Material Dignity Infrastructure: A Distributed Stewardship Model for Homelessness Resolution*. SSRN Working Paper 5968756. 2025. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5968756.
 
 DiBella, Charles J. *Material Dignity Infrastructure: Structural Misalignment and the Activation of Surplus Shelter Capacity*. SSRN Working Paper 6211658. February 2026. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6211658.
 
-DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600. May 2026. https://bikepaths.org/blog/topics/audio/podcasts/Working_Paper_Material_Dignity_Infrastructure_(2026).pdf.
+DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600. May 2026. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6579600.
 
-Roebuck, Gareth, Stephanie Karp Seitz, and Gabriel Picard. "A Turning Point? Responses to COVID-19 Within the Homelessness Industrial Complex." *Housing Policy Debate* 32, no. 4 (2022): 699–718. https://doi.org/10.1080/10511482.2021.1883230.
+Roebuck, Benjamin S., Sydney Chapados, Erin Dej, Carmen Hust, Sue-Ann MacDonald, Diana McGlinchey, Dennim Groke, Krista Luzzi, and Jordan Wark. "A Turning Point? Responses to COVID-19 Within the Homelessness Industrial Complex." *International Journal on Homelessness* 3, no. 1 (2022): 83–101. https://doi.org/10.5206/ijoh.2022.2.14734.
 
 Staten, Lisa, and Sara Rankin. *Penny Wise But Pound Foolish: How Permanent Supportive Housing Can Prevent a World of Hurt*. Seattle: Seattle University School of Law Homeless Rights Advocacy Project, 2019. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3419187.
 
