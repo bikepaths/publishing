@@ -1,19 +1,19 @@
 # Amazon KDP Metadata Package
-## Building Material Dignity: An Urban Stabilization Blueprint for the Unhoused
-### Material Dignity Infrastructure Book 1
-**Author:** Charles J. DiBella | **Prepared:** May 2026 | **Status:** IMPLEMENTED
+## The Architecture of Survival: An Industrial Manual for Ending the Homelessness Revenue Machine
+### Material Dignity Infrastructure Book 2
+**Author:** Charles J. DiBella | **Prepared:** May 2026 | **Status:** IN PRODUCTION — 15 CHAPTERS DRAFTED
 
 ---
 
 ## 1. TITLE OPTIONS
 
-**Current Title (implemented):**
-Building Material Dignity: An Urban Stabilization Blueprint for the Unhoused
+**Current Title (in production):**
+The Architecture of Survival: An Industrial Manual for Ending the Homelessness Revenue Machine
 
 **Alternatives for future consideration:**
-- Material Dignity: The Industrial Blueprint for Ending Chronic Street Homelessness
-- The Housing Event: A Falsifiable Blueprint for Clearing the Streets of Los Angeles
-- The Stabilization Pipeline: How Vacant Skyscrapers Become the Infrastructure That Ends Chronic Homelessness
+- The Revenue Machine: Why Cities Fund the Crisis They Claim to Solve
+- The Pipeline: An Industrial Blueprint for Permanent Homelessness Resolution
+- Architecture of Survival: The 15-Step Industrial Manual for the Unhoused
 
 ---
 
@@ -79,8 +79,8 @@ Secondary: Nonfiction > Politics & Social Sciences > Urban Planning & Developmen
 ## 6. SERIES METADATA
 
 Series Name: Material Dignity Infrastructure
-Book Number: 1
-Series Description: The Material Dignity Infrastructure series engineers the complete pipeline from chronic street homelessness to permanent residential stability. Book 1 establishes the physical and clinical foundation. Subsequent volumes extend the pipeline forward through reintegration, civic participation, and the economic architecture of a city that has solved its most visible infrastructure failure.
+Book Number: 2
+Series Description: The Material Dignity Infrastructure series engineers the complete pipeline from chronic street homelessness to permanent residential stability. Book 1 established the physical and clinical foundation. Book 2 delivers the 15-chapter industrial manual: exposing the revenue machine that perpetuates the crisis, mapping the four demographic pipelines, and specifying the full MDI tower architecture from Phase Zero metabolic stabilization through the Singular Prototype Threshold.
 
 ---
 
