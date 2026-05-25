@@ -1,13 +1,7 @@
-California spent thirty-seven billion dollars on homelessness between 2019 and 2024. The unsheltered population grew.
+# Back Cover Copy
 
-That gap is not a mystery. It is a mechanism. In The Weaponization of Compassion, Charles J. DiBella draws on thirty years of participant observation across the unsheltered ecologies of North America, Southeast Asia, and Europe, combined with peer-reviewed federal evidence and his own published Material Dignity Infrastructure research, to document how the American homelessness intervention apparatus became structurally organized to perpetuate the crisis it claims to be solving.
+California channeled thirty-seven billion dollars into a homelessness budget engine between 2019 and 2024. The unsheltered population expanded relentlessly alongside this historic expenditure. This mathematical failure proves a catastrophic disconnect between state spending and street-level reality. Service agencies depend entirely on the crisis they claim to solve. The budget engine incentivizes the preservation of the crisis to guarantee future revenue.
 
-From the underground encampment networks beneath Los Angeles bridges, where municipal electricity powers a self-contained community that no official record acknowledges, to the Sacramento chambers where billions were authorized without auditable outcome metrics, to the sweep operations that federal medical literature has found to increase disease and shorten life expectancy among the people they displace, DiBella traces the same mechanism across five distinct angles of evidence. The Homeless Industrial Complex does not fail its mission. It succeeds at a different one.
+*The Architecture of Survival* exposes the physical mechanics of this systemic failure. Drawing on thirty years of urban participant observation, Charles J. DiBella details the underground electrical grids of Los Angeles, the neuroscience of street trauma, and the complex funding funnels controlling federal tax dollars. 
 
-Drawing on the work of Cuban political exile Reinaldo Escobar, the political philosophy of Hannah Arendt, the ontological security framework of Anthony Giddens, and the municipal case data from Houston and Dallas that demonstrates measurable resolution is achievable, DiBella concludes with the structural alternative his research demands: a decentralized utility model that delivers shelter, hygiene, thermal safety, and acoustic privacy as public industrial consumables rather than as conditional welfare benefits.
-
-The evidence has been in the public record for years. This book makes the pattern impossible to ignore.
-
----
-
-Charles J. DiBella is the Principal Systems Architect of the Material Dignity Infrastructure project and the author of Building Material Dignity: An Urban Stabilization Blueprint for the Unhoused. His working papers are published on the Social Science Research Network.
+The book provides a falsifiable, mechanical solution. We must treat basic human survival as a public industrial utility. The Material Dignity Infrastructure pipeline executes across four distinct operational stages, moving a human from severe biological degradation into permanent, autonomous housing. We replace a thirty-seven billion dollar failure with a verified, four-stage industrial process.

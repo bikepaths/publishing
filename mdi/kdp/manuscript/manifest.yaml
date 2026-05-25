@@ -1,0 +1,60 @@
+title: "The Architecture of Survival"
+subtitle: "An Industrial Pipeline to Replace the Homelessness Revenue Machine"
+author: "Charles J. DiBella"
+lang: "en-US"
+base_dir: "."
+files:
+  - type: copyright
+    path: copyright.md
+  - type: frontmatter
+    heading: "Author's Note"
+    path: front_matter.md
+    skip_lines: 4
+  - type: chapter
+    heading: "Chapter 1: The Synthetic Commons"
+    path: chapter_drafts/chapter_01_the_synthetic_commons.md
+  - type: chapter
+    heading: "Chapter 2: The Precondition of Freedom"
+    path: chapter_drafts/chapter_02_the_precondition_of_freedom.md
+  - type: chapter
+    heading: "Chapter 3: The Revenue Machine"
+    path: chapter_drafts/chapter_03_the_revenue_machine.md
+  - type: chapter
+    heading: "Chapter 4: The Execution of Harm"
+    path: chapter_drafts/chapter_04_the_execution_of_harm.md
+  - type: chapter
+    heading: "Chapter 5: The Demographic Delusion"
+    path: chapter_drafts/chapter_05_the_demographic_delusion.md
+  - type: chapter
+    heading: "Chapter 6: The Pipeline Calculus"
+    path: chapter_drafts/chapter_06_the_pipeline_calculus.md
+  - type: chapter
+    heading: "Chapter 7: The Sanitation Metaphor"
+    path: chapter_drafts/chapter_07_the_sanitation_metaphor.md
+  - type: chapter
+    heading: "Chapter 8: Phase Zero: Metabolic Stabilization"
+    path: chapter_drafts/chapter_08_phase_zero_metabolic_stabilization.md
+  - type: chapter
+    heading: "Chapter 9: The Field Architecture"
+    path: chapter_drafts/chapter_09_the_field_architecture.md
+  - type: chapter
+    heading: "Chapter 10: The Legal Lever System"
+    path: chapter_drafts/chapter_10_the_legal_lever_system.md
+  - type: chapter
+    heading: "Chapter 11: Vertical Engineering and Adaptive Reuse"
+    path: chapter_drafts/chapter_11_vertical_engineering_and_adaptive_reuse.md
+  - type: chapter
+    heading: "Chapter 12: The Ontological Architecture"
+    path: chapter_drafts/chapter_12_the_ontological_architecture.md
+  - type: chapter
+    heading: "Chapter 13: The Cybernetic Grid"
+    path: chapter_drafts/chapter_13_the_cybernetic_grid.md
+  - type: chapter
+    heading: "Chapter 14: The Efficiency Surplus"
+    path: chapter_drafts/chapter_14_the_efficiency_surplus.md
+  - type: chapter
+    heading: "Chapter 15: The Singular Prototype Threshold"
+    path: chapter_drafts/chapter_15_the_singular_prototype_threshold.md
+  - type: bibliography
+    heading: "Citations and Sources"
+    path: citations.md

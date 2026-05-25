@@ -1,5 +1,3 @@
-# Citations and Sources
-
 ::: {.citations}
 
 ## Chapter One: The Synthetic Commons
