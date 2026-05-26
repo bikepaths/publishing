@@ -63,7 +63,7 @@
 
 ### Chapter 13: The Cybernetic Grid
 *Anchor: Automating the machine.*
-**Core Mechanic**: Balances technology and human connection. Deploys robotic swarms for maintenance while empowering human Pod Stewards to build relationships and ensure safety.
+**Core Mechanic**: Balances technology and human connection. Deploys robotic swarms for maintenance while empowering human Pod Stewards to build relationships and maintain safety.
 
 ---
 
