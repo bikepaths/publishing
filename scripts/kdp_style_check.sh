@@ -50,8 +50,4 @@ awk '{
   }
 }' "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"
 
-# Optional: Insert placeholder experiential sentence after each paragraph (manual edit later)
-# awk to append a generic sensory line after each blank line.
-# awk 'BEGIN{RS="\n\n"; ORS="\n\n"} {print $0; print "The room felt tense as the servers churned on."}' "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"
-
 echo "Style check complete for $FILE"
