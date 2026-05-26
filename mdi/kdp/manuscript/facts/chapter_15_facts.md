@@ -15,8 +15,9 @@
 
 ## Section 4: Metrics 6, 7, and 8
 - Metric 6 requires the cumulative efficiency surplus at twenty-four months to place the tower on a trajectory to recover the full one-hundred-and-ninety-five-million-dollar capital investment within forty-eight months from activation.
-- Metric 7 requires each of the five MHRC clusters to achieve billing authorization under Department of Health Care Services (DHCS) Form 1813 and demonstrate a minimum fifty percent federal cost participation rate.
+- Metric 7 requires each of the five MHRC clusters to achieve billing authorization under Department of Health Care Services Form 1813 and demonstrate a minimum fifty percent federal cost participation rate.
 - Metric 8 requires at least forty percent of tower residents to participate in at least one voluntary pod-level engagement activity by the twelve-month mark.
+
 - Voluntary activities include garden stewardship, robotic swarm supervision, Pod Council participation, or Digital Access Center support.
 
 ## Section 5: Failure Protocol
@@ -25,3 +26,8 @@
 
 ## Section 6: Falsifiability and Funding Suspension
 - The Singular Prototype Threshold is a falsifiability clause triggering automatic suspension of funding upon non-performance.
+- The Singular Prototype Threshold requires validation by an independent third-party audit firm before replication funding is released.
+
+## Section 7: Research Classification
+- The MDI program operates under JEL classification codes R31, R53, H75, I14, I38, and K25 to establish its urban economics research foundation.
+

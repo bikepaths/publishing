@@ -19,7 +19,7 @@
 - Early morning exit requirements disrupt resident sleep cycles and limit employment opportunities.
 - Outreach vans distribute survival supplies on the street without placing individuals in housing.
 - Between 2011 and 2020, Houston redirected its budget to permanent supportive housing placements.
-- Houston used a unified Homeless Management Information System (HMIS) database to coordinate placements.
+- Houston used a unified Homeless Management Information System database to coordinate placements.
 - Houston achieved a sixty percent reduction in its unsheltered population between 2011 and 2020.
 
 ## Section 4: Lobbying and Data Reporting
@@ -33,3 +33,5 @@
 - Service providers oppose outcome-based contracting that links payments to verified housing placements.
 - Providers organize political opposition against outcome-based metrics.
 - Public arguments by providers assert that outcome-based metrics are administratively complex and unfair.
+- USDA research in 2023 and HUD research in 2022 confirm that shelter refusal is driven by separation from pets, partners, or possessions.
+

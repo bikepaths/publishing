@@ -17,9 +17,9 @@
 ## Section 4: Ontological Erosion and Attrition
 - Continuous daily mobility causes ontological erosion.
 - The unhoused state is characterized by high energy-consuming friction.
-- Unsecured possessions are lost (possession attrition), which increases cognitive load.
+- Unsecured possessions are lost through possession attrition, which increases cognitive load.
 - Constant relocation forces temporary occupations under the expectation of displacement.
-- Reliance on public outlets for electricity (resource tethering) makes safety dependent on battery life.
+- Reliance on public outlets for electricity through resource tethering makes safety dependent on battery life.
 
 ## Section 5: Shelter Design and Employment Attrition
 - Shelter planners design open-floor warehouses with closely packed cots.
@@ -29,9 +29,11 @@
 
 ## Section 6: Aggregate Metrics and Hiding Failure
 - Service organizations report aggregate statistics that merge different demographics.
-- Aggregate metrics combine temporary financial relief outcomes (e.g., families receiving rental payments) with chronic untreated schizophrenia outcomes.
+- Aggregate metrics combine temporary financial relief outcomes such as families receiving rental payments with chronic untreated schizophrenia outcomes.
 - Merging these metrics obscures the failure rates of interventions for chronic conditions.
 
 ## Section 7: actual components
 - The unsheltered population consists of structurally distinct groups with different clinical requirements.
 - Effective interventions require metabolic stabilization for the deteriorating species.
+- Psychiatric literature shows that anosognosia affects fifty to eighty percent of individuals with schizophrenia spectrum disorders.
+

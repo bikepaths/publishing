@@ -3,7 +3,7 @@
 ## Section 1: The 1854 Soho Cholera Outbreak
 - A cholera outbreak occurred in the Soho district of London in the summer of 1854.
 - The outbreak killed more than six hundred people in ten days.
-- The prevailing scientific theory of the time attributed cholera to "miasma" (foul-smelling air from rotting organic material).
+- The prevailing scientific theory of the time attributed cholera to "miasma" or foul-smelling air from rotting organic material.
 - City officials distributed pamphlets encouraging cleanliness and hygiene.
 - Londoners drank water contaminated with the cholera bacterium.
 
@@ -12,8 +12,10 @@
 - Snow discovered that cholera cases clustered around a water pump on Broad Street.
 - The local council removed the pump handle.
 - The cholera outbreak ended after the handle was removed.
+- London cholera outbreaks ended after the water pump handle was removed, proving that physical municipal engineering resolved public health crises where moral charity failed.
 - Engineer Joseph Bazalgette built an underground sewer grid beneath London between 1859 and 1870.
 - The sewer grid eliminated cholera epidemics by separating sewage from drinking water.
+
 
 ## Section 3: Modern Street Crisis Operations
 - Modern city governments respond to chronic homelessness through outreach workers distributing temporary supplies and law enforcement clearing encampments.
@@ -29,6 +31,6 @@
 - Managing cholera outbreaks through charity and enforcement cost more in medical expenditures, lost labor, and social disruption than the sewer build.
 - The engineering infrastructure was less expensive than ongoing crisis management.
 
-## Section 6: Material Dignity Infrastructure (MDI) Pipeline
-- Material Dignity Infrastructure (MDI) proposes the construction of a physical pipeline between street crisis and stable residential tenure.
+## Section 6: Material Dignity Infrastructure Pipeline
+- Material Dignity Infrastructure proposes the construction of a physical pipeline between street crisis and stable residential tenure.
 - Phase Zero metabolic stabilization acts as a temporary intervention, while the MDI tower acts as the permanent infrastructure.

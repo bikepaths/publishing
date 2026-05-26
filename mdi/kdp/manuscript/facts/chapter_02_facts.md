@@ -2,11 +2,11 @@
 
 ## Section 1: Street Survival and Cognitive Function
 - Street survival consumes physical and mental resources.
-- Finding food, guarding possessions from theft, and locating a safe sleeping spot are daily street tasks.
+- Finding food, guarding possessions from theft, and locating a sheltered sleeping spot are daily street tasks.
 - Lack of physical safety prevents the body from entering deep recovery cycles.
 - Brain repair fails without deep recovery cycles.
 - Vigilance on the street reduces cognitive function.
-- Inability to sleep, eat, or stay safe limits the capacity to plan for the future.
+- Inability to sleep, eat, or stay protected limits the capacity to plan for the future.
 
 ## Section 2: Clinical Impact of Chronic Toxic Stress
 - Chronic toxic stress is the clinical term for the biological state of street survival.
@@ -28,12 +28,17 @@
 - Removing environmental threats signals the body that the emergency has ended, reducing stress chemicals.
 - Reduction of stress chemicals allows the nervous system to relax and enter deep sleep.
 - Entering a quiet space leads to measurable cognitive improvements within days.
-- Biological stabilization enables individuals to complete complex administrative tasks.
+- Biological stabilization enables individuals to execute complex administrative tasks.
 - Biological recovery drives behavioral changes.
 
 ## Section 5: Failures of Congregate Shelters
 - Congregate shelters arrange hundreds of cots close together.
 - Shelter noise prevents deep sleep.
-- Living near strangers with untreated psychiatric conditions keeps physiological stress elevated.
+- Living near strangers with untreated psychiatric conditions keeps physiological stress high.
 - Congregate shelters do not protect personal possessions from theft.
 - Restless nights in congregate shelters leave residents in a state of physiological emergency.
+
+## Section 6: Ethical Principles and Harm Principle
+- John Stuart Mill's Harm Principle states that society is only justified in restricting individual freedom when actions cause harm to others, whereas self-harm alone is not a sufficient justification.
+- The boundary between private self-neglect and public harm is a gradient that crosses into the shared environment when untreated wounds produce communicable infections, biological waste contaminates waterways, or psychiatric crisis compromises public safety.
+

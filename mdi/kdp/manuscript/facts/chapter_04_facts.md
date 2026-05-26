@@ -28,11 +28,13 @@
 - The displaced population migrated into Maryland and northern Virginia.
 - The migrating population carried unresolved medical and psychiatric conditions.
 - New jurisdictions absorbed the associated costs.
-- During the clearance period, the Washington, D.C. point-in-time count recorded a four percent increase in the overall unhoused population.
+- During the clearance period, the Washington, D.C. point-in-time count recorded a four percent increase in the total unhoused population.
 
 ## Section 5: Pre-Matched Housing Outcomes
-- Houston and Dallas pre-matched individuals to specific units before clearing physical sites.
+- Houston and Dallas pre-matched individuals to particular units before clearing physical sites.
 - In Houston and Dallas, physical clearance followed housing placements.
 - Houston achieved a sixty percent reduction in its unsheltered population.
 - Dallas achieved a twenty-four percent reduction in its unsheltered population using a pre-matched model.
 - Both cities used encampments as contact points for outreach.
+- The Leaf Blower Effect represents the phenomenon where encampment clearance without simultaneous housing placement produces geographic redistribution only, severing Assertive Community Treatment relationships and extending engagement timelines by months.
+

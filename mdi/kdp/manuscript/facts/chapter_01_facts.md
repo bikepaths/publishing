@@ -40,3 +40,5 @@
 ## Section 6: System Mechanics
 - Government spending and the unhoused crisis are mechanically linked.
 - Standard shelter programs fail due to biological damage caused by street survival.
+- The Material Dignity Infrastructure functions as the technical successor to the 1908 Los Angeles Aqueduct in scope and structural ambition.
+
