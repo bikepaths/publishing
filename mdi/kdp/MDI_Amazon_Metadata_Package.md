@@ -37,7 +37,7 @@ The fiscal math generates an annual Efficiency Surplus of 33 to 82 million dolla
 
 Eight binary verification metrics define the Singular Prototype Threshold. Every metric must pass at One California Plaza before a single replication tower is acquired. The blueprint is falsifiable. If it fails, measured data identifies exactly where and why.
 
-The author engineered this framework from three decades of unsheltered lived experience on the streets and bike paths of America and the world. He did not study the problem from outside. He built the solution from inside it.
+The author engineered this system from three decades of unsheltered lived experience on the streets and bike paths of America and the world. He did not study the problem from outside. He built the solution from inside it.
 
 The window to act is narrowing. The distressed buildings are available now. The blueprint is finished.
 
@@ -49,11 +49,11 @@ The window to act is narrowing. The distressed buildings are available now. The 
 
 Charles J. DiBella is a Principal Systems Architect whose work spans urban economics, clinical systems design, and public infrastructure engineering. Since 1997 he has lived and traveled full-time by bicycle, logging coast-to-coast American journeys and extensive tours through Southeast Asia and Europe. That life, conducted at street level across three decades, provided the observational foundation for the Material Dignity Infrastructure.
 
-The framework emerged from direct, sustained immersion in the physical realities of street life: the metabolic destruction, the sleep deprivation, the social isolation, and the survival architecture that street communities build when every institutional system fails them. When economics training led him to recognize the commercial real estate collapse as a closing civic opportunity, the tower pipeline that had been forming across thirty years of street-level observation crystallized into an industrial specification.
+The architecture emerged from sustained immersion in the physical realities of street life, including metabolic destruction, sleep deprivation, social isolation, and the survival architecture that street communities build when every institutional system fails them. When economics training led him to recognize the commercial real estate collapse as a closing civic opportunity, the tower pipeline that had been forming across thirty years of street-level observation crystallized into an industrial specification.
 
 The result is a falsifiable blueprint: a sequenced pipeline from street to stability, funded through existing Medi-Cal billing, governed by a TVA-modeled Stewardship Authority, verified by eight binary metrics that must all pass before the system scales. If it fails, the data shows exactly where and why. If it succeeds, Los Angeles becomes the model for every city on earth facing the same sequencing failure.
 
-DiBella blogs at bikepaths.org under the title Cycles of Change and produces companion audio architecture for the MDI framework through the site's podcast channel.
+DiBella blogs at bikepaths.org under the title Cycles of Change and produces companion audio architecture for the MDI system through the site's podcast channel.
 
 ---
 
@@ -86,7 +86,7 @@ Series Description: The Material Dignity Infrastructure series engineers the com
 
 ## 7. ADDITIONAL RESOURCE TO LINK
 
-Plain Language Guide — best general audience entry point to the full MDI framework:
+Plain Language Guide, best general audience entry point to the full MDI system
 https://bikepaths.org/blog/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide.htm
 
 Recommended: Add this link to the Amazon book description or author page.
