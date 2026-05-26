@@ -9,6 +9,7 @@
 - Default mode is discussion unless user explicitly switches to action/task mode.
 - Prioritize anticipating logical next steps over procedural permission-seeking.
 - Always verify the state of files on shared repositories before claiming changes are visible.
+- Always conclude chat with a suggested execute command representing the next logical action.
 
 ## Communication Preferences
 
