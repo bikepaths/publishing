@@ -13,6 +13,7 @@
 
 /* --- Body and Base Typography --- */
 body {
+    font-family: 'Baskerville', 'Georgia', 'Times New Roman', serif;
     font-size: 1em;
     line-height: 1.75;
     color: #1a1a1a;
@@ -33,6 +34,7 @@ section[epub\:type~="bodymatter"] {
 
 /* --- Headings --- */
 h1 {
+    font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
     font-size: 1.6em;
     font-weight: bold;
     text-align: left;
@@ -54,6 +56,7 @@ section[epub\:type~="frontmatter"] h1:first-child {
 }
 
 h2 {
+    font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
     font-size: 0.95em;
     font-weight: normal;
     font-style: italic;
@@ -64,6 +67,7 @@ h2 {
 }
 
 h3 {
+    font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
     font-size: 0.9em;
     font-weight: bold;
     color: #333333;
