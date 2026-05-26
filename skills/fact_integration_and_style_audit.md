@@ -1,10 +1,10 @@
 # Skill - Fact Integration and Style Audit
 
-This skill governs the integration of new factual metrics into existing manuscript baselines and to maintain strict compliance with the manual of style. By filtering out structural deviations, the process guarantees that updates do not compromise the stylistic purity of the text.
+This skill governs the integration of new factual metrics into existing manuscript baselines and maintains strict compliance with the manual of style. By filtering out structural deviations, the process guarantees that updates do not compromise the stylistic purity of the text.
 
 ## Phase 1: Fact Mapping and Reconciliation
 
-The agent must identify new facts from external research databases and map them to their corresponding chapters. Across all documents, this phase reconciles numerical discrepancies to prevent contradictions and structurally.
+The agent must identify new facts from external research databases and map them to their corresponding chapters. Across all documents, this phase reconciles numerical discrepancies to prevent structural contradictions.
 
 ### Mapping Rules
 
@@ -15,7 +15,7 @@ The agent must identify new facts from external research databases and map them 
 
 ## Phase 2: Narrative Integration
 
-The agent must update the main chapter drafts to incorporate the newly added facts. To weave the new metrics into the paragraph flow, writers rewrite surrounding sentences to make them flow and in style.
+The agent must update the main chapter drafts to incorporate the newly added facts. To weave the new metrics into the paragraph flow, writers rewrite surrounding sentences to make them flow stylistically.
 
 ### Writing and Formatting Rules
 
@@ -25,11 +25,10 @@ The agent must update the main chapter drafts to incorporate the newly added fac
 4. **Sentence Variance**: Verify that sentence lengths vary within paragraphs.
 5. **Opener Rotation**: Rotate sentence openings to avoid subject-first repetitions.
 6. **Vocabulary Cleanliness**: Avoid forbidden qualifiers, academic clichés, and mechanical transition words.
-7. **Controlled Non-Parallelism**: Introduce one controlled departure from parallel structure per paragraph.
 
 ## Phase 3: Automated Verification
 
-The agent must run the style verification compiler to audit all modified files before completing any integration. By executing the automated verification script, the agent identifies style regressions before checking in drafts and to prevent issues.
+The agent must run the style verification compiler to audit all modified files before completing any integration. By executing the automated verification script, the agent identifies style regressions before checking in drafts, preventing issues.
 
 ### Audit Steps
 

@@ -27,4 +27,3 @@ Using only the extracted facts list from Phase 1, the agent must rebuild the cha
 4. **Punctuation Limits**: Do not use colons, em-dashes, or parenthetical phrases. Connect ideas using natural sentence movement or complete sentences.
 5. **Forbidden Vocabulary**: Eliminate all prohibited qualifiers, academic clichés, and mechanical transitions.
 6. **Sentence Variation**: Vary sentence openings. Ensure no more than forty percent of sentences within a paragraph open directly with the subject noun. Vary sentence lengths so that no three consecutive sentences fall within five words of each other.
-7. **Controlled Grammatical Departures**: To preserve a natural, human voice, introduce one subtle departure from parallel structure per paragraph.

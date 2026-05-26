@@ -1,10 +1,10 @@
 # Skill — Logical Flow and Numerical Verification
 
-This skill governs the systematic verification of ideas continuity, numerical precision, and referential integrity across the manuscript. By applying these rules, the check establishes a unified logical sequence and to prevent numerical contradictions. Throughout the corpus, the verification protocol maintains narrative coherence.
+This skill governs the systematic verification of ideas continuity, numerical precision, and referential integrity across the manuscript. By applying these rules, the check establishes a unified logical sequence and prevents numerical contradictions. Throughout the corpus, the verification protocol maintains narrative coherence.
 
 ## Phase 1: Continuity and Logical Flow Audit
 
-The process traces the developmental arc of ideas across all chapters. By analyzing structural transitions, the audit validates logical progression and to identify conceptual gaps. Before releasing drafts, the system evaluates the narrative hierarchy.
+The process traces the developmental arc of ideas across all chapters. By analyzing structural transitions, the audit validates logical progression and identifies conceptual gaps. Before releasing drafts, the system evaluates the narrative hierarchy.
 
 ### Auditing Rules
 
@@ -15,7 +15,7 @@ The process traces the developmental arc of ideas across all chapters. By analyz
 
 ## Phase 2: Numerical and Referential Data Validation
 
-The process matches all numerical quantities, dates, and historical references against verified baselines. By extracting data points, the validation confirms referential alignment and to eliminate contradictory claims. Across the whole corpus, the check maintains mathematical precision.
+The process matches all numerical quantities, dates, and historical references against verified baselines. By extracting data points, the validation confirms referential alignment and eliminates contradictory claims. Across the whole corpus, the check maintains mathematical precision.
 
 ### Validation Rules
 
@@ -26,11 +26,10 @@ The process matches all numerical quantities, dates, and historical references a
 
 ## Phase 3: Semantic Reconciliation and Corpus Integration
 
-The process reconciles modified variables across all document layers to maintain cohesion. By executing semantic checks, the system prevents numerical divergence and to sustain structural parity. Throughout the integration phase, the verification protocol guards against narrative regressions.
+The process reconciles modified variables across all document layers to maintain cohesion. By executing semantic checks, the system prevents numerical divergence and sustains structural parity. Throughout the integration phase, the verification protocol guards against narrative regressions.
 
 ### Integration Rules
 
 1. **Verify Staged Changes**: Audit every chapter draft to verify that numerical updates have propagated through all narrative references.
 2. **Remove Prohibited Punctuation**: Clean out parenthetical comments, em-dashes, and unauthorized colons.
 3. **Execute Style Audits**: Run the automated style linter to confirm compliance with sentence length variation, paragraph opening rotation, and vocabulary guidelines.
-4. **Deploy Controlled Departures**: Verify that every paragraph contains exactly one controlled departure from parallel structure.
