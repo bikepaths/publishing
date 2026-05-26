@@ -47,7 +47,7 @@ def upload_or_update(parent_id, file_name, local_path):
 
 def sync_recursive(local_root, parent_id):
     for item in os.listdir(local_root):
-        if item == '.git': continue
+        if item in ('.git', 'node_modules'): continue
         local_path = os.path.join(local_root, item)
         if os.path.isdir(local_path):
             folder_id = ensure_folder(parent_id, item)
@@ -55,4 +55,4 @@ def sync_recursive(local_root, parent_id):
         else:
             upload_or_update(parent_id, item, local_path)
 
-sync_recursive("publishing_repo", ROOT_FOLDER_ID)
+sync_recursive(".", ROOT_FOLDER_ID)
