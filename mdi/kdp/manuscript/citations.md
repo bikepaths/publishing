@@ -64,4 +64,58 @@ Roebuck, Benjamin S., Sydney Chapados, Erin Dej, Carmen Hust, Sue-Ann MacDonald,
 
 Staten, Lisa, and Sara Rankin. *Penny Wise But Pound Foolish: How Permanent Supportive Housing Can Prevent a World of Hurt*. Seattle: Seattle University School of Law Homeless Rights Advocacy Project, 2019. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3419187.
 
+
+## Chapter Seven: The Sanitation Metaphor
+
+Halliday, Stephen. *The Great Stink of London: Sir Joseph Bazalgette and the Cleansing of the Victorian Metropolis*. Stroud: Sutton Publishing, 1999.
+
+Snow, John. *On the Mode of Communication of Cholera*. 2nd ed. London: John Churchill, 1855.
+
+## Chapter Eight: Phase Zero: Metabolic Stabilization
+
+California Department of Health Care Services. *Mental Health Rehabilitation Centers (MHRC) Licensing and Certification Standards*. Sacramento: DHCS, 2024.
+
+U.S. Congress. *Social Security Act: Exclusion of Services in Institutions for Mental Diseases*. 42 U.S.C. § 1396d(a)(B)(29). Washington, D.C.: Government Publishing Office, 1965.
+
+## Chapter Nine: The Field Architecture
+
+Houston/Harris County Continuum of Care. *By-Name List Registry Operating Guidelines*. Houston: CoC, 2023.
+
+Los Angeles Homeless Services Authority. *2025 Greater Los Angeles Homeless Count Results*. Los Angeles: LAHSA, 2025.
+
+## Chapter Ten: The Legal Lever System
+
+California Legislative Counsel. *Community Assistance, Recovery, and Empowerment (CARE) Act*. Welfare and Institutions Code §§ 5970–5987. Sacramento: State of California, 2022.
+
+California Legislative Counsel. *Assisted Outpatient Treatment Services (Laura's Law)*. Welfare and Institutions Code §§ 5345–5349.5. Sacramento: State of California, 2002.
+
+California Senate. *SB 43: Behavioral Health: Gravely Disabled*. Sacramento: State of California, 2023.
+
+## Chapter Eleven: Vertical Engineering and Adaptive Reuse
+
+Dunbar, Robin. "Co-Evolution of Neocortex Size, Group Size and Language in Humans." *Behavioral and Brain Sciences* 16, no. 4 (1993): 681–735. https://doi.org/10.1017/S0140525X0003232X.
+
+Tennessee Valley Authority. *The Tennessee Valley Authority Act of 1933*. 16 U.S.C. § 831 et seq. Washington, D.C.: Government Publishing Office, 1933.
+
+## Chapter Twelve: The Ontological Architecture
+
+Acoustical Society of America. *Acoustical Performance Criteria, Design Requirements, and Guidelines for Housed Modular Units*. STC-65 Standard. New York: ASA, 2024.
+
+## Chapter Thirteen: The Cybernetic Grid
+
+International Electrotechnical Commission. *Household and Similar Electrical Appliances—Safety—Part 2-79: Particular Requirements for High Pressure Cleaners and Steam Cleaners*. IEC 60335-2-79. Geneva: IEC, 2021.
+
+International Organization for Standardization. *Acoustics—Determination of Sound Power Levels and Sound Energy Levels of Noise Sources Using Sound Pressure*. ISO 3741:2010. Geneva: ISO, 2010.
+
+## Chapter Fourteen: The Efficiency Surplus
+
+California Department of Health Care Services. *Mental Health Services Act (MHSA) Full Service Partnership (FSP) Guidelines*. Sacramento: DHCS, 2023.
+
+Kushel, Margot, and Tiana Moore. *Toward a New Horizon: The California Statewide Study of People Experiencing Homelessness*. San Francisco: UCSF Benioff Homelessness and Housing Initiative, 2023.
+
+## Chapter Fifteen: The Singular Prototype Threshold
+
+Journal of Economic Literature. *JEL Classification System*. Nashville: American Economic Association, 2024. https://www.aeaweb.org/econlit/jelCodes.php.
+
 :::
+
