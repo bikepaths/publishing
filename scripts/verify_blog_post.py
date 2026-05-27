@@ -104,12 +104,8 @@ def verify_file(filepath):
     with open(factoid_file, "r", encoding="utf-8") as f_fact:
         factoid_content = f_fact.read()
 
-    if "Extract and list facts here" in factoid_content:
-        print(f"[FAIL] Pass 1: Factoid file factoid_{timestamp}.md contains unpopulated compiled facts placeholder.")
-        return False
-
-    if "To be added from external research" in factoid_content:
-        print(f"[FAIL] Pass 1: Factoid file factoid_{timestamp}.md contains unpopulated additional research placeholder.")
+    if "[Insert plain language factual refactoring here]" in factoid_content:
+        print(f"[FAIL] Pass 1: Factoid file factoid_{timestamp}.md contains unpopulated factual refactoring placeholder.")
         return False
 
     if "Raw Original Post Reference" in factoid_content:
@@ -156,36 +152,19 @@ def verify_file(filepath):
 
     # Pass 2.1: Readability Check
     fk_grade = get_flesch_kincaid(content)
-    if not (8.0 <= fk_grade <= 10.0):
-        print(f"  [VIOLATION] Pass 2: Readability grade level is {fk_grade} (target: 8.0 - 10.0).")
+    if not (7.0 <= fk_grade <= 10.0):
+        print(f"  [VIOLATION] Pass 2: Readability grade level is {fk_grade} (target: 7.0 - 10.0).")
         style_failed = True
     else:
         print(f"  [PASS] Pass 2: Readability grade level verified: {fk_grade}.")
 
-    # Pass 2.2: Sentence Rhythm Check
-    # Split body into paragraphs
+    # Pass 2.2: Paragraph Structure Check
     body_text = re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL).strip()
     paragraphs = [p.strip() for p in body_text.split("\n\n") if p.strip()]
     num_paragraphs = len(paragraphs)
     if not (3 <= num_paragraphs <= 6):
         print(f"  [VIOLATION] Pass 2: Body has {num_paragraphs} paragraphs (apropos range is 3 to 6 paragraphs).")
         style_failed = True
-    for p_idx, p in enumerate(paragraphs, 1):
-        p_sentences = re.split(r'(?<=[.!?])\s+', p)
-        p_sentences = [s.strip() for s in p_sentences if s.strip()]
-        if not p_sentences:
-            continue
-        has_hammer = False
-        sentence_lengths = []
-        for s in p_sentences:
-            words = re.findall(r'\b[a-zA-Z]+\b', s)
-            w_count = len(words)
-            sentence_lengths.append(w_count)
-            if w_count <= 10:
-                has_hammer = True
-        if not has_hammer:
-            print(f"  [VIOLATION] Pass 2: Paragraph {p_idx} lacks a short declarative hammer sentence (<= 10 words). Sentence lengths: {sentence_lengths}")
-            style_failed = True
 
     if style_failed:
         print("[FAIL] Pass 2: Style and lexical audit failed.")

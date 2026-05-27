@@ -82,25 +82,17 @@ def download_and_create_factoid(filename):
 - Original Image Link: {image_link}
 
 <!-- STYLE REMINDER: 
-1. Maintain exactly 5 sentences per paragraph.
-2. Readability grade of each paragraph and overall must be 8.0 - 10.0 inclusive.
-3. No more than 50% subject sentence openers.
-4. Vary sentence lengths. No three consecutive sentence lengths within 5 words of each other.
-5. Each paragraph must contain at least one short sentence (<= 10 words), but vary its position (e.g. sentence 1, 2, 3, 4, or 5) across paragraphs to ensure a musical, flowing, conversational cadence. Do not always place the short sentence at the end of the paragraph.
+1. Narrative Flow: Write plain and simple English resembling an 8th-grade textbook. Tell a cohesive story; do not list isolated facts.
+2. Structural Cohesion: Connect ideas using transitional narrative bridges. Avoid dense, fragmented "machine language."
+3. Lexical Clarity: Target a Flesch-Kincaid grade level between 7.0 and 10.0.
+4. Paragraph Uniformity: Maintain 3 to 6 flowing paragraphs.
+5. Tone: Engage the reader with accessible, conversational prose while maintaining factual integrity.
 -->
 
-<!-- TODO: Extract concise facts from the raw post content below and remove the raw text before drafting -->
-## Compiled Facts from Original Post
-- Theme 1: Introduction and Core Definitions (List 2-3 facts)
-- Theme 2: Historical Background or Problem Statement (List 2-3 facts)
-- Theme 3: Modern Context or Direct Evidence (List 2-3 facts)
-- Theme 4: Secondary Aspects or Comparative Studies (List 2-3 facts)
-- Theme 5: Institutional or Socioeconomic Impact (List 2-3 facts)
-- Theme 6: Technical or Strategic Solutions (List 2-3 facts)
-- Theme 7: Conclusion and Long-term Projections (List 2-3 facts)
+<!-- TODO: Generate a plain language factual refactoring of the raw post content below. Remove raw text before drafting. -->
+## Factual Refactoring
 
-## Additional Research Facts
-- [To be added from external research]
+[Insert plain language factual refactoring here]
 
 ---
 ## Raw Original Post Reference (To be deleted)
