@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# NOTE: Tuner scripts are temporary sandbox tools used by the agent to adjust text before draft write.
+# All formal verification and execution validation checks must be run automatically via this script.
 import os
 import sys
 import re

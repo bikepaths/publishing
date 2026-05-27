@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# NOTE: Tuner scripts are temporary sandbox tools used by the agent to adjust text before draft write.
+# All formal verification and execution validation checks must be run automatically via this script or verify_blog_post.py.
 import os
 import sys
 import re
@@ -149,6 +151,17 @@ def deploy_and_cleanup(posted_file):
     """
     if not os.path.isfile(posted_file):
         print(f"Error: {posted_file} does not exist.")
+        return False
+
+    print(f"Running automatic verification on {posted_file}...")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    verify_script = os.path.join(current_dir, "verify_blog_post.py")
+    verify_cmd = [sys.executable, verify_script, posted_file]
+    try:
+        subprocess.run(verify_cmd, check=True)
+        print("[PASS] Automatic verification checks succeeded.")
+    except subprocess.CalledProcessError as err:
+        print("[FAIL] Automatic verification checks failed. Aborting deployment.")
         return False
 
     filename = os.path.basename(posted_file)
@@ -354,6 +367,84 @@ def prepare_next():
     print(f"[SUCCESS] Prepared next post: {first_file}")
     return True
 
+def promote_draft(draft_file):
+    """
+    Parses draft file, verifies it, constructs the posted filename,
+    and moves/saves it to the posted directory. Returns the path of the posted file.
+    """
+    if not os.path.isfile(draft_file):
+        print(f"Error: Draft file {draft_file} does not exist.")
+        return None
+
+    # Run verification on the draft first
+    print(f"Running automatic verification on draft: {draft_file}")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    verify_script = os.path.join(current_dir, "verify_blog_post.py")
+    verify_cmd = [sys.executable, verify_script, draft_file]
+    try:
+        subprocess.run(verify_cmd, check=True)
+        print("[PASS] Draft verification checks succeeded.")
+    except subprocess.CalledProcessError as err:
+        print("[FAIL] Draft verification failed. Aborting promotion.")
+        return None
+
+    # Parse metadata from draft file
+    title = None
+    desc = None
+    tags = None
+    with open(draft_file, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Extract tags
+    tag_match = re.search(r'<!--tag\s+(.*?)\s+tag-->', content)
+    if tag_match:
+        tags = tag_match.group(1).strip()
+    
+    if not tags:
+        print("Error: Could not parse tags from draft.")
+        return None
+
+    # Extract slug/title from filename
+    filename = os.path.basename(draft_file)
+    parts = filename.replace(".md", "").split("_")
+    timestamp = parts[0]
+    
+    blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(draft_file)))
+    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
+    
+    slug = None
+    if os.path.isfile(factoid_path):
+        with open(factoid_path, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("- Original Filename:"):
+                    orig_file = line.split(":", 1)[1].strip()
+                    orig_parts = orig_file.replace(".md", "").split("_")
+                    slug = orig_parts[-1]
+                    break
+    
+    if not slug:
+        # Fallback: slugify the title from the draft
+        title_match = re.search(r'<!--t\s+(.*?)\s+t-->', content)
+        if title_match:
+            title_text = title_match.group(1).strip()
+            slug = title_text.lower().replace(" ", "-")
+            slug = re.sub(r'[^a-z0-9\-]', '', slug)
+            slug = re.sub(r'-+', '-', slug).strip("-")
+            
+    if not slug:
+        print("Error: Could not determine slug for draft.")
+        return None
+
+    posted_filename = f"{timestamp}_{tags}_{slug}.md"
+    posted_path = os.path.join(blog_dir, "posted", posted_filename)
+    
+    os.makedirs(os.path.dirname(posted_path), exist_ok=True)
+    with open(posted_path, "w", encoding="utf-8") as f:
+        f.write(content)
+        
+    print(f"[SUCCESS] Draft promoted to: {posted_path}")
+    return posted_path
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Procedural script for refactoring oldposts.")
     parser.add_argument("--list", action="store_true", help="List remote uncategorized posts.")
@@ -372,7 +463,13 @@ if __name__ == "__main__":
     elif args.draft:
         generate_draft(args.draft)
     elif args.deploy:
-        deploy_and_cleanup(args.deploy)
+        target_file = args.deploy
+        if target_file.endswith("_DRAFT.md") or "drafts" in target_file:
+            posted_file = promote_draft(target_file)
+            if posted_file:
+                deploy_and_cleanup(posted_file)
+        else:
+            deploy_and_cleanup(target_file)
     elif args.verify_remote:
         verify_remote_permissions()
     elif args.prepare_next:
