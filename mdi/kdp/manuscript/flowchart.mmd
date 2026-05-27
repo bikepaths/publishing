@@ -1,0 +1,58 @@
+graph TD
+    %% Styling
+    classDef default fill:#1a1c1e,stroke:#3a3f44,stroke-width:1px,color:#e3e6e8;
+    classDef clinical fill:#1c2d3d,stroke:#3498db,stroke-width:2px,color:#fff;
+    classDef physical fill:#2d1f3d,stroke:#9b59b6,stroke-width:2px,color:#fff;
+    classDef cyber fill:#1b332b,stroke:#2ecc71,stroke-width:2px,color:#fff;
+    classDef finance fill:#3d2f1f,stroke:#f39c12,stroke-width:2px,color:#fff;
+    
+    subgraph Registry ["Pipeline Registration"]
+        A["Skid Row Unhoused Population"] --> B["By-Name HMIS Registry"]
+        B --> C["Pipeline Classification"]
+    end
+    
+    subgraph PhaseZero ["Phase Zero: Metabolic Stabilization (60-90 Days)"]
+        C --> D["MHRC Clinic Admission"]
+        D --> E["Rapid (7-14d) / Standard (30-60d) / Extended (60-120d) Tracks"]
+        E --> F1["Hours 0-4: Electrolytes"]
+        E --> F2["Hours 4-24: Nutrition Reintroduction"]
+        E --> F3["Hours 24-72: Sleep Isolation (STC-65 Modules)"]
+        E --> F4["Days 24+: Psychiatric Evaluation Window"]
+        F1 & F2 & F3 & F4 --> G["Graduation Review (2 of 5 Functional Markers Met)"]
+    end
+    
+    subgraph Tower ["MDI Adaptive Reuse Tower (One California Plaza)"]
+        G --> H["Document-Ready Intake & Unit Assignment"]
+        H --> I["Ground Floor Services"]
+        I --> I1["RFID Possessions Storage"]
+        I --> I2["Professional Kennel (2nd Floor)"]
+        H --> J["Dunbar Pods (13 Loops, 150 Residents/Pod)"]
+        J --> K["Modular ALMU Unit (150 sq ft)"]
+        K --> K1["STC-65 Decoupled Acoustic Shell"]
+        K --> K2["Private Sanitary Wet Bath"]
+        K --> K3["Circadian LED Ceiling Panels"]
+    end
+    
+    subgraph Grid ["Cybernetic Grid & Operations"]
+        K --> L["Telemetry Edge Compute (Local Data Minimization)"]
+        L --> L1["24h Motion Absence Trigger"]
+        L1 --> M["Pod Steward Welfare Check"]
+        J --> N["Pod Council & Digital Pod Channel"]
+        Tower --> O["Scrubber 50 Automated Cleaning Swarm"]
+    end
+    
+    subgraph Finance ["Fiscal Architecture & Scaling"]
+        P["Street Management Cost ($50k/resident)"] --> Q["Housing Transition"]
+        Q --> R["Efficiency Surplus Generation"]
+        R --> S["Municipal Lease Revenue Bonds"]
+        S --> T["Capital Recovery (29-Month Target)"]
+        
+        U["Singular Prototype Threshold (8 Binary Metrics)"] --> V{"All Metrics Pass?"}
+        V -- Yes --> W["Acquisition of Second Tower"]
+        V -- No --> X["Suspend Funding & Audit Prototype"]
+    end
+    
+    class D,E,F1,F2,F3,F4,G clinical;
+    class H,I,J,K,K1,K2,K3 physical;
+    class L,L1,M,N,O cyber;
+    class P,Q,R,S,T,U,V,W,X finance;
