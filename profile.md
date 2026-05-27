@@ -47,12 +47,11 @@
 **Directory Structure**:
 - Location: `/home/user0/git/publishing/blog/`
 - Subdirectories: `skills/` for LLM prompt directives; `scripts/` for execution, VM mirror sync, and database backups.
-- Post Bundle Schema: Each article requires a standalone folder named using `[YYYY-MM-DD-HH-MM-SS]_[slug]/` containing:
-  - `research/`: Source files, references, and raw materials.
-  - `facts/`: Granular data points and verification audits.
-  - `drafts/`: Text revisions and intermediate compositions.
-  - `img/`: Local image assets and illustrations.
-  - `posted/`: Target deployment file containing final payload.
+- Central Folders:
+  - `facts/`: Contains factoids named `factoid_[timestamp].md`.
+  - `drafts/`: Contains raw drafts named `[timestamp]_DRAFT.md`.
+  - `img/`: Contains local image assets named `generated_XXXX.jpg`.
+  - `posted/`: Contains final payloads named `[timestamp]_[tags]_[slug].md`.
 
 **Metadata and Taxonomy constraints**:
 - Filename format: `YYYY-MM-DD-HH-MM-SS_tag1,tag2,tag3,tag4,tag5,tag6_slug.md`.
@@ -60,12 +59,14 @@
 - XML Translation: Automated script translates closed tag markdown comments to compliant XML headers during compilation.
 
 **Deployment and Storage**:
-- Target Host: Remote VM storage directory using mirror shadow synchronization.
+- Target Host: Remote VM storage directory.
+- Post SFTP Endpoint: `sftp://user0@165.232.151.110:2323/home/user0/www/bikepaths/html/blog/content/chas/blog/{topic}/image/scheduled/[timestamp]_[tags]_[slug].md` where `{topic}` represents the first tag in the filename tag list.
+- Image SFTP Endpoint: `sftp://user0@165.232.151.110:2323/home/user0/www/bikepaths/html/blog/content/images/generated_XXXX.jpg`.
 - Backups: Versioned backup scripts run daily to mirror database structures, config directories, and asset paths into GitHub.
 - Syndication: CMS engine compiles output to generate a structured RSS feed interface API and webhooks for external pipelines.
 
 **Five-Pass Verification Procedure before and after any action**:
-- Pass 1: Fact Verification. Cross-reference assertions in drafts folder against verified facts files.
+- Pass 1: Fact Verification. Cross-reference assertions in drafts folder against centralized factoid files.
 - Pass 2: Style and Lexical Audit. Enforce zero em-dash rule, vocabulary restrictions, and target reading grade level.
 - Pass 3: Metadata Integrity. Confirm closed tags match filename properties and category taxonomy.
 - Pass 4: Resource Verification. Verify image directory mappings and local path presence.
