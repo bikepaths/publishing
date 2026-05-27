@@ -41,3 +41,32 @@
    - EPUB Generation: Use the `epub-publisher` skill. Always verify binary integrity with `zip -T` before saving.
    - External Sync: Do not sync to external platforms or generate new EPUBs until explicitly commanded during this editing phase.
 6. **Next Steps**: Continue clinical optimization of Chapter 5 and begin detailed expansion of Chapter 8 (Metabolic Stabilization) using the established ontological framework.
+
+## Research-to-Blog Publishing Pipeline with HTMLy Integration
+
+**Directory Structure**:
+- Location: `/home/user0/git/publishing/blog/`
+- Subdirectories: `skills/` for LLM prompt directives; `scripts/` for execution, VM mirror sync, and database backups.
+- Post Bundle Schema: Each article requires a standalone folder named using `[YYYY-MM-DD-HH-MM-SS]_[slug]/` containing:
+  - `research/`: Source files, references, and raw materials.
+  - `facts/`: Granular data points and verification audits.
+  - `drafts/`: Text revisions and intermediate compositions.
+  - `img/`: Local image assets and illustrations.
+  - `posted/`: Target deployment file containing final payload.
+
+**Metadata and Taxonomy constraints**:
+- Filename format: `YYYY-MM-DD-HH-MM-SS_tag1,tag2,tag3,tag4,tag5,tag6_slug.md`.
+- Closed Tag Metadata: Articles must begin with closed HTML comment tags (`<!--t Title t-->`, `<!--d Description d-->`, `<!--variant Variant variant-->`, `<!--tag Tags tag-->`, `<!--image Image image-->`, `<!--gov Gov gov-->`).
+- XML Translation: Automated script translates closed tag markdown comments to compliant XML headers during compilation.
+
+**Deployment and Storage**:
+- Target Host: Remote VM storage directory using mirror shadow synchronization.
+- Backups: Versioned backup scripts run daily to mirror database structures, config directories, and asset paths into GitHub.
+- Syndication: CMS engine compiles output to generate a structured RSS feed interface API and webhooks for external pipelines.
+
+**Five-Pass Verification Procedure before and after any action**:
+- Pass 1: Fact Verification. Cross-reference assertions in drafts folder against verified facts files.
+- Pass 2: Style and Lexical Audit. Enforce zero em-dash rule, vocabulary restrictions, and target reading grade level.
+- Pass 3: Metadata Integrity. Confirm closed tags match filename properties and category taxonomy.
+- Pass 4: Resource Verification. Verify image directory mappings and local path presence.
+- Pass 5: Syndication Compilation. Compile draft and run local RSS syndication validation to prevent syntax faults.

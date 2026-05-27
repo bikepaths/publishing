@@ -10,7 +10,7 @@ if [[ -z "$MSG" ]]; then
 fi
 # Ensure we are on the correct remote
 REMOTE_URL=$(git config --get remote.origin.url)
-if [[ "$REMOTE_URL" != *":bikepaths/publishing"* && "$REMOTE_URL" != *"/rithythul/publishing"* ]]; then
+if [[ "$REMOTE_URL" != *":bikepaths/publishing"* && "$REMOTE_URL" != *"/bikepaths/publishing"* && "$REMOTE_URL" != *"/rithythul/publishing"* ]]; then
   echo "ERROR: Remote URL mismatch (found $REMOTE_URL, expected rithythul/publishing)"
   exit 1
 fi
