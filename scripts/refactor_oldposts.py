@@ -81,9 +81,23 @@ def download_and_create_factoid(filename):
 - Original Filename: {filename}
 - Original Image Link: {image_link}
 
+<!-- STYLE REMINDER: 
+1. Maintain exactly 5 sentences per paragraph.
+2. Readability grade of each paragraph and overall must be 8.0 - 10.0 inclusive.
+3. No more than 50% subject sentence openers.
+4. Vary sentence lengths. No three consecutive sentence lengths within 5 words of each other.
+5. Each paragraph must contain at least one short sentence (<= 10 words), but vary its position (e.g. sentence 1, 2, 3, 4, or 5) across paragraphs to ensure a musical, flowing, conversational cadence. Do not always place the short sentence at the end of the paragraph.
+-->
+
 <!-- TODO: Extract concise facts from the raw post content below and remove the raw text before drafting -->
 ## Compiled Facts from Original Post
-- [Extract and list facts here]
+- Theme 1: Introduction and Core Definitions (List 2-3 facts)
+- Theme 2: Historical Background or Problem Statement (List 2-3 facts)
+- Theme 3: Modern Context or Direct Evidence (List 2-3 facts)
+- Theme 4: Secondary Aspects or Comparative Studies (List 2-3 facts)
+- Theme 5: Institutional or Socioeconomic Impact (List 2-3 facts)
+- Theme 6: Technical or Strategic Solutions (List 2-3 facts)
+- Theme 7: Conclusion and Long-term Projections (List 2-3 facts)
 
 ## Additional Research Facts
 - [To be added from external research]
