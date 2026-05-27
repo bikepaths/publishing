@@ -13,18 +13,18 @@ The agent must identify new facts from external research databases and map them 
 3. **Verify Values**: Cross-reference numerical values across all documents.
 4. **Remove Formatting Violations**: Clean out parentheses, colons, or em-dashes within the updated text.
 
-## Phase 2: Narrative Integration
+## Phase 2: Narrative Integration (Joan Didion Emulation)
 
-The agent must update the main chapter drafts to incorporate the newly added facts. To weave the new metrics into the paragraph flow, writers rewrite surrounding sentences to make them flow stylistically.
+The agent must update the main chapter drafts to incorporate the newly added facts. To weave the new metrics into the paragraph flow, writers emulate the syntax, cadence, and tone of Joan Didion.
 
 ### Writing and Formatting Rules
 
-1. **Active Integration**: Rewrite surrounding sentences to weave the new facts into the paragraph flow.
-2. **Voice Control**: Maintain active voice throughout the text.
-3. **Punctuation Compliance**: Do not use em-dashes or parenthetical phrases.
-4. **Sentence Variance**: Verify that sentence lengths vary within paragraphs.
-5. **Opener Rotation**: Rotate sentence openings to avoid subject-first repetitions.
-6. **Vocabulary Cleanliness**: Avoid forbidden qualifiers, academic clichés, and mechanical transition words.
+1. **Rhythmic Cadence**: Vary sentence lengths dramatically. Use repetitive nouns, parallel structures, and appositives to build a musical, cumulative rhythm.
+2. **Conjunction and Preposition Openers**: Start sentences with coordinating conjunctions or prepositional phrases to establish a smooth, flowing narrative voice.
+3. **Authorial Stance**: Use an observational, intimate perspective. Present factual details as personal witness or analytical evidence rather than cold, academic summaries.
+4. **Vocabulary Voice**: Allow controlled usage of personal qualifiers (e.g., "actually", "certainly") when they establish voice, while maintaining high lexical density.
+5. **Active Integration**: Rewrite surrounding sentences to weave the new facts into the paragraph flow.
+6. **Punctuation Compliance**: Do not use em-dashes or parenthetical phrases.
 
 ## Phase 3: Automated Verification
 
