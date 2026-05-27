@@ -313,6 +313,47 @@ def verify_remote_permissions():
         print(f"Error querying/fixing remote file permissions: {err.stderr}")
         return False
 
+def prepare_next():
+    """
+    Lists remote uncategorized posts, takes the first one, downloads it,
+    creates the factoid, and generates the draft template automatically.
+    """
+    files = list_uncategorized()
+    if not files:
+        print("No remote uncategorized posts found to prepare.")
+        return False
+    
+    first_file = files[0]
+    print(f"\nAutomatically selecting next candidate: {first_file}")
+    
+    success = download_and_create_factoid(first_file)
+    if not success:
+        print("Failed to download and create factoid.")
+        return False
+        
+    parts = first_file.replace(".md", "").split("_")
+    timestamp = parts[0]
+    
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    if os.path.basename(current_dir) == "scripts":
+        parent_dir = os.path.dirname(current_dir)
+        if os.path.isdir(os.path.join(parent_dir, "blog")):
+            blog_dir = os.path.join(parent_dir, "blog")
+        else:
+            blog_dir = parent_dir
+    else:
+        blog_dir = os.path.dirname(current_dir)
+        
+    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
+    
+    success = generate_draft(factoid_path)
+    if not success:
+        print("Failed to generate draft.")
+        return False
+        
+    print(f"[SUCCESS] Prepared next post: {first_file}")
+    return True
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Procedural script for refactoring oldposts.")
     parser.add_argument("--list", action="store_true", help="List remote uncategorized posts.")
@@ -320,6 +361,7 @@ if __name__ == "__main__":
     parser.add_argument("--draft", type=str, help="Generate draft post from factoid file.")
     parser.add_argument("--deploy", type=str, help="Deploy post and run post-upload cleanups.")
     parser.add_argument("--verify-remote", action="store_true", help="Verify and fix remote file permissions/ownership.")
+    parser.add_argument("--prepare-next", action="store_true", help="Automatically list, download, and prepare next post.")
 
     args = parser.parse_args()
 
@@ -333,5 +375,7 @@ if __name__ == "__main__":
         deploy_and_cleanup(args.deploy)
     elif args.verify_remote:
         verify_remote_permissions()
+    elif args.prepare_next:
+        prepare_next()
     else:
         parser.print_help()
