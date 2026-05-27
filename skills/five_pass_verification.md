@@ -11,7 +11,8 @@ We cross-reference all claims within drafts against verified facts documents.
 ## Phase 2: Style and Lexical Audit
 
 We enforce writing specifications defined in style manuals.
-- Audit rule: Validate target readability level between Grade 11.0 and Grade 11.4.
+- Audit rule: Validate target readability level between Grade 8.0 and Grade 10.0 to ensure accessibility for less educated audiences.
+- Audit rule: Ensure unique character readability through sentence rhythm (e.g., following complex structural explanations with a brutal, five-to-ten word declarative hammer) and metaphor mapping (replacing abstract academic or policy jargon with intuitive mechanical or industrial metaphors).
 - Audit rule: Confirm complete absence of em-dashes, en-dashes, and parenthetical phrases.
 - Audit rule: Confirm sentence length variance; ensure no consecutive sentences share identical word counts.
 - Audit rule: Verify opener rotation; check that no more than half the sentences in a paragraph start with subject nouns.
@@ -22,7 +23,13 @@ We enforce writing specifications defined in style manuals.
 We verify the closed tag metadata format and taxonomy mapping.
 - Audit rule: Confirm all metadata tags use trailing identifiers.
 - Audit rule: Check tag metadata matches filename properties exactly.
-- Audit rule: Verify category taxonomy maps to approved topics list.
+- Audit rule: Confirm the first tag is always the primary category, selected from: `society`, `skills`, `systems`, `money`, `nature`, `technology`, `adventure`, `health`, `history`, `mind`.
+- Audit rule: Enforce a maximum of 6 total tags (1 category tag and at most 5 additional tags).
+- Audit rule: Validate that all additional tags are selected from the approved dictionary in `tags.lang`.
+
+## Draft Verification Gate
+
+- Always stop and request Sysop verification of the draft in the `drafts/` folder before compiling it to the `posted/` folder or initiating VM deployment.
 
 ## Phase 4: Resource Verification
 

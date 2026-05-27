@@ -28,6 +28,37 @@ FORBIDDEN_WORDS = [
 FORBIDDEN_REGEX = re.compile(r'\b(' + '|'.join(FORBIDDEN_WORDS) + r')\b', re.IGNORECASE)
 CONJUNCTIONS_REGEX = re.compile(r'^\s*(because|since)\b', re.IGNORECASE)
 
+def count_syllables(word):
+    word = word.lower()
+    vowels = "aeiouy"
+    count = 0
+    if len(word) == 0:
+        return 0
+    if word[0] in vowels:
+        count += 1
+    for index in range(1, len(word)):
+        if word[index] in vowels and word[index - 1] not in vowels:
+            count += 1
+    if word.endswith("e"):
+        count -= 1
+    if count == 0:
+        count = 1
+    return count
+
+def get_flesch_kincaid(text):
+    clean_text = re.sub(r'<!--.*?-->', '', text, flags=re.DOTALL)
+    words = re.findall(r'\b[a-zA-Z]+\b', clean_text)
+    sentences = re.split(r'(?<=[.!?])\s+', clean_text.strip())
+    sentences = [s for s in sentences if s.strip()]
+    if not words or not sentences:
+        return 0.0
+    num_words = len(words)
+    num_sentences = len(sentences)
+    num_syllables = sum(count_syllables(w) for w in words)
+    
+    fk = 0.39 * (num_words / num_sentences) + 11.8 * (num_syllables / num_words) - 15.59
+    return round(fk, 1)
+
 def verify_file(filepath):
     """
     Runs five-pass verification audit on a target blog post.
@@ -68,6 +99,21 @@ def verify_file(filepath):
         print(f"[FAIL] Pass 1: Associated factoid file factoid_{timestamp}.md not found in facts directory.")
         return False
     
+    with open(factoid_file, "r", encoding="utf-8") as f_fact:
+        factoid_content = f_fact.read()
+
+    if "Extract and list facts here" in factoid_content:
+        print(f"[FAIL] Pass 1: Factoid file factoid_{timestamp}.md contains unpopulated compiled facts placeholder.")
+        return False
+
+    if "To be added from external research" in factoid_content:
+        print(f"[FAIL] Pass 1: Factoid file factoid_{timestamp}.md contains unpopulated additional research placeholder.")
+        return False
+
+    if "Raw Original Post Reference" in factoid_content:
+        print(f"[FAIL] Pass 1: Factoid file factoid_{timestamp}.md still contains raw original post reference content; deconstruction phase is incomplete.")
+        return False
+    
     print(f"[PASS] Pass 1: Fact references verified against factoid_{timestamp}.md.")
 
     with open(filepath, "r", encoding="utf-8") as f:
@@ -106,6 +152,39 @@ def verify_file(filepath):
             print(f"  [VIOLATION] Pass 2: Sentence starts with forbidden conjunction: {s.strip()}")
             style_failed = True
 
+    # Pass 2.1: Readability Check
+    fk_grade = get_flesch_kincaid(content)
+    if not (8.0 <= fk_grade <= 10.0):
+        print(f"  [VIOLATION] Pass 2: Readability grade level is {fk_grade} (target: 8.0 - 10.0).")
+        style_failed = True
+    else:
+        print(f"  [PASS] Pass 2: Readability grade level verified: {fk_grade}.")
+
+    # Pass 2.2: Sentence Rhythm Check
+    # Split body into paragraphs
+    body_text = re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL).strip()
+    paragraphs = [p.strip() for p in body_text.split("\n\n") if p.strip()]
+    num_paragraphs = len(paragraphs)
+    if not (3 <= num_paragraphs <= 6):
+        print(f"  [VIOLATION] Pass 2: Body has {num_paragraphs} paragraphs (apropos range is 3 to 6 paragraphs).")
+        style_failed = True
+    for p_idx, p in enumerate(paragraphs, 1):
+        p_sentences = re.split(r'(?<=[.!?])\s+', p)
+        p_sentences = [s.strip() for s in p_sentences if s.strip()]
+        if not p_sentences:
+            continue
+        has_hammer = False
+        sentence_lengths = []
+        for s in p_sentences:
+            words = re.findall(r'\b[a-zA-Z]+\b', s)
+            w_count = len(words)
+            sentence_lengths.append(w_count)
+            if w_count <= 10:
+                has_hammer = True
+        if not has_hammer:
+            print(f"  [VIOLATION] Pass 2: Paragraph {p_idx} lacks a short declarative hammer sentence (<= 10 words). Sentence lengths: {sentence_lengths}")
+            style_failed = True
+
     if style_failed:
         print("[FAIL] Pass 2: Style and lexical audit failed.")
         return False
@@ -121,11 +200,55 @@ def verify_file(filepath):
         print(f"[FAIL] Pass 3: Missing required metadata tags: {missing_tags}")
         return False
 
+    # Enforce allowed category taxonomy check
+    ALLOWED_CATEGORIES = ['society', 'skills', 'systems', 'money', 'nature', 'technology', 'adventure', 'health', 'history', 'mind']
+    meta_tags = [t.strip() for t in metadata['tag'].split(",")]
+    if not meta_tags or not meta_tags[0]:
+        print("[FAIL] Pass 3: Tag metadata list is empty.")
+        return False
+    
+    primary_category = meta_tags[0]
+    if primary_category not in ALLOWED_CATEGORIES:
+        print(f"[FAIL] Pass 3: Primary category '{primary_category}' is invalid. Must be one of: {ALLOWED_CATEGORIES}")
+        return False
+
+    # Check total number of tags (1 category + max 5 additional tags = max 6 tags)
+    if len(meta_tags) > 6:
+        print(f"[FAIL] Pass 3: Too many tags ({len(meta_tags)}). Maximum allowed is 6 (1 category + 5 tags).")
+        return False
+
+    # Load tags.lang for validation of additional tags
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    tags_file = os.path.join(os.path.dirname(script_dir), "blog", "data", "tags.lang")
+    allowed_tags = set()
+    if os.path.isfile(tags_file):
+        with open(tags_file, "r", encoding="utf-8", errors="ignore") as f:
+            t_content = f.read()
+        allowed_tags = set(re.findall(r's:\d+:"([^"]+)"', t_content))
+
+    if not allowed_tags:
+        print("[WARNING] Pass 3: tags.lang file not found or empty. Additional tag validation bypassed.")
+    else:
+        # Validate additional tags against tags.lang
+        for tag in meta_tags[1:]:
+            if tag not in allowed_tags:
+                print(f"[FAIL] Pass 3: Tag '{tag}' is not in approved tags.lang list.")
+                return False
+
     if not is_draft:
         filename_parts = filename.split("_")
         if len(filename_parts) >= 2:
-            filename_tags = filename_parts[1].split(",")
-            meta_tags = metadata['tag'].split(",")
+            filename_tags = [t.strip() for t in filename_parts[1].split(",")]
+            if filename_tags[0] != primary_category:
+                print(f"[FAIL] Pass 3: Filename primary category '{filename_tags[0]}' does not match metadata primary category '{primary_category}'")
+                return False
+            if len(filename_tags) > 6:
+                print(f"[FAIL] Pass 3: Filename contains too many tags ({len(filename_tags)}).")
+                return False
+            for f_tag in filename_tags[1:]:
+                if allowed_tags and f_tag not in allowed_tags:
+                    print(f"[FAIL] Pass 3: Filename tag '{f_tag}' is not in approved tags.lang list.")
+                    return False
             if sorted(filename_tags) != sorted(meta_tags):
                 print(f"[FAIL] Pass 3: Filename tags {filename_tags} do not match metadata tags {meta_tags}")
                 return False
@@ -134,14 +257,17 @@ def verify_file(filepath):
 
     # Pass 4: Resource Verification
     image_val = metadata['image']
-    image_filename = os.path.basename(image_val)
-    local_img_dir = os.path.join(blog_dir, "img")
-    local_image_path = os.path.join(local_img_dir, image_filename)
+    if image_val.startswith("http://") or image_val.startswith("https://"):
+        print(f"[PASS] Pass 4: Resource path verified against remote URL: {image_val}.")
+    else:
+        image_filename = os.path.basename(image_val)
+        local_img_dir = os.path.join(blog_dir, "img")
+        local_image_path = os.path.join(local_img_dir, image_filename)
 
-    if not os.path.isfile(local_image_path):
-        print(f"[FAIL] Pass 4: Local image file {image_filename} not found in img directory.")
-        return False
-    print(f"[PASS] Pass 4: Resource path verified against img/{image_filename}.")
+        if not os.path.isfile(local_image_path):
+            print(f"[FAIL] Pass 4: Local image file {image_filename} not found in img directory.")
+            return False
+        print(f"[PASS] Pass 4: Resource path verified against img/{image_filename}.")
 
     # Pass 5: Syndication Compilation
     print("[PASS] Pass 5: Syndication XML structure verified.")

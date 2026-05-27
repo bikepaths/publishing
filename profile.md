@@ -46,12 +46,13 @@
 
 **Directory Structure**:
 - Location: `/home/user0/git/publishing/blog/`
-- Subdirectories: `skills/` for LLM prompt directives; `scripts/` for execution, VM mirror sync, and database backups.
+- Subdirectories: None. Skills are consolidated at `/home/user0/git/publishing/skills/` for LLM prompt directives. Scripts are consolidated at `/home/user0/git/publishing/scripts/` for execution, VM mirror sync, and database backups.
 - Central Folders:
   - `facts/`: Contains factoids named `factoid_[timestamp].md`.
   - `drafts/`: Contains raw drafts named `[timestamp]_DRAFT.md`.
   - `img/`: Contains local image assets named `generated_XXXX.jpg`.
   - `posted/`: Contains final payloads named `[timestamp]_[tags]_[slug].md`.
+  - `data/`: Contains system configuration and tags dictionaries, including `tags.lang` and `views.json`.
 
 **Metadata and Taxonomy constraints**:
 - Filename format: `YYYY-MM-DD-HH-MM-SS_tag1,tag2,tag3,tag4,tag5,tag6_slug.md`.

@@ -8,7 +8,7 @@ import argparse
 VM_HOST = "165.232.151.110"
 VM_PORT = "2323"
 VM_USER = "user0"
-REMOTE_UNCATEGORIZED = "/home/user0/www/bikepaths/html/blog/content/chas/blog/uncategorized"
+REMOTE_UNCATEGORIZED = "/home/user0/www/bikepaths/html/blog/content/chas/blog/uncategorized/image"
 REMOTE_PAGES_ROOT = "/home/user0/www/bikepaths/html/blog/content/chas/blog"
 REMOTE_IMAGES = "/home/user0/www/bikepaths/html/blog/content/images"
 REMOTE_CACHE = "/home/user0/www/bikepaths/html/blog/content/cache"
@@ -59,16 +59,36 @@ def download_and_create_factoid(filename):
     match = image_regex.search(content)
     image_link = match.group(1) if match else "None"
 
-    blog_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{original_timestamp_slug}.md")
+    # Separate metadata and body
+    body_content = content
+    body_content = re.sub(r'<!--.*?-->', '', body_content, flags=re.DOTALL).strip()
+
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    if os.path.basename(current_dir) == "scripts":
+        parent_dir = os.path.dirname(current_dir)
+        if os.path.isdir(os.path.join(parent_dir, "blog")):
+            blog_dir = os.path.join(parent_dir, "blog")
+        else:
+            blog_dir = parent_dir
+    else:
+        blog_dir = os.path.dirname(current_dir)
+    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
     
-    factoid_content = f"""# Factoid: {original_timestamp_slug}
+    factoid_content = f"""# Factoid: {timestamp}
 
 - Original Filename: {filename}
 - Original Image Link: {image_link}
 
-## Compiled Facts
-- [Insert compiled facts here]
+<!-- TODO: Extract concise facts from the raw post content below and remove the raw text before drafting -->
+## Compiled Facts from Original Post
+- [Extract and list facts here]
+
+## Additional Research Facts
+- [To be added from external research]
+
+---
+## Raw Original Post Reference (To be deleted)
+{body_content}
 """
 
     with open(factoid_path, "w", encoding="utf-8") as f:
@@ -104,7 +124,7 @@ def generate_draft(factoid_file):
     parts = orig_filename.replace(".md", "").split("_")
     timestamp = parts[0]
 
-    blog_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(factoid_file))))
+    blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(factoid_file)))
     draft_path = os.path.join(blog_dir, "drafts", f"{timestamp}_DRAFT.md")
 
     draft_content = f"""<!--variant collective-guide-v1 variant-->
@@ -114,18 +134,7 @@ def generate_draft(factoid_file):
 <!--image {image_link} image-->
 <!--gov htmly/system/technical_standards.md gov-->
 
-**[New Title]**
-
 [Body content goes here]
-
-#### Glossary
-*Term* Definition.
-
-#### Assumptions and Assertions
-1. Claim assertion.
-
-#### Reference Citations
-Author. Year. Title.
 """
 
     with open(draft_path, "w", encoding="utf-8") as f:
@@ -143,7 +152,7 @@ def deploy_and_cleanup(posted_file):
         return False
 
     filename = os.path.basename(posted_file)
-    blog_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(posted_file))))
+    blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(posted_file)))
 
     parts = filename.replace(".md", "").split("_")
     if len(parts) < 3:
@@ -154,6 +163,11 @@ def deploy_and_cleanup(posted_file):
     categories = parts[1].split(",")
     topic = categories[0]
     slug = parts[-1]
+
+    ALLOWED_CATEGORIES = ['society', 'skills', 'systems', 'money', 'nature', 'technology', 'adventure', 'health', 'history', 'mind']
+    if topic not in ALLOWED_CATEGORIES:
+        print(f"Error: Primary category '{topic}' is not in allowed taxonomy: {ALLOWED_CATEGORIES}")
+        return False
 
     with open(posted_file, "r", encoding="utf-8") as f:
         content = f.read()
@@ -166,14 +180,34 @@ def deploy_and_cleanup(posted_file):
         return False
 
     image_val = metadata["image"]
+    is_remote_image = image_val.startswith("http://") or image_val.startswith("https://")
     image_filename = os.path.basename(image_val)
     local_image_path = os.path.join(blog_dir, "img", image_filename)
 
-    if not os.path.isfile(local_image_path):
+    if not is_remote_image and not os.path.isfile(local_image_path):
         print(f"Error: local image {local_image_path} not found.")
         return False
 
-    remote_post_dest = f"{REMOTE_PAGES_ROOT}/{topic}/image/scheduled/{filename}"
+    # Parse timestamp to determine target directory based on future scheduling
+    from datetime import datetime
+    post_dt = None
+    try:
+        post_dt = datetime.strptime(timestamp, "%Y-%m-%d-%H-%M-%S")
+    except ValueError:
+        pass
+
+    if post_dt and post_dt > datetime.now():
+        remote_dest_dir = f"{REMOTE_PAGES_ROOT}/{topic}/image/scheduled"
+    else:
+        remote_dest_dir = f"{REMOTE_PAGES_ROOT}/{topic}/image"
+
+    remote_post_dest = f"{remote_dest_dir}/{filename}"
+    mkdir_cmd = ["ssh", "-p", VM_PORT, f"{VM_USER}@{VM_HOST}", f"mkdir -p {remote_dest_dir}"]
+    try:
+        subprocess.run(mkdir_cmd, check=True)
+    except subprocess.CalledProcessError as err:
+        print(f"Warning: could not create remote directory: {err}")
+
     print(f"Uploading post to: {remote_post_dest}")
     post_cmd = ["scp", "-P", VM_PORT, posted_file, f"{VM_USER}@{VM_HOST}:{remote_post_dest}"]
     try:
@@ -182,17 +216,17 @@ def deploy_and_cleanup(posted_file):
         print(f"Error uploading post: {err}")
         return False
 
-    remote_image_dest = f"{REMOTE_IMAGES}/{image_filename}"
-    print(f"Uploading image to: {remote_image_dest}")
-    img_cmd = ["scp", "-P", VM_PORT, local_image_path, f"{VM_USER}@{VM_HOST}:{remote_image_dest}"]
-    try:
-        subprocess.run(img_cmd, check=True)
-    except subprocess.CalledProcessError as err:
-        print(f"Error uploading image: {err}")
-        return False
+    if not is_remote_image:
+        remote_image_dest = f"{REMOTE_IMAGES}/{image_filename}"
+        print(f"Uploading image to: {remote_image_dest}")
+        img_cmd = ["scp", "-P", VM_PORT, local_image_path, f"{VM_USER}@{VM_HOST}:{remote_image_dest}"]
+        try:
+            subprocess.run(img_cmd, check=True)
+        except subprocess.CalledProcessError as err:
+            print(f"Error uploading image: {err}")
+            return False
 
-    original_timestamp_slug = f"{timestamp}_{slug}"
-    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{original_timestamp_slug}.md")
+    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
     
     orig_filename = None
     if os.path.isfile(factoid_path):
@@ -214,16 +248,70 @@ def deploy_and_cleanup(posted_file):
     except subprocess.CalledProcessError as err:
         print(f"Warning: could not delete remote file: {err}")
 
-    print("Flushing CMS cache directory...")
-    cache_cmd = ["ssh", "-p", VM_PORT, f"{VM_USER}@{VM_HOST}", f"rm -rf {REMOTE_CACHE}/*"]
-    try:
-        subprocess.run(cache_cmd, check=True)
-        print("CMS cache flush complete.")
-    except subprocess.CalledProcessError as err:
-        print(f"Warning: cache flush failed: {err}")
+    draft_path = os.path.join(blog_dir, "drafts", f"{timestamp}_DRAFT.md")
+    if os.path.isfile(draft_path):
+        print(f"Removing local draft: {draft_path}")
+        try:
+            os.remove(draft_path)
+        except OSError as err:
+            print(f"Warning: could not delete local draft: {err}")
 
-    print("\n[SUCCESS] Deployment, cleanup, and cache clear completed.")
+    verify_remote_permissions()
+
+    print("\n[SUCCESS] Deployment and cleanup completed.")
+    print("REMINDER: Sysop must manually clear the CMS cache directory on the VM.")
     return True
+
+def verify_remote_permissions():
+    """
+    Recursively verifies and corrects permissions (664) and owner:group (user0:www-data)
+    for all .md files under the remote blog hierarchy.
+    """
+    find_cmd = [
+        "ssh", "-p", VM_PORT, f"{VM_USER}@{VM_HOST}",
+        f'find {REMOTE_PAGES_ROOT} -type f -name "*.md" -printf "%m %u:%g %p\\n"'
+    ]
+    try:
+        print("Querying remote file permissions and ownership...")
+        res = subprocess.run(find_cmd, capture_output=True, text=True, check=True)
+        lines = res.stdout.splitlines()
+        
+        violations = []
+        for line in lines:
+            if not line.strip():
+                continue
+            parts = line.strip().split(maxsplit=2)
+            if len(parts) < 3:
+                continue
+            perms, owner, path = parts
+            
+            if perms != "664" or owner != "user0:www-data":
+                violations.append((path, perms, owner))
+                
+        if violations:
+            print(f"\n[VIOLATION] Found {len(violations)} files with incorrect permissions or ownership.")
+            print("Applying copy-recreate-ownership correction on VM...")
+            
+            # Formulate a compound remote bash command to fix all violations safely
+            remote_cmds = []
+            for path, perms, owner in violations:
+                remote_cmds.append(
+                    f'file="{path}" && cp "$file" "$file.tmp" && rm -f "$file" && mv "$file.tmp" "$file" && chgrp www-data "$file" && chmod 664 "$file"'
+                )
+            
+            # Execute in batches or as a single script
+            batch_cmd = "; ".join(remote_cmds)
+            fix_cmd = ["ssh", "-p", VM_PORT, f"{VM_USER}@{VM_HOST}", batch_cmd]
+            subprocess.run(fix_cmd, check=True)
+            print("[SUCCESS] Successfully verified and corrected permissions (664) and ownership (user0:www-data) for all remote files.")
+            return False
+        else:
+            print("[PASS] All remote .md files have correct 664 permissions and user0:www-data ownership.")
+            return True
+            
+    except subprocess.CalledProcessError as err:
+        print(f"Error querying/fixing remote file permissions: {err.stderr}")
+        return False
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Procedural script for refactoring oldposts.")
@@ -231,6 +319,7 @@ if __name__ == "__main__":
     parser.add_argument("--download", type=str, help="Download post and create factoid file.")
     parser.add_argument("--draft", type=str, help="Generate draft post from factoid file.")
     parser.add_argument("--deploy", type=str, help="Deploy post and run post-upload cleanups.")
+    parser.add_argument("--verify-remote", action="store_true", help="Verify and fix remote file permissions/ownership.")
 
     args = parser.parse_args()
 
@@ -242,5 +331,7 @@ if __name__ == "__main__":
         generate_draft(args.draft)
     elif args.deploy:
         deploy_and_cleanup(args.deploy)
+    elif args.verify_remote:
+        verify_remote_permissions()
     else:
         parser.print_help()
