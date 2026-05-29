@@ -19,6 +19,7 @@
 - No filler phrases.
 - Parenthetical acronym definitions on first occurrence are authorized; only explanatory parenthetical phrases remain prohibited.
 - For academic/SSRN work, follow formal academic register per `_styles/MoS_SSRN_Academic.md`.
+- For the 300 project (The Moral Physics of Survival), follow style register per `_styles/MoS_Survival_Physics.md`.
 
 ## Trust Metrics
 
@@ -28,7 +29,7 @@
 
 ## Collaborative Agent Handoff Summary (Granular Workflow)
 
-**Current Status**: Editing and refinement of the "Architecture of Survival" manuscript. The project has transitioned from structural assembly to deep thematic integration and clinical optimization.
+**Current Status**: Initialized KDP project structure, research anchors, and first prologue draft for the 300 project ("The Moral Physics of Survival"). Active edits follow the optimized 2026 general audience style guide.
 
 **Workflow Specifications**:
 1. **Thematic Core**: Focus on the "deteriorating species" (a sub-class of displaced individuals) and the "ontological friction" of street life.
