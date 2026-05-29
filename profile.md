@@ -1,6 +1,6 @@
 # Author Profile and Session Preferences
 
-**Persistent across all sessions for user: Rithy Thul**
+**Persistent across all sessions for user: Charles J. DiBella**
 
 ## Core Operational Rules
 
@@ -40,13 +40,13 @@
    - Mirror: Google Drive folder `1_el6GWYwn0cWxHSev9eNmYbfhH4Mzig7`
    - EPUB Generation: Use the `epub-publisher` skill. Always verify binary integrity with `zip -T` before saving.
    - External Sync: Do not sync to external platforms or generate new EPUBs until explicitly commanded during this editing phase.
-6. **Next Steps**: Continue clinical optimization of Chapter 5 and begin detailed expansion of Chapter 8 (Metabolic Stabilization) using the established ontological framework.
+   - Next Steps: Continue clinical optimization of Chapter 5 and begin detailed expansion of Chapter 8 (Metabolic Stabilization) using the established ontological framework.
 
 ## Research-to-Blog Publishing Pipeline with HTMLy Integration
 
 **Directory Structure**:
-- Location: `/home/user0/git/publishing/blog/`
-- Subdirectories: None. Skills are consolidated at `/home/user0/git/publishing/skills/` for LLM prompt directives. Scripts are consolidated at `/home/user0/git/publishing/scripts/` for execution, VM mirror sync, and database backups.
+- Location: `/home/user0/git/publishing/100_blog/`
+- Subdirectories: None. Skills are consolidated at `/home/user0/git/publishing/skills/` for LLM prompt directives. Scripts are consolidated under `/home/user0/git/publishing/scripts/100_blog/` for execution, VM mirror sync, and database backups.
 - Central Folders:
   - `facts/`: Contains factoids named `factoid_[timestamp].md`.
   - `drafts/`: Contains raw drafts named `[timestamp]_DRAFT.md`.

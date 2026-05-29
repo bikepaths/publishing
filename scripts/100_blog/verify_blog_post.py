@@ -32,20 +32,13 @@ CONJUNCTIONS_REGEX = re.compile(r'^\s*(because|since)\b', re.IGNORECASE)
 
 def count_syllables(word):
     word = word.lower()
-    vowels = "aeiouy"
-    count = 0
-    if len(word) == 0:
-        return 0
-    if word[0] in vowels:
-        count += 1
-    for index in range(1, len(word)):
-        if word[index] in vowels and word[index - 1] not in vowels:
-            count += 1
-    if word.endswith("e"):
-        count -= 1
-    if count == 0:
-        count = 1
-    return count
+    word = re.sub(r'[^a-z]', '', word)
+    if len(word) <= 3:
+        return 1
+    word = re.sub(r'(?:[^laeiouy]es|ed|[^laeiouy]e)$', '', word)
+    word = re.sub(r'^y', '', word)
+    matches = re.findall(r'[aeiouy]{1,2}', word)
+    return max(1, len(matches))
 
 def get_flesch_kincaid(text):
     clean_text = re.sub(r'<!--.*?-->', '', text, flags=re.DOTALL)
@@ -80,6 +73,9 @@ def verify_file(filepath):
         is_draft = True
         timestamp = filename[:-9]
     elif filename.endswith(".md"):
+        if " " in filename:
+            print("[FAIL] Pass 3: Filename contains space characters.")
+            return False
         parts = filename.split("_")
         if len(parts) >= 3:
             timestamp = parts[0]

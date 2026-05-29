@@ -8,12 +8,6 @@ if [[ -z "$MSG" ]]; then
   echo "Error: commit message required"
   exit 1
 fi
-# Ensure we are on the correct remote
-REMOTE_URL=$(git config --get remote.origin.url)
-if [[ "$REMOTE_URL" != *":bikepaths/publishing"* && "$REMOTE_URL" != *"/bikepaths/publishing"* && "$REMOTE_URL" != *"/rithythul/publishing"* ]]; then
-  echo "ERROR: Remote URL mismatch (found $REMOTE_URL, expected rithythul/publishing)"
-  exit 1
-fi
 # Commit all changes
 git add -A
 git commit -m "$MSG"

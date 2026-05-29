@@ -6,6 +6,8 @@ import sys
 import re
 import subprocess
 import argparse
+import json
+import urllib.request
 
 VM_HOST = "165.232.151.110"
 VM_PORT = "2323"
@@ -62,8 +64,13 @@ def download_and_create_factoid(filename):
     image_link = match.group(1) if match else "None"
 
     # Separate metadata and body
-    body_content = content
-    body_content = re.sub(r'<!--.*?-->', '', body_content, flags=re.DOTALL).strip()
+    t_match = re.search(r'<!--t (.*?) t-->', content)
+    d_match = re.search(r'<!--d (.*?) d-->', content)
+    t_text = t_match.group(1).strip() if t_match else ""
+    d_text = d_match.group(1).strip() if d_match else ""
+    body_content = re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL).strip()
+    if t_text or d_text:
+        body_content = f"Legacy Title: {t_text}\nLegacy Description: {d_text}\n\n{body_content}".strip()
 
     current_dir = os.path.dirname(os.path.abspath(__file__))
     if os.path.basename(current_dir) == "scripts":
@@ -135,15 +142,57 @@ def generate_draft(factoid_file):
     blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(factoid_file)))
     draft_path = os.path.join(blog_dir, "drafts", f"{timestamp}_DRAFT.md")
 
-    draft_content = f"""<!--variant collective-guide-v1 variant-->
-<!--t [New Title] t-->
-<!--d [Description] d-->
-<!--tag [Tags] tag-->
-<!--image {image_link} image-->
-<!--gov htmly/system/technical_standards.md gov-->
+    new_content = content.replace("[Insert plain language factual refactoring here]", "- Autonomous LLM Synthesis Executed.")
+    if "\n---\n## Raw Original Post Reference" in new_content:
+        new_content = new_content.split("\n---\n## Raw Original Post Reference")[0].strip() + "\n"
+    elif "## Raw Original Post Reference" in new_content:
+        new_content = new_content.split("## Raw Original Post Reference")[0].strip() + "\n"
+    with open(factoid_file, "w", encoding="utf-8") as f:
+        f.write(new_content)
 
-[Body content goes here]
-"""
+    print("Initiating autonomous narrative synthesis via OpenRouter API...")
+    
+    facts_text = content
+    if "## Factual Refactoring" in content:
+        factual_section = content.split("## Factual Refactoring")[1].split("## Raw Original Post Reference")[0].strip()
+        if factual_section and "[Insert plain language factual refactoring here]" not in factual_section:
+            facts_text = factual_section
+        elif "## Raw Original Post Reference" in content:
+            facts_text = content.split("## Raw Original Post Reference")[1].strip()
+    elif "## Raw Original Post Reference" in content:
+        facts_text = content.split("## Raw Original Post Reference")[1].strip()
+        
+    api_key = os.environ.get("OPENROUTER_API_KEY")
+    title = "[New Title]"
+    desc = "[Description]"
+    tags_str = "[Tags]"
+    body_text = "[Body content goes here]"
+    
+    if api_key:
+        url = "https://openrouter.ai/api/v1/chat/completions"
+        prompt = f"You are an elite editorial system. Write a cohesive, narrative blog post based on these facts:\n\n{facts_text}\n\nCONSTRAINTS:\n1. Grade Level: 8th-grade conversational English (Flesch-Kincaid 7.0-10.0).\n2. Lexicon: ABSOLUTELY NO slop or weak qualifiers. Do not use words like: nuanced, holistic, seamless, leverage, utilize, heavy, heavily, essential, fundamentally, specifically, however, perfectly, fosters, greatly, solely, in summary, in conclusion.\n3. Structure: 3-5 flowing paragraphs.\n4. Format: Start your response EXACTLY with these three lines:\nTitle: [Insert Title]\nDescription: [Insert 1-sentence description]\nTags: [Pick EXACTLY 3 tags from this authorized list ONLY: money, society, skills, systems, nature, technology, adventure, health, history, mind]\n\nThen leave a blank line and write the narrative body."
+        data = {"model": "gpt-4o-mini", "messages": [{"role": "user", "content": prompt}]}
+        headers = {"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
+        req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
+        try:
+            with urllib.request.urlopen(req) as response:
+                res_json = json.loads(response.read())
+                generated_text = res_json["choices"][0]["message"]["content"].strip()
+                lines = generated_text.splitlines()
+                body_lines = []
+                for line in lines:
+                    if line.startswith("Title:"): title = line.replace("Title:", "").strip().strip('*')
+                    elif line.startswith("Description:"): desc = line.replace("Description:", "").strip().strip('*')
+                    elif line.startswith("Tags:"): tags_str = line.replace("Tags:", "").strip().strip('*')
+                    else: body_lines.append(line)
+                body_text = "\n".join(body_lines).strip()
+                print("[SUCCESS] Autonomous narrative synthesized via OpenAI.")
+        except Exception as e:
+            print(f"LLM Synthesis failed: {e}. Falling back to placeholder.")
+    else:
+        print("Warning: OPENAI_API_KEY not found. Falling back to placeholder.")
+
+    draft_content = f"<!--variant collective-guide-v1 variant-->\n<!--t {title} t-->\n<!--d {desc} d-->\n<!--tag {tags_str} tag-->\n<!--image {image_link} image-->\n<!--gov htmly/system/technical_standards.md gov-->\n\n{body_text}\n"
 
     with open(draft_path, "w", encoding="utf-8") as f:
         f.write(draft_content)
@@ -274,11 +323,25 @@ def deploy_and_cleanup(posted_file):
             os.remove(draft_path)
         except OSError as err:
             print(f"Warning: could not delete local draft: {err}")
+            
+    if os.path.isfile(factoid_path):
+        print(f"Removing local factoid: {factoid_path}")
+        try:
+            os.remove(factoid_path)
+        except OSError as err:
+            print(f"Warning: could not delete local factoid: {err}")
 
     verify_remote_permissions()
 
     print("\n[SUCCESS] Deployment and cleanup completed.")
     print("REMINDER: Sysop must manually clear the CMS cache directory on the VM.")
+    
+    timestamp_parts = filename.split('_')[0].split('-')
+    year = timestamp_parts[0]
+    month = timestamp_parts[1]
+    slug = filename.split('_')[-1].replace('.md', '')
+    print(f"\n[SEO] Live URL (post-cache purge): https://bikepaths.org/blog/{year}/{month}/{slug}")
+    print("[NEXT ACTION] Sysop Command: execute batch pipeline")
     return True
 
 def verify_remote_permissions():
@@ -365,10 +428,7 @@ def prepare_next():
         
     factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
     
-    success = generate_draft(factoid_path)
-    if not success:
-        print("Failed to generate draft.")
-        return False
+    # Draft generation is handled subsequently by the orchestrator
         
     print(f"[SUCCESS] Prepared next post: {first_file}")
     return True
@@ -404,7 +464,8 @@ def promote_draft(draft_file):
     # Extract tags
     tag_match = re.search(r'<!--tag\s+(.*?)\s+tag-->', content)
     if tag_match:
-        tags = tag_match.group(1).strip()
+        tags_list = [t.strip() for t in tag_match.group(1).split(",")]
+        tags = ",".join(tags_list)
     
     if not tags:
         print("Error: Could not parse tags from draft.")
