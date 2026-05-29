@@ -1,0 +1,60 @@
+title: "The Moral Physics of Survival"
+subtitle: "What the Street Teaches About Human Nature, Dignity, and the Laws We Cannot Break"
+author: "Charles J. DiBella"
+lang: "en-US"
+base_dir: "."
+files:
+  - type: copyright
+    path: copyright.md
+  - type: frontmatter
+    heading: "Author's Note"
+    path: front_matter.md
+    skip_lines: 4
+  - type: prologue
+    heading: "Prologue: The Bridge"
+    path: chapter_drafts/prologue_the_bridge.md
+  - type: chapter
+    heading: "Chapter 1: The Inventory of Failure"
+    path: chapter_drafts/chapter_01_the_inventory_of_failure.md
+  - type: chapter
+    heading: "Chapter 2: The Vocabulary of Invisibility"
+    path: chapter_drafts/chapter_02_the_vocabulary_of_invisibility.md
+  - type: chapter
+    heading: "Chapter 3: The Biological Floor"
+    path: chapter_drafts/chapter_03_the_biological_floor.md
+  - type: chapter
+    heading: "Chapter 4: What a Person Is"
+    path: chapter_drafts/chapter_04_what_a_person_is.md
+  - type: chapter
+    heading: "Chapter 5: The Is-Ought Problem and Why It Matters"
+    path: chapter_drafts/chapter_05_the_is_ought_problem_and_why_it_matters.md
+  - type: chapter
+    heading: "Chapter 6: The Social Contract's Hidden Assumption"
+    path: chapter_drafts/chapter_06_the_social_contracts_hidden_assumption.md
+  - type: chapter
+    heading: "Chapter 7: Natural Law Without God"
+    path: chapter_drafts/chapter_07_natural_law_without_god.md
+  - type: chapter
+    heading: "Chapter 8: The Hierarchy of Obligation"
+    path: chapter_drafts/chapter_08_the_hierarchy_of_obligation.md
+  - type: chapter
+    heading: "Chapter 9: Institutional Capture and Moral Responsibility"
+    path: chapter_drafts/chapter_09_institutional_capture_and_moral_responsibility.md
+  - type: chapter
+    heading: "Chapter 10: The Legitimacy of Compelled Care"
+    path: chapter_drafts/chapter_10_the_legitimacy_of_compelled_care.md
+  - type: chapter
+    heading: "Chapter 11: John Snow and the Moral Physicist"
+    path: chapter_drafts/chapter_11_john_snow_and_the_moral_physicist.md
+  - type: chapter
+    heading: "Chapter 12: The Remnant and the Obligation"
+    path: chapter_drafts/chapter_12_the_remnant_and_the_obligation.md
+  - type: chapter
+    heading: "Chapter 13: A Different Starting Point"
+    path: chapter_drafts/chapter_13_a_different_starting_point.md
+  - type: epilogue
+    heading: "Epilogue: The Pump Handle"
+    path: chapter_drafts/epilogue_the_pump_handle.md
+  - type: bibliography
+    heading: "Citations and Sources"
+    path: citations.md
