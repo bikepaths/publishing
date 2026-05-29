@@ -1,3 +1,7 @@
 # Prologue: The Bridge
 
-*Draft in progress.*
+Arthur lived beneath the concrete support of the interstate bridge where the highway crosses the river. Traffic overhead vibrated the soil. He built a shelter using discarded shipping pallets and grey plastic tarps. During his first months there, he spoke with the volunteers who brought food. He described working on the docks. His conversations followed a predictable sequence of memories and questions, indicating a past he could reference and a future he expected to navigate.
+
+Two winters of exposure broke this pattern. Damp cold from the river remained in his blankets, settling deep into his joints. Sleep became impossible under the flickering light poles and the endless roar of the highway. Without sleep, the brain cannot clear metabolic waste; the prefrontal cortex begins to decay. Arthur stopped speaking. He sat on a plastic crate for twelve hours at a time, staring at the concrete pillar. The self had fractured.
+
+The county outreach team arrived with clipboards to offer shelter placement. Their program required a signed behavior contract and agreement to casework supervision. Arthur did not look up. He did not reject the offer because rejection requires cognitive capacity to weigh alternatives. Silence became a refusal. The team recorded the outcome on their tablets and walked back to the vehicle. The system functioned, but Arthur remained on the dirt.
