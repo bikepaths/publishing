@@ -1,3 +1,9 @@
 # Chapter 1: The Inventory of Failure
 
-*Draft in progress.*
+Over a five-year period, California spent twenty-four billion dollars on homelessness programs. Yet the unsheltered population grew. This outcome contradicts basic economic assumptions regarding resource allocation and service delivery. Standard policy analysis attributes this failure to administrative friction, insufficient housing stock, or coordination gaps among local agencies. While these explanations address superficial symptoms, they ignore the primary cause. The system failed because its working theory of the human person was wrong.
+
+Perception governs intervention. If a system defines a person as an economic actor lacking real estate, the response remains material. By building housing units and distributing vouchers, the state expects the individual to navigate the transition to an indoor life. This approach assumes the recipient possesses intact agency. Under this logic, the recipient must possess a functional prefrontal cortex capable of managing schedules, resisting addiction, and cooperating with case managers. The reality on the dirt exposes this assumption as a delusion.
+
+Thirty years of street observation prove one physical fact. Exposure to cold, sleep deprivation, and chronic danger erodes the neurological pathways required for choice. The brain decays. Trapped in a survival loop, the individual responds only to immediate threats and biological cravings. Offering a housing voucher to a person in this condition is equivalent to offering a blueprint to a drowning man. The resource fails.
+
+The crisis is first a crisis of ideas. Modern Western ethics assumes that human dignity depends on cognitive autonomy. This logic fails Arthur. By grounding worth in performance, the social contract tradition abandons the most vulnerable. Rescuing them requires a new starting point. We must recognize dignity before function.
