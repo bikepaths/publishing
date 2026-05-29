@@ -1,3 +1,9 @@
 # Chapter 4: What a Person Is
 
-*Draft in progress.*
+Philosophical traditions often define personhood through cognitive performance. Under this view, an individual must demonstrate self-awareness, rational calculation, and autonomous choice to claim moral standing. This definition creates a hierarchy of human value. By excluding those who lose their cognitive faculties through disease, trauma, or street exposure, this standard restricts moral concern. We must reject this performance-based definition. A person remains a biological organism with inherent vulnerabilities and potentials.
+
+This biological view grounds dignity in human nature rather than functional capacity. To define human well-being through what a person can be and do, Amartya Sen and Martha Nussbaum developed the capabilities approach. While their approach emphasizes freedom of choice, the underlying natural law demands protection of the human form itself. Dignity exists in the potential of the organism, not in task execution. Arthur shares this status. He shares it with a child or an elder with dementia.
+
+Shifting the definition of personhood alters the purpose of public intervention. Under a performance model, society satisfies its obligation by offering choices. If dignity is inherent in the biological form, society must protect the conditions that allow that form to exist. We do not ask a drowning man to choose rescue. We pull him from the water. His survival remains a requirement of his humanity.
+
+Protecting what a person is requires physical security and metabolic stability. When the environment destroys the neurological basis of choice, society must intervene to restore the biological floor. Respecting liberty does not mean permitting self-destruction. True respect for personhood requires defending the physical vessel of the self.
