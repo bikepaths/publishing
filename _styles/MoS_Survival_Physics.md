@@ -1,36 +1,42 @@
-# Manual of Style — The Moral Physics of Survival (300 Project)
+# Manual of Style — The Moral Physics of Survival (2026 General Audience)
 
-*Voice: The Witness Who Thinks*
-*Style Register: Hemingway-inspired directness integrated with classical philosophical rigor*
-*Reader Profile: Seriousness and curiosity, seeking foundational principles without academic pretense*
+*Voice: Empirical Witness*
+*Register: Narrative immediacy matched with mechanical cause-and-effect*
+*Reader Profile: General audience, high cognitive overload, seeking conceptual clarity through narrative*
 
 ---
 
-## 1. Voice and Narration: The Witness Who Thinks
+## 1. Core Narrative Principles: Visual Immediacy
 
-The narrator operates as a direct witness of physical reality who submits those observations to logical audit. Ground all philosophical arguments in specific, unsparing street-level details. Do not use personal sentimentality or moralizing language. The authority of the voice arises from physical closeness to the crisis combined with cold conceptual clarity.
+Begin every narrative arc with direct physical observation. Reconstruct scenes using sensory details of the urban landscape. Do not lead with political arguments or policy definitions; allow the physical environment to establish the premise.
 
-## 2. Syntactic Principles: Hemingway Directness
+## 2. Syntactic Rhythm: The Takeaway Hammer
 
-*   **Declarative Focus**: Use short, declarative sentences with concrete endings. Establish logical progression through sequence rather than decorative punctuation.
-*   **Implicit Causality**: Allow one physical action or logical claim to follow another naturally without introducing explicit transition words.
-*   **Topic Sentence Primacy**: Open every paragraph with a clear, active claim. Subsequent sentences must directly unpack or substantiate that claim.
+*   **Cadence Variation**: Alternate long, descriptive sequences detailing physical or biological mechanisms with short, declarative summaries. 
+*   **The Hammer**: Follow complex causal explanations with a sudden, single-digit word declarative statement.
+*   **Opener Rotation**: Rotate sentence starts continuously. Do not exceed two consecutive sentences opening with the subject noun.
 
-## 3. Punctuation and Structural Constraints
+## 3. Metaphor Mapping
 
-*   **No Em-Dashes**: Establish structural relationships and parenthetical elements through pure sentence flow.
-*   **No Explanatory Parentheses**: State all relevant information directly within the main sentence structure. Only standard acronym definitions upon first occurrence may use parentheses.
-*   **No Internal Colons**: Do not use colons within sentences to join clauses. Connect ideas through coordination or separate them into distinct sentences.
-*   **Absolute Structural Purity**: Chapter drafts must consist entirely of continuous prose. Bullet points, numbered lists, and subheadings are prohibited within the main text of the chapters.
+*   **Mechanical Equivalents**: Replace abstract policy vocabulary with industrial or everyday mechanical terms. 
+    - "Systemic dependency" translates to "budget loop" or "subsidy machine."
+    - "Cognitive impairment" translates to "damaged wiring" or "biological ceiling."
+*   **Zero Jargon**: Never use academic terminology without immediate transformation into physical concepts.
 
-## 4. Philosophical Register
+## 4. Punctuation and Structure
 
-*   **Dialogic Engagement**: Treat historical authorities (Cicero, Hume, Arendt, Sen, Nussbaum) as active conversational partners rather than infallible sources. Cite them only to clarify or challenge a street-level finding.
-*   **Metaphor Neutralization**: Translate abstract concepts into physical equivalents. "Agency" is the biological floor; "institutions" are machines with material inputs and outputs.
-*   **The Is-Ought Bridge**: State natural law obligations as direct, observable requirements of human biology and dignity.
+*   **Structural Flow**: Establish causal relationships using coordinate and subordinate conjunctions. 
+*   **No Em-Dashes**: Express parenthetical thoughts through syntax alone.
+*   **No Explanatory Parentheses**: Keep all descriptive content within the primary sentence structure.
+*   **Absolute Structural Purity**: Chapters must read as continuous narrative. No subheadings, bullet points, or numbered lists.
 
-## 5. Lexical Prohibition (The Anti-Slop Index)
+## 5. Lexical Neutralization (Anti-Slop Index)
 
 *   **No Mechanical Transitions**: Cut *furthermore, moreover, additionally, consequently, therefore, thus, hence, subsequently, in summary*.
-*   **No Academic Clichés**: Reject *utilize, framework, paradigm, nuanced, mitigate, synergy, impactful, leverage*.
-*   **No Intensity Crutches**: Reject words that artificially inflate gravity: *exactly, specifically, directly, precisely, completely, highly, severely, purely, strictly, constantly, entirely, fundamentally, essentially*.
+*   **No Intensity Crutches**: Cut *exactly, specifically, directly, precisely, completely, highly, severely, purely, strictly, constantly, entirely, fundamentally, essentially*.
+
+---
+
+## 6. Style Example
+
+Man lay beneath concrete support of bridge. Cold wind from river blew dirt across face. Subject did not move to wipe it away. Exposure to elements across thirty winters had damaged prefrontal cortex, stripping away cognitive ability to plan or choose. State programs spent millions on outreach initiatives requiring active consent. Man could not give it. Survival depended on physical stabilization, yet legal system waited for decision recipient could no longer formulate.
