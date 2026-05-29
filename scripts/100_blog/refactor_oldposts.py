@@ -73,14 +73,12 @@ def download_and_create_factoid(filename):
         body_content = f"Legacy Title: {t_text}\nLegacy Description: {d_text}\n\n{body_content}".strip()
 
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    if os.path.basename(current_dir) == "scripts":
-        parent_dir = os.path.dirname(current_dir)
-        if os.path.isdir(os.path.join(parent_dir, "blog")):
-            blog_dir = os.path.join(parent_dir, "blog")
-        else:
-            blog_dir = parent_dir
+    if os.path.basename(current_dir) == "100_blog":
+        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
+    elif os.path.basename(current_dir) == "scripts":
+        blog_dir = os.path.join(os.path.dirname(current_dir), "100_blog")
     else:
-        blog_dir = os.path.dirname(current_dir)
+        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
     factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
     
     factoid_content = f"""# Factoid: {timestamp}
@@ -417,14 +415,12 @@ def prepare_next():
     timestamp = parts[0]
     
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    if os.path.basename(current_dir) == "scripts":
-        parent_dir = os.path.dirname(current_dir)
-        if os.path.isdir(os.path.join(parent_dir, "blog")):
-            blog_dir = os.path.join(parent_dir, "blog")
-        else:
-            blog_dir = parent_dir
+    if os.path.basename(current_dir) == "100_blog":
+        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
+    elif os.path.basename(current_dir) == "scripts":
+        blog_dir = os.path.join(os.path.dirname(current_dir), "100_blog")
     else:
-        blog_dir = os.path.dirname(current_dir)
+        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
         
     factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
     

@@ -10,7 +10,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Set up script permissions
-        run: chmod +x scripts/kdp_style_check.sh
+        run: chmod +x scripts/200_mdi/kdp_style_check.sh
       - name: Find changed markdown files
         id: files
         run: |
@@ -21,8 +21,8 @@ jobs:
           for f in ${{ steps.files.outputs.files }}; do
             if [[ -f "$f" ]]; then
               echo "Checking style on $f"
-              scripts/kdp_style_check.sh "$f"
-              git diff --exit-code "$f" || (echo "ERROR: $f fails style guidelines. Run scripts/kdp_style_check.sh locally and commit." && exit 1)
+              scripts/200_mdi/kdp_style_check.sh "$f"
+              git diff --exit-code "$f" || (echo "ERROR: $f fails style guidelines. Run scripts/200_mdi/kdp_style_check.sh locally and commit." && exit 1)
             fi
           done
 

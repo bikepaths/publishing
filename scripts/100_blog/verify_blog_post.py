@@ -196,7 +196,7 @@ def verify_file(filepath):
 
     # Load tags.lang for validation of additional tags
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    tags_file = os.path.join(os.path.dirname(script_dir), "blog", "data", "tags.lang")
+    tags_file = os.path.join(os.path.dirname(os.path.dirname(script_dir)), "100_blog", "data", "tags.lang")
     allowed_tags = set()
     if os.path.isfile(tags_file):
         with open(tags_file, "r", encoding="utf-8", errors="ignore") as f:

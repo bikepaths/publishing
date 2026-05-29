@@ -19,7 +19,7 @@ def execute_batch(directory, deploy=False):
     
     if len(files) == 0:
         print("\n[BATCH] No local factoids found. Initiating remote extraction (--prepare-next)...")
-        prep_cmd = ["python3", "scripts/refactor_oldposts.py", "--prepare-next"]
+        prep_cmd = ["python3", "scripts/100_blog/refactor_oldposts.py", "--prepare-next"]
         prep_res = subprocess.run(prep_cmd, capture_output=True, text=True)
         
         if prep_res.returncode != 0:
@@ -43,7 +43,7 @@ def execute_batch(directory, deploy=False):
     for file_path in files:
         print(f"\n[BATCH] Processing factoid: {os.path.basename(file_path)}")
         
-        draft_cmd = ["python3", "scripts/refactor_oldposts.py", "--draft", file_path]
+        draft_cmd = ["python3", "scripts/100_blog/refactor_oldposts.py", "--draft", file_path]
         result = subprocess.run(draft_cmd, capture_output=True, text=True)
         
         if result.returncode != 0:
@@ -71,7 +71,7 @@ def execute_batch(directory, deploy=False):
                 print("[SKIP] Deployment skipped by Sysop.")
                 continue
                 
-            deploy_cmd = ["python3", "scripts/refactor_oldposts.py", "--deploy", draft_path]
+            deploy_cmd = ["python3", "scripts/100_blog/refactor_oldposts.py", "--deploy", draft_path]
             deploy_result = subprocess.run(deploy_cmd)
             
             if deploy_result.returncode == 0:
