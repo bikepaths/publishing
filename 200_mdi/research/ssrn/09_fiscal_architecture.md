@@ -26,14 +26,14 @@ To ensure operational resilience, the model is engineered for **Imperfect Captur
 
 ---
 
-### Prototype Capitalization: The $195M Budget
+### Prototype Capitalization: The $197.5M Budget
 
 | Line Item | Amount |
 |:---|:---|
 | Asset acquisition (receivership settlement) | ~$120,000,000 |
 | Modular unit installation (2,000 ALMUs) | ~$50,000,000 |
 | Physical plant hardening (STC 65, HVAC, cisterns, generators) | ~$25,000,000 |
-| **Total Prototype Budget** | **$195,000,000** |
+| **Total Prototype Budget** | **$197,500,000** |
 
 **Capitalization Source**: State-backed Stewardship Bond instrument secured against the Efficiency Surplus revenue stream and the Sovereign Insurance Pool (see `10_legal_governance.md`).
 
@@ -45,7 +45,7 @@ To ensure operational resilience, the model is engineered for **Imperfect Captur
 
 **MDI Operational Floor**: The MDI system operates below the municipal baseline through robotic automation, consolidated clinical services eliminating ER cycling, non-profit co-location offsets, and Measure Alpha integration.
 
-**Variance Modeling**: Engineering architectures demand operational tolerances. The $195M single-tower capital expenditure recovers through the municipal efficiency surplus mapped across three distinct execution scenarios.
+**Variance Modeling**: Engineering architectures demand operational tolerances. The $197.5M single-tower capital expenditure recovers through the municipal efficiency surplus mapped across three distinct execution scenarios.
 
 **Best Case Scenario**:
 - Gross savings: $100,000,000
@@ -65,7 +65,7 @@ To ensure operational resilience, the model is engineered for **Imperfect Captur
 - Gross savings: $60,000,000
 - Net recurring expenses: -$27,000,000 
 - Efficiency Surplus: +$33,000,000
-- Capital recovery: 71 months
+- Capital recovery: 72 months
 
 The 45-month Most Probable timeline establishes the operational falsifiability threshold for the SPT Gate. A 45-month payback on municipal infrastructure unequivocally proves the financial engine functions. Failure to project a 45-month recovery trajectory within 24 months of operation falsifies the financial thesis triggering total architectural revision before any network expansion.
 

@@ -12,7 +12,7 @@ The MDI replaces a legacy system of fragmented municipal services with a single 
 
 **The Governing Principle**: Housing is not the reward for getting better. It is the clinical precondition for getting better at all.
 
-**The Singular Prototype Threshold (SPT)**: Expansion to the sixteen million square foot, twenty-tower network is gated by a binary proof of concept at **One California Plaza** — currently in Chapter 11 receivership following a $300M default, market-verified floor at $120,000,000. Acquisition budget: $195,000,000. Capital recovery: 29 months via $82M annual Efficiency Surplus.
+**The Singular Prototype Threshold (SPT)**: Expansion to the sixteen million square foot, twenty-tower network is gated by a binary proof of concept at **One California Plaza** — currently in Chapter 11 receivership following a $300M default, market-verified floor at $120,000,000. Acquisition budget: $197,500,000. Capital recovery: 29 months via $82M annual Efficiency Surplus.
 
 ---
 
@@ -70,7 +70,7 @@ PHASE 3: ONTOLOGICAL PERMANENCE (Residential Tower)
 | Parameter | Specification |
 |:---|:---|
 | Prototype asset | One California Plaza (receivership, $120M floor) |
-| Total budget | $195,000,000 |
+| Total budget | $197,500,000 |
 | Units (pilot) | 2,000 ALMUs (perimeter-priority placement) |
 | ALMU size | 150 sq ft: 28-32 sq ft wet bath + 90-95 sq ft living volume |
 | ALMU wet bath | Wet room: toilet, wall-mounted sink, showerhead — private, full sanitary sovereignty |
