@@ -97,7 +97,7 @@ The MDI architecture specifies two recurring community practices at the pod leve
 
 ## V. Integration with MDI Architecture: The Process 5 Mapping
 
-The Housing Event Agent Initialization document, which serves as the operational specification for the MDI five-process parallel architecture, names the fifth process Ontological Permanence. Its component elements are the Dunbar pod structure, STC 65 acoustic isolation, the Pod Steward, the pod common kitchen, biophilic nodes, and the Digital Access Center. Process 5 holds that these elements together rebuild the neurological conditions for selfhood destroyed by street life, positioning it as the closest existing MDI language to what RDI theory formally names. The RDI framework is the theoretical architecture that Process 5 implies but does not fully develop.
+The MDI-C industrial specification, which formally establishes the MDI five-process parallel architecture, names the fifth process Ontological Permanence. Its component elements are the Dunbar pod structure, STC 65 acoustic isolation, the Pod Steward, the pod common kitchen, biophilic nodes, and the Digital Access Center. Process 5 holds that these elements together rebuild the neurological conditions for selfhood destroyed by street life, positioning it as the closest existing MDI language to what RDI theory formally names. The RDI framework is the theoretical architecture that Process 5 implies but does not fully develop.
 
 The mapping between Process 5 elements and RDI production conditions is direct:
 
