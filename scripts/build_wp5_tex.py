@@ -26,7 +26,7 @@ front_matter = r"""\captionsetup[table]{labelfont=normalfont, labelsep=period, s
 {\large Engineering the Street-to-Home Transition Protocol}\\[0.5cm]
 {\normalsize \textbf{Charles J. DiBella}}\\[0.01cm]
 {\normalsize Principal Systems Architect}\\[0.01cm]
-{\normalsize Working Paper --- June 2026}\\[0.3cm]
+{\normalsize Working Paper, June 2026}\\[0.3cm]
 \textbf{ABSTRACT}
 \vspace{0.2cm}
 \end{center}
@@ -34,7 +34,13 @@ front_matter = r"""\captionsetup[table]{labelfont=normalfont, labelsep=period, s
 \setstretch{1.15}
 \noindent
 
-Working Paper 4 of this series defined Relational Dignity Infrastructure (RDI) as the systematically designed social environment that produces ontological security, sustains identity capital accumulation, and maintains individual recognition within the MDI tower architecture. That paper identified two integration gaps requiring specification: the Relational Intake Protocol, grounding the warm offer in Porges's polyvagal neuroception architecture, and the Social Network Transition Protocol, operationalizing Social Network Analysis methodology for pod assignment. This paper executes both specifications and appends a third contribution: a systematic political economy of opposition analysis cataloging the eight objection categories the MDI-RDI model will encounter at deployment, with sourced counterpoints derived from the empirical and theoretical literature. The Relational Intake Protocol is specified as a three-state Autonomic Routing Matrix that determines approach vector, physical posture, and verbal script based on the observable autonomic state of the individual at the moment of contact, grounding the clinical principle that a refusal recorded in dorsal-vagal shutdown is a defense reflex, not a cognitive refusal of housing. The Social Network Transition Protocol is specified as a four-domain interview instrument, a reciprocity-weighted scoring algorithm, and a Process 4 pod assignment logic with four priority-ordered constraints. Together these specifications operationalize the two most consequential relational decisions in the street-to-home pipeline: who makes the offer and how, and who lives with whom after the offer is accepted. The political economy analysis establishes that the eight principal objection categories --- fiscal efficiency, market libertarian, NIMBY, Housing First fidelity, civil libertarian, incumbent provider, regulatory-permitting, and academic-methodological --- are each answerable from within the MDI-RDI evidence base, existing California law, and documented international operational outcomes, and that the cumulative architecture of the MDI model has been structured to reduce the specific friction that each objection category represents.
+Working Paper 4 of this series defined Relational Dignity Infrastructure (RDI) as the systematically designed social environment that produces ontological security, sustains identity capital accumulation, and maintains individual recognition within the MDI tower architecture. That paper identified two integration gaps requiring specification: the Relational Intake Protocol, grounding the warm offer in Porges's polyvagal neuroception architecture, and the Social Network Transition Protocol, operationalizing Social Network Analysis methodology for pod assignment. This paper executes both specifications and appends a third contribution: a systematic political economy of opposition analysis cataloging the eight objection categories the MDI-RDI model will encounter at deployment, with sourced counterpoints derived from the empirical and theoretical literature.
+
+\vspace{0.2cm}
+The Relational Intake Protocol is specified as a three-state Autonomic Routing Matrix that determines approach vector, physical posture, and verbal script based on the observable autonomic state of the individual at the moment of contact, grounding the clinical principle that a refusal recorded in dorsal-vagal shutdown is a defense reflex, not a cognitive refusal of housing. The Social Network Transition Protocol is specified as a four-domain interview instrument, a reciprocity-weighted scoring algorithm, and a Process 4 pod assignment logic with four priority-ordered constraints. Together these specifications operationalize the two most consequential relational decisions in the street-to-home pipeline: who makes the offer and how, and who lives with whom after the offer is accepted.
+
+\vspace{0.2cm}
+The political economy analysis establishes that the eight principal objection categories, including fiscal efficiency, market libertarian, NIMBY, Housing First fidelity, civil libertarian, incumbent provider, regulatory-permitting, and academic-methodological, are each answerable from within the MDI-RDI evidence base, existing California law, and documented international operational outcomes. The cumulative architecture of the MDI model has been structured to reduce the specific friction that each objection category represents.
 
 \end{minipage}
 \end{titlepage}
@@ -80,7 +86,7 @@ DiBella, C.J. (2026). Relational Dignity Infrastructure: Engineering the Street-
 \noindent\textbf{Statement of Necessity}\\[1pt]
 A theoretical framework without operational specifications is a research contribution without deployment capacity. Working Paper 4 named the relational layer and established its production conditions. This paper writes the two field manuals that the relational layer requires to move from theoretical specification to operational practice. The Autonomic Routing Matrix is the manual for the outreach worker on the street. The Social Network Analysis pipeline is the manual for the Process 4 data administrator managing pod assignments. Neither document existed before this paper. Both are required before the warm offer can be executed with relational fidelity at scale.
 
-The political economy appendix exists because a deployment-oriented paper cannot present operational specifications without acknowledging the organized opposition those specifications will face. The academic literature on public goods provision (Olson, 1965), bureaucratic rent-seeking (Buchanan and Tullock, 1962), and high-modernist institutional failure (Scott, 1998) establishes that well-designed proposals consistently fail against concentrated incumbent resistance unless the proposal's deployment architecture explicitly addresses each resistance mechanism. This paper addresses each.
+The political economy appendix exists because a deployment-oriented paper cannot present operational specifications without acknowledging the organized opposition those specifications will face. The academic literature on public goods provision published by Olson in 1965, bureaucratic rent-seeking established by Buchanan and Tullock in 1962, and high-modernist institutional failure documented by Scott in 1998 establishes that well-designed proposals consistently fail against concentrated incumbent resistance unless the proposal's deployment architecture explicitly addresses each resistance mechanism. This paper addresses each.
 
 The field evidence grounding the relational intake specification is drawn in part from DiBella's own longitudinal street outreach documentation, in which a fixed-schedule, needs-responsive, unconditional-regard outreach methodology produced documented trust accumulation over repeated encounters with chronically street-present individuals on Skid Row, Los Angeles. The autonomic state classification in the Routing Matrix is not a theoretical import from clinical psychology. It is a formalization of what that field practice learned empirically: that approach vector, physical posture, and verbal script must match the observable neurological state of the individual, not the institutional preference of the worker.
 
@@ -154,10 +160,10 @@ tex_body = tex_body.replace(table1_md, table1_tex)
 
 table2_md = """| Metric | Verification Action | Algorithmic Weight |
 | :--- | :--- | :--- |
-| \\textbf{Reciprocity (Verified)} | Both nodes confirm the tie independently | \\textbf{+3} (Primary Cluster Anchor) |
-| \\textbf{Reciprocity (Unverified)} | One node denies or is unavailable | \\textbf{0} (Discard) |
-| \\textbf{Density (Hub)} | Node named by three or more individuals in the encampment | \\textbf{+2} (Central Hub) |
-| \\textbf{Toxicity (Risk)} | Node named as threat by any verified node | \\textbf{-5} (Isolation Flag) |"""
+| \\textbf{Reciprocity, Verified} | Both nodes confirm the tie independently | \\textbf{+3}, Primary Cluster Anchor |
+| \\textbf{Reciprocity, Unverified} | One node denies or is unavailable | \\textbf{0}, Discard |
+| \\textbf{Density, Hub} | Node named by three or more individuals in the encampment | \\textbf{+2}, Central Hub |
+| \\textbf{Toxicity, Risk} | Node named as threat by any verified node | \\textbf{-5}, Isolation Flag |"""
 
 table2_tex = """\\begin{table}[H]
 \\renewcommand{\\arraystretch}{1.2}
@@ -165,10 +171,10 @@ table2_tex = """\\begin{table}[H]
 \\toprule
 \\textbf{Metric} & \\textbf{Verification Action} & \\textbf{Algorithmic Weight} \\\\
 \\midrule
-\\textbf{Reciprocity (Verified)} & Both nodes confirm the tie independently & \\textbf{+3} (Primary Cluster Anchor) \\\\
-\\textbf{Reciprocity (Unverified)} & One node denies or is unavailable & \\textbf{0} (Discard) \\\\
-\\textbf{Density (Hub)} & Node named by three or more individuals in the encampment & \\textbf{+2} (Central Hub) \\\\
-\\textbf{Toxicity (Risk)} & Node named as threat by any verified node & \\textbf{$-5$} (Isolation Flag) \\\\
+\\textbf{Reciprocity, Verified} & Both nodes confirm the tie independently & \\textbf{+3}, Primary Cluster Anchor \\\\
+\\textbf{Reciprocity, Unverified} & One node denies or is unavailable & \\textbf{0}, Discard \\\\
+\\textbf{Density, Hub} & Node named by three or more individuals in the encampment & \\textbf{+2}, Central Hub \\\\
+\\textbf{Toxicity, Risk} & Node named as threat by any verified node & \\textbf{$-5$}, Isolation Flag \\\\
 \\bottomrule
 \\end{tabularx}
 \\end{table}"""
