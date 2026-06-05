@@ -3,7 +3,7 @@
 **Title:** Relational Engineering Specifications: The Operational Architecture of the Warm Offer, Social Network Transition Protocol, and Deployment Counterpoint Framework
 **Author:** Charles J. DiBella, Principal Systems Architect
 **Series:** Material Dignity Infrastructure Working Paper 5
-**Version:** Production Draft — June 2026
+**Version:** Production Draft, June 2026
 
 ---
 
