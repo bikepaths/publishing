@@ -59,10 +59,10 @@ Relational intake protocol, polyvagal theory, autonomic routing, neuroception, s
 
 This paper is the fifth working paper in the Material Dignity Infrastructure series:
 
-- **MDI-A** (SSRN 5968756): Distributed Stewardship Model — governance architecture
-- **MDI-B** (SSRN 6211658): Structural Misalignment and Surplus Shelter Capacity — national diagnosis
-- **MDI-C** (SSRN 6579600): Los Angeles Metropolitan Stabilization — full industrial specification
-- **MDI-D** (forthcoming): Relational Dignity Infrastructure — theoretical framework and production conditions
-- **MDI-E (this paper)**: Relational Engineering Specifications — operational field manuals and deployment counterpoint
+- **MDI-A** (SSRN 5968756): Distributed Stewardship Model, governance architecture
+- **MDI-B** (SSRN 6211658): Structural Misalignment and Surplus Shelter Capacity, national diagnosis
+- **MDI-C** (SSRN 6579600): Los Angeles Metropolitan Stabilization, full industrial specification
+- **MDI-D** (SSRN 6881539): Relational Dignity Infrastructure, theoretical framework and production conditions
+- **MDI-E (this paper)**: Relational Engineering Specifications, operational field manuals and deployment counterpoint
 
 MDI-D established that the relational layer must be designed to specification, built into the operational architecture, and measured against defined thresholds. This paper writes the specifications. MDI-D without MDI-E is a blueprint without a build manual. This paper provides the build manual for the two operational decisions that determine whether the relational layer functions as designed from day one of tower operation.
