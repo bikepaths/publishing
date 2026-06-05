@@ -19,7 +19,7 @@ This paper closes both gaps and appends a third contribution: a systematic analy
 
 ## II. The Field Evidence Base
 
-The operational parameters in this paper are not derived from theoretical inference alone. Longitudinal street outreach practice on Skid Row, Los Angeles produced empirical observations that the Autonomic Routing Matrix structures into a protocol. That practice is summarized in the foundational paper *Relational Dignity as Infrastructure* published by DiBella in 2026.
+The operational parameters in this paper are not derived from theoretical inference alone. Longitudinal street outreach practice on Skid Row, Los Angeles produced empirical observations that the Autonomic Routing Matrix structures into a protocol. That practice is formalized in Working Paper 4.
 
 The field methodology operated on a fixed weekly schedule at consistent locations. Material offerings, including tobacco, beverages, and small currency, were provided not as incentives but as signals of unconditional regard. The operative question in every encounter was *do you need anything?* Consistency of return was the primary trust-building mechanism. Where a request could not be fulfilled at the moment of contact, explicit commitment to future fulfillment was made and honored. This practice produced observable affective responses across multiple individuals. Those responses, characterized as documented written gratitude, indicated that the experience of being treated as a full person rather than as a service recipient produced qualitatively distinct behavioral responses.
 
@@ -181,7 +181,7 @@ A pod assignment log that separates verified bond partners without a documented 
 
 ## V. Political Economy of Opposition: Compressed Counterpoint Framework
 
-The eight objection categories cataloged in full in the companion research document published by DiBella in 2026 are summarized here with their primary structural counterpoints. Each objection is stated at its maximum force. Each counterpoint is drawn from existing law, peer-reviewed evidence, or documented operational outcome.
+The eight principal objection categories the MDI architecture will encounter at deployment are summarized here with their primary structural counterpoints. Each objection is stated at its maximum force. Each counterpoint is drawn from existing law, peer-reviewed evidence, or documented operational outcome.
 
 The objection taxonomy is not exhaustive, but it captures the eight categories that recur across legislative hearings, editorial boards, academic review, and community opposition processes. The categories were derived from a systematic review of public comment records, published critiques of Housing First and permanent supportive housing programs, and the political economy literature on public goods provision and institutional resistance. Each category represents a distinct stakeholder interest with a distinct mechanism of opposition. The MDI architecture was designed with explicit structural responses to each mechanism rather than post-hoc rhetorical defenses.
 
@@ -253,9 +253,6 @@ DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan S
 
 DiBella, Charles J. *Relational Dignity Infrastructure: The Human Layer Required to Make Material Housing Inhabitable*. SSRN Working Paper 6881539. June 2026.
 
-DiBella, Charles J. "Relational Dignity as Infrastructure: A Field-Based Framework for Sustainable Homeless Outreach." Working paper. 2026b.
-
-DiBella, Charles J. *Political Economy of Opposition: Systematic Objections to the MDI-RDI Architecture and Counterpoint Framework*. MDI Research Document 10. June 2026c.
 
 Grossman, Peter, and Edwin W. Taylor. "A Clarification and Defense of the Theory of Polyvagal Control." *Biological Psychology* 74, no. 2 (2007): 260–268.
 
