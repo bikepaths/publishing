@@ -1,17 +1,18 @@
-\contentsline {section}{\numberline {1}The Two Gaps This Paper Closes}{5}{section.1}%
+\contentsline {section}{\numberline {1}The Two Gaps This Paper Closes}{4}{section.1}%
 \contentsline {section}{\numberline {2}The Field Evidence Base}{5}{section.2}%
 \contentsline {section}{\numberline {3}Gap 1: The Relational Intake Protocol}{6}{section.3}%
 \contentsline {subsection}{\numberline {3.1}The Neuroception Architecture}{6}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}The Autonomic Routing Matrix}{7}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}The Intake Failure Rule}{9}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}The Non-Expiring Offer Protocol}{9}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Gap 2: The Social Network Transition Protocol}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}The Retention Stakes}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}The Assessment Instrument}{10}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Verification and Scoring}{10}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Process 4 Assignment Algorithm}{11}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}The Assignment Failure Rule}{11}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Political Economy of Opposition: Compressed Counterpoint Framework}{12}{section.5}%
-\contentsline {section}{\numberline {6}Integration with WP4 Verification Metrics}{14}{section.6}%
-\contentsline {section}{\numberline {7}Contribution and Sequence}{15}{section.7}%
-\contentsline {section}{References}{16}{section.7}%
+\contentsline {subsection}{\numberline {3.4}State Transition Dynamics}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}The Non-Expiring Offer Protocol}{10}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Gap 2: The Social Network Transition Protocol}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}The Retention Stakes}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The Assessment Instrument}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Verification and Scoring}{13}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Process 4 Assignment Algorithm}{13}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}The Assignment Failure Rule}{14}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Political Economy of Opposition: Compressed Counterpoint Framework}{15}{section.5}%
+\contentsline {section}{\numberline {6}Integration with WP4 Verification Metrics}{19}{section.6}%
+\contentsline {section}{\numberline {7}Contribution and Sequence}{20}{section.7}%
+\contentsline {section}{References}{21}{section.7}%

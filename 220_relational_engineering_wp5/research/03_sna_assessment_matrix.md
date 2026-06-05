@@ -14,7 +14,7 @@ Questions must map material reliance, not subjective friendship.
 | :--- | :--- | :--- |
 | **Material Security** | "When you leave your tent, who watches your gear?" | Identifies primary trust node. |
 | **Metabolic Supply** | "Who do you share food or tobacco with?" | Identifies routine reciprocal nodes. |
-| **Crisis Response** | "If you get sick or attacked, who do you find first?" | Identifies apex reliance node. |
+| **Crisis Response** | "If you get sick or hurt, who do you find first?" | Identifies apex reliance node. |
 | **Toxicity Identification** | "Is there anyone here you need to stay away from?" | Identifies predator/parasite nodes requiring isolation. |
 
 ---
