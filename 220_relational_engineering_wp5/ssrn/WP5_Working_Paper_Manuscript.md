@@ -221,7 +221,7 @@ DiBella, Charles J. *Material Dignity Infrastructure: Structural Misalignment an
 
 DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600. May 2026.
 
-DiBella, Charles J. *Relational Dignity Infrastructure: The Human Layer Required to Make Material Housing Inhabitable*. SSRN Working Paper (Abstract ID Pending). May 2026.
+DiBella, Charles J. *Relational Dignity Infrastructure: The Human Layer Required to Make Material Housing Inhabitable*. SSRN Working Paper 6881539. June 2026.
 
 DiBella, Charles J. "Relational Dignity as Infrastructure: A Field-Based Framework for Sustainable Homeless Outreach." Working paper. 2026b.
 
