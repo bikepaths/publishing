@@ -118,7 +118,7 @@ def main():
 
 \\vspace{{8pt}}
 \\noindent\\textbf{{Suggested Citation}}\\\\[1pt]
-DiBella, C.J. (2026). {title_main.strip()}: {title_sub.strip()}. {series_str.strip()}. Working Paper, {date_str.strip()}.
+DiBella, C.J. (2026). {title_main.strip()}: {title_sub.strip()}. {series_str.strip()}, {date_str.strip()}.
 
 \\newpage
 

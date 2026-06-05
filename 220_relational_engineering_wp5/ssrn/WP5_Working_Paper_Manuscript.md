@@ -253,7 +253,6 @@ DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan S
 
 DiBella, Charles J. *Relational Dignity Infrastructure: The Human Layer Required to Make Material Housing Inhabitable*. SSRN Working Paper 6881539. June 2026.
 
-
 Grossman, Peter, and Edwin W. Taylor. "A Clarification and Defense of the Theory of Polyvagal Control." *Biological Psychology* 74, no. 2 (2007): 260–268.
 
 Lee, Sugie, and Yena Song. "The Effect of Supportive Housing on Surrounding Property Values." *Housing Policy Debate* 29, no. 1 (2019): 162–176.
