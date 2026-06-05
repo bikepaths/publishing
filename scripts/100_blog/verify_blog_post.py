@@ -176,6 +176,10 @@ def verify_file(filepath):
     if missing_tags:
         print(f"[FAIL] Pass 3: Missing required metadata tags: {missing_tags}")
         return False
+    
+    if not metadata['d'].strip():
+        print("[FAIL] Pass 3: Description ('d') tag is empty.")
+        return False
 
     # Enforce allowed category taxonomy check
     ALLOWED_CATEGORIES = ['society', 'skills', 'systems', 'money', 'nature', 'technology', 'adventure', 'health', 'history', 'mind']
@@ -214,8 +218,10 @@ def verify_file(filepath):
 
     if not is_draft:
         filename_parts = filename.split("_")
-        if len(filename_parts) >= 2:
+        if len(filename_parts) >= 3:
             filename_tags = [t.strip() for t in filename_parts[1].split(",")]
+            filename_slug = filename_parts[-1].replace(".md", "")
+            
             if filename_tags[0] != primary_category:
                 print(f"[FAIL] Pass 3: Filename primary category '{filename_tags[0]}' does not match metadata primary category '{primary_category}'")
                 return False
@@ -229,6 +235,28 @@ def verify_file(filepath):
             if sorted(filename_tags) != sorted(meta_tags):
                 print(f"[FAIL] Pass 3: Filename tags {filename_tags} do not match metadata tags {meta_tags}")
                 return False
+            expected_slug = None
+            factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
+            if os.path.isfile(factoid_path):
+                with open(factoid_path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        if line.startswith("- Original Filename:"):
+                            orig_file = line.split(":", 1)[1].strip()
+                            orig_parts = orig_file.replace(".md", "").split("_")
+                            expected_slug = orig_parts[-1]
+                            break
+            
+            if not expected_slug:
+                expected_slug = metadata['t'].strip().lower().replace(" ", "-")
+                expected_slug = re.sub(r'[^a-z0-9\-]', '', expected_slug)
+                expected_slug = re.sub(r'-+', '-', expected_slug).strip("-")
+            
+            if filename_slug != expected_slug:
+                print(f"[FAIL] Pass 3: Filename slug '{filename_slug}' does not match expected slug '{expected_slug}'")
+                return False
+        else:
+            print("[FAIL] Pass 3: Posted filename format requires YYYY-MM-DD-HH-MM-SS_tags_slug.md layout.")
+            return False
 
     print("[PASS] Pass 3: Metadata integrity verified.")
 

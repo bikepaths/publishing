@@ -292,6 +292,15 @@ def deploy_and_cleanup(posted_file):
             print(f"Error uploading image: {err}")
             return False
 
+    final_posted_path = os.path.join(blog_dir, "posted", filename)
+    if os.path.dirname(os.path.abspath(posted_file)) != os.path.dirname(os.path.abspath(final_posted_path)):
+        try:
+            os.rename(posted_file, final_posted_path)
+            print(f"Moved staged file to posted: {final_posted_path}")
+        except OSError as err:
+            print(f"Error moving staged file: {err}")
+            return False
+
     factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
     
     orig_filename = None
@@ -486,7 +495,6 @@ def promote_draft(draft_file):
                     break
     
     if not slug:
-        # Fallback: slugify the title from the draft
         title_match = re.search(r'<!--t\s+(.*?)\s+t-->', content)
         if title_match:
             title_text = title_match.group(1).strip()
@@ -499,14 +507,13 @@ def promote_draft(draft_file):
         return None
 
     posted_filename = f"{timestamp}_{tags}_{slug}.md"
-    posted_path = os.path.join(blog_dir, "posted", posted_filename)
+    staging_path = os.path.join(blog_dir, "drafts", posted_filename)
     
-    os.makedirs(os.path.dirname(posted_path), exist_ok=True)
-    with open(posted_path, "w", encoding="utf-8") as f:
+    with open(staging_path, "w", encoding="utf-8") as f:
         f.write(content)
         
-    print(f"[SUCCESS] Draft promoted to: {posted_path}")
-    return posted_path
+    print(f"[SUCCESS] Draft staged for deployment: {staging_path}")
+    return staging_path
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Procedural script for refactoring oldposts.")
