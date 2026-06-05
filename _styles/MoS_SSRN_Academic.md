@@ -23,3 +23,16 @@ Formal academic register. Precision over narrative. Evidence-based argumentation
 - Double-spaced, 1-inch margins.
 - Page numbers in header, right-aligned.
 - References in hanging indent format.
+
+## Colons and em-dashes
+
+Every body-text colon and em-dash must be removed and converted into one of the following four structures depending on its function:
+
+- Appositive → folded in with a relative clause or comma ("a property of…" rather than ": a property of…")
+- Series introduction → converted to a full declaratory sentence preceding the list
+- Causal elaboration → broken at the period with the elaboration made its own sentence
+- Contrast structure (not X but Y) → rewritten as "rather than" or "where/when" subordinate clauses
+
+Bibliography colons within journal citation metadata are citation-format obligatory and were not touched.
+
+

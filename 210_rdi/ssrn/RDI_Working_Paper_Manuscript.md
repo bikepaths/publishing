@@ -3,7 +3,7 @@
 **Charles J. DiBella**
 *Principal Systems Architect*
 *Material Dignity Infrastructure Working Paper 4*
-*May 2026*
+*June 2026*
 
 ---
 

@@ -14,10 +14,10 @@ To those who believe that reform requires years of legislative effort, consider 
 
 Physical floor is moral necessity because biological survival is precondition for personhood. Without physical substrate, human rights are empty concepts. Brain decay destroys cognitive capacity. Individual cannot exercise agency or choice without functioning brain. Defending physical body is first duty. Other moral claims depend on survival.
 
-This is not compassionate conservatism. It is physics. To rescue the person, we must first stabilize the organism. To rebuild the social contract, we must secure the biological foundation. This approach recognizes that dignity precedes choice. It acknowledges that moral obligation arises from vulnerability, not from consent.
+This is not compassionate conservatism. It is physics. To rescue the person, we must first stabilize the organism. To rebuild the social contract, we must protect the biological foundation. This approach recognizes that dignity precedes choice. It acknowledges that moral obligation arises from vulnerability, not from consent.
 
-Pump handle metaphor works because it is simple, visceral. It represents direct physical intervention. Removing pump handle stops cholera. Getting person inside stops brain decay. Both actions are immediate and effective. Both bypass bureaucracy and debate. Both prioritize life over procedure.
+Pump handle metaphor works because it is visceral and immediate. It represents unmediated physical intervention. Removing pump handle stops cholera. Getting person inside stops brain decay. Both actions are immediate and effective. Both bypass bureaucracy and debate. Both prioritize life over procedure.
 
-This approach aligns with natural law but without theological assumptions. Survival is biological imperative, not divine command. Dignity arises from human form, not from cognitive performance. Moral obligation stems from vulnerability, not from consent. This framework applies to all humans regardless of belief. It provides secular foundation for intervention. 
+This approach aligns with natural law but without theological assumptions. Survival is biological imperative, not divine command. Dignity arises from human form, not from cognitive performance. Moral obligation stems from vulnerability, not from consent. This thesis applies to all humans regardless of belief. It provides secular foundation for intervention. 
 
 

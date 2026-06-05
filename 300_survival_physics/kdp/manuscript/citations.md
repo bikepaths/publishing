@@ -10,6 +10,10 @@ California Legislative Analyst's Office. *State Spending on Homelessness Program
 
 United States Department of Housing and Urban Development. *The Annual Homelessness Assessment Report (AHAR) to Congress*. Washington, D.C.: HUD, 2025.
 
+McCloskey, Deirdre N. *Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World*. Chicago: University of Chicago Press, 2016.
+
+Rosenthal, Stuart S. "Are Private Markets and Filtering a Viable Source of Low-Income Housing?" *American Economic Review* 104, no. 2 (2014): 687–706.
+
 ## Chapter Two: The Vocabulary of Invisibility
 
 Giddens, Anthony. *Modernity and Self-Identity: Self and Society in the Late Modern Age*. Stanford: Stanford University Press, 1991.
@@ -58,11 +62,21 @@ Arendt, Hannah. *Eichmann in Jerusalem: A Report on the Banality of Evil*. New Y
 
 Arendt, Hannah. *The Human Condition*. Chicago: University of Chicago Press, 1958.
 
+Buchanan, James M., and Gordon Tullock. *The Calculus of Consent: Logical Foundations of Constitutional Democracy*. Ann Arbor: University of Michigan Press, 1962.
+
+Cowen, Tyler. *The Complacent Class: The Self-Defeating Quest for the American Dream*. New York: St. Martin's Press, 2017.
+
+Scott, James C. *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. New Haven: Yale University Press, 1998.
+
 ## Chapter Ten: The Legitimacy of Compelled Care
 
 Mill, John Stuart. *On Liberty*. Edited by Stefan Collini. Cambridge: Cambridge University Press, 1989 (originally published 1859).
 
 Dworkin, Gerald. *The Theory and Practice of Autonomy*. Cambridge: Cambridge University Press, 1988.
+
+Porges, Stephen W. *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. New York: Norton, 2011.
+
+Szasz, Thomas. *The Therapeutic State: Psychiatry in the Mirror of Current Events*. Buffalo: Prometheus Books, 1984.
 
 ## Chapter Eleven: John Snow and the Moral Physicist
 
@@ -79,5 +93,9 @@ MacIntyre, Alasdair. *After Virtue: A Study in Moral Theory*. 3rd ed. Notre Dame
 ## Chapter Thirteen: A Different Starting Point
 
 DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600. May 2026.
+
+Olson, Mancur. *The Logic of Collective Action: Public Goods and the Theory of Groups*. Cambridge: Harvard University Press, 1965.
+
+Scott, James C. *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. New Haven: Yale University Press, 1998.
 
 :::
