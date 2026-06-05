@@ -1,0 +1,16 @@
+# Relational Engineering Specifications: Operational Protocols for Outreach Contact and Pod Assignment
+
+**Objective:**
+Convert the theoretical construct of "relational dignity" into a field-executable engineering specification. This paper bridges the ethnographic bedrock of street-level trust formation with the neurobiological architecture of the autonomic nervous system to produce a standardized, scalable operational manual for the Material Dignity Infrastructure (MDI) street-to-home pipeline.
+
+**Core Argument:**
+Relational dignity is not an abstract clinical posture; it is a measurable production output requiring precise structural preconditions. The standard institutional intake model fails because it subjects chronically stressed individuals to rigid administrative timelines and vertical compliance demands, triggering autonomic defense states. Sustainable transition requires replacing vertical compliance with horizontal, needs-responsive engagement grounded in consistency of return and unconditional regard.
+
+**Key Mechanisms:**
+1. **The Ethnographic Bedrock:** Field methodology dictates that trust is built through fixed-schedule, non-contingent material offerings (food, tobacco) that signal unconditional regard rather than incentivize behavior. The operative field protocol replaces institutional intake questions with a single inquiry: *do you need anything?* (Note: The foundational field data is partial. It systematically documents successful contact initiation rates and material exchange patterns, but lacks longitudinal tracking of autonomic state shifts and physiological baselines. It serves as the motivating context that demands the protocol, not its empirical validation.)
+2. **The Autonomic Routing Matrix:** Drawing on the behavioral taxonomy of polyvagal theory, this protocol trains outreach workers to match their approach vector, energy, and verbal script to the observable autonomic state of the resident (shutdown, mobilized defense, or social engagement). State-mismatched contact produces relational harm; state-matched contact deposits co-regulation evidence.
+3. **The Non-Expiring Offer:** Replaces arbitrary institutional expiration windows with a persistent, revocable-only-by-the-resident housing offer, aligning the timeline of transition with the biological timeline of trust formation.
+4. **The Social Network Transition Protocol:** Acknowledging that social isolation at 90 days is the primary driver of housing failure, this algorithm maps existing peer-to-peer survival networks on the street via material-reliance verified ties, and assigns individuals to residential Dunbar sub-pods to preserve the intact relational infrastructure during the housing transition.
+
+**Conclusion:**
+Operationalizing relational dignity requires abandoning the therapeutic state's demand for behavioral prerequisites. By mapping observed street-level ethnographic practice onto neurobiological state assessment, the MDI pipeline ensures the individual's existing social capital survives the transition from street to tower. The protocol's assignment weights and misclassification ceilings are explicit design parameters requiring prospective calibration through the Singular Prototype Threshold, isolating what must be built from what must be proven.
