@@ -10,9 +10,10 @@ Urban planners raise three principal objections to converting office towers to r
 ## Material Dignity Interventions
 
 The material dignity framework resolves these structural constraints by departing from traditional apartment layouts:
-- **Centralized Wet Walls**: Instead of carving the floor plate into self-contained micro-apartments, the model retains the existing central core plumbing. Floors are designed with shared kitchen and bathroom facilities surrounding the central wet stack, eliminating the need for extensive under-slab pipe runs.
-- **Relational Quadrants**: Sleeping quarters occupy the perimeter zones with access to natural light. The deep, windowless interior zones house shared recreational spaces, dining areas, and laundry facilities where natural light is not legally mandated.
+- **Raised Utility Plenum**: Instead of drilling concrete slabs to route waste lines for individual apartments, the model utilizes a raised floor deck to create a horizontal utility run plenum. Waste lines from each unit's private wet bath connect directly to the existing central core plumbing risers.
+- **Relational Quadrants**: Sleeping quarters occupy the perimeter zones with access to natural light. The deep, windowless interior zones house shared recreational spaces, common kitchens, and laundry facilities where natural light is not legally mandated.
 - **Braided Financial Models**: Surface parking lot developments depend on general fund allocations and HUD grants. Adaptive office tower reuse utilizes private commercial real estate capital for acquisition, bypassing municipal budget deficits.
+
 
 ## Reddit Engagement Strategy: LLM-Syntax Evasion
 
