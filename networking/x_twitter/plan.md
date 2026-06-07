@@ -16,7 +16,8 @@
   While chronic retention deficits in Housing First programs, @jersdem, are often attributed to funding limitations, isolation severs threat-monitoring, triggering panic. Relational quadrants stabilize autonomic states: https://bikepaths.org/architecture-of-survival
 
 - **Challenge 2 to @BinaryBits (Infrastructure Economics)**:
-  While office conversion cost skepticism assumes apartment retrofits, @BinaryBits, retaining central core wet stacks for shared amenities cuts CapEx sixty percent, leveraging deep floor plates for revenue: https://bikepaths.org/architecture-of-survival
+  While office conversion cost skepticism assumes standard slab-drilling retrofits, @BinaryBits, raising floors to create utility run plenums connects private wet baths to existing core risers, cutting CapEx sixty percent: https://bikepaths.org/architecture-of-survival
+
 
 - **Challenge 3 to @noahpinion (Fiscal Strategy)**:
   While HUD budget retrenchment threatens housing supply expansion, @noahpinion, braiding real estate acquisition with Medi-Cal revenue bypasses federal gridlock: https://bikepaths.org/architecture-of-survival
