@@ -25,6 +25,7 @@ Twitter threads must avoid looking like pre-packaged marketing copies. To captur
 3. **Tweet 3 (Infrastructure)**: Retrofitting office towers into self-contained apartments requires drilling concrete slabs to run private utility lines. Plumbing installation expenses quickly exceed acquisition costs.
 4. **Tweet 4 (Blueprint)**: Retain central core wet stacks. Create shared dining and bathing cores. Sleep units occupy windowed perimeters while deep interior zones house shared recreational hubs, reducing conversion capital expenditures sixty percent.
 5. **Tweet 5 (Finance)**: Braided finance mechanisms split physical property assets from operational service revenue. Real estate investment trusts fund tower acquisition while managed care billing codes support ongoing relational services, bypassing HUD grants.
-6. **Tweet 6 (Proof)**: Targeted programs reduced veteran homelessness by fifty-six percent since 2010. Chronic homelessness remains choice of policy execution, not intractable mystery. Complete structural breakdown and empirical references documented here: https://bikepaths.org/blog/content/chas/blog/systems/image/scheduled/2026-06-12-01-01-01_systems,homelessness,structural-change,psychology,relationships_the-abundance-paradox-wealth-neurology-and-the-architecture-of-survival.md
+6. **Tweet 6 (Proof)**: Targeted programs reduced veteran homelessness by fifty-six percent since 2010. Chronic homelessness remains choice of policy execution, not intractable mystery. Complete structural breakdown and empirical references documented here: https://bikepaths.org/architecture-of-survival
+
 
 
