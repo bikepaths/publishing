@@ -28,13 +28,12 @@ Twitter threads must avoid looking like pre-packaged marketing copies. To captur
 6. **Tweet 6 (Proof)**: Targeted programs reduced veteran homelessness by fifty-six percent since 2010. Chronic homelessness is a choice of execution, not an intractable problem. Link to full SSRN draft.
 
 
-## Visual Asset Prompts
+## Generated Programmatic Data Visualizations
 
-### Visual 1: Autonomic Housing Blueprint
-A detailed schematic showing three neurological states in relation to housing. Left: Ventral Vagal - social engagement, open to placement. Center: Sympathetic Arousal - fight/flight, offline prefrontal cortex. Right: Dorsal Vagal - shutdown, service resistant. Use a dark background with orange and teal indicators. Typography must be clean sans-serif.
+- **Chart 1: california_spending_inefficiency.png**
+  Dual-axis chart plotting total California homeless PIT count (151,278 to 187,084) against cumulative state expenditures ($0B to $24B) from 2019 to 2024. Demonstrates system-wide spending inefficiency.
+- **Chart 2: veteran_homelessness_decline.png**
+  Line plot mapping U.S. homeless veteran population from 2010 to 2025. Highlights fifty-six percent decline achieved via targeted funding programs.
+- **Chart 3: hud_budget_cuts.png**
+  Horizontal bar chart illustrating proposed 2026 federal HUD retrenchment parameters (forty-four percent overall budget cut, eighty-four percent CPD staffing cut, and five hundred million dollar public housing reduction).
 
-### Visual 2: Braided Funding Flowchart
-A structural flowchart illustrating resource streams. Left: Private commercial capital funding tower acquisition. Right: Managed care organizations utilizing Medi-Cal billing codes to fund relational outreach. Center: Clustered tower facility. High-contrast layout on charcoal background.
-
-### Visual 3: Conversion Utility Layout
-An architectural draft comparing individual residential plumbing runs with the clustered material dignity layout. Left panel shows chaotic plumbing lines running to every room. Right panel shows central wet wall retention with shared facilities and perimeter sleeping quarters. Blueprint style on dark gray base.
