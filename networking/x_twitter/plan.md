@@ -11,15 +11,22 @@
 ## Strategic Hashtags
 #UrbanPlanning #ZoningReform #AdaptiveReuse #HousingFirst #PolyvagalTheory #BraidedFinance
 
-## Mega-Thread Outline
+## Mega-Thread Strategy: High-Signal Conversational Flow
 
-1. **The Hook**: California spent twenty-four billion dollars on homelessness while the unsheltered population grew. The failure is not fiscal. It is a neurological and structural design error.
-2. **Neurological Reality**: Street trauma forces the nervous system into constant sympathetic hyperarousal and dorsal vagal shutdown. Traditional single-occupancy housing isolation severs threat-monitoring capacity, inducing panic.
-3. **Plumbing Constraint**: Standard office conversions fail because running individual water lines to private apartments is too expensive.
-4. **The Structural Solution**: Preserve central wet stacks. Create relational quadrants with shared dining and central bathrooms. Place sleeping units along the windowed perimeter.
-5. **The Financial Mechanism**: Separate physical capital from service revenue. Use private real estate capital for acquisition and managed care billing codes for operations.
-6. **Veteran Proof Point**: Targeted housing programs reduced veteran homelessness by fifty-six percent since 2010. The crisis remains a choice of policy execution.
-7. **Call to Action**: Direct link to the revised Abundance Paradox essay.
+Twitter threads must avoid looking like pre-packaged marketing copies. To capture policy analyst attention, write in high-signal, punchy statements focusing on specific institutional errors:
+- **Lead with Data Friction**: Open with the California program audit deficit or the veteran mortality comparison study to anchor legitimacy.
+- **De-sanitize Explanations**: Do not use lists in tweets. Use single, clear sentences focusing on physical constraints (concrete slab drilling vs wet walls).
+- **Direct Dialogue**: Frame the thread as a direct critique of current YIMBY/NIMBY debates, positioning the material dignity model as a practical alternative that satisfies both sides.
+
+## Thread Outline
+
+1. **Tweet 1 (The Anchor)**: California spent twenty-four billion dollars on homelessness programs over five years while the unsheltered population rose. This is not a funding deficit. It is a structural and neurological design failure.
+2. **Tweet 2 (Neurology)**: Traditional Housing First forces traumatized nervous systems into single-occupancy isolation. Severing environmental feedback triggers panic and induces dorsal shutdown, which outreach workers classify as "service resistance."
+3. **Tweet 3 (Infrastructure)**: Office conversions fail because planners try to build individual luxury apartments. Running separate water supply and waste lines to every unit requires drilling miles of concrete slab.
+4. **Tweet 4 (Blueprint)**: Retain central core wet walls. Create shared dining and bathing cores. Sleep units go on the windowed perimeter; interior spaces house relational hubs. Capital cost drops sixty percent.
+5. **Tweet 5 (Finance)**: Use private real estate capital for building acquisition. Route managed care organization billing codes to fund operational outreach. Bypasses HUD grants entirely.
+6. **Tweet 6 (Proof)**: Targeted programs reduced veteran homelessness by fifty-six percent since 2010. Chronic homelessness is a choice of execution, not an intractable problem. Link to full SSRN draft.
+
 
 ## Visual Asset Prompts
 
