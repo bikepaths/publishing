@@ -1,15 +1,14 @@
 # X (Twitter) Outreach Campaign: The Abundance Paradox
 
-## Target Accounts for Strategic Engagement
-- **Jerusalem Demsas** - @jersdem: Housing policy commentator. Discusses zoning reform and municipal failure.
-- **Alec Stapp** - @BinaryBits: Co-founder of Institute for Progress. Focuses on supply-side policy.
-- **Devon Zuegel** - @devonzuegel: Writer on municipal systems and urban design.
-- **California YIMBY** - @cayimby: State-level zoning reform coalition.
-- **Casual Urbanist** - @CasualUrbanist: Urban planning analyst.
-- **Municipal Finance Group** - @Cap_and_Trade: Public finance researchers.
+## Target Accounts and Challenge Angles
 
-## Strategic Hashtags
-#UrbanPlanning #ZoningReform #AdaptiveReuse #HousingFirst #PolyvagalTheory #BraidedFinance
+- **Jerusalem Demsas** - Handle: @jersdem. Housing policy commentator.
+  *   *Challenge Angle*: Address support for standard Housing First models. Demonstrate that placing highly traumatized unhoused individuals in single-occupancy isolation severs threat-monitoring systems, triggering panic and dorsal shutdown. This explains failures currently attributed solely to funding and zoning limits.
+- **Alec Stapp** - Handle: @BinaryBits. Co-founder, Institute for Progress.
+  *   *Challenge Angle*: Address skepticism regarding office conversion costs. Explain that calculations assume standard apartment retrofits requiring concrete slab drilling for private lines. Show that retaining central wet stacks and designing relational quadrants cuts CapEx sixty percent, rendering deep commercial floor plates viable.
+- **Noah Smith** - Handle: @noahpinion. Economics commentator.
+  *   *Challenge Angle*: Address reliance on state/federal grant funding to scale housing supply. Present braided finance models utilizing real estate investment trusts for acquisition and Medi-Cal billing for operations as primary mechanisms to expand stabilization assets independent of HUD budget gridlocks.
+
 
 ## Mega-Thread Strategy: High-Signal Conversational Flow
 
