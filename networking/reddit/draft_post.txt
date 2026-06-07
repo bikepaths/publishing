@@ -1,0 +1,9 @@
+TITLE:
+Novice question: Why can't we use raised floor decks to solve plumbing core issues in office conversions?
+
+BODY:
+I read several critiques of office to residential conversions, specifically Grabar's Slate piece, explaining that drilling concrete slabs for individual plumbing lines remains cost-prohibitive. 
+
+Is it not viable to raise floors to create horizontal utility run plenums? If waste lines run horizontally from private wet baths to existing central plumbing cores, projects avoid slab penetrations entirely. 
+
+Sorry if this is naive question, just trying to understand physical constraints.
