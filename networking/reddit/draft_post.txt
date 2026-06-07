@@ -1,9 +1,48 @@
 TITLE:
+
 Novice question: Why can't we use raised floor decks to solve plumbing core issues in office conversions?
 
 BODY:
-I read several critiques of office to residential conversions, specifically Grabar's Slate piece, explaining that drilling concrete slabs for individual plumbing lines remains cost-prohibitive. 
 
-Is it not viable to raise floors to create horizontal utility run plenums? If waste lines run horizontally from private wet baths to existing central plumbing cores, projects avoid slab penetrations entirely. 
+I read several critiques of office to residential conversions, including Grabar's Slate piece, "Turning Empty Offices Into Housing Is a Bust" explaining that drilling concrete slabs for individual waste lines remains cost-prohibitive for multi-unit conversions.
+
+Is it not viable to raise floors to create horizontal utility run plenums? If waste lines run horizontally from private wet baths to existing central plumbing cores, projects avoid slab penetrations entirely.
 
 Sorry if this is naive question, just trying to understand physical constraints.
+
+EDIT: Wow, tons of useful replies. To address many of the questions that came up:
+
+1) I had no idea about the structural load limits of office slabs. That makes sense. If we have to reinforce the slab for additional loads, cost immediately balloons. I was picturing lightweight steel frames but didn't account for the slab reinforcement cost.
+
+2) I understand now about the ceiling height reduction. Most 1980s office towers have slab-to-slab heights of 12-14 feet. Raising floors by 18 inches reduces that to 10.5-12.5 feet. Some people replied that this is still adequate for residential (7-foot ceiling minimum plus mechanical space), but others said that aesthetic standards for high-end conversions make this feel cramped. If it reduces overall unit count, that also impacts feasibility.
+
+3) Regarding ventilation, it seems like most people agree that if we keep the kitchen and laundry in interior common spaces, perimeter rooms can rely on natural ventilation from windows. Bathrooms would need mechanical exhaust. I think this aligns with code for common areas but might be tricky for bedrooms in some jurisdictions.
+
+4) Several people mentioned that the plumbing core itself in office buildings often isn't designed to handle the water volume and waste load of residential units. The core might be too small, and the existing risers might not have capacity for additional connections without full replacement.
+
+5) Cost estimates varied widely, but most agreed that even with raised floors, the soft costs (permits, legal fees, project delays from code variances) likely make office conversion more expensive than building new on parking lots. The point about lots being cheaper still holds.
+
+So the consensus seems to be:
+- Office slabs generally can't support added load without reinforcement
+- Ceiling height reduction is a major aesthetic and possibly code concern
+- The central core itself might lack the physical capacity
+- Soft costs and permitting hurdles make it less attractive than new construction
+
+This is really helpful context. The idea of using raised floors to simplify utility runs seems viable in theory, but the structural and regulatory constraints seem to outweigh the benefits for most projects. Thanks everyone for the thoughtful replies!
+
+
+EDIT 2: Interesting tangent developing here about plumbing stack size. Some are saying the existing office core is too small for residential volume, others are replying that the stack size is determined by flow rate, not building type, and office towers are huge. Could someone explain the physics of stack sizing?
+
+From what I understand, vertical risers (stacks) must be large enough to handle peak flow without water backing up. But that's determined by the fixtures connected to it, not the building type. An office with 2000 people using 2000 toilets in 8 hours generates the same total waste volume as 2000 residential units using the same toilets. So the stack has to handle that peak volume regardless of whether it's office or residential, right? 
+
+Unless office buildings have significantly more toilets than residential buildings for the same occupant load? That seems unlikely - bedrooms in residential are more numerous than offices in office buildings, though office toilets are more concentrated in core areas. 
+
+So why would the stack size be different? Is there something about office fixture usage patterns that requires larger stacks? Or is this more of a code issue where residential codes mandate larger minimum stack sizes than office codes, even if the calculated flow rates are identical? 
+
+From an engineering standpoint, if the total flow volume and peak flow rate are the same, the stack diameter should be the same, unless there's a hydraulic factor I'm missing. Could it be about venting requirements? Residential bathrooms are typically clustered in cores, allowing for more efficient venting with larger stacks serving multiple units. In offices, if toilets are more dispersed, it might require more complex venting configurations. 
+
+What am I missing? Just trying to understand the plumbing engineering here. Thanks for the help, everyone.
+
+
+
+
