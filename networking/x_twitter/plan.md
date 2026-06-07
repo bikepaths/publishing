@@ -10,16 +10,16 @@
   *   *Challenge Angle*: Address reliance on state/federal grant funding to scale housing supply. Present braided finance models utilizing real estate investment trusts for acquisition and Medi-Cal billing for operations as primary mechanisms to expand stabilization assets independent of HUD budget gridlocks.
 
 
-## Draft Singleton Challenges
+## Final Singleton Challenges
 
 - **Challenge 1 to @jersdem (Autonomic Neurology)**:
-  Zoning and funding limits fail to explain chronic Housing First retention deficits, @jersdem. Because traumatized nervous systems require environmental feedback, single-occupancy isolation severs threat monitoring to trigger panic. Relational quadrants stabilize autonomic states: https://bikepaths.org/architecture-of-survival
+  While chronic retention deficits in Housing First programs, @jersdem, are often attributed to funding limitations, isolation severs threat-monitoring, triggering panic. Relational quadrants stabilize autonomic states: https://bikepaths.org/architecture-of-survival
 
-- **Challenge 2 to @BinaryBits (Physical Infrastructure)**:
-  Office conversion cost skepticism assumes standard apartment retrofits, @BinaryBits. Drilling concrete slabs for private utility runs remains cost-prohibitive. By retaining central core wet stacks for shared relational quadrants, projects cut CapEx sixty percent while utilizing deep floor plates: https://bikepaths.org/architecture-of-survival
+- **Challenge 2 to @BinaryBits (Infrastructure Economics)**:
+  While office conversion cost skepticism assumes apartment retrofits, @BinaryBits, retaining central core wet stacks for shared amenities cuts CapEx sixty percent, leveraging deep floor plates for revenue: https://bikepaths.org/architecture-of-survival
 
-- **Challenge 3 to @noahpinion (Braided Finance)**:
-  HUD budget retrenchment zeroed local housing grants, @noahpinion. To scale supply under fiscal contraction, programs require independent financing. Braiding private commercial real estate acquisition with Medi-Cal operational billing bypasses federal funding bottlenecks entirely: https://bikepaths.org/architecture-of-survival
+- **Challenge 3 to @noahpinion (Fiscal Strategy)**:
+  While HUD budget retrenchment threatens housing supply expansion, @noahpinion, braiding real estate acquisition with Medi-Cal revenue bypasses federal gridlock: https://bikepaths.org/architecture-of-survival
 
 
 

@@ -21,13 +21,24 @@ Analytical subreddits instantly reject sterile, structured posts. To bypass auto
 - **Socratic Framing**: Enter debates by asking technical questions about plumbing stack regulations or zoning barriers, then introduce the central core model as a potential engineering solution.
 - **Avoid Sterile Phrasing**: Do not use vocabulary associated with AI generation. Keep tone professional but informal.
 
-## Commentary Blueprint for Conversational Threads
+## Optimal Search Queries for r/urbanplanning
+Use these search strings to target active discussion threads:
+1. `office conversion plumbing`
+2. `office residential floor plate`
+3. `office conversion cost per square foot`
+4. `commercial conversion zoning light`
+5. `office conversion feasibility`
+6. `office conversion code requirements`
 
-- **Tactic**: Identify active office conversion posts. Reply to comments discussing plumbing barriers.
-- **Tone**: Pragmatic, peer-to-peer.
-- **Content Flow**: 
-  - Challenge the assumption that conversions require single-occupancy layouts. 
-  - Explain that retaining central wet stacks and designing shared bathroom/kitchen cores drops capital expenditures sixty percent.
-  - Explain that sleeping units are placed along perimeters for natural light while interior zones house shared spaces.
-  - Frame the model as "relational architecture" that preserves unhoused survival networks, explaining the biological failure of isolation (sympathetic arousal).
+## Concrete Comment Templates
+
+### Template 1: Addressing Plumbing/Core Objection
+Plumbing retrofits only remain cost-prohibitive because planners assume standard apartment layouts. Drilling concrete slabs for individual bathrooms ruins project economics. Retaining centralized wet stacks for shared bathroom and kitchen cores cuts CapEx sixty percent, letting developers leverage existing plumbing lines: https://bikepaths.org/architecture-of-survival
+
+### Template 2: Addressing Floor Plate/Window Objection
+Deep commercial floor plates do not prevent conversion if projects abandon traditional apartment walls. Perimeter zones house sleeping units for mandatory window access, while deep interior spaces accommodate shared dining, laundry, and social hubs where natural light is not legally required. Relational clustering makes deep floor plates viable: https://bikepaths.org/architecture-of-survival
+
+### Template 3: Addressing Economics/Funding Objection
+Comparing office conversion to cheap parking lot construction ignores capital flow limits. Surface lot housing relies on depleted general funds and federal grants. Office tower conversions braid private real estate acquisition capital with Medicaid operational billing, bypassing municipal budget deficits: https://bikepaths.org/architecture-of-survival
+
 
