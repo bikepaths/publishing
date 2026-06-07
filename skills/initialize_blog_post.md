@@ -15,7 +15,7 @@
     - `source/` holds facts, data, and notes during development.
     - `archive/` acts as the repository for legacy monoliths and retired source materials.
     - `data/` contains tag metadata (`tags.lang`) and page views (`views.json`).
-5. **State Transition Lifecycle**: Upon successfully compiling and deploying a post to `posted/`, all corresponding research, outlines, and raw materials inside `source/` must be moved to `archive/`.
+5. **State Transition Lifecycle**: Upon successfully compiling and deploying a post to `posted/`, all corresponding research, outlines, and raw materials inside `source/` must be moved to `archive/`. If a post requires revision, systems must copy the existing file from `posted/` into `draft/` with a `_DRAFT.md` suffix. Upon compilation of the revised draft, systems must move the prior posted file to `archive/revised_posts/` before promoting the new version to `posted/`.
 6. **Template Supremacy**: The `skills/` directory dominates all operational processes. Generated content must map against `_template` structures while awaiting finalization of the Manual of Style (`_style`).
 
 
