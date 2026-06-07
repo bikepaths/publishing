@@ -51,19 +51,20 @@ Use account `u/bikepaths` to post this draft within the active `r/urbanplanning`
 
 ## Technical Objection Cheat Sheet (Direct Debate Guide)
 
-When users respond to the thread, counter using these structural and biological constraints:
+When users respond to the thread, counter using these soft, Socratic inquiries:
 
 1. **Objection: "Raised floors reduce ceiling height below residential building code."**
-   *   *Rebuttal*: Commercial office towers from 1980s construction feature slab-to-slab heights of twelve to fourteen feet. Raising floor deck twelve to eighteen inches for utility runs leaves over nine feet of clear head height, exceeding seven-foot residential minimum.
+   *   *Socratic Rebuttal*: Interesting. I looked at slab-to-slab heights for 1980s office towers and saw they are often twelve to fourteen feet. If that is correct, would raising floors twelve to eighteen inches still leave over nine feet of headroom? That seems to exceed seven-foot residential minimum, unless I am missing something about ceiling requirements.
 
 2. **Objection: "Zoning and building codes require natural light in bedrooms."**
-   *   *Rebuttal*: Conversions must abandon standard apartment layouts. Place sovereign cabins along windowed exterior perimeter. Deep, windowless interior floor space is designated for common kitchens, biophilic nodes, laundry, and dining, where natural light is not legally required.
+   *   *Socratic Rebuttal*: Makes sense. If we put sleeping units along windowed exterior walls, and kept deep windowless center space for common kitchens, laundry, and dining, would that satisfy code? Or does building code require natural light in common spaces too.
 
 3. **Objection: "Office floor plates cannot support the weight of two thousand residential units."**
-   *   *Rebuttal*: Modern commercial office towers are engineered to support live loads of eighty pounds per square foot or more. Modular steel-frame cabins distribute load evenly, operating well within structural capacity margins without reinforcing concrete columns.
+   *   *Socratic Rebuttal*: I read that office towers are engineered for live loads of eighty pounds per square foot, whereas residential is only thirty to forty. If we use lightweight modular steel frames for units, would that stay within structural capacity of slab, or would it still need reinforcement.
 
 4. **Objection: "Medicaid billing cannot fund real estate operations."**
-   *   *Rebuttal*: Managed care organizations frequently leverage braided finance streams to support stabilization. Reimbursing clinical, case management, and daily living support services via medical billing codes covers ongoing operational expenses, leaving capital acquisition to private investment trusts.
+   *   *Socratic Rebuttal*: Good point. I was reading about model where private investment funds building purchase, but ongoing services are billed to Medicaid for clinical support. Would that kind of funding bypass municipal budget limits, or is there legal barrier to doing that.
+
 
 
 
