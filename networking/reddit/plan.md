@@ -33,7 +33,8 @@ Use these search strings to target active discussion threads:
 ## Concrete Comment Templates
 
 ### Template 1: Addressing Plumbing/Core Objection
-Plumbing retrofits only remain cost-prohibitive because planners assume standard apartment layouts. Drilling concrete slabs for individual bathrooms ruins project economics. Retaining centralized wet stacks for shared bathroom and kitchen cores cuts CapEx sixty percent, letting developers leverage existing plumbing lines.
+Slab-drilling costs only remain prohibitive because designers try to drop plumbing below the structural deck. By raising the floor to create a horizontal utility run plenum, waste lines from each module's private wet bath connect directly to the existing central plumbing core without drilling the post-tension slab.
+
 
 ### Template 2: Addressing Floor Plate/Window Objection
 Deep commercial floor plates do not prevent conversion if projects abandon traditional apartment walls. Perimeter zones house sleeping units for mandatory window access, while deep interior spaces accommodate shared dining, laundry, and social hubs where natural light is not legally required. Relational clustering makes deep floor plates viable.
