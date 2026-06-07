@@ -33,12 +33,13 @@ Use these search strings to target active discussion threads:
 ## Concrete Comment Templates
 
 ### Template 1: Addressing Plumbing/Core Objection
-Plumbing retrofits only remain cost-prohibitive because planners assume standard apartment layouts. Drilling concrete slabs for individual bathrooms ruins project economics. Retaining centralized wet stacks for shared bathroom and kitchen cores cuts CapEx sixty percent, letting developers leverage existing plumbing lines: https://bikepaths.org/architecture-of-survival
+Plumbing retrofits only remain cost-prohibitive because planners assume standard apartment layouts. Drilling concrete slabs for individual bathrooms ruins project economics. Retaining centralized wet stacks for shared bathroom and kitchen cores cuts CapEx sixty percent, letting developers leverage existing plumbing lines.
 
 ### Template 2: Addressing Floor Plate/Window Objection
-Deep commercial floor plates do not prevent conversion if projects abandon traditional apartment walls. Perimeter zones house sleeping units for mandatory window access, while deep interior spaces accommodate shared dining, laundry, and social hubs where natural light is not legally required. Relational clustering makes deep floor plates viable: https://bikepaths.org/architecture-of-survival
+Deep commercial floor plates do not prevent conversion if projects abandon traditional apartment walls. Perimeter zones house sleeping units for mandatory window access, while deep interior spaces accommodate shared dining, laundry, and social hubs where natural light is not legally required. Relational clustering makes deep floor plates viable.
 
 ### Template 3: Addressing Economics/Funding Objection
-Comparing office conversion to cheap parking lot construction ignores capital flow limits. Surface lot housing relies on depleted general funds and federal grants. Office tower conversions braid private real estate acquisition capital with Medicaid operational billing, bypassing municipal budget deficits: https://bikepaths.org/architecture-of-survival
+Comparing office conversion to cheap parking lot construction ignores capital flow limits. Surface lot housing relies on depleted general funds and federal grants. Office tower conversions braid private real estate acquisition capital with Medicaid operational billing, bypassing municipal budget deficits.
+
 
 
