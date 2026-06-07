@@ -7,11 +7,15 @@
     - Complex / Long-document tasks -> Claude Opus 4.6 (Thinking)
     - Rapid Image/PDF/Multi-source processing -> Gemini 3.5 Flash (High)
     - Fallback -> GPT-OSS 120B (Medium)
-2. **Remote Asset Verification**: When processing files containing `<!--image [URL] image-->` metadata, systems must scan local `img/` directories for matching filenames. If local files remain absent, systems must execute `wget` targeting the specific remote URL before initiating synchronization protocols.
+2. **Remote Asset Verification**: When processing files containing `<!--image [URL] image-->` metadata, systems must scan local `img/` directories for matching filenames. If local files remain absent, systems must execute `wget` targeting the specific remote URL before initiating synchronization protocols. If no reference image is found, assign `/home/user0/git/publishing/100_blog/img/visuals-334.jpg` as the fallback image.
 3. **Deployment Architecture**: `/usr/local/bin/bikepaths-sync` operates as the mandatory global synchronization trigger.
-4. **Strict Path Routing**: The `100_blog/` directory functions as an isolated development environment. 
-    - Active drafts remain in the designated development area.
-    - Compilations target `posted/` environments.
-    - Legacy monolithic documents require mandatory transfer into `archive/`.
-5. **Template Supremacy**: The `skills/` directory dominates all operational processes. Generated content must map against `_template` structures while awaiting finalization of the Manual of Style (`_style`).
+4. **Strict Path Routing**: The `100_blog/` directory functions as an isolated development environment containing designated partitions:
+    - `draft/` serves as the active working directory.
+    - `posted/` houses final compiled and deployed posts.
+    - `source/` holds facts, data, and notes during development.
+    - `archive/` acts as the repository for legacy monoliths and retired source materials.
+    - `data/` contains tag metadata (`tags.lang`) and page views (`views.json`).
+5. **State Transition Lifecycle**: Upon successfully compiling and deploying a post to `posted/`, all corresponding research, outlines, and raw materials inside `source/` must be moved to `archive/`.
+6. **Template Supremacy**: The `skills/` directory dominates all operational processes. Generated content must map against `_template` structures while awaiting finalization of the Manual of Style (`_style`).
+
 
