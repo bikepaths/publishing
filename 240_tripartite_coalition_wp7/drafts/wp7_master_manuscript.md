@@ -8,7 +8,7 @@
 
 The preceding six papers in this series established the governance architecture, diagnosed national structural misalignment, specified the Los Angeles metropolitan stabilization pipeline, defined the relational layer required within that pipeline, operationalized the field manuals for autonomic routing and social network transition, and cataloged the political economy of opposition. Each paper assumed a prototype would be built. None specified who builds it, through what financial instrument, or how first-mover capital risk is absorbed before the self-executing replication mechanism activates. This paper closes that gap. It translates the Material Dignity Infrastructure into the language capital markets require before committing funds: a capitalization table with defined tranches, a revenue model anchored to sovereign-backed Medi-Cal billing codes, a thirty-six-month occupancy ramp projecting stabilized yield, and a governance structure that insulates physical assets from operational liability. The result is an investable asset specification for the acquisition, conversion, and operation of One California Plaza as the MDI prototype site.
 
-## 1. The First-Mover Problem
+## I. The First-Mover Problem
 
 Every self-executing replication mechanism requires a demonstration that precedes replication. Capital markets do not replicate theoretical models. They replicate observed financial performance. The MDI architecture specifies that once One California Plaza demonstrates per capita cost reductions exceeding fifty thousand dollars at the three-hundred-sixty-five-day measurement window, institutional capital replicates the mechanism autonomously through standard real estate investment channels. That replication sequence is credible because it relies on proven capital market behavior rather than philanthropic goodwill or legislative appropriation.
 
@@ -16,7 +16,7 @@ The sequence contains a structural vulnerability at origin. The prototype must p
 
 This is not a social movement problem. Social movements generate political pressure; they do not capitalize real estate acquisitions. This is not a government procurement problem. Municipal procurement channels are structurally captured by incumbent service providers whose institutional survival depends on preserving existing funding architectures. This is a venture capital problem with a specific solution: a blended capital stack that layers catalytic first-loss equity beneath concessionary senior debt, producing a risk-adjusted return profile acceptable to infrastructure-class investors while absorbing the volatility of an unproven operating model.
 
-## 2. Acquisition Vehicle: One California Plaza
+## II. Acquisition Vehicle: One California Plaza
 
 One California Plaza occupies 1.05 million rentable square feet in the Bunker Hill district of downtown Los Angeles. The building was constructed in 1985 as Class A office space. Commercial office vacancy rates in downtown Los Angeles exceeded thirty percent by late 2025, driven by remote work adoption, corporate footprint consolidation, and deferred capital expenditure cycles. Buildings of this vintage and classification trade at steep discounts beneath peak valuation and replacement cost.
 
@@ -26,7 +26,7 @@ The acquisition targets an entry price not exceeding one hundred fifty dollars p
 
 **Total Capitalization.** Acquisition plus conversion produces a base capitalization requirement between one hundred ninety-nine million five hundred thousand and two hundred twenty million five hundred thousand dollars. Adding a capitalized interest reserve of ten million five hundred sixty thousand dollars to pre-fund twelve months of senior debt service during the ramp-up period brings total capitalization to two hundred twenty million dollars.
 
-## 3. Capitalization Table
+## III. Capitalization Table
 
 The capital stack layers two distinct tranches with structurally separated risk profiles.
 
@@ -36,7 +36,7 @@ The capital stack layers two distinct tranches with structurally separated risk 
 
 **Structural Protection.** The Delaware Statutory Trust holds property title. The California Public Benefit Corporation operates the facility under a Master Lease Agreement. If the PBC defaults on lease obligations or enters insolvency, the lease reassignment clause automatically transfers operational authority to a pre-designated successor operator. The physical asset never enters bankruptcy proceedings. Tranche B debt holders retain their secured position against the real property regardless of operational performance.
 
-## 4. Revenue Model: CalAIM Billing Architecture
+## IV. Revenue Model: CalAIM Billing Architecture
 
 The revenue model replaces commercial tenant rent with Medi-Cal managed care capitation. California's CalAIM initiative authorizes managed care plans to fund housing-related services through Enhanced Care Management and Community Supports billing codes. These codes provide the operational revenue stream that services senior debt and generates stabilized yield.
 
@@ -50,7 +50,7 @@ The revenue model replaces commercial tenant rent with Medi-Cal managed care cap
 
 **Blended Revenue Per Occupied Unit.** At stabilized occupancy, the weighted average annual revenue per occupied unit across all four billing lines equals approximately eighteen thousand two hundred dollars. This figure excludes Enhanced Care Management capitation, which layers additional per-member-per-month revenue for individuals enrolled in the highest-acuity population tiers.
 
-## 5. Thirty-Six-Month Occupancy and Revenue Projection
+## V. Thirty-Six-Month Occupancy and Revenue Projection
 
 The occupancy ramp reflects the biological reality that trust accumulation and autonomic stabilization require time. Filling units faster than relational protocols permit degrades retention outcomes and produces the same revolving-door failure that characterizes existing shelter models.
 
@@ -66,13 +66,13 @@ The occupancy ramp reflects the biological reality that trust accumulation and a
 
 **Equity Return.** Residual operating surplus after senior debt service equals three million two hundred seventy-two thousand dollars annually, producing a nominal return of 3.7 percent on eighty-eight million dollars of catalytic equity. This falls marginally below the four percent target yield; layering Enhanced Care Management capitation revenue, excluded from the base model as conservative upside, closes the gap.
 
-## 6. Avoided-Cost Return Calculation
+## VI. Avoided-Cost Return Calculation
 
 The financial case for replication rests on a parallel calculation that does not appear on the facility's income statement but dominates the public fiscal argument. Los Angeles County spends approximately fifty thousand dollars per chronically unsheltered individual annually through emergency department admissions, psychiatric holds, law enforcement contacts, and sanitation operations. Permanent supportive housing targeted to intensive service users generates gross public savings exceeding forty-six thousand dollars per person per year by eliminating these recurring expenditures.
 
 At stabilized occupancy of approximately two thousand individuals, One California Plaza generates estimated annual avoided public costs of one hundred million dollars. This figure represents the fiscal argument that triggers autonomous replication. When a county supervisor, a managed care CEO, or a commercial real estate investor observes that a single converted office tower eliminates one hundred million dollars in annual public waste while generating eight percent yield on senior debt secured by real property, the replication decision ceases to be philanthropic. It becomes fiduciary.
 
-## 7. Measurement Windows and Replication Triggers
+## VII. Measurement Windows and Replication Triggers
 
 The prototype operates under three measurement windows that produce the evidentiary basis for replication.
 
@@ -82,7 +82,7 @@ The prototype operates under three measurement windows that produce the evidenti
 
 **Day 365.** Per capita avoided-cost reduction measured against baseline emergency service utilization. Target: verified reduction exceeding fifty thousand dollars per individual. This metric constitutes the replication trigger. Once the avoided-cost calculation is verified through audited emergency service data, the financial case for acquiring and converting the next building becomes self-evident to institutional capital.
 
-## 8. Risk Architecture
+## VIII. Risk Architecture
 
 **Occupancy Risk.** The ramp-up period between Month 1 and Month 18 generates revenue below stabilized projections. First-loss catalytic equity absorbs this shortfall by deferring return until Month 24. Senior debt service during the ramp-up period is funded through capitalized interest reserves built into the initial capital raise.
 
@@ -92,7 +92,7 @@ The prototype operates under three measurement windows that produce the evidenti
 
 **Political Risk.** Federal policy shifts, state budget contractions, or municipal political opposition may impede operations. Mitigation: the tripartite structure deliberately bypasses municipal procurement channels. Revenue flows directly between managed care organizations and the PBC operator. No general fund appropriation is required. Political opposition cannot defund a revenue stream it does not control.
 
-## 9. Conclusion
+## IX. Conclusion
 
 The Material Dignity Infrastructure series has produced a complete theoretical and operational architecture for resolving chronic unsheltered homelessness through neurologically calibrated, relationally engineered permanent supportive housing. This paper supplies the missing terminal specification: the financial instrument that makes the prototype investable. A blended capital stack of eighty-eight million dollars in catalytic first-loss equity and one hundred thirty-two million dollars in senior concessionary debt acquires and converts One California Plaza into a two-thousand-unit permanent supportive housing facility generating stabilized eight percent yield on senior debt, secured by real property held in an independent trust, and funded through sovereign-backed Medi-Cal billing codes that replace commercial tenant rent.
 
@@ -113,9 +113,9 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 
 ---
 
-## Appendix A: Pro Forma Financial Model
+## X. Appendix A: Pro Forma Financial Model
 
-### A1. Capital Requirements
+### 10.1. Capital Requirements
 
 | Line Item | Amount | Notes |
 |:---|:---|:---|
@@ -124,7 +124,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | Capitalized Interest Reserve | $10,080,000 | 12 months senior debt service pre-funded |
 | **Total Capitalization** | **$220,080,000** | Rounded to $220M for modeling |
 
-### A2. Capital Stack
+### 10.2. Capital Stack
 
 | Tranche | Amount | Percentage | Source | Target Yield |
 |:---|:---|:---|:---|:---|
@@ -132,7 +132,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | B: Senior Concessionary Debt | $132,000,000 | 60% | CDFIs, NMTC, mission-aligned lenders | 8.0% |
 | **Total** | **$220,000,000** | **100%** | | |
 
-### A3. CalAIM Revenue Lines (Per Unit, Annualized)
+### 10.3. CalAIM Revenue Lines (Per Unit, Annualized)
 
 | Billing Code | Service | Annual Revenue Per Unit |
 |:---|:---|:---|
@@ -142,7 +142,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | T2033 U6 | Recuperative Care | $21,900 |
 | **Blended Average (stabilized)** | | **$18,200** |
 
-### A4. Thirty-Six-Month Revenue Projection
+### 10.4. Thirty-Six-Month Revenue Projection
 
 | Period | Months | Occupancy | Units Occupied | Gross Annual Revenue | Revenue Composition |
 |:---|:---|:---|:---|:---|:---|
@@ -150,7 +150,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | Stabilization | 7-18 | 75% | 1,500 | $27,300,000 | 30% Recuperative Care, 70% Tenancy |
 | Maturity | 19-36 | 95% | 1,900 | $34,580,000 | 15% Recuperative Care, 85% Tenancy |
 
-### A5. Operating Expense Model (At Maturity)
+### 10.5. Operating Expense Model (At Maturity)
 
 | Category | Annual Cost | Percentage of Gross Revenue |
 |:---|:---|:---|
@@ -160,7 +160,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | **Total Operating Expenses** | **$20,748,000** | **60%** |
 | **Net Operating Income** | **$13,832,000** | **40%** |
 
-### A6. Debt Service and Yield Distribution (At Maturity)
+### 10.6. Debt Service and Yield Distribution (At Maturity)
 
 | Line Item | Annual Amount |
 |:---|:---|
@@ -169,7 +169,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | Residual After Debt Service | $3,272,000 |
 | Catalytic Equity Return (on $88M) | 3.7% nominal |
 
-### A7. Avoided-Cost Fiscal Impact
+### 10.7. Avoided-Cost Fiscal Impact
 
 | Metric | Value |
 |:---|:---|
@@ -178,7 +178,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | Gross annual avoided public cost | $95,000,000 |
 | Net avoided cost (minus facility operating subsidy) | $74,252,000 |
 
-### A8. Sensitivity Analysis
+### 10.8. Sensitivity Analysis
 
 | Variable | Base Case | Downside (-15%) | Upside (+10%) |
 |:---|:---|:---|:---|
@@ -188,7 +188,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | DSCR | 1.31x | 1.11x | 1.38x |
 | Equity Return | 3.7% | 1.1% | 4.5% |
 
-### A9. Measurement Windows
+### 10.9. Measurement Windows
 
 | Window | Day | Target Metric | Replication Trigger |
 |:---|:---|:---|:---|
@@ -196,7 +196,7 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 | Revenue Validation | 180 | Within 10% of projected per-unit revenue | Confirms CalAIM billing architecture |
 | Avoided-Cost Validation | 365 | >$50,000 per capita reduction | **Triggers autonomous capital replication** |
 
-### A10. Key Assumptions and Limitations
+### 10.10. Key Assumptions and Limitations
 
 *   Unit count of 2,000 assumes full building conversion; partial conversion reduces proportionally.
 *   CalAIM billing rates reflect 2025-2026 published rate structures and are subject to annual adjustment.
