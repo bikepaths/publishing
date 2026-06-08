@@ -21,10 +21,10 @@
 
 | Billing Code | Service | Annual Revenue Per Unit |
 |:---|:---|:---|
-| H0043 | Housing Transition Navigation | $8,400 |
-| T2038 U1 | Housing Deposits | $3,500 (one-time) |
-| T2038 | Housing Tenancy and Sustaining | $14,400 |
-| H2036 | Recuperative Care | $21,900 |
+| H0043 U6 | Housing Transition Navigation | $8,400 |
+| H0044 U2 | Housing Deposits | $3,500 (one-time) |
+| T2050 U6 | Housing Tenancy and Sustaining | $14,400 |
+| T2033 U6 | Recuperative Care | $21,900 |
 | **Blended Average (stabilized)** | | **$18,200** |
 
 ## 4. Thirty-Six-Month Revenue Projection
