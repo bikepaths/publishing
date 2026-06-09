@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.6)  8 JUN 2026 22:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.6)  8 JUN 2026 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1022,8 +1022,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.142 \newpage
-               [1] [2] (./mdi_prospectus.toc)
+l.146 \newpage
+               [1]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+[2] (./mdi_prospectus.toc)
 \tf@toc=\write5
 \openout5 = `mdi_prospectus.toc'.
 
@@ -1054,7 +1059,7 @@ Package rerunfilecheck Info: File `mdi_prospectus.out' has not changed.
 Here is how much of TeX's memory you used:
  27700 strings out of 476182
  520127 string characters out of 5795596
- 1928975 words of memory out of 5000000
+ 1929975 words of memory out of 5000000
  49266 multiletter control sequences out of 15000+600000
  564908 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1063,7 +1068,7 @@ Here is how much of TeX's memory you used:
 pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on mdi_prospectus.pdf (9 pages, 67487 bytes).
+Output written on mdi_prospectus.pdf (9 pages, 68135 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
