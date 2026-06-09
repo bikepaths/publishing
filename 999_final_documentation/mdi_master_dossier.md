@@ -3,6 +3,7 @@ Chronic urban displacement represents a structural architectural failure requiri
 
 We propose acquiring One California Plaza at deeply distressed valuations (sub-replacement cost) to establish the first fully functional MDI prototype. The facility will stabilize one thousand metabolically compromised individuals, generating fifty thousand dollars per capita in verified avoided municipal costs. Autonomous replication across global capital markets initiates immediately following the Day 365 performance audit. 
 
+\clearpage
 ## II. CAPITAL STACK AND YIELD MECHANICS
 Executing the One California Plaza prototype requires 220,000,000 USD in total capital. This figure encompasses acquisition costs, facility adaptation, Day One stabilization reserves, and thirty-six months of capitalized interest. The capitalization structure explicitly bridges the gap between unproven operational theory and institutionally deployable financial instruments.
 
@@ -17,6 +18,7 @@ Entity One is a Delaware Statutory Trust (DST) serving as absolute title holder 
 
 Entity Two is a California Public Benefit Corporation (PBC) serving as exclusive operational manager and clinical service coordinator. The PBC leases the facility from the DST. The PBC absorbs all operational liability. In the event of catastrophic operational failure, the PBC can be dissolved without jeopardizing the physical real estate held by the DST.
 
+\clearpage
 ## IV. SOVEREIGN REVENUE MECHANICS
 Operational sustainability for the MDI prototype relies entirely upon sovereign state funding via Medicare and Medicaid (Medi-Cal). The California Public Benefit Corporation bills managed care plans directly for services rendered to the stabilized population under the CalAIM Community Supports framework.
 
