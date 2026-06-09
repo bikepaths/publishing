@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.6)  8 JUN 2026 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.6)  8 JUN 2026 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1017,31 +1017,24 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./mdi_prospectus.toc)
+\tf@toc=\write5
+\openout5 = `mdi_prospectus.toc'.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 \newpage
-               [1]
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-
- []
-
-[2] (./mdi_prospectus.toc)
-\tf@toc=\write5
-\openout5 = `mdi_prospectus.toc'.
-
- [3] [4
-
-] [5
+l.159 
+       [1] [2] [3
 
 ]
 
 Package caption Warning: Unused \captionsetup[table] on input line 88.
 See the caption package documentation for explanation.
 
-[6
+[4
 
 ] (./mdi_prospectus.aux)
  ***********
@@ -1052,9 +1045,9 @@ Package rerunfilecheck Info: File `mdi_prospectus.out' has not changed.
 (rerunfilecheck)             Checksum: 4597CA458577C4C211545E93AB20A65C;931.
  ) 
 Here is how much of TeX's memory you used:
- 27698 strings out of 476182
- 520115 string characters out of 5795596
- 1930975 words of memory out of 5000000
+ 27696 strings out of 476182
+ 520103 string characters out of 5795596
+ 1932975 words of memory out of 5000000
  49266 multiletter control sequences out of 15000+600000
  564908 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1063,10 +1056,10 @@ Here is how much of TeX's memory you used:
 pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on mdi_prospectus.pdf (7 pages, 66880 bytes).
+Output written on mdi_prospectus.pdf (5 pages, 65612 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  5173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
