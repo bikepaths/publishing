@@ -26,6 +26,8 @@ Sapolsky, Robert M. *Behave: The Biology of Humans at Our Best and Worst*. New Y
 
 McEwen, Bruce S. "Neurobiology of Stress and Allostatic Load." *Annals of the New York Academy of Sciences* 1018, no. 1 (2004): 1–9.
 
+Porges, Stephen W. *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. New York: Norton, 2011.
+
 ## Chapter Four: What a Person Is
 
 Cicero, Marcus Tullius. *De Re Publica* and *De Legibus*. Translated by Clinton W. Keyes. Loeb Classical Library. Cambridge: Harvard University Press, 1928.

@@ -1,5 +1,5 @@
 The Moral Physics of Survival
-What Street Teaches About Human Nature, Dignity, and Laws We Cannot Break
+What the Street Teaches About Human Nature, Dignity, and the Laws We Cannot Break
 
 Charles J. DiBella
 
