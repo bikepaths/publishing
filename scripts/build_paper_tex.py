@@ -117,21 +117,16 @@ def main():
 {journals_tex}
 
 \\vspace{{8pt}}
+\\noindent\\textbf{{Author's Note}}\\\\[1pt]
+This paper is the fifth working paper in the Material Dignity Infrastructure series. {authors_note}
+
+\\vspace{{8pt}}
 \\noindent\\textbf{{Suggested Citation}}\\\\[1pt]
 DiBella, C.J. (2026). {title_main.strip()}: {title_sub.strip()}. {series_str.strip()}, {date_str.strip()}.
 
 \\newpage
-
-\\vspace{{8pt}}
-\\noindent\\textbf{{Statement of Necessity}}\\\\[1pt]
-{necessity_tex}
-
-\\vspace{{8pt}}
-\\noindent\\textbf{{Author's Note}}\\\\[1pt]
-This paper is the fifth working paper in the Material Dignity Infrastructure series. {authors_note}
-
 % ── TABLE OF CONTENTS ────
-\\newpage
+\\vspace{{12pt}}
 \\begingroup
 \\setstretch{{1.35}}
 \\setlength{{\\cftbeforesecskip}}{{2pt}}
@@ -139,7 +134,6 @@ This paper is the fifth working paper in the Material Dignity Infrastructure ser
 \\tableofcontents
 \\endgroup
 % ── BODY ────
-\\clearpage
 \\setstretch{{1.35}}
 
 """
@@ -157,7 +151,7 @@ This paper is the fifth working paper in the Material Dignity Infrastructure ser
     md_body = '\n'.join(md_lines[start_idx:])
 
     tex_body = md_body
-    tex_body = re.sub(r'^## ([A-Z]+)\.\s+(.*)$', r'\\clearpage\n\\section{\2}', tex_body, flags=re.MULTILINE)
+    tex_body = re.sub(r'^## ([A-Z]+)\.\s+(.*)$', r'\\section{\2}', tex_body, flags=re.MULTILINE)
     tex_body = re.sub(r'^### ([\d\.]+)\s+(.*)$', r'\\subsection{\2}', tex_body, flags=re.MULTILINE)
     tex_body = tex_body.replace('## References', '\\newpage\n\n\\addcontentsline{toc}{section}{References}\n\\section*{References}')
 
