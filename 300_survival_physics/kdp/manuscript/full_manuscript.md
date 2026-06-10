@@ -193,7 +193,7 @@ Arthur, under the bridge, has lost access to the primary tier. His bodily health
 
 This is the hierarchy inversion that defines the American system's failure mode. The system demands participation in higher-tier programs as a condition of access to basic resources. To receive shelter, Arthur must sign a behavior contract, which requires practical reason. To receive case management, he must attend appointments, which requires the executive function to maintain a schedule. To access supportive housing, he must demonstrate housing readiness, which requires the cognitive architecture that street exposure has progressively impaired. The system's eligibility requirements are tier-three demands imposed on a person who has been stripped to tier one. They do not filter for housing readiness. They filter out the most damaged, who are also the most urgently in need.
 
-Phase Zero in the Material Dignity Infrastructure (MDI) architecture is a response to this inversion. Phase Zero establishes the biological floor unconditionally, providing shelter, nutrition, medical stabilization, and the ninety-day decompression period during which sleep restores, cortisol drops, and the prefrontal systems that make everything else possible begin to recover. No compliance requirement. No behavior contract. No assessment of housing readiness. The organism is stabilized first, and everything the organization wants to assess happens after the assessment is valid, which is after the biological conditions for valid assessment have been met.
+Phase Zero in the Material Dignity Infrastructure, abbreviated as MDI, is a response to this inversion. This clinical-housing model, detailed in the author's street-to-home pipeline analysis, structures intervention through three non-discretionary stages. Phase Zero establishes the biological floor unconditionally, providing shelter, nutrition, medical stabilization, and the ninety-day decompression period during which sleep restores, cortisol drops, and the prefrontal systems that make everything else possible begin to recover. No compliance requirement. No behavior contract. No assessment of housing readiness. The organism is stabilized first, and everything the organization wants to assess happens after the assessment is valid, which is after the biological conditions for valid assessment have been met.
 
 The transition from Phase Zero to the relational layer is the second level of the hierarchy. Once the biological floor is established, the relational environment determines whether the biological stabilization converts into recovery or relocates the person from a street survival loop to a building survival loop. This is the layer that the Finnish system designed for and the American system ignored. The housing advisor, the pod steward, the daily kitchen encounter, and the community council are not amenities or program components. They are the second tier of a hierarchical architecture, available to the organism only because the first tier has been established.
 
@@ -369,6 +369,8 @@ Sen, Amartya. *Development as Freedom*. New York: Alfred A. Knopf, 1999.
 
 Nussbaum, Martha C. *Creating Capabilities: The Human Development Approach*. Cambridge: Harvard University Press, 2011.
 
+DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600. May 2026.
+
 ## Chapter Nine: Institutional Capture and Moral Responsibility
 
 Arendt, Hannah. *Eichmann in Jerusalem: A Report on the Banality of Evil*. New York: Viking Press, 1963.
@@ -390,6 +392,8 @@ Dworkin, Gerald. *The Theory and Practice of Autonomy*. Cambridge: Cambridge Uni
 Porges, Stephen W. *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. New York: Norton, 2011.
 
 Szasz, Thomas. *The Therapeutic State: Psychiatry in the Mirror of Current Events*. Buffalo: Prometheus Books, 1984.
+
+DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600. May 2026.
 
 ## Chapter Eleven: John Snow and the Moral Physicist
 

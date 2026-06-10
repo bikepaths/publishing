@@ -58,6 +58,8 @@ Sen, Amartya. *Development as Freedom*. New York: Alfred A. Knopf, 1999.
 
 Nussbaum, Martha C. *Creating Capabilities: The Human Development Approach*. Cambridge: Harvard University Press, 2011.
 
+DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600. May 2026.
+
 ## Chapter Nine: Institutional Capture and Moral Responsibility
 
 Arendt, Hannah. *Eichmann in Jerusalem: A Report on the Banality of Evil*. New York: Viking Press, 1963.
@@ -79,6 +81,8 @@ Dworkin, Gerald. *The Theory and Practice of Autonomy*. Cambridge: Cambridge Uni
 Porges, Stephen W. *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. New York: Norton, 2011.
 
 Szasz, Thomas. *The Therapeutic State: Psychiatry in the Mirror of Current Events*. Buffalo: Prometheus Books, 1984.
+
+DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600. May 2026.
 
 ## Chapter Eleven: John Snow and the Moral Physicist
 
