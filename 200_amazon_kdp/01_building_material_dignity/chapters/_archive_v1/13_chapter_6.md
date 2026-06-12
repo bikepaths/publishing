@@ -1,9 +1,0 @@
-# Chapter 6: Biological Weathering
-
-The human body can only handle so much heat, cold, and pain. When a person is forced to live outside, they lose the ability to stay safe from the weather. The street grinds the body down with constant physical friction. Freezing nights force the body to burn all its fuel just to stay warm. Hot days cause sunburn and a lack of water. This constant attack on the body stops the normal work of fixing cells and staying healthy.
-
-Doctors call this process Biological Weathering. The human body sees the street as a non-stop physical threat. This view causes the body to stay in a state of permanent inflammation. The immune system stays on high alert at all times because it is trying to fight off the environment. This constant fight slowly destroys healthy parts of the body and makes the heart age faster. The street acts as a biological time machine that makes a person old long before their time. Facts show that homeless people suffer from old-age health problems decades earlier than everyone else.
-
-A person on the street who is in their early fifties is medically considered an old person. These citizens have the weak bodies and the memory problems usually seen in people in their late seventies. The street physically steals twenty years of life from a human being. The death rates prove that this is true. People on the sidewalk live twenty to thirty years less than people with homes.
-
-The old system treats the street tent like a problem of where things are placed. The physical truth proves that a tent is a place where the human body is slowly broken down. The old rules ask people who are already dying from this weathering to build their own recovery. This expectation goes against nature because the human body has already reached a state of collapse. The voters must see that the street physically destroys the body. The system cannot demand hard work from a body that is falling apart from old age in middle age.

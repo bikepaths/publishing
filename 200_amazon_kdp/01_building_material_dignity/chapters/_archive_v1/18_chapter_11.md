@@ -1,9 +1,0 @@
-# Chapter 11: Vertical Stabilization
-
-The buildings we need for our project are already standing in Los Angeles. Right now, these office towers are empty and losing money for their owners. Since the pandemic, the way people work has changed forever. Many companies no longer need large offices because their employees work from home. As a result, about one-fourth of all office space in Los Angeles is vacant. Experts say that half of the older buildings will never be filled with businesses again.
-
-These buildings are not just empty for a short time. The demand for them has disappeared. When a company’s lease ends, it moves to a much smaller space. The remaining empty rooms cannot bring in enough money to pay for the building’s debt. Owners must choose between spending a fortune to fix the towers or selling them for a low price. These market forces create the perfect chance for the city to buy these towers for much less than they were once worth.
-
-One famous tower in downtown Los Angeles shows how this works. It sold recently for two hundred million dollars whereas it was worth six hundred million just four years ago. This huge drop in price turns expensive office buildings into tools the city can afford to buy. Every year, the old system wastes hundreds of millions of dollars on street sweeps that solve nothing. Moving that money toward buying these cheap towers would buy a permanent physical solution instead of a clean sidewalk.
-
-Our plan needs about nineteen million square feet of space spread across the city. The hundreds of empty office towers already provide the exact physical foundation we need. This chance to buy low will not last forever. As the economy changes and the market shifts, the prices will go back up. The city has a small window of time to turn a real estate collapse into a permanent public utility. We must use these vacant buildings as the physical base for a system that works.

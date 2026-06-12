@@ -1,0 +1,91 @@
+title: "Building Material Dignity"
+subtitle: "An Urban Stabilization Blueprint for the Unhoused"
+author: "Charles J. DiBella"
+lang: "en-US"
+base_dir: "."
+files:
+  - type: copyright
+    path: copyright.md
+  - type: frontmatter
+    heading: "Preface"
+    path: chapter_drafts/01_preface.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Prologue"
+    path: chapter_drafts/02_prologue.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Introduction"
+    path: chapter_drafts/03_introduction.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 1: The Myth of the Rugged Individual"
+    path: chapter_drafts/04_chapter_01.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 2: The Nuclear Isolate"
+    path: chapter_drafts/05_chapter_02.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 3: The Mathematical Output"
+    path: chapter_drafts/06_chapter_03.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 4: The Open-Air Trauma Ward"
+    path: chapter_drafts/07_chapter_04.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 5: The Destruction of Sleep"
+    path: chapter_drafts/08_chapter_05.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 6: The Broken Brain"
+    path: chapter_drafts/09_chapter_06.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 7: The Infinite Spending Drain"
+    path: chapter_drafts/10_chapter_07.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 8: The Trauma Amplifier"
+    path: chapter_drafts/11_chapter_08.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 9: The Scattered-Site Illusion"
+    path: chapter_drafts/12_chapter_09.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 10: The Municipal Quarantine"
+    path: chapter_drafts/13_chapter_10.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 11: Vertical Stabilization"
+    path: chapter_drafts/14_chapter_11.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 12: The Synthetic Urban Commons"
+    path: chapter_drafts/15_chapter_12.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 13: Phase Zero"
+    path: chapter_drafts/16_chapter_13.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 14: The Dunbar Pod"
+    path: chapter_drafts/17_chapter_14.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 15: The Five Pipelines"
+    path: chapter_drafts/18_chapter_15.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 16: The Legal Lever"
+    path: chapter_drafts/19_chapter_16.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "About the Author"
+    path: chapter_drafts/20_about_the_author.md
+    skip_lines: 2
+  - type: bibliography
+    heading: "Citations and Sources"
+    path: citations.md

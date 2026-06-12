@@ -1,9 +1,0 @@
-# Chapter 9: The Scattered-Site Illusion
-
-The standard city plan for homelessness is the scattered-site model. This old protocol puts people into isolated apartments spread across the private market. The system calls this permanent housing whereas the physical facts prove it is just a paperwork transaction built to fail. The old machine focuses on signing a lease rather than physically healing the person.
-
-The process works like a simple trade. The city signs a lease for a room and puts a person inside. The citizen gets keys, a bed, and a worker who checks on them every few weeks. The state then says the person is officially housed and stops counting them as homeless. At this point, the paperwork is finished because the city has done its job. The problem is that the physical needs of the person have been ignored.
-
-The scattered-site model puts exhausted people into places where they are totally alone. Most people who get these rooms have spent months or years on the street. Their bodies have aged twenty years and their brains have been damaged by a lack of sleep. They are moved into a private room with no friends or family nearby to help them. They do not have a Kinship Buffer. Their brains have lost the ability to manage bills and rules because the street has broken the part of the mind that handles these tasks. The apartment does not fix this damage. It just puts a broken body into a new box.
-
-Failure follows with mathematical certainty. Without a safety net or a chance to heal, the isolated person cannot keep up with the rules of an apartment. They break lease rules until they are kicked out. The person returns to the sidewalk in the exact same state of trauma. This scattered-site plan creates a loop of evictions that burns public money while the number of people on the street stays the same. The city buys a temporary report card while calling it a permanent physical fix.

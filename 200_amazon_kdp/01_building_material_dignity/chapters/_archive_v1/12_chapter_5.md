@@ -1,9 +1,0 @@
-# Chapter 5: The Destruction of Sleep
-
-The human brain needs absolute safety to fix itself every night. This repair work happens while we sleep deeply. When a person has a locking door and a private room, the brain feels safe because there are no threats nearby. This safety allows the mind to shut down and start the work of fixing emotions and repairing the ability to think. We call this Ontological Security since the brain knows the world is predictable and safe.
-
-The street makes this repair work impossible. A person on the sidewalk is always in danger. The threat of being attacked or having their things stolen keeps the body on high alert. The brain refuses to go into deep sleep because that would leave the person vulnerable to an attack. As a result, the street forces the brain into a state of constant exhaustion. The body stays awake to protect itself whereas it needs to sleep to heal.
-
-When the brain cannot get deep sleep, the whole mental system begins to break down. Without nightly repairs, a person loses the ability to control their feelings. Small problems quickly turn into huge bursts of anger or fear. The ability to plan for the future or make good choices disappears. The citizen enters a state of permanent stress and lives only on adrenaline. They can only think about surviving the next hour since their brain has lost the capacity for anything else.
-
-The old system demands perfect behavior from the people on the street. The rules require a person to attend scheduled meetings and fill out hard forms just to get a bed. This expectation proves that the old machine does not understand how the body works. The system demands high-level thinking from people whose brains have been torn apart by a lack of sleep. The city cannot get cooperation from a brain that has been broken by constant danger.
