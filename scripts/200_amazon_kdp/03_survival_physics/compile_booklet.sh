@@ -5,7 +5,6 @@ set -e
 WORKSPACE_ROOT="/home/user0/git/publishing"
 MANUSCRIPT_PATH="${WORKSPACE_ROOT}/200_amazon_kdp/03_survival_physics/kdp/manuscript/full_manuscript.md"
 OUTPUT_PATH="${WORKSPACE_ROOT}/200_amazon_kdp/03_survival_physics/kdp/handoff/the_moral_physics_of_survival_booklet.pdf"
-PUBLISHED_PATH="${WORKSPACE_ROOT}/published/the_moral_physics_of_survival_booklet.pdf"
 
 echo "Compiling booklet PDF for Book Three..."
 pandoc \
@@ -31,4 +30,9 @@ pdfbook2 \
   -o 0 -i 0 -t 0 -b 0 \
   "${OUTPUT_PATH}"
 echo "Imposed print-ready PDF generated."
+
+# Clean up intermediate single-page PDF
+rm "${OUTPUT_PATH}"
+echo "Cleaned up intermediate reader PDF."
+
 
