@@ -13,7 +13,7 @@ pandoc \
   -o "${OUTPUT_PATH}" \
   --pdf-engine=xelatex \
   -V geometry:"paperwidth=5.5in,paperheight=8.5in,inner=0.75in,outer=0.5in,top=0.6in,bottom=0.6in,twoside" \
-  -V classoption=twoside \
+  -V classoption="openany,twoside" \
   -V documentclass=extbook \
   -V fontsize=9.5pt \
   -V mainfont="Liberation Serif" \
