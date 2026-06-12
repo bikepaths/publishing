@@ -1,0 +1,9 @@
+# Chapter 4: The Open-Air Trauma Ward
+
+Most people with homes do not understand how hard it is to survive on the street. The public thinks that the homeless do not use much energy because they see people sitting on the sidewalk. The physical truth is the exact opposite of what people see. The street acts as a trauma ward that never closes. It forces the human body to live in a high-friction world that causes a massive drain on energy. We call this a Metabolic Deficit since the body burns more fuel than it can ever find.
+
+In a house, staying alive is easy and automatic. You turn a handle for clean water or flip a switch for heat. You use a private bathroom that is clean and safe. These actions take almost no energy from your body. For a person on the street, these simple tasks disappear. Every basic need requires a dangerous search for resources. Finding water, finding a toilet, and finding food are all hard physical jobs. The street replaces the easy machines of a house with constant physical friction.
+
+This friction acts as a heavy tax on the body. A person on the sidewalk must carry all their belongings and defend their space at all times. They must walk across the city just to stay alive. The body burns fuel much faster to fight off the cold at night and the heat during the day. This physical workload forces the body to eat itself for energy. The human body consumes its own muscle and fat to keep the heart beating through the exhaustion.
+
+The old system speeds up this physical breakdown. When a street clearing pushes a tent away, it forces the person to move their entire life. This forced move creates a massive drain on the body's energy. The person must burn their last energy reserves to carry their heavy gear to a new street. The harsh environment systematically breaks the human machine until nothing is left. The old rules cannot demand perfect behavior from a body that is dying from pure exhaustion.

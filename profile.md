@@ -19,7 +19,7 @@
 - No filler phrases.
 - Parenthetical acronym definitions on first occurrence are authorized; only explanatory parenthetical phrases remain prohibited.
 - For academic/SSRN work, follow formal academic register per `_styles/MoS_SSRN_Academic.md`.
-- For the 300 project (The Moral Physics of Survival), follow style register per `_styles/MoS_Survival_Physics.md`.
+- For all KDP series books (100 Building Material Dignity, 200 Architecture of Survival, 300 Moral Physics of Survival), follow style register per `_styles/MoS_Survival_Physics.md`.
 
 ## Trust Metrics
 
