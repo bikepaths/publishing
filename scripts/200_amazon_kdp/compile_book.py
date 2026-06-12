@@ -320,11 +320,6 @@ def main():
         # Validate EPUB
         validate_epub(epub_out_path)
         
-        # Copy to central published directory
-        published_dir = workspace_root / "published"
-        published_dir.mkdir(exist_ok=True)
-        shutil.copy(epub_out_path, published_dir / f"{book_info['output_name']}.epub")
-        print(f"EPUB deployed to published/{book_info['output_name']}.epub")
 
     # 4. DOCX Compilation
     if args.format in ["docx", "both"]:
@@ -341,11 +336,6 @@ def main():
         subprocess.run(cmd, check=True, cwd=str(manuscript_dir))
         print("DOCX compiled successfully.")
         
-        # Copy to central published directory
-        published_dir = workspace_root / "published"
-        published_dir.mkdir(exist_ok=True)
-        shutil.copy(docx_out_path, published_dir / f"{book_info['output_name']}.docx")
-        print(f"DOCX deployed to published/{book_info['output_name']}.docx")
 
 
 if __name__ == "__main__":

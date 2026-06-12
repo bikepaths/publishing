@@ -22,8 +22,6 @@ pandoc \
   --toc-depth=1
 
 echo "Booklet PDF successfully compiled to: ${OUTPUT_PATH}"
-cp "${OUTPUT_PATH}" "${PUBLISHED_PATH}"
-echo "Deployed copy to: ${PUBLISHED_PATH}"
 
 echo "Generating imposed Letter booklet PDF for printing..."
 pdfbook2 \
@@ -31,5 +29,6 @@ pdfbook2 \
   --short-edge \
   --no-crop \
   -o 0 -i 0 -t 0 -b 0 \
-  "${PUBLISHED_PATH}"
+  "${OUTPUT_PATH}"
 echo "Imposed print-ready PDF generated."
+
