@@ -9,16 +9,21 @@ Los Angeles, California
 
 
 First edition, 2026
-The Moral Physics of Survival
-What the Street Teaches About Human Nature, Dignity, and the Laws We Cannot Break
 
-Charles J. DiBella
+
+
+# Author's Note
 
 ---
 
 This volume establishes philosophical foundations for material dignity infrastructure. Direct observation across thirty years at street level provides physical evidence. Analysis challenges standard political philosophy frameworks assuming intact cognitive agency. Exposure to elements, sleep deprivation, and chronic trauma destroy prefrontal cortex function. Below this biological floor, choice and consent cease to operate.
 
 Universal dignity rests on human nature rather than performance or functional capacity. Strict hierarchy places most vulnerable individuals at summit of moral obligation. Well-meaning institutions capture state funding and align internal incentives toward self-preservation. Verified destruction of biological agency justifies compelled clinical intervention. Ethical reasoning operates as empirical science mapping causal mechanisms of systemic failure.
+
+
+
+---
+
 # Prologue: The Bridge
 
 Arthur lived under a bridge. That sentence contains everything this book is about, and also nothing, because the sentence is the kind of sentence you read and understand without seeing anything.
@@ -48,7 +53,13 @@ Arthur watched the river.
 This book is about what happened in that moment, and what it means, and what it implies about the obligation that the two outreach workers, the county agency, the city, the state, and anyone who reads these words carries toward the man sitting on the plastic crate.
 
 Everything that follows is an attempt to think clearly about that. The abstraction begins in the next chapter. The anchor is here, in the clay, under the bridge, in the sound of eight lanes of traffic and one man who has stopped speaking.
+
+
+
+---
+
 # Chapter 1: The Inventory of Failure
+
 
 Over a five-year period ending in 2024, California spent twenty-four billion dollars on homelessness programs. The unsheltered population grew. That outcome is worth sitting with for a moment, because it contradicts what we believe about money and problems. We believe that sufficient resources applied to a defined problem will reduce it. California applied sufficient resources. The problem grew. Something in the foundational logic was wrong before the first dollar was spent.
 
@@ -73,7 +84,13 @@ The crisis is first a crisis of ideas. The dominant models governing the America
 Arthur is a composite of thirty years of faces observed from close range on the streets of Los Angeles. His name is not Arthur. He has no name in the system, or he has several names because he gave different ones at different facilities on different nights, or his name is in a database somewhere but no one at the facility he approached last week had access to it. He is a case number in a system that cannot see him clearly enough to help him. The system cannot see him because its theory of what he is was wrong before he arrived.
 
 Getting the theory right is not an academic exercise. California spent twenty-four billion dollars on the wrong theory. The right theory would have changed what was built, what was measured, and who survived. This book is an argument for the right theory, built from what thirty years of firsthand observation on the street taught one witness about what a human being is and what that implies about what we owe each other.
+
+
+
+---
+
 # Chapter 2: The Vocabulary of Invisibility
+
 
 The word "homeless" names a real estate condition. It does not name what is happening to Arthur.
 
@@ -94,7 +111,13 @@ Parfit's formulation makes the cost of this discarding precise. If personal iden
 The alternative vocabulary does not already exist in standard clinical or policy usage, which is part of the problem this book is trying to address. What we need is language that holds the full complexity of what is happening, which means using not "homeless individual" but "person whose identity continuity is under acute biological and institutional attack." That phrase is unwieldy. It is also accurate. The unwieldiness is part of the point, because it resists the administrative flattening that makes invisible what should be seen.
 
 A building cannot restore a fractured self. This sentence from the stub of this chapter is the only sentence worth preserving from it, and it is worth preserving because it names the error at the center of the policy apparatus with unusual clarity. Housing is necessary. It is not sufficient. What it is not sufficient for is the restoration of the psychological continuity that Parfit establishes as the substance of personal identity and that Giddens establishes as requiring defined social conditions to maintain. Those conditions must be designed into the housing environment, which means designing for recognition, continuity, relationship, and the daily rhythms through which a person accumulates the evidence that they exist as a unique self across time. The design begins with understanding what has been destroyed. The vocabulary is where that understanding starts.
+
+
+
+---
+
 # Chapter 3: The Biological Floor
+
 
 Arthur's brain, after two winters under the bridge, is measurably different from the brain he arrived with.
 
@@ -115,7 +138,13 @@ The biological floor is the threshold below which these mechanisms have progress
 Everything this book argues about moral obligation, about the state's duty to intervene, and about the legitimacy of compelled care under constrained conditions rests on this biological floor as its foundation. The obligation to rescue does not arise from abstract philosophy. It arises from the observable physical fact that the person on the dirt has passed below a threshold at which their survival reflex is being mistaken for a choice, and their neurological incapacity is being documented as a refusal, and the system that recorded the refusal drove away and left them there.
 
 The floor is not a metaphor. It is a measurement waiting to be taken.
+
+
+
+---
+
 # Chapter 4: What a Person Is
+
 
 The dominant answer to this question in Western ethical tradition is cognitive performance. Kant's rational agent, Locke's self-owning consciousness, and Mill's deliberating individual all ground moral standing in the capacity to think, to choose, and to act from reason. On this view, what makes you a person is what you can do. What makes you worth protecting is your capacity to protect yourself, or at least to participate in the protection that social life provides.
 
@@ -132,7 +161,13 @@ Where Foot adds something the capabilities approach does not fully supply is the
 The drowning man analogy holds, but it requires unpacking. When we pull a drowning person from the water, we do not ask whether they consent to rescue, whether they had the foresight to learn to swim, or whether their prior choices contributed to their situation. We act because a human being in the water is dying, and a human being dying for a preventable cause generates an obligation in whoever can prevent it. The biological floor argument applies the same logic to the street. Arthur is drowning in slow motion, under a bridge, in the clay, and the water is cortisol and sleeplessness and cold. The outreach workers can see this. The question is whether they, and the system they represent, are constituted to act on what they see, or whether the performance-based definition of personhood that the institutional architecture encodes has made Arthur's drowning invisible by classifying him as someone who has refused rescue.
 
 Personhood is not a performance. It is a biological fact about what kind of organism Arthur is, and that fact does not change when his biology fails. What changes, when his biology fails, is the urgency of the obligation to restore it.
+
+
+
+---
+
 # Chapter 5: The Is-Ought Problem and Why It Matters
+
 
 The outreach worker stood on the concrete and asked Arthur if he wanted a shelter bed. Arthur sat on an overturned plastic crate, his nervous system locked in dorsal-vagal shutdown, and stared at the river without speaking. The worker waited ten seconds. Receiving no verbal response, the worker tapped a button on a municipal tablet. The screen registered the contact outcome as a client decline. A biological collapse had been recorded as an administrative choice. The city had fulfilled its procedural requirement. 
 
@@ -151,7 +186,13 @@ John Searle's analysis of institutional facts reveals how the municipal system e
 This conversion operates as a moral choice disguised as administrative neutrality. By recording a biological failure as an autonomous decision, the system erases its obligation to act. The institutional fact shields the bureaucracy from the natural fact. 
 
 The convergence of Foot and Searle closes the philosophical gap. The natural goodness system establishes that the destruction of a human nervous system carries intrinsic moral weight. The institutional analysis exposes the municipal tablet as a mechanism for moral evasion. The obligation to intervene relies on the physical reality rather than an external social contract. The human organism possesses a nature that demands preservation. To accurately describe the destruction of Arthur's brain is to document an atrocity. The witness statement and the moral demand are the same document.
+
+
+
+---
+
 # Chapter 6: The Social Contract's Hidden Assumption
+
 
 Every version of social contract theory begins with a gathering. Hobbes's contractors emerge from the state of nature, calculating rational actors who agree to submit to sovereign authority because the alternative, the war of all against all, is worse than any arrangement the sovereign imposes. Locke's contractors bring their natural rights into the compact and reserve them against government overreach. Rawls's contractors deliberate behind a veil of ignorance, designing principles of justice without knowing their own position in the society those principles will govern.
 
@@ -168,7 +209,13 @@ The gap is real and must be acknowledged rather than papered over. Social contra
 The political implication is that the state's obligation to Arthur does not rest on the same foundation as its obligation to taxpaying, voting, contracting citizens. It rests on a prior foundation, which is the natural law obligation to protect the conditions required for any human being to function as a human being, prior to and independent of any contractual relationship. This is not a novel claim in Western political philosophy. Cicero established it in De Re Publica. The Stoics grounded it in the common logos that all rational beings share. Grotius developed it into the foundational principle of international law, arguing that particular obligations hold between persons independent of any treaty, compact, or mutual agreement, because the nature of persons generates them.
 
 What is novel is applying this pre-contractual obligation to the particular population that modern liberal states have created through the combination of housing scarcity, inadequate mental health infrastructure, and service systems structured to serve participants rather than to rescue the incapacitated. The traditional natural law systems were not designed for this population, because this population, chronically unsheltered, neurologically impaired by years of street exposure, and classified as non-compliant by the systems nominally responsible for their care, did not exist at the scale it exists now. The obligation is pre-modern. The population it must address is a consequence of modern conditions. The intersection of the two is what this book is about.
+
+
+
+---
+
 # Chapter 7: Natural Law Without God
+
 
 Hugo Grotius wrote, in 1625, a sentence that changed the history of political philosophy. He argued that the law of nations would hold "even if we were to concede, what without the greatest wickedness cannot be conceded, that there is no God." The Latin phrase, etiamsi daremus non esse Deum, has been called the founding claim of secular natural law. What Grotius was asserting is that some moral obligations are grounded in the nature of things, not in divine command, and that you can recognize them without reference to God at all.
 
@@ -185,7 +232,13 @@ The biological version of this argument is the one this book needs. Human beings
 Philippa Foot, as Chapter 4 established, provides the contemporary philosophical model that closes this argument. Natural goodness is not a property conferred by social membership or divine grace. It is a property of organisms relative to their kind, derivable from observation of what characterizes the life of organisms of that kind when they are living it well. A human being living well is sleeping, eating, connected to others, capable of deliberate action, and oriented toward a future. Arthur under the bridge is none of these things. His condition is bad relative to what he is, and the badness generates prescriptive force, creating an obligation to restore the conditions, without any theological premise in the argument.
 
 The secular natural law argument reaches a policy audience that the theological natural law argument does not, and it reaches it without sacrificing the philosophical rigor that the biological floor claim requires. The obligation to rescue Arthur is not a religious obligation. It is an obligation grounded in what Arthur is, which is a member of the rational animal species whose nature includes the needs that street exposure destroys and whose good, in Cicero's formulation, is the concern of every other member of that species by virtue of their shared participation in the same kind of life.
+
+
+
+---
+
 # Chapter 8: The Hierarchy of Obligation
+
 
 Arthur walked into the Phase Zero intake center and received a keycard to a hard-sided room. He locked the door behind him, lay down on the cot, and stared at the ceiling. For the first time in five years, he had a defensible perimeter. Over the next ninety minutes, his resting heart rate dropped from one hundred and ten beats per minute to eighty-five. His adrenal glands reduced their cortisol production. His autonomic nervous system began the slow shift from sympathetic overdrive to parasympathetic recovery. The metabolic stabilization had begun. 
 
@@ -205,8 +258,14 @@ The third tier encompasses identity reconstruction, employment, education, and c
 
 This biological and relational progression maps to the CalAIM service billing tranches. The initial recuperative care rate of twenty-one thousand nine hundred dollars per unit stabilizes the biological floor during Phase Zero decompression. Once the individual transitions, the tenancy sustaining code of fourteen thousand four hundred dollars and the housing navigation code of eight thousand four hundred dollars finance the relational layer. The stabilized blended average of eighteen thousand two hundred dollars per unit sustains the full hierarchy of care. The operational sequence dictates the fiscal sustainability. 
 
-Sen's insight, transposed into the MDI architectural logic, produces a single diagnostic principle. The sequence determines the outcome. A system that provides resources out of sequence produces expensive failure and wrongly attributes that failure to the population's pathology rather than the institutional sequence error. The hierarchy of obligation functions as the engineering specification for human survival. 
+Sen's insight, transposed into the MDI architectural logic, produces a single diagnostic principle. The sequence determines the outcome. A system that provides resources out of sequence produces expensive failure and wrongly attributes that failure to the population's pathology rather than the institutional sequence error. The hierarchy of obligation functions as the engineering specification for human survival.
+
+
+
+---
+
 # Chapter 9: Institutional Capture and Moral Responsibility
+
 
 Hannah Arendt did not write about the Los Angeles homeless services industry. She wrote about the trial of Adolf Eichmann, the bureaucrat who coordinated the logistics of mass murder and who, in the dock, displayed no malice, no ideology, and no apparent awareness that he had done anything other than his job. Arendt called this the banality of evil, by which she meant that ordinary institutional behavior, executed without moral reflection by ordinary people following ordinary procedures, can produce catastrophic outcomes that no individual within the system intends or acknowledges. You do not need villains to generate atrocity. You need incentive structures, division of responsibility, and the professional norm of not looking too hard at what the system is producing.
 
@@ -227,7 +286,13 @@ For the people who work in the homelessness services system and are reading this
 The critique that nothing changes no matter what anyone does is historically well-supported and deserves honest engagement rather than optimism. Arendt's own life did not end in triumph. She documented evil; it continued. But she also observed, across her career, that the moment a machine becomes visible, representing the moment when its mechanism is named and its outputs are traced to their causes, something shifts in the moral environment in which it operates. The machine does not disappear. It becomes harder to pretend that the people within it bear no responsibility for what it produces.
 
 Changing the basis of evaluation is the concrete reform that follows from this analysis. An institution judged by outcomes, meaning housing retention at twenty-four months rather than contacts logged, cannot sustain a business model organized around client persistence. An institution judged by the Finnish benchmark of eighty to ninety percent retention cannot present the American forty percent as a reasonable outcome given available resources. The measurement instrument is a moral instrument. What gets measured determines what gets produced. The machine will not reform itself. But a machine operating under a different measurement regime will produce different outputs, because the institutional behavior it rewards will be different. That is not optimism. It is the same engineering logic that John Snow applied to the Broad Street pump. Find the mechanism. Intervene at the right point. The pump handle, in this case, is the performance metric.
+
+
+
+---
+
 # Chapter 10: The Legitimacy of Compelled Care
+
 
 Thomas Szasz spent fifty years arguing that involuntary psychiatric commitment is the therapeutic state's primary instrument of social control, that the elastic definition of mental illness has historically expanded to capture political dissidents, social nonconformists, and inconvenient individuals rather than to treat genuine disease, and that the language of care has functioned as a cover for coercion that a free society should not tolerate. He was right about most of this. Anyone who proposes compelled care without first acknowledging what Szasz documented, including the asylum era, the Soviet use of psychiatry as a political weapon, and the racialized application of conservatorship in California's recent history, is not making an honest argument. This chapter begins with that recognition.
 
@@ -250,7 +315,13 @@ Szasz defeats unconstrained therapeutic state authority. He does not defeat this
 The harder version of Szasz's objection is institutional, questioning whether any real institution can be trusted to apply the four-condition structure narrowly rather than using it as a template for expanding its scope. This is the operational risk that the civil libertarian tradition is right to insist on. The answer cannot be philosophical. It must be structural. The Anti-Detention Covenant, which guarantees unrestricted egress for voluntary residents, is a structural guarantee that Process 1 cannot be reclassified as Process 2 by institutional pressure. The Rapid Transition Protocol, where crisis produces transfer rather than eviction, removes the institutional incentive to manage difficult residents through the legal pathway rather than through relational support. These features do not make institutional abuse impossible. Nothing does. They close doors through which abuse has historically entered, and they are the minimum structural preconditions for any institution operating a legal access pathway to claim that it is applying the pathway as intended.
 
 The argument for compelled care does not require confidence in institutions. It requires only recognition that the alternative, including leaving a person in total neurological shutdown on the street in deference to a refusal they did not cognitively generate because the institution that might intervene cannot be trusted, is a choice with consequences. Those consequences arrive on the pavement, at night, in winter, and they are as concrete as any choice the institution might make. Inaction is an action. The question is not whether we intervene but which intervention we choose, and on what grounds. The grounds this book offers are biological, constrained, procedurally protected, and reversible. They are not sufficient to trust any particular institution. They are sufficient to establish that compelled care, under these conditions, is a moral obligation rather than a moral violation.
+
+
+
+---
+
 # Chapter 11: John Snow and the Moral Physicist
+
 
 In the summer of 1854, Soho was dying. The Broad Street cholera outbreak killed more than six hundred people in ten days, representing one of the highest mortality rates the city had recorded. The prevailing theory attributed cholera to miasma, which was defined as foul air rising from the soil and refuse of densely populated neighborhoods. Physicians recommended improved ventilation. Ministers recommended prayer. City officials debated sanitary reform. The deaths continued.
 
@@ -269,7 +340,13 @@ The moral physicist is the person who applies this sequence to human suffering r
 Remove the pump handle by changing the manner of contact. Train the worker to identify autonomic state. Change the script. Change the approach vector. Change the institutional recording practice that converts a non-response into a refusal. These are physical interventions on a causal chain, not policy positions or advocacy campaigns. They produce observable outcomes in distinct individuals, measurable within ninety days at the level of named contacts, voluntary engagement rates, and housing retention.
 
 Snow did not debate the miasma theory with its defenders. He did not write a policy paper arguing that sanitary reform was necessary. He did not wait for the Board of Guardians to adopt the germ theory before acting. He identified the mechanism, intervened at the causal node, and the deaths stopped. His vindication came from the outcome, not from the debate. The moral physicist's vindication comes from the same place, namely that the person who was on the dirt is now inside, sleeping, and in six months will be attending the pod council and in twelve months will be considering vocational training. The pump handle is removed. The mechanism has been interrupted. The outcome is the argument.
+
+
+
+---
+
 # Chapter 12: The Remnant and the Obligation
+
 
 Václav Havel wrote *The Power of the Powerless* in 1978, in a Czechoslovakia under Soviet normalization, at a moment when every public institution had been occupied by the apparatus of a system that required everyone within it to perform compliance with an official reality that everyone knew was false. The greengrocer puts up the sign, "Workers of the World, Unite!", not because he believes it but because not putting it up would expose him to consequences. The sign is not communication. It is a ritual of participation in a collective lie that keeps the system operational. The system survives, Havel argued, not through sincere belief but through the accumulated weight of everyone's individual decisions to perform compliance rather than to live in truth.
 
@@ -286,7 +363,13 @@ The obligation created by witnessing is not delegable. This is the point on whic
 Havel did not survive the Soviet period because he was powerful. He survived because he maintained the accurate account at enormous personal cost, through imprisonment and harassment and the suppression of his work, and when the system collapsed, which it did within eleven years of *The Power of the Powerless* being circulated in samizdat, he was the person who was ready, having the moral clarity and the sustained witness of what the system had done, to act in the political window that opened. The remnant's function is to be that person, in that moment, for the people on the street.
 
 The obligation does not promise that the window will come soon. It does not promise that the remnant's witnessing will produce the system change that Arthur needs. What it promises is that the accurate account will exist, maintained by dedicated people who refused to look away, and that when the political conditions change, which they will because the conditions that produce chronic mass homelessness at this scale are not stable, there will be people who know what to build, because they have been watching the mechanism for long enough to understand where the pump handle is.
+
+
+
+---
+
 # Chapter 13: A Different Starting Point
+
 
 What would we have built if we had started with the right philosophy?
 
@@ -313,6 +396,11 @@ The moral environment matters because political windows open. They open unpredic
 This book is not a prediction that the window will open soon. It is an argument for the correct philosophy, built from the evidence of what a human being is and what that implies about what we owe each other. The argument has operational consequences, including a different architecture, a different measurement regime, and a different sequence of interventions. Whether those consequences are realized depends on forces that no argument controls. What an argument can do is establish that those consequences would have been correct, that the lives lost under the wrong philosophy were not inevitable losses but preventable ones, and that the people maintaining the accurate account during the years of stagnation are not failing. They are the precondition for whatever comes next.
 
 John Snow removed the pump handle. The cholera deaths that occurred after he identified the mechanism and before he acted are the measure of what getting the diagnosis right is worth. Getting there faster, understanding the mechanism earlier, and designing the intervention before the epidemic rather than during it represent the consequences of starting from the correct philosophy. Not certainty. Not triumph. The capacity to act correctly when the moment arrives. That capacity is what this book is for.
+
+
+
+---
+
 # Epilogue: The Pump Handle
 
 During the cholera outbreak of 1854, the Board of Health debated the miasma theory of disease while thousands of residents died from drinking contaminated water. Dr. John Snow faced a bureaucratic consensus demanding systemic reform of the London sewer infrastructure before enacting any public health intervention. Bypassing the procedural delays, Snow identified the source of the biological threat and dismantled the water pump at Broad Street. He removed the physical vector of transmission. The epidemic ended.
@@ -328,6 +416,13 @@ The rules that govern urban housing delivery rationalize the abandonment of the 
 While policymakers construct ten-year timelines for structural change, Arthur sleeps on freezing concrete tonight. Establishing the physical floor constitutes a moral necessity. Biological survival functions as the precondition for personhood. Without a stable physical substrate, human rights exist only as theoretical abstractions. Environmental exposure destroys the cognitive capacity required to exercise agency. Defending the physical body operates as the primary civic duty. All other moral claims depend upon the survival of the organism.
 
 This structural model relies on biological physics rather than political ideology. To rescue the person, society must first stabilize the organism. To honor the social contract, institutions must protect the physiological foundation of the population. Vulnerability creates the moral obligation to intervene. Dignity arises from the human form rather than cognitive performance. This reality establishes a secular foundation for action. The evidence dictates the response. Remove the handle.
+
+
+
+---
+
+# Citations and Sources
+
 ::: {.citations}
 
 ## Prologue: The Bridge

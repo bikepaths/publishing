@@ -58,13 +58,14 @@ def load_manifest(manifest_path: Path) -> dict:
 def find_cover_image(kdp_dir: Path) -> Path:
     # Look for cover images in standard subfolders, prioritizing custom padded covers
     search_paths = [
+        "production/cover_padded.png",
+        "production/cover_padded.jpg",
+        "production/cover.png",
+        "production/cover.jpg",
         "handoff/cover_padded.png",
         "handoff/cover_padded.jpg",
         "handoff/cover.png",
         "handoff/cover.jpg",
-        "production/cover_padded.png",
-        "production/cover.png",
-        "production/cover.jpg",
         "handoff/cover_concept.png"
     ]
     for rel_path in search_paths:
