@@ -42,9 +42,9 @@ fi
 
 python3 "${WORKSPACE}/scripts/200_amazon_kdp/compile_book.py" --book 3 --format epub
 
-# Rename compiled EPUB to indicate P2P edition
-mv "${HANDOFF_DIR}/the_moral_physics_of_survival.epub" "${HANDOFF_DIR}/the_moral_physics_of_survival_p2p.epub"
-echo "P2P EPUB compiled: ${HANDOFF_DIR}/the_moral_physics_of_survival_p2p.epub"
+# Rename compiled EPUB to indicate P2P edition and place in torrents folder
+mv "${HANDOFF_DIR}/the_moral_physics_of_survival.epub" "${TORRENT_DIR}/the_moral_physics_of_survival_p2p.epub"
+echo "P2P EPUB compiled: ${TORRENT_DIR}/the_moral_physics_of_survival_p2p.epub"
 
 if [ -f "${HANDOFF_DIR}/the_moral_physics_of_survival.epub.bak" ]; then
   echo "Restoring original EPUB file..."
@@ -55,9 +55,9 @@ fi
 echo "Compiling P2P Booklet PDF..."
 "${WORKSPACE}/scripts/_archive/compile_any_booklet.sh" "${MANUSCRIPT_DIR}/epub_source.md" the_moral_physics_of_survival_p2p
 
-# Move generated booklet PDF to handoff
-mv "${MANUSCRIPT_DIR}/the_moral_physics_of_survival_p2p_booklet-book.pdf" "${HANDOFF_DIR}/"
-echo "P2P Booklet PDF compiled: ${HANDOFF_DIR}/the_moral_physics_of_survival_p2p_booklet-book.pdf"
+# Move generated booklet PDF to torrents folder
+mv "${MANUSCRIPT_DIR}/the_moral_physics_of_survival_p2p_booklet-book.pdf" "${TORRENT_DIR}/"
+echo "P2P Booklet PDF compiled: ${TORRENT_DIR}/the_moral_physics_of_survival_p2p_booklet-book.pdf"
 
 # 5. Restore original copyright file
 echo "Restoring original copyright file..."
@@ -66,11 +66,11 @@ mv "${MANUSCRIPT_DIR}/copyright.md.bak" "${MANUSCRIPT_DIR}/copyright.md"
 # 6. Generate Torrents using helper script
 echo "Generating torrent files..."
 python3 "${WORKSPACE}/scripts/create_torrent.py" \
-  "${HANDOFF_DIR}/the_moral_physics_of_survival_p2p.epub" \
+  "${TORRENT_DIR}/the_moral_physics_of_survival_p2p.epub" \
   "${TORRENT_DIR}/the_moral_physics_of_survival_p2p.epub.torrent"
 
 python3 "${WORKSPACE}/scripts/create_torrent.py" \
-  "${HANDOFF_DIR}/the_moral_physics_of_survival_p2p_booklet-book.pdf" \
+  "${TORRENT_DIR}/the_moral_physics_of_survival_p2p_booklet-book.pdf" \
   "${TORRENT_DIR}/the_moral_physics_of_survival_p2p_booklet-book.pdf.torrent"
 
 echo "Torrent setup complete!"
