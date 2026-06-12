@@ -29,7 +29,7 @@
 
 ## Collaborative Agent Handoff Summary (Granular Workflow)
 
-**Current Status**: Initialized KDP project structure, research anchors, and first prologue draft for the 300 project ("The Moral Physics of Survival"). Active edits follow the optimized 2026 general audience style guide.
+**Current Status**: Consolidated all MDI non-fiction titles under `200_amazon_kdp/`. Book One (*Building Material Dignity*) is fully completed, styled, and compiled. Book Three (*The Moral Physics of Survival*) active edits completed for Epilogue, Chapter 5, and Chapter 8 following the 2026 Survival Physics MoS. Binaries for Book One and Book Three are compiled and deployed to `/published/`.
 
 **Workflow Specifications**:
 1. **Thematic Core**: Focus on the "deteriorating species" (a sub-class of displaced individuals) and the "ontological friction" of street life.
@@ -39,9 +39,9 @@
 5. **Tooling & Sync**: 
    - Primary Repository: `https://github.com/bikepaths/publishing`
    - Mirror: Google Drive folder `1_el6GWYwn0cWxHSev9eNmYbfhH4Mzig7`
-   - EPUB Generation: Use the `epub-publisher` skill. Always verify binary integrity with `zip -T` before saving.
-   - External Sync: Do not sync to external platforms or generate new EPUBs until explicitly commanded during this editing phase.
-   - Next Steps: Continue clinical optimization of Chapter 5 and begin detailed expansion of Chapter 8 (Metabolic Stabilization) using the established ontological framework.
+   - EPUB Generation: Use Pandoc sequence and verify with EpubCheck.
+   - External Sync: All path structures and workflow scripts nested inside `scripts/200_amazon_kdp/`.
+   - Next Steps: Resolve the remaining three style violations in Book Two (*The Architecture of Survival*) located in Chapters 2 and 7. Run `scripts/200_amazon_kdp/02_architecture_of_survival/check_all_styles.py`.
 
 ## Research-to-Blog Publishing Pipeline with HTMLy Integration
 
