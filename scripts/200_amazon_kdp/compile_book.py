@@ -79,10 +79,10 @@ def pad_cover_image(image_path: Path) -> Path:
     img = Image.open(image_path)
     width, height = img.size
     
-    # If image is square, pad to standard vertical 1:1.6 aspect ratio
+    # If image is square, pad to standard vertical 1:1.5 aspect ratio
     if width == height:
-        print(f"Detected square cover: {width}x{height}. Padding to 1:1.6...")
-        new_height = int(width * 1.6)
+        print(f"Detected square cover: {width}x{height}. Padding to 1:1.5...")
+        new_height = int(width * 1.5)
         
         # Create new vertical canvas
         padded_img = Image.new("RGB", (width, new_height))

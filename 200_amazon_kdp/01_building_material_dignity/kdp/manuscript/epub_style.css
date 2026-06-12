@@ -82,6 +82,11 @@ p {
     text-indent: 0;
 }
 
+/* Space after title when subtitle (h2) is absent */
+h1 + p, h1 + blockquote {
+    margin-top: 2em;
+}
+
 /* --- Section Rule / Ornamental Break --- */
 hr {
     border: none;
@@ -151,6 +156,8 @@ div.citations p {
     padding-left: 1.8em;
     margin-bottom: 0.6em;
     color: #222222;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 /* Chapter sub-headings within bibliography */
@@ -165,6 +172,8 @@ div.citations h2 {
     margin-bottom: 0.5em;
     border-bottom: 1px solid #cccccc;
     padding-bottom: 0.2em;
+    page-break-after: avoid;
+    break-after: avoid;
 }
 
 /* --- Block Quotes --- */
