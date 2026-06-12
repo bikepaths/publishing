@@ -2,7 +2,7 @@
 **Book One: Building Material Dignity**
 
 ### Locked Metadata (Do Not Change)
-*   **ASIN:** B0D3WXXXXX (Hypothetical assigned ID)
+*   **ASIN:** B0H1LSHYMF
 *   **Primary Title:** Building Material Dignity
 *   **Primary Author:** Charles J. DiBella
 *   **Series:** Material Dignity Infrastructure (Book 1)
