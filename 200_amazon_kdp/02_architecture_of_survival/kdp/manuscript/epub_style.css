@@ -39,7 +39,7 @@ h1 {
     font-weight: bold;
     text-align: left;
     margin-top: 0;
-    margin-bottom: 0.2em;
+    margin-bottom: 2.2em; /* Spacious gap before chapter body text */
     line-height: 1.25;
     color: #111111;
     break-before: page;
@@ -80,6 +80,11 @@ p {
     margin-top: 0;
     margin-bottom: 1em;
     text-indent: 0;
+}
+
+/* If subtitle (h2) is present, pull it up close to title (h1) */
+h1 + h2 {
+    margin-top: -2.0em;
 }
 
 /* --- Section Rule / Ornamental Break --- */
@@ -151,6 +156,8 @@ div.citations p {
     padding-left: 1.8em;
     margin-bottom: 0.6em;
     color: #222222;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 /* Chapter sub-headings within bibliography */
@@ -165,6 +172,15 @@ div.citations h2 {
     margin-bottom: 0.5em;
     border-bottom: 1px solid #cccccc;
     padding-bottom: 0.2em;
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+/* Prevent orphans by keeping the entire chapter references block together */
+.citations section.level2,
+section[epub\:type~="bibliography"] section.level2 {
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 /* --- Block Quotes --- */

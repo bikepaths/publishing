@@ -62,6 +62,8 @@ def find_cover_image(kdp_dir: Path) -> Path:
         "handoff/cover_padded.jpg",
         "handoff/cover.png",
         "handoff/cover.jpg",
+        "production/cover_padded.png",
+        "production/cover.png",
         "production/cover.jpg",
         "handoff/cover_concept.png"
     ]
