@@ -1,7 +1,7 @@
 # Style Guide: NYT Magazine Register
 
 ## Overview
-This style guide outlines the conventions for long-form essays intended for a general audience, specifically aiming for the "NY Times Magazine register." The goal is to translate complex ideas into accessible, engaging narrative non-fiction that maintains intellectual rigor.
+This style guide outlines the conventions for long-form essays intended for a general audience, specifically aiming for the "NY Times Magazine register." The goal is to translate complex ideas into accessible, `engaging narrative non-fiction that maintains intellectual rigor.
 
 ## General Tone and Register
 -   **Register**: Professional, engaging, and intellectually rigorous, suitable for a broad, educated readership.
@@ -9,7 +9,7 @@ This style guide outlines the conventions for long-form essays intended for a ge
 -   **Structure**: Narrative opening, argument-driven development, and a moral close. Scene-setting is appropriate in opening and closing sections.
 
 ## Length
--   **Target Length**: Approximately five thousand to six thousand words.
+-   **Target Length**: Optimized to deliver the best user experience for online reading while maintaining clarity and understanding.
 
 ## Sentence and Paragraph Structure
 -   **Sentence Flow**: Sentences should be carefully constructed to flow logically, with each building on the preceding one. Avoid abrupt transitions.
@@ -26,16 +26,16 @@ This style guide outlines the conventions for long-form essays intended for a ge
 -   **Direct Address**: Use of "you" (direct address to the reader) should be sparing and only when necessary to place the reader physically or emotionally within the narrative.
 
 ## Figurative Language
--   **Purposeful Use**: Figurative language (metaphors, similes) should be used carefully and only when it illuminates something that plain description cannot. It must be drawn from ordinary experience and not call undue attention to itself.
+-   **Purposeful Use**: Figurative language (metaphors, similes) should be used carefully and only when it illuminates something that plain description cannot. It must be drawn from common experience and not call undue attention to itself.
 -   **Avoid Ornate Language**: Ornate or self-conscious metaphor is to be avoided.
 
-## Structural Devices
+## Structural Elements
 -   **Internal Structure**: Avoid headers, bullet points, numbered lists, or other visual structural devices within the main body of the essay. The prose should carry all the structure.
--   **Transitions**: Transitions between different types of material (e.g., philosophical, fiscal, narrative) should occur through the natural movement of the narrative.
+-   **Transitions**: Transitions between different types of material (e.g., philosophical, fiscal, narrative) should occur through the natural movement of the prose.
 
 ## Content and Narrative Elements
--   **Human Element**: Incorporate one or two named human subjects whose experiences can anchor abstract arguments in specific lives. Include at least one practitioner voice (e.g., an outreach worker) to provide field experience.
--   **Counterexamples**: The Finnish model should be presented briefly as a counterexample to illustrate possibilities, not as a direct template for replication.
+-   **Human Element**: Incorporate one or two named human subjects whose experiences can anchor abstract arguments in specific lives. Include at least one voice to provide relevant experience.
+-   **Counterexamples**: Use counterexamples to illustrate possibilities, not as a direct template for replication.
 -   **Evidence-Based**: Arguments should be built through the accumulation of specific, carefully researched detail, allowing the reader to arrive at conclusions organically rather than through explicit advocacy.
 
 ## Prohibited Elements

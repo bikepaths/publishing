@@ -61,7 +61,7 @@ def download_and_create_factoid(filename):
 
     image_regex = re.compile(r'<!--image\s+(.*?)\s+image-->')
     match = image_regex.search(content)
-    image_link = match.group(1) if match else "None"
+    image_link = match.group(1) if (match and match.group(1).strip() != "None" and match.group(1).strip() != "") else "https://bikepaths.org/blog/content/images/visuals-370.jpg"
 
     # Separate metadata and body
     t_match = re.search(r'<!--t (.*?) t-->', content)
@@ -132,13 +132,18 @@ def generate_draft(factoid_file):
         return False
 
     orig_filename = filename_match.group(1).strip()
-    image_link = image_match.group(1).strip() if image_match else "None"
+    image_link = image_match.group(1).strip() if (image_match and image_match.group(1).strip() != "None" and image_match.group(1).strip() != "") else "https://bikepaths.org/blog/content/images/visuals-370.jpg"
 
     parts = orig_filename.replace(".md", "").split("_")
     timestamp = parts[0]
 
+    if len(parts) >= 3:
+        slug = parts[-1]
+    else:
+        slug = "_".join(parts[1:])
+
     blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(factoid_file)))
-    draft_path = os.path.join(blog_dir, "drafts", f"{timestamp}_DRAFT.md")
+    draft_path = os.path.join(blog_dir, "draft", f"{timestamp}_{slug}_DRAFT.md")
 
     new_content = content.replace("[Insert plain language factual refactoring here]", "- Autonomous LLM Synthesis Executed.")
     if "\n---\n## Raw Original Post Reference" in new_content:
@@ -323,13 +328,21 @@ def deploy_and_cleanup(posted_file):
     except subprocess.CalledProcessError as err:
         print(f"Warning: could not delete remote file: {err}")
 
-    draft_path = os.path.join(blog_dir, "drafts", f"{timestamp}_DRAFT.md")
-    if os.path.isfile(draft_path):
-        print(f"Removing local draft: {draft_path}")
-        try:
-            os.remove(draft_path)
-        except OSError as err:
-            print(f"Warning: could not delete local draft: {err}")
+    import glob
+    draft_patterns = [
+        os.path.join(blog_dir, "draft", f"{timestamp}_*_DRAFT.md"),
+        os.path.join(blog_dir, "draft", f"{timestamp}_DRAFT.md"),
+        os.path.join(blog_dir, "drafts", f"{timestamp}_*_DRAFT.md"),
+        os.path.join(blog_dir, "drafts", f"{timestamp}_DRAFT.md")
+    ]
+    for pattern in draft_patterns:
+        for p in glob.glob(pattern):
+            if os.path.isfile(p):
+                print(f"Removing local draft: {p}")
+                try:
+                    os.remove(p)
+                except OSError as err:
+                    print(f"Warning: could not delete local draft {p}: {err}")
             
     if os.path.isfile(factoid_path):
         print(f"Removing local factoid: {factoid_path}")
@@ -507,7 +520,7 @@ def promote_draft(draft_file):
         return None
 
     posted_filename = f"{timestamp}_{tags}_{slug}.md"
-    staging_path = os.path.join(blog_dir, "drafts", posted_filename)
+    staging_path = os.path.join(blog_dir, "draft", posted_filename)
     
     with open(staging_path, "w", encoding="utf-8") as f:
         f.write(content)
@@ -534,7 +547,7 @@ if __name__ == "__main__":
         generate_draft(args.draft)
     elif args.deploy:
         target_file = args.deploy
-        if target_file.endswith("_DRAFT.md") or "drafts" in target_file:
+        if target_file.endswith("_DRAFT.md") or "drafts" in target_file or "/draft/" in target_file:
             posted_file = promote_draft(target_file)
             if posted_file:
                 deploy_and_cleanup(posted_file)

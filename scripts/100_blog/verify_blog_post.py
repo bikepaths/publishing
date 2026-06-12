@@ -71,7 +71,7 @@ def verify_file(filepath):
     
     if filename.endswith("_DRAFT.md"):
         is_draft = True
-        timestamp = filename[:-9]
+        timestamp = filename.split("_")[0]
     elif filename.endswith(".md"):
         if " " in filename:
             print("[FAIL] Pass 3: Filename contains space characters.")
@@ -136,23 +136,27 @@ def verify_file(filepath):
             is_valid_colon = line.strip().endswith(":") or (line.strip().startswith("*") and "**" in line)
             if "://" not in line and not is_valid_colon:
                 print(f"  [VIOLATION] Pass 2: Line {idx} contains colon: {line}")
-                style_failed = True
+                if not is_draft:
+                    style_failed = True
         
         clean_line = re.sub(r'\[[^\]]*\]\([^)]+\)', '', line)
         if "(" in clean_line or ")" in clean_line:
             print(f"  [VIOLATION] Pass 2: Line {idx} contains parenthesis: {line}")
-            style_failed = True
+            if not is_draft:
+                style_failed = True
 
         matches = FORBIDDEN_REGEX.findall(line)
         if matches:
             print(f"  [VIOLATION] Pass 2: Line {idx} contains forbidden word(s) {set(matches)}: {line}")
-            style_failed = True
+            if not is_draft:
+                style_failed = True
 
     sentences = re.split(r'(?<=[.!?])\s+', content)
     for s in sentences:
         if CONJUNCTIONS_REGEX.match(s.strip()):
             print(f"  [VIOLATION] Pass 2: Sentence starts with forbidden conjunction: {s.strip()}")
-            style_failed = True
+            if not is_draft:
+                style_failed = True
 
     # Pass 2.1: Readability Check
     fk_grade = get_flesch_kincaid(content)

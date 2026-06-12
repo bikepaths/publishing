@@ -44,3 +44,13 @@ This matrix dictates the mandatory physical approach and verbal script based exc
 
 ## 3. The Intake Failure Rule
 If an intake offer is made while an individual is in State 1 or State 2, the offer is structurally invalid. A refusal recorded in State 1 or State 2 is an autonomic defense response, not a cognitive refusal of housing. The offer must be withheld or withdrawn until State 3 is achieved through co-regulation.
+
+---
+
+## 4. Neurobiological Rationale (Allostatic Load & PFC Atrophy)
+
+The execution protocols in this matrix are governed by the physical laws of neurobiology under extreme environmental stress:
+*   **Cortisol and Catecholamine Flooding:** Chronic exposure to freezing temperatures, physical vulnerability, and sleep deprivation triggers sustained HPA axis activation. This floods prefrontal networks with neurohormones, causing dendritic atrophy and structural degradation in the prefrontal cortex (PFC).
+*   **Deactivation of Deliberative Function:** Because the PFC is responsible for executive control, working memory, and rational planning, its physical degradation takes the deliberative systems offline.
+*   **Involuntary Defensive Reflexes:** In State 1 (Dorsal Vagal) and State 2 (Sympathetic), the brainstem and autonomic nervous system govern behavioral output. The refusal of housing or treatment recorded in these states represents an involuntary survival reflex rather than a considered preference. Providing a Warm Offer or demanding compliance during these states is a neurological category error that leads directly to system failure.
+

@@ -21,5 +21,6 @@ Contractor execution synchronizes against bureaucratic procurement velocity.
 ## 5.0 PHASE IV: INTAKE AND REVENUE ACTIVATION (Days 270-365)
 Operational execution shifts toward relational stabilization converting populations into cash-flowing stabilized assets.
 - **5.1 Relational Intake**: Deploy structured relational tracking protocols identifying and migrating cohesive unsheltered clusters.
-- **5.2 Sovereign Billing**: Trigger CalAIM Community Supports billing codes instantly upon intake. 
-- **5.3 Demonstration Validation**: Achieve cash-flow break-even at Day 365 completely eliminating first-mover demonstration risk.
+- **5.2 Compelled Care Compliance**: Trigger involuntary clinical intake protocols only upon simultaneous satisfaction of the four-condition threshold (verified prefrontal cortex atrophy, legal review under CARE Court or LPS, placement in least restrictive environments with anti-detention covenants, and time-limited status with mandatory reviews).
+- **5.3 Sovereign Billing**: Trigger CalAIM Community Supports billing codes instantly upon intake. 
+- **5.4 Demonstration Validation**: Achieve cash-flow break-even at Day 365, eliminating first-mover demonstration risk.
