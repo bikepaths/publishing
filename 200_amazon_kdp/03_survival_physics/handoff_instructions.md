@@ -3,7 +3,7 @@
 This document outlines the state, constraints, and operational procedures for *The Moral Physics of Survival* publishing project.
 
 ## 1. Project Context and Objectives
-The objective of this project is to publish the book *The Moral Physics of Survival* by Charles J. DiBella. The workspace is located at `/home/user0/git/publishing/300_survival_physics`.
+The objective of this project is to publish the book *The Moral Physics of Survival* by Charles J. DiBella. The workspace is located at `/home/user0/git/publishing/200_amazon_kdp/03_survival_physics`.
 
 ## 2. Directory Structure
 All manuscript files and assets are organized as follows:
@@ -12,7 +12,7 @@ All manuscript files and assets are organized as follows:
 - **`kdp/manuscript/epub_source.md`**: Assembled source file for EPUB compilation.
 - **`kdp/manuscript/full_manuscript.md`**: Assembled source file for DOCX print compilation.
 - **`kdp/handoff/`**: Output directory for compiled binaries (`the_moral_physics_of_survival.epub` and `the_moral_physics_of_survival.docx`).
-- **`scripts/300_survival_physics/`**: Contains verification scripts.
+- **`scripts/200_amazon_kdp/03_survival_physics/`**: Contains verification scripts.
 
 ## 3. Style Guide Constraints
 The manuscript must adhere strictly to the custom Style Manual. The key rules are:
@@ -20,7 +20,7 @@ The manuscript must adhere strictly to the custom Style Manual. The key rules ar
 - **Lexicon**: Academic clichés and simplistic transition words (e.g., *furthermore*, *mitigate*, *leverage*, *actionable*, *holistic*) are prohibited.
 - **Verification**: Always run the style checker script before building the book.
   ```bash
-  python3 /home/user0/git/publishing/scripts/300_survival_physics/check_all_styles.py
+  python3 /home/user0/git/publishing/scripts/200_amazon_kdp/03_survival_physics/check_all_styles.py
   ```
 
 ## 4. Compilation Pipeline

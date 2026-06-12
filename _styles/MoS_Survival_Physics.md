@@ -120,7 +120,7 @@ Chapters read as continuous narrative. No subheadings, bullet points, or numbere
 Run the automated style checker before compilation. The checker enforces em-dash prohibition, parenthetical prohibition, colon restrictions, and the full forbidden vocabulary list. Zero violations required before any chapter is accepted.
 
 ```bash
-python3 /home/user0/git/publishing/scripts/300_survival_physics/check_all_styles.py
+python3 /home/user0/git/publishing/scripts/200_amazon_kdp/03_survival_physics/check_all_styles.py
 ```
 
 ---
