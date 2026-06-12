@@ -1,4 +1,6 @@
-By deploying volunteers on a single night in January, the Los Angeles Homeless Services Authority's point-in-time count estimates the number of people sleeping outside. Through this aggregate count, the survey does not record names, medical histories, behavioral patterns, survival anchors, or preferred locations. The system does not track reasons for individual long-term homelessness under this methodology. To address the crisis, planners require names, detailed histories, and established accountability.
+# Chapter 09 The Field Architecture
+
+By deploying volunteers on a single night in January, the Los Angeles Homeless Services Authority's point-in-time count estimates the number of people sleeping outside. Through this aggregate count, the survey ignores names, medical histories, behavioral patterns, survival anchors, or preferred locations. The system ignores reasons for individual long-term homelessness under this methodology. To address the crisis, planners require names, detailed histories, and established accountability.
 
 To replace this aggregate count, the By-Name HMIS Registry builds a database. During a six-month pre-operation period, field documentation teams build files for unhoused individuals within the Skid Row target zone. By recording a name, GPS location patterns, survival anchors, and assigning pipeline classifications, the system builds individual files. The shared database updates in real time under MDI Stewardship Authority management. When an individual moves locations, the database updates immediately.
 

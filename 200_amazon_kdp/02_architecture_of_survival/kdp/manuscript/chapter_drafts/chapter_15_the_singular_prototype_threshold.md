@@ -1,3 +1,5 @@
+# Chapter 15 The Singular Prototype Threshold
+
 By establishing the Singular Prototype Threshold, the design enforces a strict gatekeeper mechanism. Under this rule, the Stewardship Authority must verify all eight binary metrics at One California Plaza before acquiring a second tower. These metrics return only a yes or a no outcome to maintain objective evaluation. Through this binary structure, the protocol prevents political renegotiation, and performance measurement.
 
 Metric 1 requires at least an eighty percent two-year housing retention rate within the MDI network to evaluate housing stability. By monitoring neurological readiness, Metric 2 requires at least a seventy percent Phase Zero clearance rate. Under this metric, enrolled residents must meet two or more of the five functional indicators within ninety days, and verifying metabolic stabilization.
