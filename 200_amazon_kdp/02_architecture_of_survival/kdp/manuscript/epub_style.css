@@ -1,5 +1,5 @@
 /* ============================================
-   The Weaponization of Compassion
+   Material Dignity Infrastructure Series
    ePub 3 Stylesheet — Chicago/IDPF Compliant
    Charles J. DiBella / Material Dignity Press
    ============================================ */
@@ -14,7 +14,7 @@
 /* --- Body and Base Typography --- */
 body {
     font-family: 'Baskerville', 'Georgia', 'Times New Roman', serif;
-    font-size: 1em;
+    font-size: 1.12em;
     line-height: 1.75;
     color: #1a1a1a;
     text-align: justify;
@@ -35,7 +35,7 @@ section[epub\:type~="bodymatter"] {
 /* --- Headings --- */
 h1 {
     font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
-    font-size: 1.6em;
+    font-size: 1.43em;
     font-weight: bold;
     text-align: left;
     margin-top: 0;
@@ -57,7 +57,7 @@ section[epub\:type~="frontmatter"] h1:first-child {
 
 h2 {
     font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
-    font-size: 0.95em;
+    font-size: 0.85em;
     font-weight: normal;
     font-style: italic;
     color: #555555;
@@ -68,7 +68,7 @@ h2 {
 
 h3 {
     font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
-    font-size: 0.9em;
+    font-size: 0.80em;
     font-weight: bold;
     color: #333333;
     margin-top: 1.5em;
@@ -112,7 +112,7 @@ section[epub\:type~="titlepage"] {
 }
 
 section[epub\:type~="titlepage"] h1 {
-    font-size: 2em;
+    font-size: 1.78em;
     text-align: center;
     margin-bottom: 0.4em;
 }
