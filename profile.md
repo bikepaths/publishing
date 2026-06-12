@@ -41,7 +41,7 @@
    - Mirror: Google Drive folder `1_el6GWYwn0cWxHSev9eNmYbfhH4Mzig7`
    - EPUB Generation: Use Pandoc sequence and verify with EpubCheck.
    - External Sync: All path structures and workflow scripts nested inside `scripts/200_amazon_kdp/`.
-   - Next Steps: Resolve the remaining three style violations in Book Two (*The Architecture of Survival*) located in Chapters 2 and 7. Run `scripts/200_amazon_kdp/02_architecture_of_survival/check_all_styles.py`.
+   - Next Steps: All three KDP titles (Book One, Book Two, Book Three) are consolidated, styled, compiled, and verified via EpubCheck. Focus shifts to the 100_blog publishing pipeline or new project initialization.
 
 ## Research-to-Blog Publishing Pipeline with HTMLy Integration
 
