@@ -18,10 +18,30 @@ def repair_front_matter():
 
 def reencode_cover():
     image_path = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/v2_cover_material_dignity.png"
-    print(f"Re-encoding cover image {image_path} to true PNG...")
+    print(f"Re-encoding and padding cover image {image_path} to 1:1.6 aspect ratio...")
     img = Image.open(image_path)
-    img.save(image_path, "PNG")
-    print("Cover image successfully re-encoded.")
+    w, h = img.size
+    
+    # Target height for 1:1.6 ratio
+    new_h = int(w * 1.6)
+    new_img = Image.new("RGB", (w, new_h))
+    
+    # Paste original in center
+    offset_y = (new_h - h) // 2
+    new_img.paste(img, (0, offset_y))
+    
+    # Extrude top row
+    top_row = img.crop((0, 0, w, 1))
+    for y in range(offset_y):
+        new_img.paste(top_row, (0, y))
+        
+    # Extrude bottom row
+    bottom_row = img.crop((0, h-1, w, h))
+    for y in range(offset_y + h, new_h):
+        new_img.paste(bottom_row, (0, y))
+        
+    new_img.save(image_path, "PNG")
+    print("Cover image successfully re-encoded and padded.")
 
 def compile_epub():
     print("Compiling EPUB with pandoc...")
@@ -67,6 +87,39 @@ def compile_epub():
     subprocess.run(cmd, check=True, cwd="/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity")
     print("EPUB compiled successfully.")
 
+import zipfile
+import re
+import tempfile
+import shutil
+
+def sanitize_epub_toc():
+    epub_path = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/kdp_01_building_material_dignity.epub"
+    print(f"Sanitizing landmarks out of EPUB: {epub_path}...")
+    
+    temp_dir = tempfile.mkdtemp()
+    temp_epub_path = os.path.join(temp_dir, "temp.epub")
+    
+    try:
+        with zipfile.ZipFile(epub_path, 'r') as src_zip:
+            with zipfile.ZipFile(temp_epub_path, 'w', zipfile.ZIP_DEFLATED) as dest_zip:
+                for item in src_zip.infolist():
+                    data = src_zip.read(item.filename)
+                    if item.filename == "EPUB/nav.xhtml":
+                        content = data.decode("utf-8")
+                        content = re.sub(
+                            r'<nav epub:type="landmarks"[^>]*>.*?</nav>',
+                            '',
+                            content,
+                            flags=re.DOTALL
+                        )
+                        data = content.encode("utf-8")
+                    dest_zip.writestr(item, data)
+        
+        shutil.move(temp_epub_path, epub_path)
+        print("EPUB landmarks successfully sanitized.")
+    finally:
+        shutil.rmtree(temp_dir)
+
 def validate_epub():
     epub_path = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/kdp_01_building_material_dignity.epub"
     print(f"Validating EPUB {epub_path}...")
@@ -91,6 +144,7 @@ def main():
     repair_front_matter()
     reencode_cover()
     compile_epub()
+    sanitize_epub_toc()
     validate_epub()
     deploy_epub()
 
