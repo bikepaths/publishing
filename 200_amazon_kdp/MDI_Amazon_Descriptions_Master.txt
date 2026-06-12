@@ -1,0 +1,147 @@
+=============================================================================
+             MATERIAL DIGNITY INFRASTRUCTURE (MDI) SERIES
+                 AMAZON KDP DESCRIPTIONS COPY-PASTE SHEET
+=============================================================================
+
+This document contains the final, updated marketing descriptions for the
+Material Dignity Infrastructure series and each of its three volumes.
+HTML versions are ready for KDP book descriptions. Plain Text versions
+are provided for series metadata and backup needs.
+
+-----------------------------------------------------------------------------
+1. SERIES DESCRIPTION (Plain Text for KDP Series Listing)
+-----------------------------------------------------------------------------
+The Material Dignity Infrastructure series provides a falsifiable, mechanical blueprint to solve unsheltered chronic homelessness. Written by Charles J. DiBella, this series integrates thirty years of street-level observation with stress neurobiology, urban economics, and commercial real estate to propose a permanent public utility model.
+
+Volume 1, Building Material Dignity, outlines the physical architecture of Vertically Integrated Stabilization Towers—engineered environments designed for neurobiological decompression and safety behind locked, acoustically isolated doors.
+
+Volume 2, The Architecture of Survival, exposes the misaligned financial incentives of the legacy homelessness services industry, replacing a twenty-four billion dollar municipal failure with a verified four-stage industrial recovery pipeline.
+
+Volume 3, The Moral Physics of Survival, constructs the philosophical and ethical foundation for this system, demonstrating how chronic street exposure destroys human cognitive agency and establishing the moral legitimacy of compelled clinical intervention.
+
+This series is not an appeal to abstract compassion. It is a rigorous manual for civic leaders, economists, and urban developers seeking to replace municipal collapse with structural stability.
+
+
+-----------------------------------------------------------------------------
+2. BOOK 1: BUILDING MATERIAL DIGNITY (ASIN: B0H1LSHYMF)
+-----------------------------------------------------------------------------
+
+=== HTML VERSION (Copy and paste into Amazon KDP Description Form) ===
+<p><strong>The crisis on our sidewalks is not a mystery. It is a design failure, and design failures have design solutions.</strong></p>
+
+<p>For decades, American cities have responded to chronic unsheltered homelessness with a cycle of temporary street sweeps, warehouse-scale congregate shelters, and isolated apartment placements that lack the relational support necessary for long-term retention. <em>Building Material Dignity</em> provides the engineering alternative.</p>
+
+<p>Drawing on thirty years of direct observation and integrating research from stress neurobiology, urban economics, and commercial real estate, Charles J. DiBella outlines a comprehensive mechanical blueprint to stabilize the unsheltered population. The solution is not behavioral; it is structural. The body requires specific physical conditions to remain functional: temperature regulation, sleep in an acoustically isolated space behind a locked door, and a sustained period of safety long enough for the stress hormones that have saturated the body's tissue to normalize.</p>
+
+<p>This book details the <strong>Material Dignity Infrastructure (MDI)</strong>: a network of vertically integrated stabilization towers acquired from the distressed commercial real estate market and operated as permanent public utilities. You will discover:</p>
+<ul>
+<li><strong>The Mathematics of Collapse</strong>: How the destruction of the kinship buffer and single-room occupancy housing created the modern encampment.</li>
+<li><strong>The Open-Air Trauma Ward</strong>: The specific clinical sequence by which street exposure dismantles the brain's capacity for executive function and self-directed behavior.</li>
+<li><strong>Phase Zero Decompression</strong>: Why 90 days of uninterrupted sleep behind an STC-65 rated locking door must precede any program or behavioral contract.</li>
+<li><strong>The Dunbar Pod</strong>: How limiting residential floor communities to 150 people replicates the biological constraints of human social cognition and drives housing retention.</li>
+<li><strong>The Fiscal Reality</strong>: Why building permanent stabilization towers generates an annual efficiency surplus compared to the billions currently spent managing the crisis on the street.</li>
+</ul>
+
+<p><em>Building Material Dignity</em> is not an appeal to compassion. It is a manual for action. The buildings are standing. The biology is documented. The budget math works. What remains is the decision to build.</p>
+
+
+=== PLAIN TEXT VERSION (Copy and paste where HTML is not supported) ===
+The crisis on our sidewalks is not a mystery. It is a design failure, and design failures have design solutions.
+
+For decades, American cities have responded to chronic unsheltered homelessness with a cycle of temporary street sweeps, warehouse-scale congregate shelters, and isolated apartment placements that lack the relational support necessary for long-term retention. Building Material Dignity provides the engineering alternative.
+
+Drawing on thirty years of direct observation and integrating research from stress neurobiology, urban economics, and commercial real estate, Charles J. DiBella outlines a comprehensive mechanical blueprint to stabilize the unsheltered population. The solution is not behavioral; it is structural. The body requires specific physical conditions to remain functional: temperature regulation, sleep in an acoustically isolated space behind a locked door, and a sustained period of safety long enough for the stress hormones that have saturated the body's tissue to normalize.
+
+This book details the Material Dignity Infrastructure (MDI): a network of vertically integrated stabilization towers acquired from the distressed commercial real estate market and operated as permanent public utilities.
+
+You will discover:
+* The Mathematics of Collapse: How the destruction of the kinship buffer and single-room occupancy housing created the modern encampment.
+* The Open-Air Trauma Ward: The specific clinical sequence by which street exposure dismantles the brain's capacity for executive function and self-directed behavior.
+* Phase Zero Decompression: Why 90 days of uninterrupted sleep behind an STC-65 rated locking door must precede any program or behavioral contract.
+* The Dunbar Pod: How limiting residential floor communities to 150 people replicates the biological constraints of human social cognition and drives housing retention.
+* The Fiscal Reality: Why building permanent stabilization towers generates an annual efficiency surplus compared to the billions currently spent managing the crisis on the street.
+
+Building Material Dignity is not an appeal to compassion. It is a manual for action. The buildings are standing. The biology is documented. The budget math works. What remains is the decision to build.
+
+
+-----------------------------------------------------------------------------
+3. BOOK 2: THE ARCHITECTURE OF SURVIVAL
+-----------------------------------------------------------------------------
+
+=== HTML VERSION (Copy and paste into Amazon KDP Description Form) ===
+<p><strong>California spent twenty-four billion dollars on homelessness since 2019. Yet tens of thousands remain on the streets. The money is not the problem. The sequence is.</strong></p>
+
+<p>Cities place individuals into housing while their bodies remain in acute physiological crisis: sleep-destroyed, metabolically collapsed, and neurologically compromised by years of untreated trauma. The result is sub-40 percent housing retention. Finland runs the same Housing First program and achieves 80 to 90 percent retention. The difference is not the housing. It is what Finland does before the housing.</p>
+
+<p><em>The Architecture of Survival</em> engineers that missing layer and builds the replicable model for every city facing the same sequencing failure. This is not a policy proposal; it is an industrial manual.</p>
+
+<p>Charles J. DiBella outlines a mechanical, economics-driven solution that treats basic human survival as a public industrial utility. You will discover:</p>
+<ul>
+<li><strong>Skyscraper Conversion</strong>: How to acquire vacant downtown commercial office towers at 80 percent below peak valuation and convert them into self-governing civic infrastructure.</li>
+<li><strong>The Ground Floor Utility</strong>: Why providing unconditional access to showers, veterinary care, and sleeping modules is the baseline of human dignity.</li>
+<li><strong>The Dunbar Pod</strong>: How partitioning tower residential floors into independent communities of 154 residents matches the biological limits of human trust.</li>
+<li><strong>Four Demographic Pathways</strong>: Matched, sequenced pipelines designed specifically for the economically displaced, the engageable encamped, the behaviorally calcified, and the voluntary nomadic.</li>
+<li><strong>The Efficiency Surplus</strong>: Why each tower generates an annual efficiency surplus of 33 to 82 million dollars, recovering capital costs within six years.</li>
+</ul>
+
+<p><em>The Architecture of Survival</em> is a falsifiable blueprint based on three decades of unsheltered lived experience. If it fails, the data shows exactly where and why. If it succeeds, it changes the paradigm of urban stabilization forever.</p>
+
+
+=== PLAIN TEXT VERSION (Copy and paste where HTML is not supported) ===
+California spent twenty-four billion dollars on homelessness since 2019. Yet tens of thousands remain on the streets. The money is not the problem. The sequence is.
+
+Cities place individuals into housing while their bodies remain in acute physiological crisis: sleep-destroyed, metabolically collapsed, and neurologically compromised by years of untreated trauma. The result is sub-40 percent housing retention. Finland runs the same Housing First program and achieves 80 to 90 percent retention. The difference is not the housing. It is what Finland does before the housing.
+
+The Architecture of Survival engineers that missing layer and builds the replicable model for every city facing the same sequencing failure. This is not a policy proposal; it is an industrial manual.
+
+Charles J. DiBella outlines a mechanical, economics-driven solution that treats basic human survival as a public industrial utility.
+
+You will discover:
+* Skyscraper Conversion: How to acquire vacant downtown commercial office towers at 80 percent below peak valuation and convert them into self-governing civic infrastructure.
+* The Ground Floor Utility: Why providing unconditional access to showers, veterinary care, and sleeping modules is the baseline of human dignity.
+* The Dunbar Pod: How partitioning tower residential floors into independent communities of 154 residents matches the biological limits of human trust.
+* Four Demographic Pathways: Matched, sequenced pipelines designed specifically for the economically displaced, the engageable encamped, the behaviorally calcified, and the voluntary nomadic.
+* The Efficiency Surplus: Why each tower generates an annual efficiency surplus of 33 to 82 million dollars, recovering capital costs within six years.
+
+The Architecture of Survival is a falsifiable blueprint based on three decades of unsheltered lived experience. If it fails, the data shows exactly where and why. If it succeeds, it changes the paradigm of urban stabilization forever.
+
+
+-----------------------------------------------------------------------------
+4. BOOK 3: THE MORAL PHYSICS OF SURVIVAL
+-----------------------------------------------------------------------------
+
+=== HTML VERSION (Copy and paste into Amazon KDP Description Form) ===
+<p><strong>Universal dignity rests on human nature rather than performance or functional capacity. Below the biological floor, choice and consent cease to operate.</strong></p>
+
+<p>For decades, political philosophies and municipal programs have assumed that unsheltered individuals possess intact cognitive agency. Thirty years of street-level observation and neurobiological research prove otherwise. <em>The Moral Physics of Survival</em> provides the ethical and empirical framework to justify direct, systemic intervention.</p>
+
+<p>Charles J. DiBella outlines the moral necessity of the Material Dignity Infrastructure (MDI). When street exposure, sleep deprivation, and chronic trauma destroy prefrontal cortex function, biological recovery must precede any housing choice or behavioral contract. We are morally obligated to protect the vulnerable through compelled clinical intervention and public utility design. This is not an abstract theory; it is an empirical science mapping the causal mechanisms of municipal collapse.</p>
+
+<p>In this final volume of the series, you will discover:</p>
+<ul>
+<li><strong>The Biological Floor</strong>: Why exposure to the street dismantles the brain's executive function and invalidates the standard assumption of rational choice.</li>
+<li><strong>Natural Law Without God</strong>: How to construct a secular, empirical ethical framework based on biological survival needs and human nature.</li>
+<li><strong>The Social Contract's Hidden Assumption</strong>: Why modern political philosophy fails to account for the physical requirements of biological agency.</li>
+<li><strong>The Hierarchy of Obligation</strong>: How a strict moral framework places the most vulnerable individuals at the absolute summit of civic responsibility.</li>
+<li><strong>The Legitimacy of Compelled Care</strong>: The ethical justification for removing individuals from self-destructive street exposure and placing them in clinical-housing environments.</li>
+</ul>
+
+<p><em>The Moral Physics of Survival</em> is the philosophical capstone of the Material Dignity Infrastructure series. It bridges the gap between physical engineering, public policy, and moral law. The choice is not between compassion and coercion, but between survival and systemic abandonment.</p>
+
+
+=== PLAIN TEXT VERSION (Copy and paste where HTML is not supported) ===
+Universal dignity rests on human nature rather than performance or functional capacity. Below the biological floor, choice and consent cease to operate.
+
+For decades, political philosophies and municipal programs have assumed that unsheltered individuals possess intact cognitive agency. Thirty years of street-level observation and neurobiological research prove otherwise. The Moral Physics of Survival provides the ethical and empirical framework to justify direct, systemic intervention.
+
+Charles J. DiBella outlines the moral necessity of the Material Dignity Infrastructure (MDI). When street exposure, sleep deprivation, and chronic trauma destroy prefrontal cortex function, biological recovery must precede any housing choice or behavioral contract. We are morally obligated to protect the vulnerable through compelled clinical intervention and public utility design. This is not an abstract theory; it is an empirical science mapping the causal mechanisms of municipal collapse.
+
+In this final volume of the series, you will discover:
+* The Biological Floor: Why exposure to the street dismantles the brain's executive function and invalidates the standard assumption of rational choice.
+* Natural Law Without God: How to construct a secular, empirical ethical framework based on biological survival needs and human nature.
+* The Social Contract's Hidden Assumption: Why modern political philosophy fails to account for the physical requirements of biological agency.
+* The Hierarchy of Obligation: How a strict moral framework places the most vulnerable individuals at the absolute summit of civic responsibility.
+* The Legitimacy of Compelled Care: The ethical justification for removing individuals from self-destructive street exposure and placing them in clinical-housing environments.
+
+The Moral Physics of Survival is the philosophical capstone of the Material Dignity Infrastructure series. It bridges the gap between physical engineering, public policy, and moral law. The choice is not between compassion and coercion, but between survival and systemic abandonment.
+=============================================================================
