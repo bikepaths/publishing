@@ -4,7 +4,7 @@ from PIL import Image
 from epubcheck import EpubCheck
 
 def repair_front_matter():
-    file_path = "/home/user0/git/publishing/mdi_book_one_compile/chapters/00_front_matter.md"
+    file_path = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/chapters/00_front_matter.md"
     print(f"Reading {file_path}...")
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
@@ -17,7 +17,7 @@ def repair_front_matter():
         f.write(repaired)
 
 def reencode_cover():
-    image_path = "/home/user0/git/publishing/mdi_book_one_compile/v2_cover_material_dignity.png"
+    image_path = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/v2_cover_material_dignity.png"
     print(f"Re-encoding cover image {image_path} to true PNG...")
     img = Image.open(image_path)
     img.save(image_path, "PNG")
@@ -64,11 +64,11 @@ def compile_epub():
         "--metadata", "lang=en-US"
     ]
     
-    subprocess.run(cmd, check=True, cwd="/home/user0/git/publishing/mdi_book_one_compile")
+    subprocess.run(cmd, check=True, cwd="/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity")
     print("EPUB compiled successfully.")
 
 def validate_epub():
-    epub_path = "/home/user0/git/publishing/mdi_book_one_compile/kdp_01_building_material_dignity.epub"
+    epub_path = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/kdp_01_building_material_dignity.epub"
     print(f"Validating EPUB {epub_path}...")
     res = EpubCheck(epub_path)
     print("Is valid:", res.valid)
@@ -80,7 +80,7 @@ def validate_epub():
         raise ValueError("EPUB validation failed.")
 
 def deploy_epub():
-    src = "/home/user0/git/publishing/mdi_book_one_compile/kdp_01_building_material_dignity.epub"
+    src = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/kdp_01_building_material_dignity.epub"
     dest = "/home/user0/git/publishing/published/kdp_01_building_material_dignity.epub"
     print(f"Deploying compiled EPUB to {dest}...")
     import shutil

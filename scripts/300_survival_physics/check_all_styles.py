@@ -28,7 +28,7 @@ forbidden_patterns = [
 
 forbidden_regex = re.compile(r'\b(' + '|'.join(forbidden_patterns) + r')\b', re.IGNORECASE)
 
-drafts_dir = "/home/user0/git/publishing/300_survival_physics/kdp/manuscript/chapter_drafts"
+drafts_dir = "/home/user0/git/publishing/200_amazon_kdp/03_survival_physics/kdp/manuscript/chapter_drafts"
 
 all_files = sorted([f for f in os.listdir(drafts_dir) if f.endswith(".md")])
 

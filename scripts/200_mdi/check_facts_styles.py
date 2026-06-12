@@ -31,7 +31,7 @@ forbidden_regex = re.compile(r'\b(' + '|'.join(forbidden_patterns) + r')\b', re.
 conjunctions = ["because", "since"]
 conjunctions_regex = re.compile(r'^\s*(' + '|'.join(map(re.escape, conjunctions)) + r')\b', re.IGNORECASE)
 
-facts_dir = "/home/user0/git/publishing/200_mdi/kdp/manuscript/facts"
+facts_dir = "/home/user0/git/publishing/200_amazon_kdp/02_architecture_of_survival/kdp/manuscript/facts"
 
 all_files = sorted([f for f in os.listdir(facts_dir) if f.startswith("chapter_") and f.endswith(".md")])
 

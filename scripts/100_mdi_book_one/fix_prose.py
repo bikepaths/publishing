@@ -1,7 +1,7 @@
 import os
 import re
 
-drafts_dir = "/home/user0/git/publishing/mdi_book_one_compile/chapters"
+drafts_dir = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/chapters"
 files = [f for f in os.listdir(drafts_dir) if f.endswith(".md") and not f.startswith("_") and "bibliography" not in f.lower()]
 
 replacements = {

@@ -3,9 +3,9 @@ import urllib.request
 import os
 
 def main():
-    mmd_path = '/home/user0/git/publishing/200_mdi/kdp/manuscript/flowchart.mmd'
-    output_png = '/home/user0/git/publishing/200_mdi/kdp/handoff/framework_flowchart.png'
-    output_svg = '/home/user0/git/publishing/200_mdi/kdp/handoff/framework_flowchart.svg'
+    mmd_path = '/home/user0/git/publishing/200_amazon_kdp/02_architecture_of_survival/kdp/manuscript/flowchart.mmd'
+    output_png = '/home/user0/git/publishing/200_amazon_kdp/02_architecture_of_survival/kdp/handoff/framework_flowchart.png'
+    output_svg = '/home/user0/git/publishing/200_amazon_kdp/02_architecture_of_survival/kdp/handoff/framework_flowchart.svg'
     
     with open(mmd_path, 'r') as f:
         code = f.read()

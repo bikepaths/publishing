@@ -31,7 +31,7 @@ forbidden_patterns = [
 
 forbidden_regex = re.compile(r"(?<!')\b(" + '|'.join(forbidden_patterns) + r")\b(?!'s\b)", re.IGNORECASE)
 
-drafts_dir = "/home/user0/git/publishing/mdi_book_one_compile/chapters"
+drafts_dir = "/home/user0/git/publishing/200_amazon_kdp/01_building_material_dignity/chapters"
 
 # exclude archive directory contents
 all_files = sorted([f for f in os.listdir(drafts_dir) if f.endswith(".md") and not f.startswith("_")])
