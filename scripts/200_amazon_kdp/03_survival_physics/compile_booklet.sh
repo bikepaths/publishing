@@ -17,6 +17,7 @@ pandoc \
   -V documentclass=extbook \
   -V fontsize=9.5pt \
   -V mainfont="Liberation Serif" \
+  -V header-includes="\let\cleardoublepage\clearpage" \
   --toc \
   --toc-depth=1
 
