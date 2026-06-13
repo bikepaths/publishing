@@ -48,7 +48,7 @@ BOOKS = {
         "epub_title": "The Moral Physics of Survival"
     },
     4: {
-        "dir_name": "04_capital_architecture",
+        "dir_name": "04_graduating_the_streets",
         "output_name": "graduating_the_streets",
         "epub_title": "Graduating the Streets: A Phase Zero Case Study in Material Dignity"
     }

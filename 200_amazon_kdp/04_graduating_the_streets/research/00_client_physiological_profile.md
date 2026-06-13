@@ -1,0 +1,3 @@
+# Client Physiological Profile: Marcus
+
+Chronic street exposure induces advanced sympathetic nervous system overdrive and metabolic depletion. For individuals with long-term unsheltered histories, elevated serum cortisol, disrupted circadian rhythms, and structural degradation of prefrontal pathways constitute standard physiological baselines. At intake, clinical baselines confirmed Marcus presented advanced physiological exhaustion, characterized by chronic hyper-vigilance, systemic metabolic depletion, and complete dorsal-vagal shutdown. Under these clinical conditions, standard cognitive behavioral therapy fails due to neurobiological capture by survival mechanisms. Biological stabilization must precede clinical therapy.

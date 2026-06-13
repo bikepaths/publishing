@@ -1,0 +1,3 @@
+# Graduation and Cost Savings
+
+Graduation metrics confirm that biological stabilization drives permanent housing retention. After ten months, Marcus transitioned to independent housing, demonstrating sustained physiological recovery and social integration. Based on county audit metrics, avoided public costs from emergency services, psychiatric holds, policing, and sanitation exceed fifty thousand dollars annually per stabilized client. By replacing emergency interventions with permanent architectural utilities, municipalities convert ongoing public losses into capital assets. Stability saves municipal funds.
