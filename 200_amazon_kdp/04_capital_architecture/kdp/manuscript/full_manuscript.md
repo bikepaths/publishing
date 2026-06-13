@@ -234,15 +234,15 @@ The prototype exists to be observed. Once the Day 365 measurement window validat
 
 ## Chapter One: The First-Mover Problem
 
-DiBella, Charles J. *Material Dignity Infrastructure: A Distributed Stewardship Model for Homelessness Resolution*. SSRN Working Paper 5968756, 2025.
+Global Impact Investing Network. *Catalytic Capital: Explaining the Range of Investment Practices*. New York: GIIN, 2020.
 
-DiBella, Charles J. *Material Dignity Infrastructure: Structural Misalignment and the Activation of Surplus Shelter Capacity*. SSRN Working Paper 6211658, 2026.
+Glaeser, Edward L., and Joseph Gyourko. "The Impact of Building Restrictions on Housing Affordability." *Economic Policy Review* 9, no. 2 (2003): 21–39.
 
 ## Chapter Two: Capital Stack and Yield Mechanics
 
-DiBella, Charles J. *Building Material Dignity: An Urban Stabilization Blueprint for the Unhoused*. ASIN: B0H1LSHYMF.
+Brookings Institution. *Blended Finance for Infrastructure: A Guide for Policy Makers and Investors*. Washington, D.C.: Brookings, 2021.
 
-DiBella, Charles J. *The Architecture of Survival: An Infrastructure Blueprint for an Age of Collapse*. ASIN: B0H24BFK9F.
+National Alliance to End Homelessness. *The Business Case for Ending Homelessness: Cost Savings of Permanent Supportive Housing*. Washington, D.C.: NAEH, 2023.
 
 ## Chapter Three: Legal Architecture and Governance
 
@@ -258,8 +258,8 @@ Culhane, Dennis P., Stephen Metraux, and Trevor Hadley. "Public Service Reductio
 
 Porges, Stephen W. "Orienting in a Defensive World: Mammalian Modifications of our Evolutionary Heritage. A Polyvagal Theory." *Psychophysiology* 32, no. 4 (1995): 301–318.
 
-DiBella, Charles J. *Relational Dignity Infrastructure: The Human Layer Required to Make Material Housing Inhabitable*. SSRN Working Paper 6881539, 2026.
+Dunbar, Robin I. M. "Coevolution of neocortex size, group size and language in humans." *Behavioral and Brain Sciences* 16, no. 4 (1993): 681–735.
 
-DiBella, Charles J. *Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization — A Street-to-Home Pipeline Analysis*. SSRN Working Paper 6579600, 2026.
+California Department of Health Care Services. *CalAIM Enhanced Care Management and Community Supports Operational Guide*. Sacramento: DHCS, 2024.
 
 :::
