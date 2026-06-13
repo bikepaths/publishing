@@ -1,0 +1,35 @@
+title: "Material Dignity Infrastructure"
+subtitle: "A Financial Specification for Eliminating Chronic Urban Displacement"
+author: "Charles J. DiBella"
+lang: "en-US"
+base_dir: "."
+files:
+  - type: copyright
+    path: copyright.md
+  - type: frontmatter
+    heading: "Author's Note"
+    path: front_matter.md
+    skip_lines: 4
+  - type: chapter
+    heading: "Chapter 1: Executive Summary"
+    path: chapter_drafts/chapter_01_executive_summary.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 2: Capital Stack and Yield Mechanics"
+    path: chapter_drafts/chapter_02_capital_stack_and_yield_mechanics.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 3: Legal Architecture and Governance"
+    path: chapter_drafts/chapter_03_legal_architecture_and_governance.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 4: Sovereign Revenue Mechanics"
+    path: chapter_drafts/chapter_04_sovereign_revenue_mechanics.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 5: Structural Risk Mitigation"
+    path: chapter_drafts/chapter_05_structural_risk_mitigation.md
+    skip_lines: 2
+  - type: bibliography
+    heading: "Citations and Sources"
+    path: citations.md
