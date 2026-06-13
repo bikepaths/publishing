@@ -23,9 +23,9 @@ First edition, 2026
 
 ---
 
-This volume provides the required financial specification to convert theoretical homelessness resolution frameworks into investable real estate assets, directly solving the first-mover capital risk gap. It translates the Material Dignity Infrastructure into the language capital markets require before committing funds.
+Converting theoretical homelessness resolution frameworks into investable real estate assets requires a precise financial specification to solve the first-mover capital risk gap. Capital markets require the Material Dignity Infrastructure to be translated into the language of underwriting and risk allocation before committing funds.
 
-The specification proposes a 220 million USD blended capital architecture (40% catalytic equity, 60% senior debt) to acquire distressed commercial real estate beneath replacement cost and deploy relational stabilization protocols. Operation generates permanent revenue through California Advancing and Innovating Medi-Cal (CalAIM) billing. The Tripartite Coalition governance structure legally isolates physical assets within a Delaware Statutory Trust, transferring operational execution to a California Public Benefit Corporation. The resulting prototype converts sunk municipal emergency costs into collateralized, cash-flowing asset equity, eliminating first-mover demonstration risk and unlocking autonomous institutional replication.
+A 220 million USD blended capital architecture (40% catalytic equity, 60% senior debt) acquires distressed commercial real estate beneath replacement cost and deploys relational stabilization protocols. Operation generates permanent revenue through California Advancing and Innovating Medi-Cal (CalAIM) billing. The Tripartite Coalition governance structure legally isolates physical assets within a Delaware Statutory Trust, transferring operational execution to a California Public Benefit Corporation. The resulting prototype converts sunk municipal emergency costs into collateralized, cash-flowing asset equity, eliminating first-mover demonstration risk and unlocking autonomous institutional replication.
 
 
 
@@ -132,9 +132,9 @@ When a county supervisor or a real estate investor observes that a single conver
 
 ## Conclusion
 
-The Material Dignity Infrastructure series has produced a complete theoretical and operational architecture for resolving chronic unsheltered homelessness through neurologically calibrated, relationally engineered permanent supportive housing. This volume supplies the missing terminal specification: the financial instrument that makes the prototype investable. A blended capital stack of eighty-eight million dollars in catalytic first-loss equity and one hundred thirty-two million dollars in senior concessionary debt acquires and converts One California Plaza into a two-thousand-unit permanent supportive housing facility generating stabilized eight percent yield on senior debt, secured by real property held in an independent trust, and funded through sovereign-backed Medi-Cal billing codes that replace commercial tenant rent.
+Resolving chronic unsheltered homelessness requires a complete theoretical, operational, and financial architecture. While previous analyses established the neurological calibration and relational engineering of permanent supportive housing, deployment depends on an investable financial instrument. A blended capital stack of eighty-eight million dollars in catalytic first-loss equity and one hundred thirty-two million dollars in senior concessionary debt acquires and converts One California Plaza into a two-thousand-unit permanent supportive housing facility generating stabilized eight percent yield on senior debt, secured by real property held in an independent trust, and funded through sovereign-backed Medi-Cal billing codes that replace commercial tenant rent.
 
-The prototype exists to be observed. Once the Day 365 measurement window validates per capita avoided-cost reductions exceeding fifty thousand dollars, the replication argument shifts from prospective to operational. Capital markets replicate proven financial performance. The first building must be funded by actors willing to accept demonstration risk. Every subsequent building funds itself.
+The prototype exists to be observed. Once the Day 365 measurement window validates per capita avoided-cost reductions exceeding fifty thousand dollars, the replication argument shifts from prospective to operational. Capital markets replicate proven financial performance. First-mover actors must accept demonstration risk; every subsequent building funds itself.
 
 ---
 
