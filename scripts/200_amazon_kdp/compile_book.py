@@ -46,6 +46,11 @@ BOOKS = {
         "dir_name": "03_survival_physics",
         "output_name": "the_moral_physics_of_survival",
         "epub_title": "The Moral Physics of Survival"
+    },
+    4: {
+        "dir_name": "04_capital_architecture",
+        "output_name": "the_capital_architecture_of_survival",
+        "epub_title": "The Capital Architecture of Survival"
     }
 }
 
@@ -225,7 +230,7 @@ def validate_epub(epub_path: Path):
 
 def main():
     parser = argparse.ArgumentParser(description="Compile books from SSRN publishing stack.")
-    parser.add_argument("--book", type=int, choices=[1, 2, 3], required=True, help="Book number to compile (1, 2, or 3)")
+    parser.add_argument("--book", type=int, choices=[1, 2, 3, 4], required=True, help="Book number to compile (1, 2, 3, or 4)")
     parser.add_argument("--format", choices=["epub", "docx", "both"], default="both", help="Target output format")
     args = parser.parse_args()
 

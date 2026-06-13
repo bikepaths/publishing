@@ -12,7 +12,7 @@ The revenue model replaces commercial tenant rent with Medi-Cal managed care cap
 
 **Blended Revenue Per Occupied Unit.** At stabilized occupancy, the weighted average annual revenue per occupied unit across all four billing lines equals approximately eighteen thousand two hundred dollars. This figure excludes Enhanced Care Management capitation, which layers additional per-member-per-month revenue for individuals enrolled in the highest-acuity population tiers.
 
-The occupancy ramp reflects the biological reality that trust accumulation and autonomic stabilization require time. Filling units faster than relational protocols permit degrades retention outcomes and produces the same revolving-door failure that characterizes existing shelter models.
+The occupancy ramp reflects the biological reality that trust accumulation and autonomic stabilization require time. Filling units faster than relational protocols permit degrades retention outcomes and produces the same revolving-door failure that characterises existing shelter models.
 
 **Months 1 through 6 (Ramp-up).** Target occupancy: thirty percent of converted capacity. Priority intake channels Recuperative Care activations, capturing individuals presenting acute physiological instability. Revenue composition skews toward higher-rate T2033 billing. Estimated gross revenue: thirteen million one hundred forty thousand dollars annualized.
 
@@ -20,7 +20,7 @@ The occupancy ramp reflects the biological reality that trust accumulation and a
 
 **Months 19 through 36 (Maturity).** Target occupancy: ninety-five percent of converted capacity. Revenue composition fully stabilized across all four billing lines. Estimated gross revenue: thirty-five million nine hundred ten thousand dollars annualized.
 
-**Operating Expenses.** Direct operating costs including staffing, facilities maintenance, insurance, and administrative overhead are estimated at sixty percent of gross revenue at maturity, producing net operating income of thirteen million eight hundred three-two thousand dollars annually.
+**Operating Expenses.** Direct operating costs including staffing, facilities maintenance, insurance, and administrative overhead are estimated at sixty percent of gross revenue at maturity, producing net operating income of thirteen million eight hundred thirty-two thousand dollars annually.
 
 **Debt Service.** Senior debt service on one hundred thirty-two million dollars at eight percent annual yield requires ten million five hundred sixty thousand dollars annually. Net operating income at maturity covers senior debt service at a 1.31x coverage ratio, exceeding the 1.25x floor by six percentage points.
 

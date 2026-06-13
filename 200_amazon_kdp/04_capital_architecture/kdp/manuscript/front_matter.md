@@ -1,5 +1,5 @@
-Material Dignity Infrastructure
-A Financial Specification for Eliminating Chronic Urban Displacement
+The Capital Architecture of Survival
+What Capital Markets Require to Solve Chronic Urban Displacement
 
 Charles J. DiBella
 

@@ -1,6 +1,6 @@
 ::: {.citations}
 
-## Chapter One: Executive Summary
+## Chapter One: The First-Mover Problem
 
 DiBella, Charles J. *Material Dignity Infrastructure: A Distributed Stewardship Model for Homelessness Resolution*. SSRN Working Paper 5968756, 2025.
 

@@ -1,6 +1,6 @@
 # Chapter 3: Legal Architecture and Governance
 
-The MDI framework explicitly rejects municipal procurement dependency. The Tripartite Coalition establishes autonomous operational governance utilizing two distinct corporate entities to isolate liability from physical assets.
+The MDI framework explicitly rejects municipal procurement dependency. To preserve operational autonomy, the Tripartite Coalition establishes governance utilizing two distinct corporate entities to isolate liability from physical assets.
 
 Entity One is a Delaware Statutory Trust (DST) serving as absolute title holder for the physical real estate. It employs zero operational staff. This absolute separation guarantees that operational liabilities cannot attach to the physical real estate.
 

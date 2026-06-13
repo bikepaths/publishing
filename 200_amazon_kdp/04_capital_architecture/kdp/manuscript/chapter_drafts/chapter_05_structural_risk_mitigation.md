@@ -1,28 +1,18 @@
 # Chapter 5: Structural Risk Mitigation
 
-Institutional capital strictly requires comprehensive risk isolation. Tranche A explicitly absorbs first-mover demonstration risk. Once Day 365 performance metrics validate CalAIM revenue streams, the demonstration risk reaches zero, unlocking traditional institutional refinancing.
+To attract institutional capital, we must isolate every point of risk. Tranche A catalytic equity absorbs initial demonstration risk. Once the day three-hundred-sixty-five performance metrics validate the CalAIM revenue stream, the demonstration risk is resolved, allowing traditional refinancing of the senior debt.
 
-Operational liability contagion is mitigated through the Tripartite Coalition, which legally isolates the physical asset within the Delaware Statutory Trust. Political interference is mitigated because the MDI prototype operates entirely independently of municipal funding. Revenue volatility is mitigated by a fully funded 10.56 million USD capitalized interest reserve, guaranteeing thirty-six months of Tranche B debt service regardless of operational billing velocity.
+The tripartite legal structure mitigates operational liability by isolating the physical asset within the Delaware Statutory Trust. Political risk is neutralized because the facility operates independently of municipal appropriations; revenue flows directly from managed care organizations to the operating corporation. Debt service volatility is mitigated by the capitalized interest reserve, ensuring interest payments are met even during occupancy ramp-up.
 
-The prototype operates under three measurement windows that produce the evidentiary basis for replication:
+Performance validation operates across three clear measurement windows:
 
-**Day 90.** Retention rate measured against initial placement cohort. Target: eighty-five percent. This metric validates the autonomic routing matrix and social network transition protocol. If individuals placed through relational intake with preserved survival networks retain housing at rates exceeding eighty-five percent within the first ninety days, the biological intake thesis is operationally confirmed.
+At Day 90, we measure residential retention against the initial cohort, targeting eighty-five percent. This validates the biological intake thesis.
 
-**Day 180.** Blended per-unit revenue measured against pro forma projection. Target: within ten percent of projected revenue per occupied unit. This metric validates the CalAIM billing architecture. If managed care reimbursement flows at projected rates, the revenue model is confirmed as operationally viable.
+At Day 180, we measure blended per-unit revenue against projections, targeting variance under ten percent. This validates the CalAIM billing architecture.
 
-**Day 365.** Per capita avoided-cost reduction measured against baseline emergency service utilization. Target: verified reduction exceeding fifty thousand dollars per individual. This metric constitutes the replication trigger. Once the avoided-cost calculation is verified through audited emergency service data, the financial case for acquiring and converting the next building becomes self-evident to institutional capital.
+At Day 365, we measure the per capita avoided public cost, targeting a verified reduction exceeding fifty thousand dollars. This is the replication trigger.
 
-The financial case for replication rests on a parallel calculation that does not appear on the facility's income statement but dominates the public fiscal argument. Los Angeles County spends approximately fifty thousand dollars per chronically unsheltered individual annually through emergency department admissions, psychiatric holds, law enforcement contacts, and sanitation operations. Permanent supportive housing targeted to intensive service users generates gross public savings exceeding forty-six thousand dollars per person per year by eliminating these recurring expenditures.
-
-At stabilized occupancy of approximately two thousand individuals, One California Plaza generates estimated annual avoided public costs of one hundred million dollars. This figure represents the fiscal argument that triggers autonomous replication. When a county supervisor, a managed care CEO, or a commercial real estate investor observes that a single converted office tower eliminates one hundred million dollars in annual public waste while generating eight percent yield on senior debt secured by real property, the replication decision ceases to be philanthropic. It becomes fiduciary.
-
-**Occupancy Risk.** The ramp-up period between Month 1 and Month 18 generates revenue below stabilized projections. First-loss catalytic equity absorbs this shortfall by deferring return until Month 24. Senior debt service during the ramp-up period is funded through capitalized interest reserves built into the initial capital raise.
-
-**Regulatory Risk.** CalAIM billing codes are authorized under federal Medicaid waiver authority. Waiver renewal cycles introduce regulatory uncertainty. Mitigation: the facility's physical asset retains intrinsic real estate value independent of operating revenue. If CalAIM authorization were revoked, the DST could release the property for alternative use at values supported by the distressed acquisition discount.
-
-**Operational Risk.** The PBC operator may underperform on retention metrics or fail to execute relational protocols at specification. Mitigation: the Master Lease reassignment clause transfers operations to a successor entity without disrupting the capital structure. Senior debt holders retain their secured claim against the physical asset.
-
-**Political Risk.** Federal policy shifts, state budget contractions, or municipal political opposition may impede operations. Mitigation: the tripartite structure deliberately bypasses municipal procurement channels. Revenue flows directly between managed care organizations and the PBC operator. No general fund appropriation is required. Political opposition cannot defund a revenue stream it does not control.
+When a county supervisor or a real estate investor observes that a single converted tower eliminates one hundred million dollars in annual public waste while generating an eight percent yield on secured debt, the decision to replicate ceases to be philanthropic. It becomes fiduciary.
 
 ## Conclusion
 

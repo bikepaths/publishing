@@ -1,5 +1,5 @@
-title: "Material Dignity Infrastructure"
-subtitle: "A Financial Specification for Eliminating Chronic Urban Displacement"
+title: "The Capital Architecture of Survival"
+subtitle: "What Capital Markets Require to Solve Chronic Urban Displacement"
 author: "Charles J. DiBella"
 lang: "en-US"
 base_dir: "."
@@ -11,8 +11,8 @@ files:
     path: front_matter.md
     skip_lines: 4
   - type: chapter
-    heading: "Chapter 1: Executive Summary"
-    path: chapter_drafts/chapter_01_executive_summary.md
+    heading: "Chapter 1: The First-Mover Problem"
+    path: chapter_drafts/chapter_01_the_first_mover_problem.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 2: Capital Stack and Yield Mechanics"
