@@ -3,7 +3,7 @@
 ## Overview
 
 * **Target Journal**: *Journal of Social Distress and Homelessness*
-* **Submission Type**: Theoretical / Conceptual Article
+* **Submission Type**: Theoretical Papers
 * **Key Focus**: Booklet 3 (*The Moral Physics of Survival*)
 
 ## Manuscript Outline
