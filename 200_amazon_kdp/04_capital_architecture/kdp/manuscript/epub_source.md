@@ -1,5 +1,5 @@
 ---
-title: "The Capital Architecture of Survival"
+title: "MDI Blended Capital Prospectus"
 author: "Charles J. DiBella"
 lang: "en-US"
 ---

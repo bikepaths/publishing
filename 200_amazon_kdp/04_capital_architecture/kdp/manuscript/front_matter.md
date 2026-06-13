@@ -1,5 +1,5 @@
-The Capital Architecture of Survival
-What Capital Markets Require to Solve Chronic Urban Displacement
+MDI Blended Capital Prospectus
+Underwriting Permanent Urban Stabilization
 
 Charles J. DiBella
 

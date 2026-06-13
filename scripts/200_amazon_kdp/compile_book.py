@@ -49,8 +49,8 @@ BOOKS = {
     },
     4: {
         "dir_name": "04_capital_architecture",
-        "output_name": "the_capital_architecture_of_survival",
-        "epub_title": "The Capital Architecture of Survival"
+        "output_name": "mdi_blended_capital_prospectus",
+        "epub_title": "MDI Blended Capital Prospectus: Underwriting Permanent Urban Stabilization"
     }
 }
 
