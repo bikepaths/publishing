@@ -1,0 +1,5 @@
+# Chapter 4: Pod Integration
+
+Social reintegration requires scaling the community to human limits. After completing Phase Zero, Marcus entered Pod Twelve, a residential floor hosting one hundred fifty residents who share cooking, laundry, and dining spaces. Under Dunbar cognitive specifications, this limit matches the capacity for human relationship maintenance. To reduce social anxiety, the pod steward introduced Marcus to his immediate suite neighbors before presenting him to the larger group. By routing daily interactions through small, consistent clusters, the design avoids the stress of congregate halls. Community scales through small groups.
+
+Stewardship develops through shared operational responsibility. Within Pod Twelve, Marcus assumed maintenance duties for the communal kitchen, establishing routine and accountability. Participating in weekly pod councils gave Marcus a voice in resolving community conflicts and proposing physical improvements to shared spaces. Through cooperative management, residents rebuild the social agency that street survival had dismantled. Cooperation restores agency.

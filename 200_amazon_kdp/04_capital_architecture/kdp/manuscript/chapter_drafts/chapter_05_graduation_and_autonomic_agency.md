@@ -1,0 +1,5 @@
+# Chapter 5: Graduation and Autonomic Agency
+
+Graduation constitutes the final transition to independent living. After ten months of residency, Marcus demonstrated stabilized metabolic markers, consistent social engagement, and recovered executive function. To transition to independent housing, he worked with case managers to secure an apartment using state-funded vouchers. By pacing the intervention through biological milestones, the model achieved permanent stability. Recovery requires time.
+
+Marcus exited the Bunker Hill tower as a self-regulating individual capable of navigating social and economic environments. Confirming this biological thesis, the case study demonstrates that resolving long-term homelessness requires a sequence of physiological stabilization and architectural interventions rather than punitive behavioral contracts. By establishing material dignity as a public utility, the municipality terminates the cycle of street-level biological decay. Systemic change follows physical infrastructure.

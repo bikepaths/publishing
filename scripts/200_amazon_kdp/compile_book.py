@@ -49,8 +49,8 @@ BOOKS = {
     },
     4: {
         "dir_name": "04_capital_architecture",
-        "output_name": "mdi_blended_capital_prospectus",
-        "epub_title": "MDI Blended Capital Prospectus: Underwriting Permanent Urban Stabilization"
+        "output_name": "graduating_the_streets",
+        "epub_title": "Graduating the Streets: A Phase Zero Case Study in Material Dignity"
     }
 }
 
