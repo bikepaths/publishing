@@ -21,9 +21,10 @@ def main():
     title = title_match.group(1).strip() if title_match else "The Moral Physics of Survival"
     subtitle = subtitle_match.group(1).strip() if subtitle_match else "Thermodynamic Precarity, Cognitive Agency, and the Ethics of Compelled Stabilization"
 
-    # Extract Abstract
-    abstract_section = re.search(r"## Abstract\n\n(.*?)\n\n", draft_content, re.DOTALL)
+    # Extract Abstract using a robust pattern that handles single or multiple newlines
+    abstract_section = re.search(r"## Abstract\s*\n+(.*?)(?=\n+Keywords|\n+##|\Z)", draft_content, re.DOTALL)
     abstract = abstract_section.group(1).strip() if abstract_section else ""
+    print(f"Extracted Abstract length: {len(abstract)} characters")
 
     # Extract Keywords
     keywords_match = re.search(r"Keywords include (.*?)\.", draft_content)
@@ -49,14 +50,14 @@ Keywords: {keywords}
 {body_content}
 """
 
-    # Build Full Manuscript markdown (including author details)
+    # Build Full Manuscript markdown (including corrected independent scholar details)
     full_md = f"""# {title}
 
 ## {subtitle}
 
 **Author:** Charles J. DiBella  
-**Affiliation:** Director, Urban Systems Research  
-**Contact:** charles.dibella@bikepaths.org  
+**Affiliation:** Independent Scholar  
+**Contact:** bikepaths@duck.com  
 
 ## Abstract
 {abstract}
