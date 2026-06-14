@@ -18,7 +18,7 @@ def execute_batch(directory, deploy=False):
     print(f"[INFO] Found {len(files)} target files in {directory}.")
     
     if len(files) == 0:
-        print("\n[BATCH] No local factoids found. Initiating remote extraction (--prepare-next)...")
+        print("\n[BATCH] No local source files found. Initiating remote extraction (--prepare-next)...")
         prep_cmd = ["python3", "scripts/100_blog/refactor_oldposts.py", "--prepare-next"]
         prep_res = subprocess.run(prep_cmd, capture_output=True, text=True)
         
@@ -28,20 +28,20 @@ def execute_batch(directory, deploy=False):
             sys.exit(1)
             
         for line in prep_res.stdout.splitlines():
-            if line.startswith("Factoid created:"):
-                factoid_path = line.split(":", 1)[1].strip()
-                files.append(factoid_path)
+            if line.startswith("Raw file staged:"):
+                raw_path = line.split(":", 1)[1].strip()
+                files.append(raw_path)
                 break
                 
         if len(files) == 0:
-            print("[FAIL] Could not identify prepared factoid.")
+            print("[FAIL] Could not identify prepared raw file.")
             sys.exit(1)
     
     success_count = 0
     fail_count = 0
     
     for file_path in files:
-        print(f"\n[BATCH] Processing factoid: {os.path.basename(file_path)}")
+        print(f"\n[BATCH] Processing: {os.path.basename(file_path)}")
         
         draft_cmd = ["python3", "scripts/100_blog/refactor_oldposts.py", "--draft", file_path]
         result = subprocess.run(draft_cmd, capture_output=True, text=True)

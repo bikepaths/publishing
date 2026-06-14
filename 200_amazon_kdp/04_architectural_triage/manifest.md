@@ -18,3 +18,11 @@
 *   **Rule Set**: Adhere strictly to the *Caveman Protocol* and *Anti-Slop Index* for all internal communication.
 *   **Format**: Use absolute file paths for all edits. Maintain exact chapter configurations currently locked within `manifest.yaml`.
 *   **Workflow**: Run sequential `view_file` operations on empty chapter stubs before initiating comprehensive drafting passes.
+
+## 4. Book One Audit Findings & Discrepancies
+*   **The Massive Continuity Collision (Gloria's Legal Status)**: Book One (Ch. 16) explicitly states Gloria did *not* require CARE Court/legal lever and her executive function remained intact, whereas Book Four (Part 2) uses her as the index case for compelled extraction and severe prefrontal cortex degradation.
+*   **The Five Pipelines vs. Three**: Book One outlines Five Pipelines (Economic, Early-stage health, Advanced SUD, Acute Mental Illness, Predatory). Book Four compresses these into Pipelines A, B, and C, fracturing the taxonomy.
+*   **Missing Social Architecture**: Book One heavily emphasizes the "Pod Steward" (staff living on the floor managing relationships) and the "Pod Council" (monthly governance meetings). Both are missing from Book Four.
+*   **Missing Intake Specs**: Book One defines the ground floor as a "no-gate" commons (no ID required) and explicitly highlights veterinary care for animal companions. Book Four's Chapter 1 violates the no-ID mandate (Marcus gives ID) and misses the pet policy.
+*   **The Real Estate Lever**: Book One roots the MDI tower's fiscal viability in acquiring distressed Class B/C commercial real estate post-COVID. Book Four omits this structural mechanism.
+*   **Action Required**: A harmonization pass is required. Sysop must decide whether to retcon Book One to match Book Four's Gloria, or rewrite Gloria's sections in Book Four. We also need to inject the Pod Steward, the 5-pipeline taxonomy, and the no-gate/pet intake specs into Book Four.

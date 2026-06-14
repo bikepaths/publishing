@@ -33,10 +33,21 @@ def list_uncategorized():
         print(f"Error listing remote directory: {err.stderr}")
         return []
 
-def download_and_create_factoid(filename):
+def download_and_create_raw(filename):
     """
-    Downloads remote old post and extracts facts metadata.
+    Downloads remote old post and saves it to draft directory as raw reference.
     """
+    parts = filename.replace(".md", "").split("_")
+    timestamp = parts[0]
+    
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    if os.path.basename(current_dir) == "100_blog":
+        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
+    elif os.path.basename(current_dir) == "scripts":
+        blog_dir = os.path.join(os.path.dirname(current_dir), "100_blog")
+    else:
+        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
+        
     local_temp = os.path.join("/tmp", filename)
     scp_cmd = ["scp", "-P", VM_PORT, f"{VM_USER}@{VM_HOST}:{REMOTE_UNCATEGORIZED}/{filename}", local_temp]
     
@@ -49,19 +60,9 @@ def download_and_create_factoid(filename):
     with open(local_temp, "r", encoding="utf-8") as f:
         content = f.read()
 
-    parts = filename.replace(".md", "").split("_")
-    if len(parts) >= 3:
-        timestamp = parts[0]
-        slug = parts[-1]
-    else:
-        timestamp = parts[0]
-        slug = "_".join(parts[1:])
-
-    original_timestamp_slug = f"{timestamp}_{slug}"
-
     image_regex = re.compile(r'<!--image\s+(.*?)\s+image-->')
     match = image_regex.search(content)
-    image_link = match.group(1) if (match and match.group(1).strip() != "None" and match.group(1).strip() != "") else "https://bikepaths.org/blog/content/images/visuals-370.jpg"
+    image_link = match.group(1) if (match and match.group(1).strip() not in ["None", ""]) else "https://bikepaths.org/blog/content/images/visuals-370.jpg"
 
     # Separate metadata and body
     t_match = re.search(r'<!--t (.*?) t-->', content)
@@ -72,99 +73,68 @@ def download_and_create_factoid(filename):
     if t_text or d_text:
         body_content = f"Legacy Title: {t_text}\nLegacy Description: {d_text}\n\n{body_content}".strip()
 
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    if os.path.basename(current_dir) == "100_blog":
-        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
-    elif os.path.basename(current_dir) == "scripts":
-        blog_dir = os.path.join(os.path.dirname(current_dir), "100_blog")
-    else:
-        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
-    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
+    raw_path = os.path.join(blog_dir, "draft", f"{timestamp}_RAW.md")
     
-    factoid_content = f"""# Factoid: {timestamp}
+    raw_content = f"<!--original_filename {filename} original_filename-->\n<!--original_image_link {image_link} original_image_link-->\n{body_content}\n"
 
-- Original Filename: {filename}
-- Original Image Link: {image_link}
+    with open(raw_path, "w", encoding="utf-8") as f:
+        f.write(raw_content)
 
-<!-- STYLE REMINDER: 
-1. Narrative Flow: Write plain and simple English resembling an 8th-grade textbook. Tell a cohesive story; do not list isolated facts.
-2. Structural Cohesion: Connect ideas using transitional narrative bridges. Avoid dense, fragmented "machine language."
-3. Lexical Clarity: Target a Flesch-Kincaid grade level between 7.0 and 10.0.
-4. Paragraph Uniformity: Maintain 3 to 6 flowing paragraphs.
-5. Tone: Engage the reader with accessible, conversational prose while maintaining factual integrity.
--->
-
-<!-- TODO: Generate a plain language factual refactoring of the raw post content below. Remove raw text before drafting. -->
-## Factual Refactoring
-
-[Insert plain language factual refactoring here]
-
----
-## Raw Original Post Reference (To be deleted)
-{body_content}
-"""
-
-    with open(factoid_path, "w", encoding="utf-8") as f:
-        f.write(factoid_content)
-
-    print(f"Factoid created: {factoid_path}")
+    print(f"Raw file staged: {raw_path}")
     
     if os.path.exists(local_temp):
         os.remove(local_temp)
     return True
 
-def generate_draft(factoid_file):
+def generate_draft(raw_file):
     """
-    Generates draft post from facts definition.
+    Generates draft post from raw file.
     """
-    if not os.path.isfile(factoid_file):
-        print(f"Error: {factoid_file} is not a valid file.")
+    if not os.path.isfile(raw_file):
+        print(f"Error: {raw_file} is not a valid file.")
         return False
 
-    with open(factoid_file, "r", encoding="utf-8") as f:
+    with open(raw_file, "r", encoding="utf-8") as f:
         content = f.read()
 
-    filename_match = re.search(r'- Original Filename:\s+(.*)', content)
-    image_match = re.search(r'- Original Image Link:\s+(.*)', content)
-    
-    if not filename_match:
-        print("Error: Could not find original filename key in factoid.")
-        return False
-
-    orig_filename = filename_match.group(1).strip()
-    image_link = image_match.group(1).strip() if (image_match and image_match.group(1).strip() != "None" and image_match.group(1).strip() != "") else "https://bikepaths.org/blog/content/images/visuals-370.jpg"
-
-    parts = orig_filename.replace(".md", "").split("_")
+    filename = os.path.basename(raw_file)
+    parts = filename.replace(".md", "").split("_")
     timestamp = parts[0]
+    
+    # Parse original filename and image link from raw file comments if present
+    orig_filename_match = re.search(r'<!--original_filename (.*?) original_filename-->', content)
+    orig_image_match = re.search(r'<!--original_image_link (.*?) original_image_link-->', content)
+    
+    orig_filename = orig_filename_match.group(1).strip() if orig_filename_match else filename
+    image_link = orig_image_match.group(1).strip() if orig_image_match else "https://bikepaths.org/blog/content/images/visuals-370.jpg"
 
-    if len(parts) >= 3:
-        slug = parts[-1]
+    # Extract body content (stripping the RAW comment headers)
+    body_content = re.sub(r'<!--original_filename.*?-->', '', content)
+    body_content = re.sub(r'<!--original_image_link.*?-->', '', body_content).strip()
+
+    # If it is a timestamped file, extract slug
+    timestamp_pattern = r'^\d{4}-\d{2}-\d{2}-\d{2}-\d{2}-\d{2}$'
+    if re.match(timestamp_pattern, timestamp):
+        if len(parts) >= 3:
+            slug = parts[-1]
+        else:
+            orig_parts = orig_filename.replace(".md", "").split("_")
+            if len(orig_parts) >= 3:
+                slug = orig_parts[-1]
+            else:
+                slug = "_".join(orig_parts[1:])
     else:
-        slug = "_".join(parts[1:])
+        from datetime import datetime
+        timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+        slug = filename.replace(".md", "").replace("_", "-")
+        slug = re.sub(r'[^a-z0-9\-]', '', slug.lower())
+        slug = re.sub(r'-+', '-', slug).strip("-")
 
-    blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(factoid_file)))
+    blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(raw_file)))
     draft_path = os.path.join(blog_dir, "draft", f"{timestamp}_{slug}_DRAFT.md")
-
-    new_content = content.replace("[Insert plain language factual refactoring here]", "- Autonomous LLM Synthesis Executed.")
-    if "\n---\n## Raw Original Post Reference" in new_content:
-        new_content = new_content.split("\n---\n## Raw Original Post Reference")[0].strip() + "\n"
-    elif "## Raw Original Post Reference" in new_content:
-        new_content = new_content.split("## Raw Original Post Reference")[0].strip() + "\n"
-    with open(factoid_file, "w", encoding="utf-8") as f:
-        f.write(new_content)
 
     print("Initiating autonomous narrative synthesis via OpenRouter API...")
     
-    facts_text = content
-    if "## Factual Refactoring" in content:
-        factual_section = content.split("## Factual Refactoring")[1].split("## Raw Original Post Reference")[0].strip()
-        if factual_section and "[Insert plain language factual refactoring here]" not in factual_section:
-            facts_text = factual_section
-        elif "## Raw Original Post Reference" in content:
-            facts_text = content.split("## Raw Original Post Reference")[1].strip()
-    elif "## Raw Original Post Reference" in content:
-        facts_text = content.split("## Raw Original Post Reference")[1].strip()
-        
     api_key = os.environ.get("OPENROUTER_API_KEY")
     title = "[New Title]"
     desc = "[Description]"
@@ -173,7 +143,7 @@ def generate_draft(factoid_file):
     
     if api_key:
         url = "https://openrouter.ai/api/v1/chat/completions"
-        prompt = f"You are an elite editorial system. Write a cohesive, narrative blog post based on these facts:\n\n{facts_text}\n\nCONSTRAINTS:\n1. Grade Level: 8th-grade conversational English (Flesch-Kincaid 7.0-10.0).\n2. Lexicon: ABSOLUTELY NO slop or weak qualifiers. Do not use words like: nuanced, holistic, seamless, leverage, utilize, heavy, heavily, essential, fundamentally, specifically, however, perfectly, fosters, greatly, solely, in summary, in conclusion.\n3. Structure: 3-5 flowing paragraphs.\n4. Format: Start your response EXACTLY with these three lines:\nTitle: [Insert Title]\nDescription: [Insert 1-sentence description]\nTags: [Pick EXACTLY 3 tags from this authorized list ONLY: money, society, skills, systems, nature, technology, adventure, health, history, mind]\n\nThen leave a blank line and write the narrative body."
+        prompt = f"You are an elite editorial system. Write a cohesive, narrative blog post based on these facts:\n\n{body_content}\n\nCONSTRAINTS:\n1. Grade Level: 8th-grade conversational English (Flesch-Kincaid 7.0-10.0).\n2. Lexicon: ABSOLUTELY NO slop or weak qualifiers. Do not use words like: nuanced, holistic, seamless, leverage, utilize, heavy, heavily, essential, fundamentally, specifically, however, perfectly, fosters, greatly, solely, in summary, in conclusion.\n3. Structure: 3-5 flowing paragraphs.\n4. Headings: Do not use #, ##, or ### headings. Only #### or bold headings are permitted.\n5. Format: Start your response EXACTLY with these three lines:\nTitle: [Insert Title]\nDescription: [Insert 1-sentence description]\nTags: [Pick EXACTLY 3 tags from this authorized list ONLY: money, society, skills, systems, nature, technology, adventure, health, history, mind]\n\nThen leave a blank line and write the narrative body."
         data = {"model": "gpt-4o-mini", "messages": [{"role": "user", "content": prompt}]}
         headers = {"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
         req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
@@ -193,9 +163,9 @@ def generate_draft(factoid_file):
         except Exception as e:
             print(f"LLM Synthesis failed: {e}. Falling back to placeholder.")
     else:
-        print("Warning: OPENAI_API_KEY not found. Falling back to placeholder.")
+        print("Warning: OPENROUTER_API_KEY not found. Falling back to placeholder.")
 
-    draft_content = f"<!--variant collective-guide-v1 variant-->\n<!--t {title} t-->\n<!--d {desc} d-->\n<!--tag {tags_str} tag-->\n<!--image {image_link} image-->\n<!--gov htmly/system/technical_standards.md gov-->\n\n{body_text}\n"
+    draft_content = f"<!--t {title} t-->\n<!--d {desc} d-->\n<!--tag {tags_str} tag-->\n<!--image {image_link} image-->\n\n{body_text}\n"
 
     with open(draft_path, "w", encoding="utf-8") as f:
         f.write(draft_content)
@@ -206,6 +176,13 @@ def generate_draft(factoid_file):
 def deploy_and_cleanup(posted_file):
     """
     Deploys verified post, removes remote uncategorized oldpost, and flushes cache.
+
+    RE-DEPLOYMENT PROTOCOL:
+    To update or redeploy an existing scheduled remote post:
+    1. Download the target post from the remote scheduled folder to the local 'draft' folder.
+    2. Delete the remote scheduled file using ssh to prevent duplicate entries.
+    3. Modify the local draft file to apply edits.
+    4. Run this deployment script with --deploy pointing to the edited local draft path.
     """
     if not os.path.isfile(posted_file):
         print(f"Error: {posted_file} does not exist.")
@@ -306,19 +283,19 @@ def deploy_and_cleanup(posted_file):
             print(f"Error moving staged file: {err}")
             return False
 
-    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
+    raw_path = os.path.join(blog_dir, "draft", f"{timestamp}_RAW.md")
     
     orig_filename = None
-    if os.path.isfile(factoid_path):
-        with open(factoid_path, "r", encoding="utf-8") as f:
-            factoid_content = f.read()
-        filename_match = re.search(r'- Original Filename:\s+(.*)', factoid_content)
+    if os.path.isfile(raw_path):
+        with open(raw_path, "r", encoding="utf-8") as f:
+            raw_content = f.read()
+        filename_match = re.search(r'<!--original_filename (.*?) original_filename-->', raw_content)
         if filename_match:
             orig_filename = filename_match.group(1).strip()
 
     if not orig_filename:
         orig_filename = f"{timestamp}_uncategorized_{slug}.md"
-        print(f"Factoid not found, guessing legacy filename: {orig_filename}")
+        print(f"Raw file not found, guessing legacy filename: {orig_filename}")
 
     remote_old_path = f"{REMOTE_UNCATEGORIZED}/{orig_filename}"
     print(f"Removing oldpost: {remote_old_path}")
@@ -344,12 +321,12 @@ def deploy_and_cleanup(posted_file):
                 except OSError as err:
                     print(f"Warning: could not delete local draft {p}: {err}")
             
-    if os.path.isfile(factoid_path):
-        print(f"Removing local factoid: {factoid_path}")
+    if os.path.isfile(raw_path):
+        print(f"Removing local raw file: {raw_path}")
         try:
-            os.remove(factoid_path)
+            os.remove(raw_path)
         except OSError as err:
-            print(f"Warning: could not delete local factoid: {err}")
+            print(f"Warning: could not delete local raw file: {err}")
 
     verify_remote_permissions()
 
@@ -418,7 +395,7 @@ def verify_remote_permissions():
 def prepare_next():
     """
     Lists remote uncategorized posts, takes the first one, downloads it,
-    creates the factoid, and generates the draft template automatically.
+    and stages the raw file in draft/ directory.
     """
     files = list_uncategorized()
     if not files:
@@ -428,27 +405,11 @@ def prepare_next():
     first_file = files[0]
     print(f"\nAutomatically selecting next candidate: {first_file}")
     
-    success = download_and_create_factoid(first_file)
+    success = download_and_create_raw(first_file)
     if not success:
-        print("Failed to download and create factoid.")
+        print("Failed to download and stage raw file.")
         return False
         
-    parts = first_file.replace(".md", "").split("_")
-    timestamp = parts[0]
-    
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    if os.path.basename(current_dir) == "100_blog":
-        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
-    elif os.path.basename(current_dir) == "scripts":
-        blog_dir = os.path.join(os.path.dirname(current_dir), "100_blog")
-    else:
-        blog_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "100_blog")
-        
-    factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
-    
-    # Draft generation is handled subsequently by the orchestrator
-        
-    print(f"[SUCCESS] Prepared next post: {first_file}")
     return True
 
 def promote_draft(draft_file):
@@ -498,14 +459,15 @@ def promote_draft(draft_file):
     factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
     
     slug = None
-    if os.path.isfile(factoid_path):
-        with open(factoid_path, "r", encoding="utf-8") as f:
-            for line in f:
-                if line.startswith("- Original Filename:"):
-                    orig_file = line.split(":", 1)[1].strip()
-                    orig_parts = orig_file.replace(".md", "").split("_")
-                    slug = orig_parts[-1]
-                    break
+    raw_path = os.path.join(blog_dir, "draft", f"{timestamp}_RAW.md")
+    if os.path.isfile(raw_path):
+        with open(raw_path, "r", encoding="utf-8") as f:
+            raw_content = f.read()
+        filename_match = re.search(r'<!--original_filename (.*?) original_filename-->', raw_content)
+        if filename_match:
+            orig_file = filename_match.group(1).strip()
+            orig_parts = orig_file.replace(".md", "").split("_")
+            slug = orig_parts[-1]
     
     if not slug:
         title_match = re.search(r'<!--t\s+(.*?)\s+t-->', content)
@@ -542,7 +504,7 @@ if __name__ == "__main__":
     if args.list:
         list_uncategorized()
     elif args.download:
-        download_and_create_factoid(args.download)
+        download_and_create_raw(args.download)
     elif args.draft:
         generate_draft(args.draft)
     elif args.deploy:

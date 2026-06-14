@@ -142,3 +142,32 @@ The 12-chapter research outline represents the correct destination. Each part re
 2. **Gloria arc resolution**: The current stubs bring Gloria only through forced intake. The research outline (`05_chapter_outline.md`) does not specify a Gloria graduation chapter equivalent to Arthur's. Confirm: does Gloria require a graduation/discharge chapter, or does Part 2 close at behavioral reconstitution, leaving her arc open-ended as a narrative contrast to Arthur's clean graduation?
 
 3. **Expand Ground Floor (Ch 1) now or in a separate pass?**: Chapter 1 currently sits at 263 words (stub). It introduces the sally port and triage logic that both Gloria and Marcus will experience in subsequent chapters. Expanding it during Pass 2/3 creates a logical dependency where the ground floor chapter must precede the parts it describes. Confirm: expand Ch 1 first as a standalone pass, or defer to post-Part-3 as a retroactive anchor?
+
+---
+
+## Book 1 Audit Findings & Required Harmonization
+
+A comprehensive audit of Book One (*Building Material Dignity*) against Book Four reveals several critical missing elements, structural gaps, and one massive continuity collision:
+
+### 1. The Massive Continuity Collision: Gloria's Legal Status
+*   **Book One (Ch. 16)** explicitly states: *"Gloria did not require the legal lever. Her neurological damage was acquired on the street, not from a psychotic disorder, and her executive function... remained above the threshold that would justify court-ordered intervention."* Book One uses the "guy three tents down from Gloria" as the index case for compelled CARE Court extraction.
+*   **Book Four (Part 2)** currently uses Gloria as the index case for compelled CARE Court extraction, explicitly detailing her LPS conservatorship and total prefrontal cortex degradation. We have fundamentally contradicted her character arc and medical baseline between volumes.
+
+### 2. The Five Pipelines vs. Pipeline A/B/C
+*   **Book One (Ch. 15)** outlines exactly **Five Pipelines**: (1) Economic Displacement, (2) Early-stage health/trauma, (3) Advanced Substance Use Disorder, (4) Acute Mental Illness/Anosognosia (the CARE Court cohort), and (5) The Predator Class. 
+*   **Book Four** compressed these into Pipelines A, B, and C. While we just wove the Predator Class back in, we are using an A/B/C nomenclature that fractures the "Five Pipelines" taxonomy established in Book One.
+
+### 3. Missing Social Architecture: The Pod Steward & Pod Council
+*   **Book One (Ch. 14)** emphasizes that the Dunbar Pod only works because of the **Pod Steward**—a staff position held by someone who *lives on the floor* and provides relational continuity, acting as a synthetic kinship buffer rather than a case manager. It also details the **Pod Council**, a monthly governance meeting that converts "clients into citizens."
+*   **Book Four** mentions the 154-resident limit but entirely misses the Pod Steward and Pod Council mechanics in both Arthur's and Marcus's recovery arcs. 
+
+### 4. Missing Intake Spec: The "No-Gate" Commons and Animal Companions
+*   **Book One (Ch. 12)** defines the ground floor as the "Synthetic Urban Commons," functioning as a medieval hospitium with zero gates. No ID required, no forms, no behavioral contracts. Critically, it explicitly includes **veterinary care for animal companions** as a primary mechanism to bypass shelter refusal. 
+*   **Book Four (Ch. 1)** features Marcus confirming his name and date of birth at a digital tablet. While fast, this technically violates the absolute "no-gate/no ID" mandate of the ground-floor commons. It also misses the opportunity to showcase the animal companion intake lane.
+
+### 5. The Real Estate Lever
+*   **Book One (Ch. 11)** bases the entire fiscal viability of the MDI network on acquiring distressed commercial real estate (Class B/C office towers) at a 60-80% discount due to the post-COVID remote work correction.
+*   **Book Four** demonstrates the operational cost savings in the Chapter 14 budget hearing, but forgets to mention that Tower One is a retrofitted distressed commercial asset—the structural mechanism that makes the capital expenditure possible in the first place.
+
+**Sysop Input Required**:
+We must decide whether to retcon Book One to match Book Four's treatment of Gloria, or rewrite Gloria's sections in Book Four to use a different character for the CARE Court pipeline. We also need to inject the Pod Steward, the 5-pipeline taxonomy, and the no-gate/pet intake specs into Book Four's text.
