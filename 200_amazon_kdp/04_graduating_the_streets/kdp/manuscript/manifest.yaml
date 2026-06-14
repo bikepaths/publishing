@@ -23,8 +23,8 @@ files:
     path: chapter_drafts/chapter_03_the_storm_surge.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 4: Pod Integration"
-    path: chapter_drafts/chapter_04_pod_integration.md
+    heading: "Chapter 4: The Sally Port Gate"
+    path: chapter_drafts/chapter_04_the_sally_port_gate.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 5: Graduation and Autonomic Agency"
