@@ -36,7 +36,7 @@ Arthur blinked against the driving water. The two workers in the familiar blue j
 
 To a man whose entire connection to humanity rested on the shoulders of a shivering pit bull, traditional municipal shelters meant a death sentence for his dog. Legacy systems force people to surrender their pets at the door, citing hygiene or liability. Because of that rule, Arthur had chosen to freeze in the riverbed a dozen times before. 
 
-The blue jackets offered something fundamentally different. They didn't ask him to choose between his life and his dog. 
+The blue jackets operated under the strict zero-separation policy mandated by Material Dignity architecture. They didn't ask him to choose between his life and his dog. 
 
 One worker clipped a heavy steel carabiner from the yellow rope to his own harness and waded into the waist-deep current. The water slammed into his legs, but he braced himself against the rope held by his partner on the bank. He fought his way across the channel, stopping three feet from Arthur. 
 

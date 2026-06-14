@@ -12,7 +12,7 @@ Finally, the manager handed him a set of three brass keys on a simple metal ring
 
 Arthur held the keys in his palm, feeling their cold, jagged weight. On the street, you carry everything you own on your back because you have no door to lock. A key represents the ultimate luxury: a boundary that the rest of the world must respect. 
 
-He pushed through the heavy glass front doors of Tower One and stepped out into the bright, crisp afternoon sun. Buster trotted at his side, his leash slack. They walked two blocks down the tree-lined street until they reached a single-story stucco duplex. 
+He walked past the lobby security desk, where the floor plan explicitly eliminated all blind corners to prevent predatory ambush. He pushed through the heavy glass front doors of Tower One and stepped out into the bright, crisp afternoon sun. Buster trotted at his side, his leash slack. They walked two blocks down the tree-lined street until they reached a single-story stucco duplex.
 
 Arthur slid the brass key into the front deadbolt. It turned with a heavy, satisfying click. 
 

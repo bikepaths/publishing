@@ -20,7 +20,7 @@ The veterinarian gently placed a stethoscope against Buster's ribs. She listened
 
 Arthur exhaled. For the first time since the floodwaters began to rise in the Glendale Narrows, he felt his shoulders drop a fraction of an inch. 
 
-When the clinic doors finally opened, a staff member guided Arthur to the elevator, bypassing the second floor, and up to the Phase Zero decompression wing. Arthur stepped into the corridor, bracing himself. He expected the familiar, terrifying noise of a massive congregate shelter—the shouting of fifty strangers in a gymnasium, the hacking coughs echoing off cinderblock walls, the metallic crash of steel bunks, and the constant, underlying threat of theft. 
+When the clinic doors finally opened, a staff member guided Arthur to the elevator, bypassing the second floor, and up to the Phase Zero decompression wing. Arthur stepped into the corridor, bracing himself. He expected the familiar, terrifying noise of a massive congregate shelter—the shouting of fifty strangers in a gymnasium, the hacking coughs echoing off cinderblock walls, the metallic crash of steel bunks, and the constant, underlying threat of theft. Instead, the infrastructure mandated absolute elimination of congregate dormitories, strictly enforcing individual acoustic isolation.
 
 He heard absolutely nothing. 
 

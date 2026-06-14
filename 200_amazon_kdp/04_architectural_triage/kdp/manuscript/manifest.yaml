@@ -47,12 +47,28 @@ files:
     path: chapter_drafts/part_2_urban_core/chapter_07_compelled_extraction.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 9: The Velocity of Falling"
+    heading: "Chapter 9: Forced Decompression"
+    path: chapter_drafts/part_2_urban_core/chapter_08_forced_decompression.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 10: Behavioral Reconstitution"
+    path: chapter_drafts/part_2_urban_core/chapter_09_behavioral_reconstitution.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 11: The Velocity of Falling"
     path: chapter_drafts/part_3_economic/chapter_08_eviction_velocity.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 10: Preventing the Collapse"
+    heading: "Chapter 12: Preventing the Collapse"
     path: chapter_drafts/part_3_economic/chapter_09_rapid_stabilization.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 13: Rapid Exit Protocol"
+    path: chapter_drafts/part_3_economic/chapter_10_rapid_exit_protocol.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 14: The Municipal Yield"
+    path: chapter_drafts/part_3_economic/chapter_11_municipal_yield.md
     skip_lines: 2
   - type: bibliography
     heading: "Citations and Sources"
