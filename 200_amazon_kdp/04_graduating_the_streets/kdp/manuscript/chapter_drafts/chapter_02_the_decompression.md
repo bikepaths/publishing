@@ -1,5 +1,0 @@
-# Chapter 2: The Decompression
-
-For recovery to begin, the physical environment must contain external threats. Inside the room, Marcus locked the door from the inside, establishing a physical barrier between his body and the external environment. Except under emergency clinical protocols requiring two-person authorization, staff members possessed no override key. By using acoustic insulation rated at sound transmission class sixty-five, the building reduced hallway and street noise to levels below human hearing. Silence operates as a clinical intervention.
-
-During the first thirty days, Marcus remained inside the unit while staff delivered meals and nutritional inputs to his door. Through prolonged sleep reaching fourteen hours daily, his nervous system shifted from sympathetic hyperarousal to parasympathetic dominance. Stabilization occurs when the body ceases scanning for predatory cues. To avoid triggering flight responses, staff executed clinical checks through non-invasive biochemical screening and observation. The brain recovers when the body rests.

@@ -15,8 +15,8 @@ files:
     path: chapter_drafts/chapter_01_the_invisible_island.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 2: The Decompression"
-    path: chapter_drafts/chapter_02_the_decompression.md
+    heading: "Chapter 2: The Art of Presence"
+    path: chapter_drafts/chapter_02_the_art_of_presence.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 3: Cognitive Resurgence"

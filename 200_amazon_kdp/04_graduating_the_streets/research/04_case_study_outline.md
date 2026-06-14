@@ -4,7 +4,7 @@ Case study tracking client transition from Glendale Narrows riverbed encampment 
 
 ## Stage 1: Encampment Mapping (Registry)
 *   **Subject Profile**: Marcus.
-*   **Field Location**: Los Angeles Riverbed, Glendale Narrows, dense willow grove island adjacent to Bowtie Parcel (34.1165° N, 118.2615° W).
+*   **Field Location**: Los Angeles Riverbed, Glendale Narrows, dense willow grove island adjacent to Bowtie Parcel (34.11, -118.26).
 *   **Baseline Data Logs**: Physical description, approximate age, GPS coordinates.
 *   **Survival Anchors**: Dog named Buster, double-tarped cart structure.
 *   **Initial Classification**: Pipeline C (behaviorally calcified chronic, severe service refusal history).
