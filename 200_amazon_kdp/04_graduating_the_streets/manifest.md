@@ -24,9 +24,10 @@ Progress placeholder and operational guidelines for Book Four development.
     *   Drafted Chapter 3 (`chapter_03_the_storm_surge.md`) detailing Stage 3 crisis window, relational leverage, emergency extraction, and canine boarding.
     *   Drafted Chapter 4 (`chapter_04_the_sally_port_gate.md`) detailing Stage 4 sally port gate protocols, acoustic triage, and non-separation veterinary intake.
     *   Drafted Chapter 5 (`chapter_05_rehydration_and_refeeding.md`) detailing Stage 5 metabolic stabilization, medical check, limb treatment, and visceral safety menu.
+    *   Drafted Chapter 6 (`chapter_06_adrenal_decompression.md`) detailing Stage 5 decompression module, STC 65 soundproofed sanctuary, locked keycard autonomy, and recovery sleep.
 
 ## 3. Next Steps
 
-*   **Next Best Step Forward**: Begin drafting Chapter 6 manuscript in `200_amazon_kdp/04_graduating_the_streets/kdp/manuscript/chapter_drafts/chapter_06_adrenal_decompression.md` (detailing Stage 5 decompression module, STC 65 soundproofing, and recovery sleep).
+*   **Next Best Step Forward**: Begin drafting Chapter 7 manuscript in `200_amazon_kdp/04_graduating_the_streets/kdp/manuscript/chapter_drafts/chapter_07_the_circadian_reset.md` (detailing Stage 6 circadian stabilization, morning sunlight exposure, and sleep hygiene).
 *   **Alternative Step A**: Document veterinary stabilization and boarding protocols for client pets at ground floor nodes.
 *   **Alternative Step B**: Detail exact Medi-Cal mobile outreach reimbursement coding schedules.

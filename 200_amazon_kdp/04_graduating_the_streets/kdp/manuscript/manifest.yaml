@@ -30,6 +30,10 @@ files:
     heading: "Chapter 5: Rehydration and Refeeding"
     path: chapter_drafts/chapter_05_rehydration_and_refeeding.md
     skip_lines: 2
+  - type: chapter
+    heading: "Chapter 6: Adrenal Decompression"
+    path: chapter_drafts/chapter_06_adrenal_decompression.md
+    skip_lines: 2
   - type: bibliography
     heading: "Citations and Sources"
     path: citations.md
