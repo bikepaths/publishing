@@ -1,9 +1,0 @@
-# Chapter 5: Rehydration and Refeeding
-
-Inside the stabilization unit, the transition to regular nutrition began with extreme care. When a body has suffered months of starvation and survival, introducing standard food too quickly can trigger a fatal metabolic shock. To prevent refeeding syndrome, clinical staff monitored Marcus's electrolyte levels and hydration markers. In place of large meals, a nurse brought warm broths, diluted fruit juices, and small portions of soft, easily digested grains. 
-
-Marcus ate slowly in the quiet room, with curtains drawn to block the afternoon sun. For the first time in years, he did not have to scan the area or worry about guarding his belongings while he finished his food. Nearby, Buster lay asleep on a soft rug, snoring after his own specialized meal. Combined with the warmth of the broth, the presence of his companion signaled deep visceral safety to his digestive system. 
-
-As metabolic stabilization progressed, Marcus's limping right leg received medical care. A clinical team cleaned his skin infections and applied soothing ointments, wrapping the limb in fresh cotton bandages instead of plastic trash bags. To reduce autonomic stress, the nurse explained each step before touching him. This gentle approach prevented his nervous system from reacting to medical touch as an assault, allowing him to accept treatment without panic. 
-
-By the end of the first week, Marcus's physical appearance began to change. His dry cough softened, and his eyes appeared clearer as his body rehydrated. Severely damaged by years of eating rancid scraps, his gut-brain axis began to repair through targeted nutrition and peace. Visceral safety is the foundation of cognitive recovery, proving that healing must begin in the stomach before it can reach the mind.

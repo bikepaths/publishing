@@ -34,9 +34,19 @@ Progress placeholder and operational guidelines for Book Four development.
 *   **2026-06-14**:
     *   Audited all Book Four chapters for stylistic compliance to ensure zero violations of narrative directives.
     *   Committed and pushed chapter drafts to GitHub.
+    *   Consolidated 12 original institutional chapter drafts into 5 character-driven chapters.
+    *   Expanded narrative volume across Chapter 1 (Survival Mechanics), Chapter 2 (Extraction), Chapter 3 (Silence), Chapter 4 (Community), and Chapter 5 (Graduation).
+    *   Injected intermediate civic, biological, and architectural mechanics into prose to fulfill target narrative nonfiction manual of style.
 
 ## 3. Next Steps
 
-*   **Next Best Step Forward**: Obtain Sysop approval.
+*   **Next Best Step Forward**: Review final manuscript expansion and obtain Sysop approval for Book 4 completion.
 *   **Alternative Step A**: Transition to 100_blog publishing pipeline to begin draft preparation.
-*   **Alternative Step B**: Document veterinary stabilization and boarding protocols for client pets at ground floor nodes.
+*   **Alternative Step B**: Compile Book 4 into finalized format (EPUB/DOCX) pending explicit Sysop authorization.
+
+## 4. Book 4 Refactoring Plan (Narrative Nonfiction MoS)
+
+*   **Phase 1: Define Target Manual of Style**: High school readers require narrative nonfiction register. Drop academic detachment. Maintain high causal density. Prioritize sensory reality. Introduce clinical mechanics through character experience.
+*   **Phase 2: Restructure Chapter Architecture**: Current chapters follow institutional timelines. Refactored chapters must follow character timelines. Detail survival mechanics, extraction, silence, community integration, and housing acquisition through direct character action.
+*   **Phase 3: Translate Clinical Concepts**: Replace clinical jargon with physical action. Map hyper-vigilance to physical reactions. Map parasympathetic dominance to slowing breathing patterns. Map executive function to daily schedule management. Convert abstract theories to concrete environments.
+*   **Phase 4: Build Civic Agency**: High school readers demand mechanical solutions. Connect riverbed survival to municipal zoning laws. Connect individual recovery to public infrastructure design. Frame street exposure as structural failure. Define civic action as building material infrastructure rather than distributing charity. Arm readers with structural vocabulary.
