@@ -15,39 +15,43 @@ files:
     path: chapter_drafts/00_preface.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 1: Survival Mechanics"
+    heading: "Chapter 1: Ground Floor Operations"
+    path: chapter_drafts/01_ground_floor_intake.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 2: Survival Mechanics"
     path: chapter_drafts/part_1_riverbed/chapter_01_survival_mechanics.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 2: Extraction"
+    heading: "Chapter 3: Extraction"
     path: chapter_drafts/part_1_riverbed/chapter_02_extraction.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 3: Silence"
+    heading: "Chapter 4: Silence"
     path: chapter_drafts/part_1_riverbed/chapter_03_silence.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 4: Community"
+    heading: "Chapter 5: Community"
     path: chapter_drafts/part_1_riverbed/chapter_04_community.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 5: Graduation"
+    heading: "Chapter 6: Graduation"
     path: chapter_drafts/part_1_riverbed/chapter_05_graduation.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 6: The Concrete Loop"
+    heading: "Chapter 7: The Concrete Loop"
     path: chapter_drafts/part_2_urban_core/chapter_06_concrete_psychosis.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 7: Compelled Extraction"
+    heading: "Chapter 8: Compelled Extraction"
     path: chapter_drafts/part_2_urban_core/chapter_07_compelled_extraction.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 8: The Velocity of Falling"
+    heading: "Chapter 9: The Velocity of Falling"
     path: chapter_drafts/part_3_economic/chapter_08_eviction_velocity.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 9: Preventing the Collapse"
+    heading: "Chapter 10: Preventing the Collapse"
     path: chapter_drafts/part_3_economic/chapter_09_rapid_stabilization.md
     skip_lines: 2
   - type: bibliography

@@ -1,3 +1,10 @@
+---
+title: "Architectural Triage"
+author: "Charles J. DiBella"
+lang: "en-US"
+---
+
+
 Copyright © 2026 Charles J. DiBella
 
 
@@ -42,7 +49,24 @@ Every door, every keycard, and every insulated wall serves a precise, mathematic
 
 ---
 
-# Chapter 1: Survival Mechanics
+# Chapter 1: Ground Floor Operations
+
+
+The ground floor of the Material Dignity Infrastructure functions as a violent, high-friction interface between street chaos and mechanical stabilization. Unlike the silent, climate-controlled residential pods soaring above, the intake lobby never sleeps. Twenty-four hours a day, heavy glass perimeter doors cycle open, admitting a continuous stream of unnamed civic casualties seeking physical respite from urban exposure.
+
+Because the street destroys prefrontal cortex regulation, the ground floor must absorb extreme behavioral volatility. Within this sprawling concrete staging area, trouble erupts constantly. A man suffering from synthetic stimulant psychosis might suddenly hurl a steel trash receptacle against a reinforced load-bearing pillar. Another might collapse into severe polyvagal shutdown, his nervous system completely paralyzed by chronic hyper-vigilance. 
+
+To manage this complex problem, the architecture enforces strict operational specifications. The lobby layout utilizes wide, unobstructed sightlines, eliminating blind corners where predatory violence typically occurs. High-impact STC-65 soundproofing baffles absorb screaming, preventing acoustic trauma from echoing up into residential stabilization zones. 
+
+Intervention occurs through calculated mechanical routine. When violence flares, municipal extraction technicians do not shout. They deploy via synchronized digital keycard access, utilizing physical leverage and soft restraints to isolate the agitated subject. The individual is immediately routed into a subterranean medical stabilization node, segregating their chaos from the larger vulnerable population. 
+
+This initial sorting mechanism constitutes the core triage engine. By absorbing biological failure at ground level, the infrastructure protects the quiet, therapeutic recovery occurring on the floors above. Every homeless individual crossing the threshold receives immediate logistical staging, ensuring that acute medical crises never penetrate isolated residential pods.
+
+
+
+---
+
+# Chapter 2: Survival Mechanics
 
 
 The roar of Interstate 5 never stopped. It vibrated through the concrete banks of the Glendale Narrows, shook the dry willow branches, and traveled deep into the mud of the riverbed. Every time a semi-truck hit the metal expansion joints on the overpass, a rhythmic, mechanical *clack-clack* echoed down the channel like a gunshot. 
@@ -105,7 +129,7 @@ Arthur didn't know it yet, but this wasn't a sweep. This wasn't a sanitation cre
 
 ---
 
-# Chapter 2: Extraction
+# Chapter 3: Extraction
 
 
 Every Tuesday and Thursday, just as the morning commuter traffic on Interstate 5 began to thicken, two figures in bright blue waterproof jackets appeared on the concrete rim of the channel. They never carried bullhorns. They never shouted orders. And most importantly, they never carried the heavy, silver clipboards that usually signaled a county intake team. 
@@ -166,7 +190,7 @@ They left the ruined camp to the river. The extraction was complete.
 
 ---
 
-# Chapter 3: Silence
+# Chapter 4: Silence
 
 
 The ambulance backed slowly into a massive concrete bay at the rear of Tower One. 
@@ -219,7 +243,7 @@ He closed his eyes and went back to sleep. The long, slow process of nervous sys
 
 ---
 
-# Chapter 4: Community
+# Chapter 5: Community
 
 
 After ninety days in complete acoustic and physical isolation, Arthur finally received medical clearance to leave the decompression wing. His adrenal glands had rested. His sleep debt was paid. Now, he faced the hardest part of the transition: returning to human society. 
@@ -272,7 +296,7 @@ He was no longer just a resident receiving aid. He was a peer steward. He was a 
 
 ---
 
-# Chapter 5: Graduation
+# Chapter 6: Graduation
 
 
 Ten months after the winter flood nearly drowned them in the Glendale Narrows, Arthur stood in the first-floor administrative office of Tower One. He wasn't wearing wet, muddy denim or plastic trash bags taped over his legs. He wore a clean, pressed button-down shirt and durable canvas work pants purchased with his own bicycle workshop earnings. 
@@ -319,7 +343,7 @@ The mechanical rescue was complete. The architectural intervention had worked. A
 
 ---
 
-# Chapter 6: The Concrete Loop
+# Chapter 7: The Concrete Loop
 
 
 At the intersection of Fifth and San Pedro, the concrete radiates heat long after the sun goes down. Diesel exhaust from idling municipal buses settles thick and heavy over the cracked pavement. Amid the deafening noise of sirens, shouting pedestrians, and shattering glass, Gloria sits on a blue plastic milk crate.
@@ -338,7 +362,7 @@ The lead worker steps away from the curb and submits a formal CARE Court petitio
 
 ---
 
-# Chapter 7: Compelled Extraction
+# Chapter 8: Compelled Extraction
 
 
 Three days later, a municipal judge reviews the CARE Court petition. Examining the submitted medical documentation and field outreach video logs, the court authorizes a Lanterman-Petris-Short conservatorship. The judge legally transfers medical decision-making authority from the compromised individual directly to the state. 
@@ -361,7 +385,7 @@ In this specific demographic pipeline, absolute privacy must be paired with arch
 
 ---
 
-# Chapter 8: The Velocity of Falling
+# Chapter 9: The Velocity of Falling
 
 
 Marcus parked his ten-year-old sedan under the harsh fluorescent glare of a twenty-four-hour supermarket parking lot. He turned off the ignition, but he kept his hands gripped tightly around the steering wheel. He was forty-two years old. Until three weeks ago, he managed logistics for a regional freight company. Then the company liquidated, his severance check bounced, and the property management firm taped a three-day pay-or-quit notice to his apartment door. 
@@ -384,7 +408,7 @@ Marcus didn't hesitate. He started his engine and followed the van toward the co
 
 ---
 
-# Chapter 9: Preventing the Collapse
+# Chapter 10: Preventing the Collapse
 
 
 Marcus drove his sedan directly into the secure parking garage beneath Tower One. Because he had not endured years of chronic street trauma, his biological recovery requirements differed entirely from the other demographic pipelines. 
