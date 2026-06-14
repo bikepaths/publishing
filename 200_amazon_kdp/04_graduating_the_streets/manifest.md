@@ -26,9 +26,10 @@ Progress placeholder and operational guidelines for Book Four development.
     *   Drafted Chapter 5 (`chapter_05_rehydration_and_refeeding.md`) detailing Stage 5 metabolic stabilization, medical check, limb treatment, and visceral safety menu.
     *   Drafted Chapter 6 (`chapter_06_adrenal_decompression.md`) detailing Stage 5 decompression module, STC 65 soundproofed sanctuary, locked keycard autonomy, and recovery sleep.
     *   Drafted Chapter 7 (`chapter_07_the_circadian_reset.md`) detailing Stage 6 circadian stabilization, morning sunlight exposure, low-intensity amber nighttime lighting, and melatonin cycle restoration.
+    *   Drafted Chapter 8 (`chapter_08_hyper_vigilance_extinction.md`) detailing Stage 6 sensory grounding, textured wood panels, weighted blanket, canine comfort routines, and threat-scanning extinction.
 
 ## 3. Next Steps
 
-*   **Next Best Step Forward**: Begin drafting Chapter 8 manuscript in `200_amazon_kdp/04_graduating_the_streets/kdp/manuscript/chapter_drafts/chapter_08_hyper_vigilance_extinction.md` (detailing Stage 6 cognitive grounding, tactile security, and threat response extinction).
+*   **Next Best Step Forward**: Begin drafting Chapter 9 manuscript in `200_amazon_kdp/04_graduating_the_streets/kdp/manuscript/chapter_drafts/chapter_09_the_dunbar_transition.md` (detailing Stage 7 social reintegration, Dunbar pod design, and peer steward structure).
 *   **Alternative Step A**: Document veterinary stabilization and boarding protocols for client pets at ground floor nodes.
 *   **Alternative Step B**: Detail exact Medi-Cal mobile outreach reimbursement coding schedules.
