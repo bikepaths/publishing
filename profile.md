@@ -29,7 +29,7 @@
 
 ## Collaborative Agent Handoff Summary (Granular Workflow)
 
-**Current Status**: Consolidated all MDI non-fiction titles under `200_amazon_kdp/`. Book One (*Building Material Dignity*) is fully completed, styled, and compiled. Book Three (*The Moral Physics of Survival*) active edits completed for Epilogue, Chapter 5, and Chapter 8 following the 2026 Survival Physics MoS. Binaries for Book One and Book Three are compiled and deployed to `/published/`.
+**Current Status**: Consolidated all MDI non-fiction titles under `200_amazon_kdp/`. Book One (*Building Material Dignity*) is fully completed, styled, and compiled. Book Three (*Moral Physics of Survival*) active edits completed for Epilogue, Chapter 5, and Chapter 8 following 2026 Survival Physics manual of style rules. Book Four (*Graduating the Streets*) chapter drafts completed, verified, and pushed. Binaries for Book One and Book Three are compiled and deployed to `/published/`.
 
 **Workflow Specifications**:
 1. **Thematic Core**: Focus on the "deteriorating species" (a sub-class of displaced individuals) and the "ontological friction" of street life.
@@ -41,7 +41,7 @@
    - Mirror: Google Drive folder `1_el6GWYwn0cWxHSev9eNmYbfhH4Mzig7`
    - EPUB Generation: Use Pandoc sequence and verify with EpubCheck.
    - External Sync: All path structures and workflow scripts nested inside `scripts/200_amazon_kdp/`.
-   - Next Steps: All three KDP titles (Book One, Book Two, Book Three) are consolidated, styled, compiled, and verified via EpubCheck. Focus shifts to the 100_blog publishing pipeline or new project initialization.
+    - Next Steps: All four KDP titles are consolidated under single repository to ensure clean version history. Books One and Three are compiled and verified. Book Four chapter drafts are complete. Push updates. Focus shifts to 100_blog publishing pipeline or new project initialization.
 
 ## Research-to-Blog Publishing Pipeline with HTMLy Integration
 
