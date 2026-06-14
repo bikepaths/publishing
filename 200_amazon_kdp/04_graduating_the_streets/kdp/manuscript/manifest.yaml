@@ -42,6 +42,10 @@ files:
     heading: "Chapter 8: Hyper-Vigilance Extinction"
     path: chapter_drafts/chapter_08_hyper_vigilance_extinction.md
     skip_lines: 2
+  - type: chapter
+    heading: "Chapter 9: The Dunbar Transition"
+    path: chapter_drafts/chapter_09_the_dunbar_transition.md
+    skip_lines: 2
   - type: bibliography
     heading: "Citations and Sources"
     path: citations.md
