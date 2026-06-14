@@ -29,12 +29,16 @@ Documenting the physiological, neurological, and social transition of a single i
 
 ---
 
-# Chapter 1: The Extraction
+# Chapter 1: The Invisible Island
 
 
-Outreach in Bunker Hill requires understanding the neurobiology of chronic survival states. For seven years, Marcus occupied the concrete alcove beneath the Third Street tunnel, entering a deep dorsal-vagal shutdown that blocked voluntary engagement with municipal services. Every human approach registered within his nervous system as a threat. By bypassing traditional clinical intake, street medicine teams deploy mobile hygiene units and food inputs to establish baseline physiological safety before requesting program participation. Physical safety must precede cognitive processing.
+Glendale Narrows segment four features dense willow canopies and deep concrete channel banks that obscure human occupancy from municipal view. Within this waterway corridor, at coordinates 34.1165° N, 118.2615° W, Marcus established a semi-permanent camp on a mud island. For years, the surrounding concrete banks and fifteen-foot shallow river channel served as natural barriers against enforcement sweeps. His double-tarped dome framework, constructed from woven willow branches and conduit metal tubing, anchored directly into the riverbed clay to withstand seasonal water flow. 
 
-During sustained street exposure, continuous threat drives cortisol production to toxic levels; sleep deprivation disrupts cellular repair and breaks circadian rhythms. Clinical evaluation of long-term street exposure reveals advanced metabolic and neurological degradation. To initiate recovery, the team executed a relational intake process over three weeks, delivering daily meals and clean water without demanding compliance or personal information. Trust builds through predictable repetition. Once Marcus accepted a transit ride, the team routed him to the Phase Zero decompression floor.
+Living in chronic exposure drives the nervous system into constant hyper-vigilance. Every sound, including freeway traffic on the adjacent Interstate 5 and the rustle of dry willow leaves, registered as an immediate threat. Because threat scanning remained constant, high cortisol production disrupted metabolic systems and cellular repair. To seal out riverbed moisture and bacterial runoff, Marcus wrapped his severely limping right leg in heavy plastic trash bags secured with duct tape. A chronic cough, caused by inhaling campfire soot and damp soil particulate, dominated his breathing. 
+
+Loaded with copper wire coils, propane cylinders, and three wet spare tarps, a modified shopping cart served as Marcus's survival exoskeleton. These resource inputs were shared with Buster, a four-year-old pit bull mix who exhibited a persistent wet cough and shivering. Because the animal operated as his primary relational anchor, Marcus shared his own scarce food rations with the dog before eating. 
+
+Under the Material Dignity Infrastructure system, Stage 1 mapping requires cataloging these details. To initiate this process, Field Registry Team Alpha descended the east concrete embankment to log GPS coordinates and document the camp's physical layout. Rather than demanding signatures or immediate intake paperwork, the team mapped the camp's structural boundaries and registered Marcus as a high-acuity Pipeline C candidate. By registering physical layout and relational anchors first, the mapping phase establishes the baseline parameters needed to coordinate a non-separation transition.
 
 
 

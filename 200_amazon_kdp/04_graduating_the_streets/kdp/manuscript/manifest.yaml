@@ -11,8 +11,8 @@ files:
     path: front_matter.md
     skip_lines: 4
   - type: chapter
-    heading: "Chapter 1: The Extraction"
-    path: chapter_drafts/chapter_01_the_extraction.md
+    heading: "Chapter 1: The Invisible Island"
+    path: chapter_drafts/chapter_01_the_invisible_island.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 2: The Decompression"
