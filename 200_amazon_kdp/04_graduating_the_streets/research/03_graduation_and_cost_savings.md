@@ -19,8 +19,11 @@ Analysis of financial outcomes and post-graduation stability.
     *   Zero search-and-rescue extractions.
     *   **Total Annualized Public Cost**: $0.
 
-## 3. Financial Net Yield
+## 3. Control Group and Financial Net Yield
+*   **Control Group Baseline (Pathway Home)**: LA County Pathway Home programs yield a **54% permanent housing placement success rate** for riverbed encampment resolutions. The remaining 46% recidivism rate is driven by congregate/high-stimulation program rules that force chronic Pipeline C clients back to active street/riverbed status.
+*   **MDI Success Differential**: MDI pilot program targets an 80%+ permanent placement success rate, reducing recidivism loss by over 26% relative to county baselines.
 *   **Gross Annual Savings**: $118,000.
 *   **MDI Pilot Program Cost Allocation (Amortized)**: ~$50,000 annually per residential slot.
 *   **Net Annual Public Savings**: ~$68,000 per stabilized high-acuity client.
 *   **Capital Transformation**: Ongoing municipal expenditure losses converted into stable human capital.
+

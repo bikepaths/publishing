@@ -58,6 +58,7 @@ Detailed twelve-chapter trajectory mapping client transition from riverbed isola
 *   **Somatic Theme**: Autonomous stability maintenance.
 
 ## Chapter 12: The Municipal Yield
-*   **Narrative Focus**: Fiscal audit of Marcus's transition.
-*   **Operational Concept**: Cost-avoidance analysis (Stage 9). Detail avoided emergency transports, psychiatric holds, and rescue operations. Calculate net public yield.
+*   **Narrative Focus**: Fiscal audit of Marcus's transition. County HSH monitors demand immediate performance metrics amid 2026 budget contractions, threatening to defund Tower One pilot if recidivism rates match standard 46% control levels.
+*   **Operational Concept**: Cost-avoidance analysis (Stage 9). Detail avoided emergency transports, psychiatric holds, and rescue operations. Present Marcus's 10-month stabilization as clinical proof of MDI cost-efficiency to secure ongoing CalAIM funding.
 *   **Somatic Theme**: Economic sustainability of material dignity systems.
+
