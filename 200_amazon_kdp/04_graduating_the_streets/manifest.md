@@ -16,6 +16,8 @@ Progress placeholder and operational guidelines for Book Four development.
     *   Created `research/05_chapter_outline.md` drafting twelve-chapter narrative outline for Marcus's trajectory.
     *   Created `research/06_field_registry_log.md` detailing Stage 1 field registry observations and access routes.
     *   Created `research/07_waterway_outreach_synthesis.md` synthesizing media reports and county data validating MDI protocols.
+    *   Created `research/08_osint_research_plan.md` establishing open source intelligence collection framework.
+    *   Created `research/09_phase_one_osint_results.md` integrating county department shifts, PIT riverbed methodology, and POS 27 billing code structures.
 
 ## 3. Next Steps
 
