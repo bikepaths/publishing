@@ -16,21 +16,21 @@ The shivering pit bull, soaking wet from the river extraction, pressed his cold 
 
 The veterinarian gently placed a stethoscope against Buster's ribs. She listened to the dog's congested, rattling lungs for a full minute. 
 
-"He's going to need antibiotics for this cough," she said, looking up at Marcus. She read his rigid posture instantly. "But he's staying with you. We have a crate ready for your room. We don't separate families here."
+"He's going to need antibiotics for this cough," she said, looking up at Marcus. She read his rigid posture instantly. "He stays in our second-floor kennel. It's climate-controlled, and you have visitation access from six in the morning until ten at night. We don't force separation here."
 
 Marcus exhaled. For the first time since the floodwaters began to rise in the Glendale Narrows, he felt his shoulders drop a fraction of an inch. 
 
-When the clinic doors finally opened, a staff member guided Marcus and Buster down a wide, carpeted hallway toward a private unit. Marcus stepped inside, bracing himself. He expected the familiar, terrifying noise of a massive congregate shelter—the shouting of fifty strangers in a gymnasium, the hacking coughs echoing off cinderblock walls, the metallic crash of steel bunks, and the constant, underlying threat of theft. 
+When the clinic doors finally opened, a staff member guided Marcus to the elevator, bypassing the second floor, and up to the Phase Zero decompression wing. Marcus stepped into the corridor, bracing himself. He expected the familiar, terrifying noise of a massive congregate shelter—the shouting of fifty strangers in a gymnasium, the hacking coughs echoing off cinderblock walls, the metallic crash of steel bunks, and the constant, underlying threat of theft. 
 
 He heard absolutely nothing. 
 
 The room featured acoustic insulation rated at sound transmission class sixty-five. In architectural terms, an STC-65 rating means the walls are thick and dense enough to block out the sound of a jet engine. The walls absorbed the low-frequency vibrations of the city traffic outside and the high-frequency footsteps in the hall. 
 
-When Marcus pushed the heavy, solid-core door shut, the silence felt physical. It pressed against his ears like a heavy, warm blanket. He reached out and slid the heavy steel deadbolt into place. 
+When Marcus pushed the heavy, solid-core door shut, the silence felt physical. It pressed against his ears like a heavy, warm blanket. He held his newly issued digital keycard to the electronic reader beside his door. 
 
-*Click.*
+*Beep. Click.*
 
-That mechanical sound established an impenetrable barrier between his physical body and the dangers of the world. In traditional shelters, staff maintain override keys, entering rooms at will to conduct bed checks. At Tower One, the architecture gave agency back to the resident. Nobody held an override key. Unless Marcus explicitly called for medical help, nobody was coming through that door. 
+That electronic sound established an impenetrable barrier between his physical body and the dangers of the world. While facility staff maintained emergency override access to comply with municipal fire and life-safety codes, the system guaranteed absolute privacy under all non-crisis conditions. Nobody was coming through that door to conduct arbitrary bed checks. 
 
 For the first time in over three years, the constant, low-level hum of mortal danger vanished. 
 
@@ -40,7 +40,7 @@ He slept for fourteen consecutive hours.
 
 When Marcus finally woke the next afternoon, his first instinct was missing. He didn't leap up. He didn't scramble to scan the riverbed for flashing police lights or rising brown water. He lay flat on his back, staring at the white ceiling. 
 
-He simply listened to Buster snoring quietly in the large plastic crate beside the bed. 
+He simply listened to the absolute silence of the room. He knew Buster was resting securely in a sound-dampened kennel three floors below. 
 
 The silence operated as a potent form of medicine. By completely eliminating environmental threats, the acoustic architecture allowed his amygdala to stop scanning for predators. His resting heart rate dropped. His breathing slowed from the shallow, rapid pants of survival to deep, measured breaths. The extreme adrenal fatigue, built up over years of fighting the concrete city, began to drain from his leg muscles. 
 

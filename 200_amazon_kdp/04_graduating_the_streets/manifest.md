@@ -37,16 +37,19 @@ Progress placeholder and operational guidelines for Book Four development.
     *   Consolidated 12 original institutional chapter drafts into 5 character-driven chapters.
     *   Expanded narrative volume across Chapter 1 (Survival Mechanics), Chapter 2 (Extraction), Chapter 3 (Silence), Chapter 4 (Community), and Chapter 5 (Graduation).
     *   Injected intermediate civic, biological, and architectural mechanics into prose to fulfill target narrative nonfiction manual of style.
+    *   Authorized transition to Option Two structural architecture, dividing manuscript into sequenced demographic case studies.
 
 ## 3. Next Steps
 
-*   **Next Best Step Forward**: Review final manuscript expansion and obtain Sysop approval for Book 4 completion.
-*   **Alternative Step A**: Transition to 100_blog publishing pipeline to begin draft preparation.
-*   **Alternative Step B**: Compile Book 4 into finalized format (EPUB/DOCX) pending explicit Sysop authorization.
+*   **Next Best Step Forward**: Execute structural partition of manuscript into sequenced Option Two format.
+*   **Task 1 (Preface)**: Draft macroscopic system overview to map MDI baseline architecture before demographic isolation.
+*   **Task 2 (Part One)**: Reclassify existing Chapters 1-5 (Pipeline B / Marcus) as Part One: Riverbed.
+*   **Task 3 (Part Two)**: Outline and draft Part Two examining Pipeline C (Urban Core / CARE Court).
+*   **Task 4 (Part Three)**: Outline and draft Part Three examining Pipeline A (Economic Stabilization).
 
-## 4. Book 4 Refactoring Plan (Narrative Nonfiction MoS)
+## 4. Book 4 Structural Architecture (Sequenced Isolation)
 
-*   **Phase 1: Define Target Manual of Style**: High school readers require narrative nonfiction register. Drop academic detachment. Maintain high causal density. Prioritize sensory reality. Introduce clinical mechanics through character experience.
-*   **Phase 2: Restructure Chapter Architecture**: Current chapters follow institutional timelines. Refactored chapters must follow character timelines. Detail survival mechanics, extraction, silence, community integration, and housing acquisition through direct character action.
-*   **Phase 3: Translate Clinical Concepts**: Replace clinical jargon with physical action. Map hyper-vigilance to physical reactions. Map parasympathetic dominance to slowing breathing patterns. Map executive function to daily schedule management. Convert abstract theories to concrete environments.
-*   **Phase 4: Build Civic Agency**: High school readers demand mechanical solutions. Connect riverbed survival to municipal zoning laws. Connect individual recovery to public infrastructure design. Frame street exposure as structural failure. Define civic action as building material infrastructure rather than distributing charity. Arm readers with structural vocabulary.
+*   **Preface: Macroscopic Overview**: Details complete MDI operational protocol to prevent holistic comprehension delays.
+*   **Part One: Pipeline B (Riverbed)**: Examines voluntary mechanical rescue, polyvagal shutdown recovery, and physical barrier elimination (Marcus case study).
+*   **Part Two: Pipeline C (Urban Core)**: Examines severe behavioral calcification, prefrontal cortex degradation, and compelled legal extraction through CARE Court mechanisms.
+*   **Part Three: Pipeline A (Economic)**: Explores rapid economic stabilization models for recently displaced, cognitively intact populations.

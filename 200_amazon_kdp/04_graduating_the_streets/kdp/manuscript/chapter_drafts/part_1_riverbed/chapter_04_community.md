@@ -2,19 +2,19 @@
 
 After ninety days in complete acoustic and physical isolation, Marcus finally received medical clearance to leave the decompression wing. His adrenal glands had rested. His sleep debt was paid. Now, he faced the hardest part of the transition: returning to human society. 
 
-He stood in the elevator, holding Buster's leash tightly as the car rose to the eighth floor. He felt his pulse accelerate. His chest tightened. Moving into a public housing project or a traditional shelter usually triggers intense panic for someone accustomed to the defensive isolation of the street. Marcus expected the doors to open on overwhelming chaos—hundreds of metal cots lined up end-to-end in a gymnasium, fluorescent lights buzzing angrily overhead, and the constant, violent threat of theft hanging in the stale air. 
+He stood in the elevator, his hands empty, as the car rose to the eighth floor. He felt his pulse accelerate. His chest tightened. Moving into a public housing project or a traditional shelter usually triggers intense panic for someone accustomed to the defensive isolation of the street. Marcus expected the doors to open on overwhelming chaos—hundreds of metal cots lined up end-to-end in a gymnasium, fluorescent lights buzzing angrily overhead, and the constant, violent threat of theft hanging in the stale air. 
 
 The elevator chimed. The metal doors slid open. 
 
-Marcus stepped out, but his grip on the leash didn't relax immediately. Instead of a massive, echoing hall, he stepped into a quiet, carpeted common area that looked remarkably like a modern apartment lobby. Potted ferns sat in the corners. Soft, warm light washed the walls. Only four heavy wooden doors opened into this central space. 
+Marcus stepped out into a quiet, carpeted common area that looked remarkably like a modern apartment lobby. Potted ferns sat in the corners. Soft, warm light washed the walls. 
 
 The human brain cannot maintain trust within massive crowds. Cognitive limits restrict our ability to form stable, meaningful social relationships to about one hundred and fifty people—a neurological threshold known as Dunbar’s number. When legacy shelters pack three hundred traumatized individuals into a single armory, the brain registers the crowd as an uncontrollable threat. Fights break out. Paranoia spikes. People flee back to the streets simply to find space. 
 
-Tower One’s architecture respected this strict biological limit. Rather than forcing hundreds of people into a single hall, the floor plan was partitioned into independent, self-governing pods. Pod Eight contained exactly fourteen people. 
+Tower One’s architecture respected this strict biological limit. Rather than forcing hundreds of people into a single hall, the floor plan was partitioned into independent, self-governing pods. Pod Eight contained exactly one hundred and fifty-four people. 
 
 A tall man in a faded grey sweatshirt approached from the shared kitchen. He held a clipboard, but he didn't wear a plastic staff badge. He didn't carry himself with the stiff, detached authority of a security guard. 
 
-"I'm David," the man said, keeping a respectful distance from Buster. "I've got the suite right next to yours. I'm the pod steward this month."
+"I'm David," the man said, offering a warm smile. "I've got the suite right down the hall. I'm the pod steward this month."
 
 David handed Marcus a printed schedule for the shared kitchen. 
 
@@ -38,7 +38,7 @@ He earned a small, regular stipend for assembling and repairing bikes for local 
 
 With his first official payout, Marcus didn't hoard survival gear. He didn't buy duct tape or heavy trash bags. 
 
-He took the elevator back up to the eighth floor, carrying a large bag of premium, salmon-flavored dog treats. He dropped them on his bed for Buster. Then, hearing a frustrated sigh from the hallway, he walked out to the common room. A new arrival—a terrified young man fresh out of the medical decompression wing—was staring blankly at the complex digital display of the communal laundry machine. 
+He took the elevator down to the second-floor kennel, carrying a large bag of premium, salmon-flavored dog treats. After spending an hour sitting with Buster in the climate-controlled visitation run, he rode back up to the eighth floor. Hearing a frustrated sigh from the hallway, he walked into the common laundry room. A new arrival—a terrified young man fresh out of the medical decompression wing—was staring blankly at the complex digital display of the communal washing machine. 
 
 Marcus walked over, his shoulders relaxed, his posture open. 
 
