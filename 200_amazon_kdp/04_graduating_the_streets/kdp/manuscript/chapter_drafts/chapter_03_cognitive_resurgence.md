@@ -1,5 +1,0 @@
-# Chapter 3: Cognitive Resurgence
-
-Executive function recovers as systemic inflammation recedes. Between day thirty-one and day ninety, Marcus demonstrated improved working memory and emotional regulation during brief clinical interactions. Normalizing cortisol levels allows the prefrontal cortex to rebuild cognitive pathways damaged by street exposure. In the absence of behavioral contracts or institutional demands, he began initiating contact with pod support staff to discuss transitional options. Autonomy returns when pressure ceases.
-
-By the third month, metabolic markers indicated verified physiological stabilization. Nutrition plans targeted adrenal recovery while clinical teams coordinated medication management for co-occurring conditions. Instead of forcing rapid community integration, the model allowed Marcus to observe the shared kitchen and common areas through a video feed. Safe observation builds social confidence. When the ninety-day window concluded, he requested transfer to a permanent residential pod.

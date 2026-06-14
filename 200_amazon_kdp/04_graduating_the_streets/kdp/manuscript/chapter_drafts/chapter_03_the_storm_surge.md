@@ -1,0 +1,9 @@
+# Chapter 3: The Storm Surge
+
+A sudden winter storm in early November transformed the shallow riverbed into a torrent. Within twelve hours, seasonal rain runoff from concrete basins surged into the Glendale Narrows, rising four feet to submerge the low mud banks. As the rushing current swept away his spare tarps, Marcus retreated to a shrinking patch of high ground. Clinging to willow branches, he held Buster's collar above the rising water. 
+
+From the concrete embankment, the outreach team observed the rising waters and initiated the emergency extraction protocol. Because they had spent weeks building relational trust, the workers appeared as a known source of safety rather than hostile intruders. They shouted across the channel, offering immediate passage to the dry ground-floor sally port of Tower One. To address his primary fear, the team promised that Buster would travel with him and receive care in the onsite veterinary unit. 
+
+Faced with the choice between freezing in the riverbed or abandoning his dog, Marcus experienced intense autonomic conflict. The noise of the rushing river and the cold rain triggered a deep dorsal-vagal shutdown, leaving him immobile and unresponsive to verbal calls. To break this paralysis, a worker descended into the shallow water with a leash and a canine transport crate. By focusing the intervention on the physical safety of the dog, the worker bypassed Marcus's defensive resistance and guided both man and animal up the concrete slope. 
+
+This transition demonstrates how relational leverage operates during environmental crises. Rather than forcing compliance through legal threats or police citations, the program used the storm surge as a therapeutic window. Because the outreach team protected the dog first, they aligned program resources with Marcus's survival values. This alignment transformed a life-threatening crisis into a successful entry into the stabilization pipeline.

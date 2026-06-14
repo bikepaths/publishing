@@ -21,9 +21,10 @@ Progress placeholder and operational guidelines for Book Four development.
     *   Created `research/09_phase_one_osint_results.md` integrating county department shifts, PIT riverbed methodology, and POS 27 billing code structures.
     *   Drafted Chapter 1 (`chapter_01_the_invisible_island.md`) incorporating Stage 1 field registry observations, Glendale Narrows coordinates, and somatic hyper-vigilance metrics.
     *   Drafted Chapter 2 (`chapter_02_the_art_of_presence.md`) detailing Stage 2 outreach protocols, presence-first schedules, dog food delivery, and polyvagal de-escalation.
+    *   Drafted Chapter 3 (`chapter_03_the_storm_surge.md`) detailing Stage 3 crisis window, relational leverage, emergency extraction, and canine boarding.
 
 ## 3. Next Steps
 
-*   **Next Best Step Forward**: Begin drafting Chapter 3 manuscript in `200_amazon_kdp/04_graduating_the_streets/kdp/manuscript/chapter_drafts/chapter_03_the_storm_surge.md` (detailing Stage 3 crisis window and relational leverage).
+*   **Next Best Step Forward**: Begin drafting Chapter 4 manuscript in `200_amazon_kdp/04_graduating_the_streets/kdp/manuscript/chapter_drafts/chapter_04_the_sally_port_gate.md` (detailing Stage 4 arrival at Tower One, ground floor triage, and veterinary check).
 *   **Alternative Step A**: Document veterinary stabilization and boarding protocols for client pets at ground floor nodes.
 *   **Alternative Step B**: Detail exact Medi-Cal mobile outreach reimbursement coding schedules.

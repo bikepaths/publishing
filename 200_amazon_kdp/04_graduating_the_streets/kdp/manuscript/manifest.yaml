@@ -19,8 +19,8 @@ files:
     path: chapter_drafts/chapter_02_the_art_of_presence.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 3: Cognitive Resurgence"
-    path: chapter_drafts/chapter_03_cognitive_resurgence.md
+    heading: "Chapter 3: The Storm Surge"
+    path: chapter_drafts/chapter_03_the_storm_surge.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 4: Pod Integration"
