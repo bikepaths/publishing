@@ -54,6 +54,10 @@ files:
     heading: "Chapter 11: The Stewardship Model"
     path: chapter_drafts/chapter_11_the_stewardship_model.md
     skip_lines: 2
+  - type: chapter
+    heading: "Chapter 12: The Graduation"
+    path: chapter_drafts/chapter_12_the_graduation.md
+    skip_lines: 2
   - type: bibliography
     heading: "Citations and Sources"
     path: citations.md
