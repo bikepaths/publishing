@@ -1,5 +1,5 @@
-title: "Graduating the Streets"
-subtitle: "A Phase Zero Case Study in Material Dignity"
+title: "Architectural Triage"
+subtitle: "Stabilizing Street Exposure Biology Across Three Demographic Pipelines"
 author: "Charles J. DiBella"
 lang: "en-US"
 base_dir: "."
@@ -10,53 +10,45 @@ files:
     heading: "Author's Note"
     path: front_matter.md
     skip_lines: 4
-  - type: chapter
-    heading: "Chapter 1: The Invisible Island"
-    path: chapter_drafts/chapter_01_the_invisible_island.md
+  - type: frontmatter
+    heading: "Preface: The Architectural Engine"
+    path: chapter_drafts/00_preface.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 2: The Art of Presence"
-    path: chapter_drafts/chapter_02_the_art_of_presence.md
+    heading: "Chapter 1: Survival Mechanics"
+    path: chapter_drafts/part_1_riverbed/chapter_01_survival_mechanics.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 3: The Storm Surge"
-    path: chapter_drafts/chapter_03_the_storm_surge.md
+    heading: "Chapter 2: Extraction"
+    path: chapter_drafts/part_1_riverbed/chapter_02_extraction.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 4: The Sally Port Gate"
-    path: chapter_drafts/chapter_04_the_sally_port_gate.md
+    heading: "Chapter 3: Silence"
+    path: chapter_drafts/part_1_riverbed/chapter_03_silence.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 5: Rehydration and Refeeding"
-    path: chapter_drafts/chapter_05_rehydration_and_refeeding.md
+    heading: "Chapter 4: Community"
+    path: chapter_drafts/part_1_riverbed/chapter_04_community.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 6: Adrenal Decompression"
-    path: chapter_drafts/chapter_06_adrenal_decompression.md
+    heading: "Chapter 5: Graduation"
+    path: chapter_drafts/part_1_riverbed/chapter_05_graduation.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 7: The Circadian Reset"
-    path: chapter_drafts/chapter_07_the_circadian_reset.md
+    heading: "Chapter 6: The Concrete Loop"
+    path: chapter_drafts/part_2_urban_core/chapter_06_concrete_psychosis.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 8: Hyper-Vigilance Extinction"
-    path: chapter_drafts/chapter_08_hyper_vigilance_extinction.md
+    heading: "Chapter 7: Compelled Extraction"
+    path: chapter_drafts/part_2_urban_core/chapter_07_compelled_extraction.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 9: The Dunbar Transition"
-    path: chapter_drafts/chapter_09_the_dunbar_transition.md
+    heading: "Chapter 8: The Velocity of Falling"
+    path: chapter_drafts/part_3_economic/chapter_08_eviction_velocity.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 10: Autonomic Restoration"
-    path: chapter_drafts/chapter_10_autonomic_restoration.md
-    skip_lines: 2
-  - type: chapter
-    heading: "Chapter 11: The Stewardship Model"
-    path: chapter_drafts/chapter_11_the_stewardship_model.md
-    skip_lines: 2
-  - type: chapter
-    heading: "Chapter 12: The Graduation"
-    path: chapter_drafts/chapter_12_the_graduation.md
+    heading: "Chapter 9: Preventing the Collapse"
+    path: chapter_drafts/part_3_economic/chapter_09_rapid_stabilization.md
     skip_lines: 2
   - type: bibliography
     heading: "Citations and Sources"

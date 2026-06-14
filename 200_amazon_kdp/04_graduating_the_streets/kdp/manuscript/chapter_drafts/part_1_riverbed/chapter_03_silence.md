@@ -8,25 +8,25 @@ Tower One eliminated that chaos entirely. Instead of a public lobby, the ambulan
 
 Instantly, the howl of police sirens, the roar of the freeway, and the drumming of the freezing rain were completely cut off. 
 
-Inside the bay, the air felt warm, still, and remarkably dry. A veterinarian wearing a dark blue scrub top waited next to a stainless-steel examination table. She didn't hold a clipboard, and she didn't ask Marcus for his state identification or his social security number. She didn't demand he fill out a liability waiver. 
+Inside the bay, the air felt warm, still, and remarkably dry. A veterinarian wearing a dark blue scrub top waited next to a stainless-steel examination table. She didn't hold a clipboard, and she didn't ask Arthur for his state identification or his social security number. She didn't demand he fill out a liability waiver. 
 
 Instead, she offered her open hand to Buster. 
 
-The shivering pit bull, soaking wet from the river extraction, pressed his cold nose into her palm. Marcus stood frozen near the bumper of the ambulance. His muscles remained coiled tight, his eyes darting toward the corners of the room. He fully expected someone in a uniform to step out of the shadows, snap a leash on Buster, and drag the dog away to a remote kennel. Legacy shelter systems always separated humans from their animals. It was the absolute rule of the street. 
+The shivering pit bull, soaking wet from the river extraction, pressed his cold nose into her palm. Arthur stood frozen near the bumper of the ambulance. His muscles remained coiled tight, his eyes darting toward the corners of the room. He fully expected someone in a uniform to step out of the shadows, snap a leash on Buster, and drag the dog away to a remote kennel. Legacy shelter systems always separated humans from their animals. It was the absolute rule of the street. 
 
 The veterinarian gently placed a stethoscope against Buster's ribs. She listened to the dog's congested, rattling lungs for a full minute. 
 
-"He's going to need antibiotics for this cough," she said, looking up at Marcus. She read his rigid posture instantly. "He stays in our second-floor kennel. It's climate-controlled, and you have visitation access from six in the morning until ten at night. We don't force separation here."
+"He's going to need antibiotics for this cough," she said, looking up at Arthur. She read his rigid posture instantly. "He stays in our second-floor kennel. It's climate-controlled, and you have visitation access from six in the morning until ten at night. We don't force separation here."
 
-Marcus exhaled. For the first time since the floodwaters began to rise in the Glendale Narrows, he felt his shoulders drop a fraction of an inch. 
+Arthur exhaled. For the first time since the floodwaters began to rise in the Glendale Narrows, he felt his shoulders drop a fraction of an inch. 
 
-When the clinic doors finally opened, a staff member guided Marcus to the elevator, bypassing the second floor, and up to the Phase Zero decompression wing. Marcus stepped into the corridor, bracing himself. He expected the familiar, terrifying noise of a massive congregate shelter—the shouting of fifty strangers in a gymnasium, the hacking coughs echoing off cinderblock walls, the metallic crash of steel bunks, and the constant, underlying threat of theft. 
+When the clinic doors finally opened, a staff member guided Arthur to the elevator, bypassing the second floor, and up to the Phase Zero decompression wing. Arthur stepped into the corridor, bracing himself. He expected the familiar, terrifying noise of a massive congregate shelter—the shouting of fifty strangers in a gymnasium, the hacking coughs echoing off cinderblock walls, the metallic crash of steel bunks, and the constant, underlying threat of theft. 
 
 He heard absolutely nothing. 
 
 The room featured acoustic insulation rated at sound transmission class sixty-five. In architectural terms, an STC-65 rating means the walls are thick and dense enough to block out the sound of a jet engine. The walls absorbed the low-frequency vibrations of the city traffic outside and the high-frequency footsteps in the hall. 
 
-When Marcus pushed the heavy, solid-core door shut, the silence felt physical. It pressed against his ears like a heavy, warm blanket. He held his newly issued digital keycard to the electronic reader beside his door. 
+When Arthur pushed the heavy, solid-core door shut, the silence felt physical. It pressed against his ears like a heavy, warm blanket. He held his newly issued digital keycard to the electronic reader beside his door. 
 
 *Beep. Click.*
 
@@ -34,11 +34,11 @@ That electronic sound established an impenetrable barrier between his physical b
 
 For the first time in over three years, the constant, low-level hum of mortal danger vanished. 
 
-Marcus collapsed onto the mattress. His body, saturated with toxic levels of cortisol from years of chronic hyper-vigilance, finally surrendered. On the street, sleep is a liability. If you sleep deeply in the riverbed, you lose your supplies, or you lose your life. But behind an STC-65 wall and a locked deadbolt, the primitive brain stem finally receives the signal that it is safe to power down. 
+Arthur collapsed onto the mattress. His body, saturated with toxic levels of cortisol from years of chronic hyper-vigilance, finally surrendered. On the street, sleep is a liability. If you sleep deeply in the riverbed, you lose your supplies, or you lose your life. But behind an STC-65 wall and a locked deadbolt, the primitive brain stem finally receives the signal that it is safe to power down. 
 
 He slept for fourteen consecutive hours. 
 
-When Marcus finally woke the next afternoon, his first instinct was missing. He didn't leap up. He didn't scramble to scan the riverbed for flashing police lights or rising brown water. He lay flat on his back, staring at the white ceiling. 
+When Arthur finally woke the next afternoon, his first instinct was missing. He didn't leap up. He didn't scramble to scan the riverbed for flashing police lights or rising brown water. He lay flat on his back, staring at the white ceiling. 
 
 He simply listened to the absolute silence of the room. He knew Buster was resting securely in a sound-dampened kennel three floors below. 
 
