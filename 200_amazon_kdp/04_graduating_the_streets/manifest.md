@@ -6,6 +6,7 @@ Progress placeholder and operational guidelines for Book Four development.
 
 *   **Research and Outline Focus**: Development efforts prioritize organizing `research/` directory and refining book outline.
 *   **Locked Directories**: Do not modify files in `kdp/manuscript/` or `kdp/handoff/` unless explicitly authorized.
+*   **Compilation Restriction**: Do not run compile_book.py for Book 4 (EPUB or DOCX outputs) without explicit Sysop approval.
 *   **Push Restrictions**: Do not push to remote repositories without express authorization.
 
 ## 2. Progress Log
