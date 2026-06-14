@@ -27,8 +27,8 @@ files:
     path: chapter_drafts/chapter_04_the_sally_port_gate.md
     skip_lines: 2
   - type: chapter
-    heading: "Chapter 5: Graduation and Autonomic Agency"
-    path: chapter_drafts/chapter_05_graduation_and_autonomic_agency.md
+    heading: "Chapter 5: Rehydration and Refeeding"
+    path: chapter_drafts/chapter_05_rehydration_and_refeeding.md
     skip_lines: 2
   - type: bibliography
     heading: "Citations and Sources"
