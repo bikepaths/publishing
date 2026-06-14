@@ -1,3 +1,26 @@
-# Graduation and Cost Savings
+# Graduation and Cost Savings: Marcus
 
-Graduation metrics confirm that biological stabilization drives permanent housing retention. After ten months, Marcus transitioned to independent housing, demonstrating sustained physiological recovery and social integration. Based on county audit metrics, avoided public costs from emergency services, psychiatric holds, policing, and sanitation exceed fifty thousand dollars annually per stabilized client. By replacing emergency interventions with permanent architectural utilities, municipalities convert ongoing public losses into capital assets. Stability saves municipal funds.
+Analysis of financial outcomes and post-graduation stability.
+
+## 1. Graduation and Long-term Somatic Status
+*   **Graduation Milestone**: Outplaced to off-site permanent housing (Month 10).
+*   **Physiological Status**: Endocrine biomarkers normalized. Immersion foot tissue fully healed without permanent mobility impairment. Bronchitis resolved.
+*   **Follow-up Protocol**: ACT team maintains bi-weekly contact for 90 days post-graduation to support transitional stability.
+
+## 2. Municipal Cost-Avoidance Audit
+*   **Pre-intake Municipal Draw (Annualized)**:
+    *   18 emergency room visits (ambulance transport plus emergency medicine): ~$54,000.
+    *   4 psychiatric holds (5150 protocols, short-term stabilization): ~$32,000.
+    *   3 search-and-rescue extractions from Glendale Narrows flood zone: ~$32,000.
+    *   **Total Annualized Public Cost**: $118,000.
+*   **Post-intake Municipal Draw (Annualized)**:
+    *   Zero emergency room visits.
+    *   Zero psychiatric holds.
+    *   Zero search-and-rescue extractions.
+    *   **Total Annualized Public Cost**: $0.
+
+## 3. Financial Net Yield
+*   **Gross Annual Savings**: $118,000.
+*   **MDI Pilot Program Cost Allocation (Amortized)**: ~$50,000 annually per residential slot.
+*   **Net Annual Public Savings**: ~$68,000 per stabilized high-acuity client.
+*   **Capital Transformation**: Ongoing municipal expenditure losses converted into stable human capital.
