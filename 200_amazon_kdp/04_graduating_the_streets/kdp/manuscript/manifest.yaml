@@ -50,6 +50,10 @@ files:
     heading: "Chapter 10: Autonomic Restoration"
     path: chapter_drafts/chapter_10_autonomic_restoration.md
     skip_lines: 2
+  - type: chapter
+    heading: "Chapter 11: The Stewardship Model"
+    path: chapter_drafts/chapter_11_the_stewardship_model.md
+    skip_lines: 2
   - type: bibliography
     heading: "Citations and Sources"
     path: citations.md

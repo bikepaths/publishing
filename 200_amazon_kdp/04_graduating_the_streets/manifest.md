@@ -29,9 +29,10 @@ Progress placeholder and operational guidelines for Book Four development.
     *   Drafted Chapter 8 (`chapter_08_hyper_vigilance_extinction.md`) detailing Stage 6 sensory grounding, textured wood panels, weighted blanket, canine comfort routines, and threat-scanning extinction.
     *   Drafted Chapter 9 (`chapter_09_the_dunbar_transition.md`) detailing Stage 7 social reintegration, Dunbar pod architectural limits, suite neighbor introductions, shared duties, and peer steward cooperative management.
     *   Drafted Chapter 10 (`chapter_10_autonomic_restoration.md`) detailing Stage 7 agency restoration, structured morning workshop routine, bicycle workshop assembly trade skills, and stipend-based bank account setup.
+    *   Drafted Chapter 11 (`chapter_11_the_stewardship_model.md`) detailing Stage 8 peer steward leadership, incoming client navigation mentoring, bicycle workshop co-instruction, and community-oriented workplace habits.
 
 ## 3. Next Steps
 
-*   **Next Best Step Forward**: Begin drafting Chapter 11 manuscript in `200_amazon_kdp/04_graduating_the_streets/kdp/manuscript/chapter_drafts/chapter_11_the_stewardship_model.md` (detailing Stage 8 leadership role, training incoming peers, and stewardship program structure).
+*   **Next Best Step Forward**: Begin drafting Chapter 12 manuscript in `200_amazon_kdp/04_graduating_the_streets/kdp/manuscript/chapter_drafts/chapter_12_the_graduation.md` (detailing Stage 9 permanent housing transition, cost savings metrics, and program graduation).
 *   **Alternative Step A**: Document veterinary stabilization and boarding protocols for client pets at ground floor nodes.
 *   **Alternative Step B**: Detail exact Medi-Cal mobile outreach reimbursement coding schedules.
