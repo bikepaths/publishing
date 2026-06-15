@@ -73,3 +73,6 @@ files:
   - type: bibliography
     heading: "Citations and Sources"
     path: citations.md
+  - type: backmatter
+    heading: "About the Author"
+    path: about_the_author.md

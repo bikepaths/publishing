@@ -18,6 +18,8 @@ First edition, 2026
 
 Documenting the physiological, neurological, and social transitions across three distinct demographic pipelines, this volume validates the complete clinical mechanics of the Material Dignity Infrastructure. Through architectural containment and medical stabilization, the MDI model neutralizes chronic street exposure and restores autonomic agency.
 
+*Arthur, Jenifer, and Marcus are composite illustrations constructed from documented population characteristics corresponding to Pipelines B, C, and A respectively. They are not drawn from individual case files. Their purpose is to demonstrate the mechanical function of each pipeline through a human lens.*
+
 
 
 # Preface: The Architectural Engine
@@ -26,19 +28,35 @@ The modern city does not fail by accident; it fails by design. When you see a hu
 
 The Material Dignity Infrastructure (MDI) model replaces moral charity with mechanical certainty. The MDI Tower operates neither as a traditional shelter nor a social program. It is a massive, highly regulated public utility, engineered with the exact same rigor as a municipal water treatment plant or a high-voltage power grid. It functions as a centralized intake hub designed to process the entire demographic spectrum of street exposure. 
 
+This volume is the fourth in the Material Dignity Infrastructure series. The full theoretical framework, including the capabilities approach synthesis, the National Stability Utility model, and the complete Los Angeles operational specification with fiscal architecture and legal governance, is developed across Papers 1 through 3 available at SSRN (Abstract IDs: 5968756, 6211658, 6579600) and at bikepaths.org. This book renders that framework through three composite pipeline illustrations to make its human and architectural logic visible to a general audience.
+
+The governing research question underlying the full MDI series is this: Does a simultaneous five-operation engineering intervention—deploying acoustic architecture, pipeline-differentiated intake, and Dunbar-scale social infrastructure—outperform fragmented legacy systems in biological stabilization, housing retention, and cost efficiency for the chronically unsheltered? The answer is verified against eight binary metrics constituting the Singular Prototype Threshold, detailed in the companion working paper. This volume demonstrates the pipeline mechanics through which that question is answered.
+
 Because chronic homelessness attacks the human nervous system through completely different vectors, the solution requires multiple targeted operational pipelines. To properly illustrate these distinct mechanisms, this volume isolates the recovery process into three sequenced case studies:
 
 **Part One** examines Pipeline 2. We follow a voluntary mechanical rescue from an entrenched riverbed encampment, demonstrating how removing physical barriers—like pet separation policies—produces immediate compliance and halts polyvagal shutdown.
 
-**Part Two** shifts to Pipeline 4 within the dense urban core. Here, we confront severe behavioral calcification and prefrontal cortex degradation, mapping the compelled legal extraction protocols required when individuals lose the biological capacity to perceive danger. This section details the deployment of CARE Court petitions and state conservatorships.
+**Part Two** shifts to Pipeline 4 within the dense urban core. Pipeline C represents approximately 30 percent of the unsheltered population. The compelled legal pathway described in this section operates exclusively within existing California law—the CARE Act (2023), Laura's Law, and the Lanterman-Petris-Short Act—under independent judicial oversight. The MDI architecture does not create new coercive authority; it provides the destination those existing legal instruments currently lack. Here, we confront severe behavioral calcification and prefrontal cortex degradation, mapping the compelled legal extraction protocols required when individuals lose the biological capacity to perceive danger. This section details the deployment of CARE Court petitions and state conservatorships.
 
 **Part Three** explores Pipeline 1. This final segment tracks the rapid economic stabilization models engineered for recently displaced, cognitively intact populations, proving that immediate structural intervention prevents permanent neurological damage.
+
+| **Pipeline** | **Population** | **% of Total** | **Primary Instrument** | **MDI Node** |
+| :--- | :--- | :--- | :--- | :--- |
+| A — Voluntary | Near-homeless, newly displaced | ~26% | CES rapid placement | Ground Floor → ALMU |
+| B — Engageable | Long-term encamped, rational refusal | ~35% | Warm offer at crisis window | Field Team → ALMU |
+| C — Calcified | Behaviorally calcified, anosognosia | ~34% | ACT + CARE Court + AOT/LPS | Field → Legal → ALMU |
+| C (Riparian) | Hidden, terrain-adapted, mobile | +20–30% above PIT count | FLIR + environmental enforcement | LARWQCB → Warm Offer → ALMU |
+| D — Nomadic | Voluntary outdoor living, preference-based | ~5% | Harm reduction, no placement requirement | Ground Floor open access only |
+
+Note: Arthur demonstrates Pipeline B (engageable, pet barrier resolved by zero-separation policy). Jenifer demonstrates Pipeline C (compelled pathway, anosognosia, CARE Court). Marcus demonstrates Pipeline A (economically displaced, intact cognition, rapid exit).
 
 Before diving into these isolated narratives, you must understand the overarching engine. The MDI Tower triages damaged human biology using strict architectural controls. It deploys Phase Zero decompression wings rated to STC-65 soundproofing to physically extinguish adrenal hyper-vigilance. It limits community floors to exactly 154 residents to perfectly match Dunbar’s Number and respect human cognitive thresholds. It grants absolute privacy through digital keycard infrastructure, restoring agency while maintaining code-compliant emergency access. 
 
 One critical distinction runs beneath every chapter that follows. The street population is not a monolith. The vast majority of unsheltered individuals are victims: neurologically damaged, economically displaced, or behaviorally calcified human beings who cannot self-extract. A smaller, distinct class operates among them as predators: drug distributors, sexual exploiters, and theft operators who cluster around encampments because those encampments provide a dense concentration of defenseless targets. Citizens and media routinely photograph both groups in the same frame and label the resulting image with a single word. That conflation destroys political support for intervention spending. When the MDI Tower extracts the victims from the street, the predator class loses its marketplace, its camouflage, and its reason to congregate. The architecture separates victims from predators as precisely as it separates pipelines from each other.
 
 Every door, every keycard, and every insulated wall serves a precise, mathematically verified medical function. The following pages demonstrate exactly how this civic infrastructure operates on the ground, tracing individual lives through the concrete.
+
+*A complete plain-language overview of the MDI engineering framework—including all five operations, the pipeline taxonomy, the fiscal architecture, and the eight verification metrics—is available at bikepaths.org/blog/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide.htm*
 
 
 
@@ -701,6 +719,23 @@ The room was quiet. The fluorescent tubes hummed.
 
 The fiscal reality of chronic homelessness operates on a principle that defies political intuition. Leaving a human being on the street is the most expensive policy a city can pursue. Every night a person sleeps in a riverbed, on a sidewalk, or in a parked sedan, the public treasury hemorrhages money through emergency rooms, squad cars, courtrooms, and sanitation trucks. The MDI Tower does not eliminate those costs through charity or moral appeal. It eliminates them through mechanical intervention: four concrete walls, an STC-65 acoustic barrier, a digital keycard, and a staffing model calibrated to the specific neurological damage profile of each demographic pipeline. When the tower absorbs the victims, the predators lose their cover and the public loses its reason to conflate the two.
 
+### The Eight Verification Metrics
+
+*The fiscal efficiency described in this chapter is not a projection based on intention. It is a falsifiable claim evaluated against eight binary verification metrics constituting the Singular Prototype Threshold. All eight must pass at One California Plaza before a single additional tower is acquired. Failure of any metric halts network expansion and triggers architectural revision. This clause is the difference between a policy proposal—evaluated on intention—and an engineering specification—evaluated on measured performance.*
+
+| **#** | **What Is Being Measured** | **Threshold to Pass** | **How Verified** |
+| :--- | :--- | :--- | :--- |
+| **1** | Encampment reduction in target zone | 70–80% within 24 months of activation | LAHSA Point-in-Time methodology |
+| **2** | Continuous housing retention | ≥85% at 24 months post-placement | HMIS registry tracking |
+| **3** | Emergency service cost reduction | ≥$40,000 per resident per year | County fiscal audit |
+| **4** | Voluntary acceptance rate—Pipeline B | ≥55% at targeted warm offer | Field ACT team records |
+| **5** | Legal lever Pipeline C augmentation | ≥15% of C-cohort housed via compelled pathways | CARE Court / AOT records |
+| **6** | Capital recovery timeline | ≤45 months from activation to breakeven | Stewardship Authority audit |
+| **7** | Sustained Phase Zero clearance | ≥70% maintaining ≥2 indicators across 60–90 day window | MHRC clinical records |
+| **8** | System throughput integrity | Zero backlog exceeding 15 days for Phase Zero entry | MHRC flow regulator audit |
+
+**Note on Metric 7:** *This is the causal verification metric. A retention gain at Metric 2 without a clearance gain at Metric 7 cannot be attributed to the Metabolic Stabilization sequencing design. All eight metrics must pass before network expansion proceeds.*
+
 The Board of Supervisors voted three-to-two to extend Tower One's CalAIM funding allocation through the following fiscal year. The deputy director gathered her laptop, unplugged the projector cable, and walked out of the hearing room. The folding chairs emptied. A maintenance worker pushed a grey plastic trash bin between the rows, collecting abandoned paper coffee cups.
 
 On the ninth floor of the Kenneth Hahn Hall of Administration, the fluorescent lights stayed on. The budget line survived.
@@ -713,26 +748,38 @@ On the ninth floor of the Kenneth Hahn Hall of Administration, the fluorescent l
 
 ::: {.citations}
 
-## Chapter One: The Extraction
+## Neuroscience and Polyvagal Theory
+
+Porges, Stephen W. "Orienting in a Defensive World: Mammalian Modifications of our Evolutionary Heritage. A Polyvagal Theory." *Psychophysiology* 32, no. 4 (1995): 301–318.
+
+## Urban Homelessness: Policy and Cost Evidence
 
 California Department of Health Care Services. *CalAIM Enhanced Care Management and Community Supports Operational Guide*. Sacramento: DHCS, 2024.
 
 National Alliance to End Homelessness. *The Business Case for Ending Homelessness: Cost Savings of Permanent Supportive Housing*. Washington, D.C.: NAEH, 2023.
 
-## Chapter Two: The Decompression
-
-Porges, Stephen W. "Orienting in a Defensive World: Mammalian Modifications of our Evolutionary Heritage. A Polyvagal Theory." *Psychophysiology* 32, no. 4 (1995): 301–318.
-
-## Chapter Three: Cognitive Resurgence
-
 California State Auditor. *Homelessness in California: The State Must Do More to Assess the Cost-Effectiveness of Its Programs*. Sacramento: CSA, 2024.
 
-## Chapter Four: Pod Integration
+## Pod Integration and Dunbar's Number
 
 Dunbar, Robin I. M. "Coevolution of neocortex size, group size and language in humans." *Behavioral and Brain Sciences* 16, no. 4 (1993): 681–735.
 
-## Chapter Five: Graduation and Autonomic Agency
+## Housing First: Evidence and Outcomes
 
 Culhane, Dennis P., Stephen Metraux, and Trevor Hadley. "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." *Housing Policy Debate* 13, no. 1 (2002): 107–163.
 
 :::
+
+
+
+---
+
+# About the Author
+
+# About the Author
+
+Charles J. DiBella is a Principal Systems Architect whose work sits at the intersection of urban economics, clinical systems design, and public infrastructure engineering. Since 1997, DiBella has lived and traveled full-time by bicycle—logging thousands of miles across coast-to-coast American journeys alongside extensive tours through Southeast Asia and Europe. This life, conducted at street level and sustained across three decades, provided the observational foundation for the Material Dignity Infrastructure.
+
+The MDI framework did not emerge from academic study of homelessness. It emerged from direct, sustained immersion in the physical realities of street life: the metabolic destruction of outdoor sleeping, the survival architecture that encampment communities build under pressure, the rational logic behind shelter refusal, and the precise moment when voluntary engagement becomes physiologically possible.
+
+DiBella's background spans architectural design, blueprint and implementation science, and engineering—disciplines that train practitioners to think in specifications, tolerances, and falsifiable performance thresholds rather than intentions and policy proposals. The MDI framework reflects that disciplinary grounding: it is an industrial specification, not a program description. Four working papers in the Material Dignity Infrastructure series are available via SSRN. This volume is the fourth book in a companion series published through Amazon KDP. Further technical documentation, audio companions, and the plain-language framework guide are available at bikepaths.org.

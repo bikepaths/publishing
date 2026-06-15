@@ -46,6 +46,23 @@ The room was quiet. The fluorescent tubes hummed.
 
 The fiscal reality of chronic homelessness operates on a principle that defies political intuition. Leaving a human being on the street is the most expensive policy a city can pursue. Every night a person sleeps in a riverbed, on a sidewalk, or in a parked sedan, the public treasury hemorrhages money through emergency rooms, squad cars, courtrooms, and sanitation trucks. The MDI Tower does not eliminate those costs through charity or moral appeal. It eliminates them through mechanical intervention: four concrete walls, an STC-65 acoustic barrier, a digital keycard, and a staffing model calibrated to the specific neurological damage profile of each demographic pipeline. When the tower absorbs the victims, the predators lose their cover and the public loses its reason to conflate the two.
 
+### The Eight Verification Metrics
+
+*The fiscal efficiency described in this chapter is not a projection based on intention. It is a falsifiable claim evaluated against eight binary verification metrics constituting the Singular Prototype Threshold. All eight must pass at One California Plaza before a single additional tower is acquired. Failure of any metric halts network expansion and triggers architectural revision. This clause is the difference between a policy proposal—evaluated on intention—and an engineering specification—evaluated on measured performance.*
+
+| **#** | **What Is Being Measured** | **Threshold to Pass** | **How Verified** |
+| :--- | :--- | :--- | :--- |
+| **1** | Encampment reduction in target zone | 70–80% within 24 months of activation | LAHSA Point-in-Time methodology |
+| **2** | Continuous housing retention | ≥85% at 24 months post-placement | HMIS registry tracking |
+| **3** | Emergency service cost reduction | ≥$40,000 per resident per year | County fiscal audit |
+| **4** | Voluntary acceptance rate—Pipeline B | ≥55% at targeted warm offer | Field ACT team records |
+| **5** | Legal lever Pipeline C augmentation | ≥15% of C-cohort housed via compelled pathways | CARE Court / AOT records |
+| **6** | Capital recovery timeline | ≤45 months from activation to breakeven | Stewardship Authority audit |
+| **7** | Sustained Phase Zero clearance | ≥70% maintaining ≥2 indicators across 60–90 day window | MHRC clinical records |
+| **8** | System throughput integrity | Zero backlog exceeding 15 days for Phase Zero entry | MHRC flow regulator audit |
+
+**Note on Metric 7:** *This is the causal verification metric. A retention gain at Metric 2 without a clearance gain at Metric 7 cannot be attributed to the Metabolic Stabilization sequencing design. All eight metrics must pass before network expansion proceeds.*
+
 The Board of Supervisors voted three-to-two to extend Tower One's CalAIM funding allocation through the following fiscal year. The deputy director gathered her laptop, unplugged the projector cable, and walked out of the hearing room. The folding chairs emptied. A maintenance worker pushed a grey plastic trash bin between the rows, collecting abandoned paper coffee cups.
 
 On the ninth floor of the Kenneth Hahn Hall of Administration, the fluorescent lights stayed on. The budget line survived.
