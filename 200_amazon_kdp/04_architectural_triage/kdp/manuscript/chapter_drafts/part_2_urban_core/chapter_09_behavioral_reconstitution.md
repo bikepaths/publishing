@@ -28,6 +28,6 @@ By week twelve, Jenifer walks the full length of the Phase Zero corridor unescor
 
 The transition team notes the date and the behavior. Jenifer has voluntarily entered a shared space, occupied the same room as strangers, consumed a resource in their presence, and returned to her private space without incident. These are the preliminary mechanical indicators of social re-engagement.
 
-She is not healed. The neural tissue in her prefrontal cortex has sustained permanent structural damage. Full cognitive restoration to pre-street baseline may never occur. The medical team makes no promises about graduation, discharge dates, or independent living timelines. Pipeline 4 operates on biological reality, not administrative calendars.
+She is not healed. The neural tissue in her prefrontal cortex has sustained permanent structural damage. Full cognitive restoration to pre-street baseline may never occur. The medical team makes no promises about graduation, discharge dates, or independent living timelines. Pipeline C operates on biological reality, not administrative calendars.
 
 Jenifer returns to her room and sits on the mattress. She pulls the wool blanket around her shoulders. Through the open door, the corridor light falls across the floor in a steady, pale strip. She does not close the door.

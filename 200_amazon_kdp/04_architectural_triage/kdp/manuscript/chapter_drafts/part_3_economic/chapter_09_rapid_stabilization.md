@@ -16,7 +16,7 @@ Within forty-eight hours of scanning his keycard, Marcus sat in the ground-floor
 
 Marcus returned to his room on the fourth floor, sat on the bed, and opened his laptop. He reviewed the transit authority's onboarding documents. He ironed the white dress shirt he had carried in the dry-cleaning plastic. He set an alarm for five o'clock.
 
-This represents the defining civic victory of Pipeline 1 intervention. By catching Marcus on his first night of vehicular homelessness, the city executed a mathematically precise triage. His prefrontal cortex remained intact. His employment skills remained current. His identification documents remained organized. The only variable missing from his life was a locked door, and the tower supplied it within thirty minutes.
+This represents the defining civic victory of Pipeline A intervention. By catching Marcus on his first night of vehicular homelessness, the city executed a mathematically precise triage. His prefrontal cortex remained intact. His employment skills remained current. His identification documents remained organized. The only variable missing from his life was a locked door, and the tower supplied it within thirty minutes.
 
 If the municipality had ignored Marcus, the slow acid of street exposure would have destroyed every advantage he carried in that cardboard box. He would have accumulated severe medical debt from untreated hypertension exacerbated by chronic sleep deprivation. He would have required psychiatric stabilization after months of parking-lot hyper-vigilance rewired his amygdala. He would have consumed massive emergency resources. A chronic street casualty costs taxpayers upward of eighty thousand dollars annually in emergency room visits, police interventions, and jail bookings.
 

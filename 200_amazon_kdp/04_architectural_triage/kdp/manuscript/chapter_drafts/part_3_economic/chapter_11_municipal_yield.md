@@ -18,13 +18,13 @@ The deputy director adjusted her glasses. "To the first concern, this is not a b
 
 The supervisor reviewed his notes. "Let's look at performance. What's your recidivism rate?"
 
-"Pipeline 1 residents, the economically displaced, show a four percent return rate at twelve months. Marcus is representative of that cohort. He signed a lease, maintained employment, and has not re-entered the system." She advanced the slide. A bar chart showed Pipeline 1 outcomes against the county's historical baseline for rapid-rehousing programs, which typically ran at thirty-one percent recidivism within the first year.
+"Pipeline A residents, the economically displaced, show a four percent return rate at twelve months. Marcus is representative of that cohort. He signed a lease, maintained employment, and has not re-entered the system." She advanced the slide. A bar chart showed Pipeline A outcomes against the county's historical baseline for rapid-rehousing programs, which typically ran at thirty-one percent recidivism within the first year.
 
-"Pipeline 2, the chronic street population with voluntary intake, runs at fourteen percent return within twelve months. The Dunbar-scale pod architecture and vocational integration programming account for the differential. The traditional congregate shelter model produces a forty-six percent recidivism rate over the same period."
+"Pipeline B, the chronic street population with voluntary intake, runs at fourteen percent return within twelve months. The Dunbar-scale pod architecture and vocational integration programming account for the differential. The traditional congregate shelter model produces a forty-six percent recidivism rate over the same period."
 
-The supervisor removed his glasses. "And Pipeline 4?"
+The supervisor removed his glasses. "And Pipeline C?"
 
-"Pipeline 4 operates on a different clinical timeline. The conservatorship cohort requires long-term stabilization with no predetermined discharge date. Cost avoidance in that population is measured against emergency department utilization. Jenifer, our index case, generated nineteen paramedic transports in the twelve months before intake. She has generated zero since architectural containment."
+"Pipeline C operates on a different clinical timeline. The conservatorship cohort requires long-term stabilization with no predetermined discharge date. Cost avoidance in that population is measured against emergency department utilization. Jenifer, our index case, generated nineteen paramedic transports in the twelve months before intake. She has generated zero since architectural containment."
 
 The supervisor at the far end of the dais leaned into his microphone. "But you are proposing a single engineering intervention for a crisis that is systemic. Homelessness is rooted in housing market failure, deindustrialization, structural racism, and psychiatric illness. How can a concrete tower, no matter how quiet, solve these deep structural problems? Isn't this just a technocratic silver bullet?"
 
