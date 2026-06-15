@@ -102,6 +102,11 @@ To operationalize secular natural law, we must establish quantitative biological
 
 Neurological recovery requires a minimum of six hours of continuous, low-decibel, dark sleep. Without these inputs, the body's internal homeostasis collapses, triggering the neurobiological stress cascade described in literature. MDI specifications must be derived from these metabolic constants. By defining these parameters mathematically, we establish an empirical, measurable baseline that removes municipal obligations from the realm of subjective political negotiation and grounds them in the objective constraints of human physiology and cellular survival.
 
+### 3.5 The Capability Approach and Sequential Resolution
+The proposed model operationalizes Amartya Sen's Capability Approach and Martha Nussbaum's human rights list. Sen argues that well-being depends on real freedom to achieve functionings, which requires internal and external conversion factors (Sen, 1999). Chronic street survival degrades a person's internal cognitive conversion capacity, making it impossible to utilize standard housing resources (Batterham, 2020).
+
+Nussbaum argues that societies must guarantee basic physical thresholds, defined as Life, Bodily Health, and Bodily Integrity, as a prerequisite for human dignity (Nussbaum, 2011). The MDI model resolves the debate between Nussbaum's universal list and Sen's democratic agency by structuring them into a chronological sequence (Crocker, 2008). Phase Zero functions as the Nussbaum Phase, enforcing biological stability and physical safety through clinical environment design. Once biological baselines are restored, the individual transitions to a self-governed Dunbar Pod, the Sen Phase, regaining agency and participating in pod councils. This sequential resolution proves that constitutional justice requires securing basic physiological thresholds before demanding democratic agency.
+
 ## 4. Findings
 
 ### 4.1 The Cognitive Assumption of the Social Contract
@@ -168,6 +173,11 @@ The capitalization of MDI can be financed through municipal social impact bonds,
 
 To implement this model, municipalities must establish partnerships with private healthcare networks. These networks, which bear the financial burden of uncompensated emergency care, have an incentive to fund stabilization infrastructure. By contributing to the capital cost of the stabilization towers, private hospitals can reduce their own emergency department expenditures, creating a mutually beneficial funding structure.
 
+### 5.4 Comparative System Analysis
+Evaluating alternative infrastructure models across speed, cost, regulatory feasibility, and long-term stability demonstrates the systemic necessity of integrated MDI. Alternative frameworks include Autonomous Mobile Fleet Deployment (AMFD), Tax-Credit Decentralized Micro-Zoning (TDMZ), Universal Infrastructure Vouchers (UBIV), and standalone Automated Office-to-Pod Conversion (AOPC).
+
+Standalone AOPC rapidly retrofits commercial towers but fails because it lacks the Phase Zero metabolic stabilization layer, placing traumatized brains into independent apartments without addressing their damaged biology. AMFD provides rapid deployment through heavy-duty industrial vehicles but faces high municipal opposition and fails to provide long-term residential stability. TDMZ encounters local zoning battles and lacks the clinical concentration needed for medical delivery. Integrated MDI remains the only structurally complete solution because it synchronizes physical skyscraper conversions with biological triage and localized pod governance, succeeding where partial infrastructure models fail.
+
 ## 6. Conclusion
 
 ### 6.1 Summary of the Model Shift
@@ -210,5 +220,17 @@ Mitchell, D. (1997). The annihilation of space by law: The anti-homeless laws an
 Shilling, C. (2012). *The body and social theory* (3rd ed.). SAGE Publications.
 
 Tsemberis, S., Gulcur, L., & Nakae, M. (2004). Housing First, consumer choice, and harm reduction for individuals who are homeless and have co-occurring disorders. *American Journal of Public Health*, 94(4), 651–656.
+
+Aravena, A. (2016). *Elemental: Incremental housing and participatory design manual*. Hatje Cantz.
+
+Batterham, D. (2020). Homelessness as capability deprivation: A conceptual model. *Housing, Theory and Society*, 37(3), 274-297.
+
+Crocker, D. A. (2008). *Ethics of global development: Agency, capability, and deliberative democracy*. Cambridge University Press.
+
+Nussbaum, M. C. (2011). *Creating capabilities: The human development approach*. Harvard University Press.
+
+Sen, A. (1999). *Development as freedom*. Oxford University Press.
+
+Shopworks Architecture. (2024). *Trauma-informed design in supportive housing: Physical environments and nervous system regulation*. Shopworks.
 
 Westbrook, M., & Robinson, T. (2021). Unhealthy by design: Health and safety consequences of the criminalization of homelessness. *Journal of Social Distress and Homelessness*, 30(2), 107–115.
