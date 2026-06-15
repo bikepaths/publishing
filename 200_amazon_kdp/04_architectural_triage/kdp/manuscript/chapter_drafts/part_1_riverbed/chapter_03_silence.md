@@ -16,7 +16,7 @@ The shivering pit bull, soaking wet from the river extraction, pressed his cold 
 
 The veterinarian gently placed a stethoscope against Buster's ribs. She listened to the dog's congested, rattling lungs for a full minute. 
 
-"He's going to need antibiotics for this cough," she said, looking up at Arthur. She read his rigid posture instantly. "He stays in our second-floor kennel. It's climate-controlled, and you have visitation access from six in the morning until ten at night. We don't force separation here."
+"He's going to need antibiotics for this cough," she said, looking up at Arthur. She read his rigid posture instantly. "He stays in the suite with you initially. We have pet accommodations built right into the room, since dogs aren't allowed in the corridors or common areas. You won't be separated."
 
 Arthur exhaled. For the first time since the floodwaters began to rise in the Glendale Narrows, he felt his shoulders drop a fraction of an inch. 
 
@@ -40,7 +40,7 @@ He slept for fourteen consecutive hours.
 
 When Arthur finally woke the next afternoon, his first instinct was missing. He didn't leap up. He didn't scramble to scan the riverbed for flashing police lights or rising brown water. He lay flat on his back, staring at the white ceiling. 
 
-He simply listened to the absolute silence of the room. He knew Buster was resting securely in a sound-dampened kennel three floors below. 
+He simply listened to the absolute silence of the room. He heard the soft, rhythmic breathing of Buster sleeping in the padded pet alcove near the bathroom. 
 
 The silence operated as a potent form of medicine. By completely eliminating environmental threats, the acoustic architecture allowed his amygdala to stop scanning for predators. His resting heart rate dropped. His breathing slowed from the shallow, rapid pants of survival to deep, measured breaths. The extreme adrenal fatigue, built up over years of fighting the concrete city, began to drain from his leg muscles. 
 
