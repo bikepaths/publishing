@@ -3,7 +3,7 @@
 ## Thermodynamic Precarity, Cognitive Agency, and the Ethics of Compelled Stabilization
 
 ## Abstract
-Modern municipal policy responses to chronic unsheltered homelessness remain constrained by sociological models and administrative case management (Tsemberis et al., 2004). To address extreme precarity, this conceptual paper proposes a mechanical, systems-based public utility model. Dismantling prefrontal cortex function, street exposure, chronic sleep deprivation, and environmental trauma invalidate the standard political assumption of rational choice (Westbrook & Robinson, 2021). Universal dignity rests on human nature rather than performance or functional capacity (Shilling, 2012). Under this construct, building a secular natural law structure based on biological survival needs establishes the moral legitimacy of compelled clinical care in clinical-housing environments (Gowan, 2010). Bridging the gap between physical engineering, public policy, and moral law, this capstone establishes that mainstream policy designs fail to account for the physical requirements of biological agency under conditions of extreme environmental trauma (Shilling, 2012). Subsequent psychological and economic recovery must be built on the foundation of immediate biological stabilization (Westbrook & Robinson, 2021).
+Modern municipal policy responses to chronic unsheltered homelessness remain constrained by sociological models and administrative case management (Tsemberis et al., 2004). To address extreme precarity, this conceptual paper proposes a normative theoretical framework for a mechanical, systems-based public utility model. Dismantling prefrontal cortex function, street exposure, chronic sleep deprivation, and environmental trauma invalidate the standard political assumption of rational choice (Westbrook & Robinson, 2021). Universal dignity rests on human nature rather than performance or functional capacity (Maritain, 1951). Under this construct, building a secular natural law structure based on biological survival needs establishes the moral legitimacy of compelled clinical care in clinical-housing environments (Gowan, 2010). Bridging the gap between physical engineering, public policy, and moral law, this normative model argues that mainstream policy designs fail to account for the physical requirements of biological agency under conditions of extreme environmental trauma (McEwen, 2017). Subsequent psychological and economic recovery must be built on the foundation of immediate biological stabilization (Westbrook & Robinson, 2021).
 
 Keywords include chronic homelessness, moral physics, cognitive agency, survival infrastructure, public utility, compelled care.
 
@@ -42,9 +42,9 @@ This policy gap is a matter of life and death for vulnerable populations. Unshel
 ## 2. Literature Review
 
 ### 2.1 Neurobiology of Street Trauma
-The human body requires physical conditions to maintain functional homeostasis and executive cognitive capacity. Through prolonged exposure to extreme environments, combined with persistent sleep deprivation, street precarity triggers chronic neurobiological stress. These stressors saturate neural tissue with cortisol, eventually dismantling prefrontal cortex function. Under these physiological conditions, the standard economic and political assumption of rational choice ceases to operate (Shilling, 2012). When cognitive agency collapses beneath a biological floor, expecting individuals to navigate complex bureaucratic housing queues is unreasonable (Tsemberis et al., 2004; Westbrook & Robinson, 2021).
+The human body requires physical conditions to maintain functional homeostasis and executive cognitive capacity. Through prolonged exposure to extreme environments, combined with persistent sleep deprivation, street precarity triggers chronic neurobiological stress. These stressors saturate neural tissue with cortisol, eventually dismantling prefrontal cortex function. Under these physiological conditions, the standard economic and political assumption of rational choice ceases to operate. When cognitive agency collapses beneath a biological floor, expecting individuals to navigate complex bureaucratic housing queues is unreasonable (Tsemberis et al., 2004; Westbrook & Robinson, 2021).
 
-Neurobiological research details the precise mechanisms by which environmental trauma alters brain architecture. Chronic stress activates the hypothalamic-pituitary-adrenal axis, triggering a sustained release of glucocorticoids. High concentrations of cortisol are neurotoxic, particularly in the prefrontal cortex and the hippocampus. In the prefrontal cortex, chronic cortisol exposure causes dendrite retraction and loss of dendritic spines, reducing the brain's capacity for working memory, executive planning, and impulse regulation.
+Neurobiological research details the precise mechanisms by which environmental trauma alters brain architecture. Chronic stress activates the hypothalamic-pituitary-adrenal axis, triggering a sustained release of glucocorticoids (McEwen, 2017). Sustained high concentrations of cortisol are associated with neurotoxic effects, particularly in the prefrontal cortex and the hippocampus (Sapolsky, 2004). In the prefrontal cortex, chronic cortisol exposure frequently correlates with dendrite retraction and loss of dendritic spines, reducing the brain's capacity for working memory, executive planning, and impulse regulation (Arnsten, 2009).
 
 Simultaneously, the hippocampus experiences a reduction in neurogenesis, impairing spatial memory and emotional regulation. This combination of neurological changes leaves the individual unable to process complex information, evaluate long-term risks, or manage emotional responses. The brain enters a survival mode characterized by reactive, short-term decision-making. This neurobiological adaptation is functional for surviving immediate threats on the street, but it prevents the individual from navigating the administrative requirements of civil society.
 
@@ -64,16 +64,18 @@ The neurobiological damage caused by street trauma makes it difficult for client
 
 Distrust of social services is often a rational survival strategy. Chronically unsheltered individuals have frequently experienced institutional trauma, including forced displacement, arrest, and conditional support that is suddenly withdrawn. Without a stable physical baseline, clients cannot build the trust required to engage in long-term therapeutic relationships. The continuous friction between clients and providers leads to a systemic rejection of municipal services, reinforcing street-level exclusion.
 
-## 3. Methodology
+## 3. Conceptual Framework
 
 ### 3.1 Human Agency as Thermodynamic Homeostasis
-Evaluating human dignity requires constructing a secular, empirical ethical construct rooted in biological survival needs. Rather than linking dignity to performance, functional capacity, or social utility, this model anchors moral status in human nature itself (Shilling, 2012). This grounding establishes objective material standards for public policy (Gowan, 2010). To prevent systemic abandonment, municipalities must prioritize immediate physiological stabilization by providing access to temperature regulation, protected sleep, and sanitation.
+Evaluating human dignity requires constructing a secular, empirical ethical construct rooted in biological survival needs. Rather than linking dignity to performance, functional capacity, or social utility, this model anchors moral status in human nature itself (Maritain, 1951). This grounding establishes objective material standards for public policy (Gowan, 2010). To prevent systemic abandonment, municipalities must prioritize immediate physiological stabilization by providing access to temperature regulation, protected sleep, and sanitation.
 
-Our methodology treats human agency as a thermodynamic property rather than an abstract philosophical concept. A human being is an open thermodynamic system that must continuously import negative entropy in the form of food, water, and shelter to counteract the natural progression toward entropy and decay. When the environment prevents the acquisition of these resources, the system degrades.
+Our conceptual framework utilizes thermodynamics as an analogical heuristic rather than a formal mathematical model. By treating human agency as a thermodynamic property, this heuristic illustrates how a human being operates as an open system that must continuously import negative entropy in the form of food, water, and shelter to counteract the natural progression toward entropy and decay. When the environment prevents the acquisition of these resources, the system degrades.
 
 To maintain the physical structure of the brain and body, the organism requires a stable environment. Extreme temperatures force the body to divert metabolic energy to thermoregulation, reducing the energy available for cognitive processes. Chronic sleep deprivation prevents the brain from clearing metabolic waste, leading to cognitive impairment. The Moral Physics of Survival models these environmental interactions mathematically, establishing the minimum material inputs required to maintain human agency.
 
-From a thermodynamic perspective, the body must perform continuous work to maintain its internal boundary conditions against external fluctuations. Under street conditions, the rate of entropy production exceeds the system's capacity for entropy dissipation, resulting in structural disorganization. This disorganization manifests as physical tissue decay and cognitive impairment. Our ethical structure is derived from the physical requirement to arrest this entropic slide.
+From a thermodynamic perspective, the body must perform continuous work to maintain its internal boundary conditions against external fluctuations. Under street conditions, the rate of entropy production exceeds the system's capacity for entropy dissipation, resulting in structural disorganization. This disorganization manifests as physical tissue decay and cognitive impairment. 
+
+Our ethical structure is derived from the physical requirement to arrest this entropic slide. Because biological life is the necessary substrate for all moral and political action, the laws governing biological persistence—thermodynamic maintenance—generate a foundational tier of moral obligation. If a society claims to value human life, it is logically compelled to provide the material conditions required to sustain it. Entropy, therefore, is not merely a physical process but a normative boundary: crossing the homeostatic threshold destroys the individual's capacity to participate in the moral community.
 
 Thermodynamic equilibrium represents death for a biological organism. Life is maintained only by keeping the system in a non-equilibrium steady state, which requires a continuous supply of free energy and the efficient expulsion of heat and waste. The street environment systematically cuts off the supply of free energy while raising the ambient entropy, making the maintenance of a non-equilibrium steady state impossible. Under these conditions, the physical deterioration of the body is not an analogy for suffering; it is a literal description of thermodynamic collapse.
 
@@ -98,19 +100,19 @@ This secular natural law model challenges the liberal assumption that the state 
 Historically, natural law has been used to justify property rights and individual contracts. We invert this tradition, arguing that natural law establishes the primacy of the biological floor over property claims. If the state's legal system permits the accumulation of property to the point where citizens are deprived of the physical space necessary to survive, the legal system itself is unjust. Natural law establishes a higher authority that invalidates laws protecting property at the expense of human life.
 
 ### 3.4 Quantifying the Biological Floor
-To operationalize secular natural law, we must establish quantitative biological metrics for the survival floor. Clinical physiology defines the human homeostatic envelope through environmental and metabolic boundaries. Thermoregulation requires an ambient temperature range between 65 and 75 degrees Fahrenheit to minimize the metabolic work of shivering or sweating. The body requires a minimum daily intake of 2.5 liters of clean water and 2200 kilocalories of nutritionally balanced inputs to maintain cellular function and prevent cachexia.
+To operationalize secular natural law within a public utility framework, we must establish quantitative biological metrics for the survival floor. While individual requirements vary by age, sex, body size, and climate, clinical physiology provides median reference ranges for the human homeostatic envelope. As a baseline municipal standard, thermoregulation generally requires an ambient temperature range between 65 and 75 degrees Fahrenheit to minimize the metabolic work of shivering or sweating. The median adult body requires approximately 2.5 liters of clean water and 2200 kilocalories of nutritionally balanced inputs daily to maintain cellular function and prevent cachexia.
 
-Neurological recovery requires a minimum of six hours of continuous, low-decibel, dark sleep. Without these inputs, the body's internal homeostasis collapses, triggering the neurobiological stress cascade described in literature. MDI specifications must be derived from these metabolic constants. By defining these parameters mathematically, we establish an empirical, measurable baseline that removes municipal obligations from the realm of subjective political negotiation and grounds them in the objective constraints of human physiology and cellular survival.
+Similarly, median neurological recovery requires a baseline of six to eight hours of continuous, low-decibel, dark sleep (Walker, 2017). Without these core inputs, the body's internal homeostasis collapses, triggering the neurobiological stress cascade described in literature. MDI specifications must be derived from these median metabolic reference ranges. By defining these parameters systematically, this framework proposes a measurable baseline that removes municipal obligations from the realm of subjective political negotiation and grounds them in the objective constraints of human physiology and cellular survival.
 
 ### 3.5 The Capability Approach and Sequential Resolution
 The proposed model operationalizes Amartya Sen's Capability Approach and Martha Nussbaum's human rights list. Sen argues that well-being depends on real freedom to achieve functionings, which requires internal and external conversion factors (Sen, 1999). Chronic street survival degrades a person's internal cognitive conversion capacity, making it impossible to utilize standard housing resources (Batterham, 2020).
 
-Nussbaum argues that societies must guarantee basic physical thresholds, defined as Life, Bodily Health, and Bodily Integrity, as a prerequisite for human dignity (Nussbaum, 2011). The MDI model resolves the debate between Nussbaum's universal list and Sen's democratic agency by structuring them into a chronological sequence (Crocker, 2008). Phase Zero functions as the Nussbaum Phase, enforcing biological stability and physical safety through clinical environment design. Once biological baselines are restored, the individual transitions to a self-governed Dunbar Pod, the Sen Phase, regaining agency and participating in pod councils. This sequential resolution proves that constitutional justice requires securing basic physiological thresholds before demanding democratic agency.
+Nussbaum argues that societies must guarantee basic physical thresholds, defined as Life, Bodily Health, and Bodily Integrity, as a prerequisite for human dignity (Nussbaum, 2011). The MDI model resolves the debate between Nussbaum's universal list and Sen's democratic agency by structuring them into a chronological sequence (Crocker, 2008). Phase Zero functions as the Nussbaum Phase, enforcing biological stability and physical safety through clinical environment design. Once biological baselines are restored, the individual transitions to a self-governed Dunbar Pod, the Sen Phase, regaining agency and participating in pod councils. This sequential resolution argues that constitutional justice requires securing basic physiological thresholds before demanding democratic agency.
 
-## 4. Findings
+## 4. Theoretical Implications
 
 ### 4.1 The Cognitive Assumption of the Social Contract
-Modern political philosophy assumes that participants in the social contract possess intact cognitive agency (Shilling, 2012). By ignoring the physical requirements of biological survival, this assumption remains flawed (Mitchell, 1997). Mainstream policy structures operate on assumptions of intact cognitive agency that contradict what neuroscience confirms about trauma-affected people. Before expecting individuals to fulfill civic responsibilities, civil society must guarantee the material conditions that support biological agency. Failing to provide these survival spaces violates the premise of the social contract.
+Modern political philosophy assumes that participants in the social contract possess intact cognitive agency (Maritain, 1951). By ignoring the physical requirements of biological survival, this assumption remains flawed. Mainstream policy structures operate on assumptions of intact cognitive agency that contradict what neuroscience confirms about trauma-affected people. Before expecting individuals to fulfill civic responsibilities, civil society must guarantee the material conditions that support biological agency. Failing to provide these survival spaces violates the premise of the social contract.
 
 Classical social contract theorists, including Hobbes, Locke, and Rawls, build their theories on the assumption of rational, autonomous actors. They assume that individuals possess the cognitive capacity to evaluate options, make agreements, and comply with laws. They do not consider how extreme precarity destroys these capacities. When a state permits its most vulnerable citizens to exist in conditions that degrade their prefrontal cortex function, it violates the contract.
 
@@ -138,10 +140,19 @@ By establishing this hierarchy, we provide a legal and ethical basis for priorit
 
 This hierarchy also demands that public spaces be designed to support survival rather than displace it. Hostile design must be replaced with supportive design, so that public infrastructure is configured to meet the biological needs of all citizens.
 
-## 5. Discussion
+### 4.4 Risks of Coercive Intervention and Institutional Abuse
+The proposal for compelled clinical stabilization carries significant ethical risks and historical precedent for abuse. Critics from disability rights and civil liberties frameworks correctly argue that institutionalization has historically been deployed as a mechanism of social control rather than clinical care. The mid-twentieth century psychiatric hospital system demonstrated how isolated, closed facilities often result in severe human rights violations, prioritizing societal convenience over patient recovery.
+
+Any model of compelled stabilization must address these legitimate structural risks. Without robust, transparent safeguards, Material Dignity Infrastructure could devolve into a modern iteration of the carceral state. To mitigate these risks, compelled care must be strictly decoupled from the criminal justice system and governed by independent medical oversight. 
+
+Under the least-restrictive-alternative doctrine, involuntary stabilization is legally permissible only when all voluntary community-based options have been exhausted and the individual faces imminent biological collapse (Appelbaum, 1994). Guardianship laws must be restructured to function as temporary, specific delegations of medical authority rather than permanent removals of civil rights (Szasz, 1960; Roth, 2001). Disability rights advocates correctly caution that forced care frequently conflates psychiatric variance with physical danger; therefore, confinement must be strictly limited to the duration required to restore biological and cognitive baselines, subject to automatic, recurring judicial review. While the ethical risks of compulsion are severe, they must be weighed against the ongoing, fatal reality of systemic abandonment on the street. A rigorous ethical framework does not ignore the dangers of intervention; it structures the intervention to maximize agency restoration while legally constraining state power.
+
+## 5. Discussion: From Normative Theory to Physical Infrastructure
+
+Translating this normative ethical framework into public policy requires specifying the material infrastructure necessary to meet these biological baselines. If the state accepts the moral obligation to guarantee biological stabilization, it must codify that obligation into engineering specifications.
 
 ### 5.1 Mechanical Engineering of Sanitation Pods
-To operationalize biological stabilization, municipalities must deploy standardized, self-sustaining sanitation pods and Vertically Integrated Stabilization Towers (Mitchell, 1997). Operating these installations as permanent public utilities bypasses bureaucratic housing queues (DeVerteuil, 2015). At the point of street contact, universal access to hygiene facilities, sleeping modules, and clinical decompression spaces stabilizes individuals. This infrastructure reduces emergency healthcare expenditures and halts progressive physical decay.
+To operationalize biological stabilization, municipalities must deploy standardized, self-sustaining sanitation pods and Vertically Integrated Stabilization Towers. Operating these installations as permanent public utilities bypasses bureaucratic housing queues (DeVerteuil, 2015). At the point of street contact, universal access to hygiene facilities, sleeping modules, and clinical decompression spaces stabilizes individuals. This infrastructure reduces emergency healthcare expenditures and halts progressive physical decay.
 
 Sanitation pods must be engineered to withstand intense use while maintaining hygiene standards. These modular units must employ durable materials, such as stainless steel and impact-resistant plastics, to prevent vandalism and wear. Each pod must contain a self-cleaning toilet and shower system that operates automatically after each use, reducing the need for manual maintenance.
 
@@ -149,7 +160,7 @@ To maintain environmental sustainability and scalability, the pods must be self-
 
 The structural frame of each pod must be constructed of structural steel, hot-dip galvanized to prevent corrosion. The electrical systems must be powered by a rooftop solar array, coupled with a high-capacity lithium iron phosphate battery bank to guarantee continuous operation during periods of low sunlight. Heating and ventilation must maintain a stable indoor temperature, protecting users from extreme heat and freezing temperatures.
 
-The concrete slab foundation for each pod must be engineered for seismic stability and rapid deployment. It must include pre-cast utility channels that interface with municipal main lines when available, or support self-contained storage tanks when grid access is absent. The structural frame must withstand a wind load of 120 miles per hour, protecting occupants during severe weather events.
+The concrete slab foundation for each pod must be engineered for seismic stability and rapid deployment. It must include pre-cast utility channels that interface with municipal main lines when available, or support self-contained storage tanks when grid access is absent. The structural frame must withstand a wind load of 120 miles per hour in compliance with ASCE 7-22 structural standards (ASCE, 2022), protecting occupants during severe weather events.
 
 ### 5.2 Structural Design of Vertically Integrated Stabilization Towers
 The Vertically Integrated Stabilization Towers are designed to provide an integrated, clinical-housing environment for immediate stabilization. These structures must use vertical design to minimize their spatial footprint in dense urban areas, allowing them to be located near existing support services.
@@ -158,14 +169,14 @@ The interior design must focus on stress reduction and sleep restoration. The sl
 
 Clinical services must be integrated into the physical structure of the tower. Medical exam rooms, psychiatric evaluation spaces, and nutritional support facilities must be located on the lower floors. This integration allows residents to access care without leaving their stable housing environment. The tower operates as a clinical facility, functioning as a physical extension of the healthcare system.
 
-The acoustic design must target a maximum ambient noise level of 35 decibels in sleeping areas, employing double-wall construction and acoustic dampening panels to isolate occupants from urban noise. The ventilation system must incorporate high-efficiency particulate air, or HEPA, filtration and provide a minimum of ten outdoor air changes per hour, maintaining high air quality to prevent the spread of airborne pathogens.
+The acoustic design must target a maximum ambient noise level of 35 decibels in sleeping areas, employing double-wall construction and acoustic dampening panels to isolate occupants from urban noise. The ventilation system must incorporate high-efficiency particulate air, or HEPA, filtration and provide a minimum of ten outdoor air changes per hour in accordance with ASHRAE Standard 62.1 (ASHRAE, 2019), maintaining high air quality to prevent the spread of airborne pathogens.
 
 To maintain protection without relying on traditional police presence, the towers must incorporate automated entry vestibules and biometric verification systems. These systems verify the identity of residents and manage access to clinical areas without requiring invasive security personnel. The security design must emphasize architectural solutions, such as clear sightlines and controlled access points, to create a protected environment for both staff and residents.
 
-### 5.3 Cost-Benefit Analysis and Public Finance
-Implementing MDI requires significant capital investment, but it represents a highly efficient use of public funds over time. Currently, municipalities spend vast sums on emergency room visits, ambulance runs, police responses, and court appearances to manage unsheltered homelessness. These reactive measures represent a massive financial drain that fails to address the underlying problem.
+### 5.3 Projected Theoretical Efficiencies and Public Finance
+Implementing MDI requires significant capital investment. While formal empirical cost-benefit analyses remain outstanding, the framework projects high theoretical efficiencies over time. Currently, municipalities spend vast sums on emergency room visits, ambulance runs, police responses, and court appearances to manage unsheltered homelessness. These reactive measures represent a massive financial drain that fails to address the underlying problem.
 
-By providing immediate physical stabilization, MDI prevents the acute medical crises that lead to emergency room visits. Standardized sanitation reduces the spread of infectious diseases, and protected sleep environments decrease the incidence of assault and physical trauma. Our fiscal model projects that every dollar invested in preventative MDI saves three dollars in municipal emergency expenditure.
+By providing immediate physical stabilization, MDI theoretically prevents the acute medical crises that lead to emergency room visits. Standardized sanitation reduces the vectors for infectious diseases, and protected sleep environments decrease the incidence of assault and physical trauma, projecting long-term reductions in municipal service loads.
 
 Stabilizing the unsheltered population allows municipal police and emergency medical services to redirect their resources to other areas. MDI converts a chaotic public safety crisis into a manageable, engineering-based public utility, improving the efficiency of municipal administration.
 
@@ -181,7 +192,7 @@ Standalone AOPC rapidly retrofits commercial towers but fails because it lacks t
 ## 6. Conclusion
 
 ### 6.1 Summary of the Model Shift
-Urban design provides the primary mechanism for arresting bodily decay among vulnerable populations (Mitchell, 1997; Westbrook & Robinson, 2021). Before implementing sociological or programmatic interventions, municipalities must restructure public spaces to support physiological stabilization. Engineering survival infrastructure enables municipal authorities to rebuild the fragile material foundations required for human agency and long-term recovery.
+Urban design provides the primary mechanism for arresting bodily decay among vulnerable populations (Westbrook & Robinson, 2021). Before implementing sociological or programmatic interventions, municipalities must restructure public spaces to support physiological stabilization. Engineering survival infrastructure enables municipal authorities to rebuild the fragile material foundations required for human agency and long-term recovery.
 
 The current municipal approach to homelessness is a structural failure disguised as a social problem. By demanding programmatic compliance from individuals whose cognitive capacity has been dismantled by environmental trauma, cities guarantee the failure of their own programs. We must recognize that the body's physical integrity is the prerequisite for any form of social or economic recovery.
 
@@ -211,26 +222,42 @@ Data sharing is not applicable to this article as no new datasets were created o
 
 ## References
 
-DeVerteuil, G. (2015). *Resilience in the post-welfare inner city: Voluntary sector geographies in London, Los Angeles and Sydney*. Policy Press.
-
-Gowan, T. (2010). *Hobos, hustlers, and backsliders: Homeless in San Francisco*. University of Minnesota Press.
-
-Mitchell, D. (1997). The annihilation of space by law: The anti-homeless laws and the shrinking of public space in American cities. *Antipode*, 29(3), 303–335.
-
-Shilling, C. (2012). *The body and social theory* (3rd ed.). SAGE Publications.
-
-Tsemberis, S., Gulcur, L., & Nakae, M. (2004). Housing First, consumer choice, and harm reduction for individuals who are homeless and have co-occurring disorders. *American Journal of Public Health*, 94(4), 651–656.
+Appelbaum, P. S. (1994). *Almost a revolution: Mental health law and the limits of change*. Oxford University Press.
 
 Aravena, A. (2016). *Elemental: Incremental housing and participatory design manual*. Hatje Cantz.
+
+Arnsten, A. F. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature Reviews Neuroscience*, 10(6), 410-422.
+
+ASCE. (2022). *Minimum design loads and associated criteria for buildings and other structures* (ASCE/SEI 7-22). American Society of Civil Engineers.
+
+ASHRAE. (2019). *Ventilation for acceptable indoor air quality* (Standard 62.1-2019). American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
 Batterham, D. (2020). Homelessness as capability deprivation: A conceptual model. *Housing, Theory and Society*, 37(3), 274-297.
 
 Crocker, D. A. (2008). *Ethics of global development: Agency, capability, and deliberative democracy*. Cambridge University Press.
 
+DeVerteuil, G. (2015). *Resilience in the post-welfare inner city: Voluntary sector geographies in London, Los Angeles and Sydney*. Policy Press.
+
+Gowan, T. (2010). *Hobos, hustlers, and backsliders: Homeless in San Francisco*. University of Minnesota Press.
+
+Maritain, J. (1951). *Man and the state*. University of Chicago Press.
+
+McEwen, B. S. (2017). Neurobiological and systemic effects of chronic stress. *Chronic Stress*, 1.
+
+Mitchell, D. (1997). The annihilation of space by law: The anti-homeless laws and the shrinking of public space in American cities. *Antipode*, 29(3), 303–335.
+
 Nussbaum, M. C. (2011). *Creating capabilities: The human development approach*. Harvard University Press.
+
+Roth, M. (2001). Guardianship and the least restrictive alternative. *Journal of Health Politics, Policy and Law*, 26(3), 603-625.
+
+Sapolsky, R. M. (2004). *Why zebras don't get ulcers*. Holt Paperbacks.
 
 Sen, A. (1999). *Development as freedom*. Oxford University Press.
 
-Shopworks Architecture. (2024). *Trauma-informed design in supportive housing: Physical environments and nervous system regulation*. Shopworks.
+Szasz, T. S. (1960). The myth of mental illness. *American Psychologist*, 15(2), 113-118.
+
+Tsemberis, S., Gulcur, L., & Nakae, M. (2004). Housing First, consumer choice, and harm reduction for individuals who are homeless and have co-occurring disorders. *American Journal of Public Health*, 94(4), 651–656.
+
+Walker, M. (2017). *Why we sleep: Unlocking the power of sleep and dreams*. Simon and Schuster.
 
 Westbrook, M., & Robinson, T. (2021). Unhealthy by design: Health and safety consequences of the criminalization of homelessness. *Journal of Social Distress and Homelessness*, 30(2), 107–115.
