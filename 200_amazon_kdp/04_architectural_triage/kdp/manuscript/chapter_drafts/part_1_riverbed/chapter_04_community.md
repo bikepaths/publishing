@@ -24,11 +24,20 @@ David laughed, shaking his head. "Man, I was living under the 110 overpass two y
 
 There were no guards stationed in the corners. There were no cameras pointing into the common room. The residents of Pod Eight managed their own space. 
 
-Within two weeks, Arthur added his name to the kitchen cleaning roster. He didn't have to do it; nobody threatened to evict him if he didn't mop the floor. But watching David and the others take pride in the space stirred something dormant in his chest. 
+Within two weeks, Arthur added his name to the kitchen cleaning roster. He didn't have to do it; nobody threatened to evict him if he didn't mop the floor. But watching David and the others take pride in the space stirred something dormant in his chest.
 
-One Tuesday evening, Arthur spent an hour wiping down the stainless-steel counters and organizing the communal pantry. The physical act of wringing out a sponge and arranging cans of soup restored a profound sensation he hadn't felt in years: responsibility. When you survive on the street, every action serves only to keep yourself alive. It is a desperately selfish existence mandated by the biology of survival. In Pod Eight, for the first time in a decade, Arthur was working to keep a community clean. He was contributing. 
+On the last Sunday of his third week, David knocked on his door at nine in the morning.
 
-That restored agency soon expanded down to the basement. 
+"Pod Council. Common room. You should come."
+
+Arthur followed him down the hall and found fourteen residents seated in a rough circle of folding chairs and kitchen stools. No staff member occupied a chair. The meeting was chaired by a woman named Corazon who had a clipboard and a flat, businesslike manner. She worked through the agenda: the washing machine in unit three needed a new agitator belt, the communal pantry had run short of rice three times in the past month, and a new resident on the north end of the floor had been playing music after midnight and three neighbors had filed noise complaints. The group voted on each item by show of hands. Arthur voted twice. The decisions went into Corazon's clipboard. The meeting ended in forty minutes.
+
+He walked back to his room and sat on the edge of the bed. What he had just experienced was not a therapy session or a compliance check. The Pod Council was a governance mechanism, functioning at the scale where each member's vote was visible and meaningful. In a two-hundred-person shelter, his absence would have gone unnoticed. On Pod Eight's one-hundred-fifty-four-person floor, Corazon had noted his name on the roster and nodded when he sat down. He was not a client receiving services. He was a citizen casting votes.
+
+One Tuesday evening, Arthur spent an hour wiping down the stainless-steel counters and organizing the communal pantry. The physical act of wringing out a sponge and arranging cans of soup restored a profound sensation he hadn't felt in years: responsibility. When you survive on the street, every action serves only to keep yourself alive. It is a desperately selfish existence mandated by the biology of survival. In Pod Eight, for the first time in a decade, Arthur was working to keep a community clean. He was contributing.
+
+That restored agency soon expanded down to the basement.
+
 
 Every morning at exactly nine o'clock, Arthur rode the elevator down to the tower's bicycle repair workshop. The program provided micro-enterprise opportunities designed to rebuild autonomic function and workplace habits. 
 

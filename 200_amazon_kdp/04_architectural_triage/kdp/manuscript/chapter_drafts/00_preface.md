@@ -6,11 +6,11 @@ The Material Dignity Infrastructure (MDI) model replaces moral charity with mech
 
 Because chronic homelessness attacks the human nervous system through completely different vectors, the solution requires multiple targeted operational pipelines. To properly illustrate these distinct mechanisms, this volume isolates the recovery process into three sequenced case studies:
 
-**Part One** examines Pipeline B. We follow a voluntary mechanical rescue from an entrenched riverbed encampment, demonstrating how removing physical barriers—like pet separation policies—produces immediate compliance and halts polyvagal shutdown.
+**Part One** examines Pipeline 2. We follow a voluntary mechanical rescue from an entrenched riverbed encampment, demonstrating how removing physical barriers—like pet separation policies—produces immediate compliance and halts polyvagal shutdown.
 
-**Part Two** shifts to Pipeline C within the dense urban core. Here, we confront severe behavioral calcification and prefrontal cortex degradation, mapping the compelled legal extraction protocols required when individuals lose the biological capacity to perceive danger. This section details the deployment of CARE Court petitions and state conservatorships.
+**Part Two** shifts to Pipeline 4 within the dense urban core. Here, we confront severe behavioral calcification and prefrontal cortex degradation, mapping the compelled legal extraction protocols required when individuals lose the biological capacity to perceive danger. This section details the deployment of CARE Court petitions and state conservatorships.
 
-**Part Three** explores Pipeline A. This final segment tracks the rapid economic stabilization models engineered for recently displaced, cognitively intact populations, proving that immediate structural intervention prevents permanent neurological damage.
+**Part Three** explores Pipeline 1. This final segment tracks the rapid economic stabilization models engineered for recently displaced, cognitively intact populations, proving that immediate structural intervention prevents permanent neurological damage.
 
 Before diving into these isolated narratives, you must understand the overarching engine. The MDI Tower triages damaged human biology using strict architectural controls. It deploys Phase Zero decompression wings rated to STC-65 soundproofing to physically extinguish adrenal hyper-vigilance. It limits community floors to exactly 154 residents to perfectly match Dunbar’s Number and respect human cognitive thresholds. It grants absolute privacy through digital keycard infrastructure, restoring agency while maintaining code-compliant emergency access. 
 
