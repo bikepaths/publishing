@@ -10,12 +10,13 @@ The right number represented the total cost of the MDI Tower One intervention th
 
 That per-night figure was only achievable because Tower One was not a new building. It was a Class B commercial office tower in downtown Los Angeles, acquired by the county in 2025 at a sixty-eight percent discount from its 2019 peak valuation. The post-COVID remote work transition had driven vacancy rates across Class B and C downtown inventory above thirty percent by mid-decade, leaving building owners servicing commercial mortgages on properties generating twelve percent of underwritten occupancy revenue. The county purchased the tower at seventy-one dollars per square foot against a replacement construction cost of four hundred dollars per square foot. The STC-65 acoustic partition work, the Phase Zero decompression floor, and the Dunbar Pod residential conversion added forty-three dollars per square foot. Total all-in acquisition and conversion cost: one hundred fourteen dollars per square foot. Constructing an equivalent building from bare ground would have required six times that figure.
 
-
 "The question before this board is not whether we can afford to operate Tower One," the deputy director said, her voice level. "The question is whether we can afford not to."
 
-A supervisor leaned forward, his reading glasses low on his nose. He tapped his pen against a thick binder of financial projections.
+A supervisor leaned forward, frowning. "I have two concerns with this real estate acquisition. First, critics claim this program is a public bailout for downtown office owners whose properties lost value when remote work emptied the city. We are spending millions of public dollars to purchase commercial real estate. Second, how did you bypass the municipal zoning codes and environmental reviews that normally delay residential development for five to seven years?"
 
-"What's your recidivism rate?"
+The deputy director adjusted her glasses. "To the first concern, this is not a bailout; it is an asset acquisition at a steep market discount. By purchasing Class B inventory at seventy-one dollars per square foot, the county secures a major structural asset at a fraction of its replacement cost. If we attempted to build this capacity from bare ground, construction costs alone would exceed four hundred dollars per square foot. We are leveraging commercial distress to build public infrastructure. To the second concern, we bypassed residential zoning queues by classifying the towers as municipal public utility structures. The MDI tower operates under the same administrative framework as a water treatment plant or an electrical substation. When a city faces a public health and safety crisis of this magnitude, the state emergency code permits the override of standard residential zoning ordinances. We are not building traditional apartments; we are deploying critical life-safety infrastructure designed to arrest biological decay."
+
+The supervisor reviewed his notes. "Let's look at performance. What's your recidivism rate?"
 
 "Pipeline 1 residents, the economically displaced, show a four percent return rate at twelve months. Marcus is representative of that cohort. He signed a lease, maintained employment, and has not re-entered the system." She advanced the slide. A bar chart showed Pipeline 1 outcomes against the county's historical baseline for rapid-rehousing programs, which typically ran at thirty-one percent recidivism within the first year.
 
@@ -25,7 +26,11 @@ The supervisor removed his glasses. "And Pipeline 4?"
 
 "Pipeline 4 operates on a different clinical timeline. The conservatorship cohort requires long-term stabilization with no predetermined discharge date. Cost avoidance in that population is measured against emergency department utilization. Jenifer, our index case, generated nineteen paramedic transports in the twelve months before intake. She has generated zero since architectural containment."
 
-A second supervisor, a woman seated at the far end of the dais, leaned into her microphone.
+The supervisor at the far end of the dais leaned into his microphone. "But you are proposing a single engineering intervention for a crisis that is fundamentally systemic. Homelessness is rooted in housing market failure, deindustrialization, structural racism, and psychiatric illness. How can a concrete tower, no matter how quiet, solve these deep structural problems? Isn't this just a technocratic silver bullet?"
+
+The deputy director shook her head. "MDI does not claim to resolve long-term economic inequality, housing markets, or structural poverty. It does not replace the social programs, vocational training, or psychiatric services that this county operates. It restores the biological floor required for any of those programs to function. When a person's brain is locked in chronic sleep deprivation and cortisol toxicity, they lack the neurological capacity to participate in cognitive behavioral therapy, job interviews, or independent housing searches. Their prefrontal cortex is offline. The tower is not a complete solution; it is a clinical prerequisite. By stabilizing the metabolism and resting the nervous system first, we build the neurological platform that your social services require to succeed."
+
+A third supervisor, a woman seated at the far end of the dais, leaned into her microphone.
 
 "My constituents don't separate the drug dealers from the people who need help. They see one population and they want all of it gone. What does Tower One do about the predators?"
 
