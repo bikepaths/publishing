@@ -16,7 +16,7 @@ The shivering pit bull, soaking wet from the river extraction, pressed his cold 
 
 The veterinarian gently placed a stethoscope against Buster's ribs. She listened to the dog's congested, rattling lungs for a full minute. 
 
-"He's going to need antibiotics for this cough," she said, looking up at Arthur. She read his rigid posture instantly. "He stays in the suite with you initially. We have pet accommodations built right into the room, since dogs aren't allowed in the corridors or common areas. You won't be separated."
+"He's going to need antibiotics for this cough," she said, looking up at Arthur. She read his rigid posture instantly. "He stays in the suite with you initially. We have pet accommodations built right into the room. When you're ready to transition to a community pod upstairs, he'll move to the veterinary kennel on the second floor with open daily visitation. Since dogs aren't allowed in the corridors or common areas, you'll visit him there. You won't be separated."
 
 Arthur exhaled. For the first time since the floodwaters began to rise in the Glendale Narrows, he felt his shoulders drop a fraction of an inch. 
 
