@@ -191,11 +191,13 @@ Standalone AOPC rapidly retrofits commercial towers but fails because it lacks t
 
 ## 6. Anticipated Objections to the MDI Structure
 
+Every objection cataloged below shares a single root error: the assumption that individuals below the thermodynamic survival threshold retain intact cognitive agency. When chronic HPA-axis overactivation has degraded prefrontal cortex function to the point of biological collapse, the capacity to exercise liberty, consent, privacy, or economic choice ceases to exist as a neurological fact. Each fallacy below derives from this false premise.
+
 ### 6.1 The Technocratic Authoritarian Fallacy
 **Objection**: MDI represents an expansion of the carceral state, using medicalized infrastructure to enforce universal social control and strip individuals of civil liberties through compelled care.
 
 **Error Vector**: *Blurring Cohorts and Misapplying Liberty*
-This objection ignores the boundary condition of the MDI structure: compulsion applies only when biological and cognitive agency collapses below the objective thermodynamic survival threshold. It conflates individuals suffering from temporary economic displacement with those experiencing chronic physiological collapse. By assuming intact cognitive agency where neurobiological degradation (e.g., cortisol toxicity, executive dysfunction) has occurred, this critique prioritizes the theoretical aesthetic of negative liberty over the physical reality of biological survival.
+This objection ignores the boundary condition of the MDI structure: compulsion applies only when biological and cognitive agency collapses below the objective thermodynamic survival threshold. It conflates individuals suffering from temporary economic displacement with those experiencing chronic physiological collapse. By assuming intact cognitive agency where neurobiological degradation (e.g., cortisol toxicity, executive dysfunction) has occurred, this critique prioritizes the theoretical aesthetic of negative liberty over the physical reality of biological survival. Compelled extraction under conservatorship operates as a medical instrument under the Lanterman-Petris-Short Act, not a police action; secular natural law (Maritain, 1951) and the Capability Approach (Sen, 1999; Nussbaum, 2011) both ground the state's positive obligation to preserve the biological basis of personhood.
 
 ### 6.2 The Housing-Reductionist Fallacy
 **Objection**: The crisis requires permanent residential apartments (Housing First), not medicalized, clinical-housing infrastructure or stabilization towers.
@@ -213,19 +215,19 @@ This objection fails to segment the demographic. "Homelessness" is an administra
 **Objection**: Standalone stabilization towers, automated sanitation pods, and vertical triage infrastructure require impossible political capital expenditure.
 
 **Error Vector**: *Ignoring Dispersed Costs*
-This critique views MDI capitalization in a fiscal vacuum. It ignores the dispersed, high-velocity expenditure of uncompensated emergency medical transport, recurring psychiatric holds, emergency room triage, and continuous police sweep operations. By ignoring the established municipal drain caused by systemic abandonment, the objection misunderstands the financial mechanics of preventative infrastructure investment (e.g., municipal social impact bonds).
+This critique views MDI capitalization in a fiscal vacuum. It ignores the dispersed, high-velocity expenditure of uncompensated emergency medical transport, recurring psychiatric holds, emergency room triage, and continuous police sweep operations. By ignoring the established municipal drain caused by systemic abandonment, the objection misunderstands the financial mechanics of preventative infrastructure investment (e.g., municipal social impact bonds). Acquiring distressed Class B/C commercial towers at post-COVID discounts reduces all-in conversion costs to roughly one-sixth of ground-up construction (Urban Land Institute, 2023), converting real estate market correction into fiscal stewardship rather than speculation.
 
 ### 6.5 The Privacy and Surveillance Fallacy
 **Objection**: Deploying biometric vestibules, automated entry monitoring, and managed clinical access violates basic civil liberties and individual privacy.
 
 **Error Vector**: *Misapplying Privacy Norms*
-This objection imposes middle-class privacy expectations onto a population experiencing lethal physical decay in public spaces. It prioritizes the theoretical preservation of anonymity over the biological necessity of survival. Protected, monitored access is an architectural requisite for eliminating street-level violence and assault; discarding it in the name of privacy guarantees continued predation.
+This objection imposes middle-class privacy expectations onto a population experiencing lethal physical decay in public spaces. It prioritizes the theoretical preservation of anonymity over the biological necessity of survival. Protected, monitored access is an architectural requisite for eliminating street-level violence and assault; discarding it in the name of privacy guarantees continued predation. Defensible Space Theory (Newman, 1972) resolves the apparent contradiction between open access and population protection: a no-gate ground-floor commons provides survival services without identification, while secured residential floors enforce biometric access to protect the stabilized population from predatory intrusion.
 
 ### 6.6 The Classification Bias Fallacy
 **Objection**: Defining "cognitive collapse" and mandating stabilization weaponizes medical assessment against marginalized groups and enforces behavioral conformity.
 
 **Error Vector**: *Confusing Psychiatry with Biology*
-This objection confuses psychiatric variance with objective biological indicators. MDI thresholds are not determined by behavioral non-conformity; they are defined by critical thermoregulatory failure, advanced cachexia, profound sleep deprivation, and measurable physical decay. Treating empirical biological failure as a socially constructed bias misreads the clinical nature of the intervention.
+This objection confuses psychiatric variance with objective biological indicators. MDI thresholds are not determined by behavioral non-conformity; they are defined by critical thermoregulatory failure, advanced cachexia, profound sleep deprivation, and measurable physical decay. Treating empirical biological failure as a socially constructed bias misreads the clinical nature of the intervention. STC-65 acoustic decompression operates as a neurological ICU protocol: chronic cortisol toxicity degrades prefrontal tissue (Arnsten, 2009; McEwen, 2017), and silence within ASHRAE-compliant environmental parameters is the clinical intervention required to lower allostatic load, not punitive isolation.
 
 ### 6.7 The Thermodynamic Determinism Fallacy
 **Objection**: The application of "Moral Physics" and thermodynamics to human dignity is a pseudoscientific overreach that maps physical entropy onto social phenomena.
@@ -238,6 +240,18 @@ This objection mistakes a conceptual model for a formal mathematical equation. M
 
 **Error Vector**: *Surrendering to Zoning Codes*
 This objection accepts municipal administrative barriers as permanent laws of nature. MDI positions these infrastructure developments as critical public utilities, bypassing standard residential zoning queues through emergency or utility-classification structures. Treating regulatory hurdles as insurmountable stops systemic public works reform.
+
+### 6.9 The Predator-Victim Binary Fallacy
+**Objection**: Separating street populations into defenseless casualties and predatory exploiters oversimplifies survival economics and justifies carceral sweeps under the guise of medical extraction.
+
+**Error Vector**: *Confusing Predation with Subsistence*
+This objection treats narcotics distribution and sexual exploitation as survival behavior equivalent to panhandling or scavenging. Routine Activity Theory (Cohen & Felson, 1979) establishes that crime requires a motivated offender, a suitable target, and the absence of a capable guardian. Encampments concentrate neurologically defenseless targets in unguarded space, creating an optimal predator marketplace. When MDI extracts the victim population, the predator economy loses its captive customer base, its human camouflage, and its reason to congregate. Crime Prevention Through Environmental Design (Jeffery, 1971) confirms that altering the spatial conditions of predation collapses the predatory structure without requiring expanded policing.
+
+### 6.10 The Silver Bullet Fallacy
+**Objection**: Homelessness is a multi-dimensional crisis rooted in housing markets, structural racism, psychiatric illness, and deindustrialization. Proposing a single engineering intervention ignores social complexity.
+
+**Error Vector**: *Conflating Prerequisites with Complete Solutions*
+This objection uses structural complexity to justify administrative paralysis. MDI does not claim to resolve long-term economic inequality or psychiatric disorders. It restores the biological floor required for all subsequent social programs to function. Phase Zero metabolic stabilization is a prerequisite, not a replacement: without restored prefrontal cortex function, the target cohort lacks the neurological capacity to participate in housing programs, vocational training, or therapeutic intervention. Treating a baseline biological prerequisite as a silver-bullet illusion guarantees continued lethal drift.
 
 ## 7. Conclusion
 
@@ -282,6 +296,9 @@ ASCE. (2022). *Minimum design loads and associated criteria for buildings and ot
 
 ASHRAE. (2019). *Ventilation for acceptable indoor air quality* (Standard 62.1-2019). American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
+Cohen, L. E., & Felson, M. (1979). Social change and crime rate trends: A routine activity approach. *American Sociological Review*, 44(4), 588-608.
+
+
 Batterham, D. (2020). Homelessness as capability deprivation: A conceptual model. *Housing, Theory and Society*, 37(3), 274-297.
 
 Crocker, D. A. (2008). *Ethics of global development: Agency, capability, and deliberative democracy*. Cambridge University Press.
@@ -290,11 +307,15 @@ DeVerteuil, G. (2015). *Resilience in the post-welfare inner city: Voluntary sec
 
 Gowan, T. (2010). *Hobos, hustlers, and backsliders: Homeless in San Francisco*. University of Minnesota Press.
 
+Jeffery, C. R. (1971). *Crime prevention through environmental design*. Sage Publications.
+
 Maritain, J. (1951). *Man and the state*. University of Chicago Press.
 
 McEwen, B. S. (2017). Neurobiological and systemic effects of chronic stress. *Chronic Stress*, 1.
 
-Mitchell, D. (1997). The annihilation of space by law: The anti-homeless laws and the shrinking of public space in American cities. *Antipode*, 29(3), 303–335.
+Mitchell, D. (1997). The annihilation of space by law: The anti-homeless laws and the shrinking of public space in American cities. *Antipode*, 29(3), 303-335.
+
+Newman, O. (1972). *Defensible space: Crime prevention through urban design*. Macmillan.
 
 Nussbaum, M. C. (2011). *Creating capabilities: The human development approach*. Harvard University Press.
 

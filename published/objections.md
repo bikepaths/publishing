@@ -54,6 +54,18 @@ This objection mistakes a conceptual model for a formal mathematical equation. M
 **Error Vector**: *Surrendering to Zoning Codes*
 This objection accepts municipal administrative barriers as permanent laws of nature. MDI positions these infrastructure developments as critical public utilities, bypassing standard residential zoning queues through emergency or utility-classification structures. Treating regulatory hurdles as insurmountable stops systemic public works reform.
 
+## 9. The Predator-Victim Binary Fallacy
+**Objection**: Separating street populations into defenseless casualties and predatory exploiters oversimplifies survival economics and justifies carceral sweeps under the guise of medical extraction.
+
+**Error Vector**: *Confusing Predation with Subsistence*
+This objection treats narcotics distribution and sexual exploitation as survival behavior equivalent to panhandling or scavenging. Routine Activity Theory (Cohen & Felson, 1979) establishes that crime requires a motivated offender, a suitable target, and the absence of a capable guardian. Encampments concentrate neurologically defenseless targets in unguarded space, creating an optimal predator marketplace. When MDI extracts the victim population, the predator economy loses its captive customer base, its human camouflage, and its reason to congregate.
+
+## 10. The Silver Bullet Fallacy
+**Objection**: Homelessness is a multi-dimensional crisis rooted in housing markets, structural racism, psychiatric illness, and deindustrialization. Proposing a single engineering intervention ignores social complexity.
+
+**Error Vector**: *Conflating Prerequisites with Complete Solutions*
+This objection uses structural complexity to justify administrative paralysis. MDI does not claim to resolve long-term economic inequality or psychiatric disorders. It restores the biological floor required for all subsequent social programs to function. Phase Zero metabolic stabilization is a prerequisite, not a replacement: without restored prefrontal cortex function, the target cohort lacks the neurological capacity to participate in housing programs, vocational training, or therapeutic intervention.
+
 ---
-*Status: Lexical Compliance Verified.*
+*Status: Integrated into JSDH manuscript Section 6.*
 *Purpose: Integration into active MDI manuscripts to preempt peer-review and policy-level rejection vectors.*
