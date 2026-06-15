@@ -14,7 +14,7 @@ He rolled up the frayed leg of his denim jeans. Beneath the fabric, his right sh
 
 "Damn it," Arthur whispered, his voice a hoarse rasp. 
 
-The urban river runoff was toxic—a volatile mix of brake dust, motor oil, and untreated sewage that drained from the city streets above. If that water got into the sores, the infection would spread to the bone. He had seen it happen to a man named T-Bone down near the Los Feliz bridge. T-Bone lost his leg below the knee. 
+The urban river runoff was toxic, a volatile mix of brake dust, motor oil, and untreated sewage that drained from the city streets above. If that water got into the sores, the infection would spread to the bone. He had seen it happen to a man named T-Bone down near the Los Feliz bridge. T-Bone lost his leg below the knee. 
 
 Arthur grabbed a relatively clean rag from his shopping cart, wiped the moisture from his skin, and wrapped a fresh section of the trash bag tightly around his calf. He sealed the seams with the duct tape, pressing the adhesive hard against the plastic. The makeshift bandage made him drag his leg with a severe limp, but it kept the water out. 
 
@@ -22,15 +22,15 @@ A deep, rattling cough shook his chest. He doubled over, gripping his knees unti
 
 "Easy, boy," Arthur rasped, wiping his mouth with the back of his hand. 
 
-Beside him, Buster shivered. The four-year-old pit bull mix had a cough of his own—a wet, hacking sound that echoed off the concrete banks. Buster sat next to a modified shopping cart piled high with stripped copper wire, green propane cylinders, and three wet spare tarps. The dog pressed his warm, muscular flank against Arthur's good leg, seeking heat. 
+Beside him, Buster shivered. The four-year-old pit bull mix had a cough of his own, a wet, hacking sound that echoed off the concrete banks. Buster sat next to a modified shopping cart piled high with stripped copper wire, green propane cylinders, and three wet spare tarps. The dog pressed his warm, muscular flank against Arthur's good leg, seeking heat. 
 
 Arthur ran a calloused hand over the dog's broad head, scratching behind his cropped ears. "I know, buddy. It's colder than a witch's heart out here today."
 
 Buster whined, a low, vibrating sound in his throat, and nudged Arthur's empty palm with a wet nose. 
 
-Arthur reached deep into his heavy canvas coat. His fingers brushed against a few loose screws, a lighter, and finally, half a stale hamburger bun wrapped in a grease-stained napkin. He pulled it out. The bread was hard, practically fossilized, scavenged from a fast-food bag tossed near the off-ramp two days ago. 
+Arthur reached deep into his heavy canvas coat. His fingers brushed against a few loose screws, a lighter, and half a stale hamburger bun wrapped in a grease-stained napkin. He pulled it out. The bread was hard, practically fossilized, scavenged from a fast-food bag tossed near the off-ramp two days ago. 
 
-Arthur hadn't eaten since yesterday morning. His stomach cramped so violently it felt like a fist twisting his intestines. He looked at the bread. He looked at the shivering dog. 
+Arthur hadn't eaten since yesterday morning. His stomach cramped, twisting his intestines like a fist. He looked at the bread. He looked at the shivering dog. 
 
 He broke the bun in two. He held the larger piece out on his flat palm. 
 
@@ -44,13 +44,13 @@ Arthur froze. The bread turned to ash in his mouth. He dropped his hand immediat
 
 Two figures moved along the concrete rim of the channel, fifty feet up. 
 
-Usually, figures on the rim meant a police sweep. Sweeps were the terror that haunted every unsheltered mind. A sweep meant flashing lights, bullhorns, and yellow caution tape. It meant municipal sanitation workers throwing everything Arthur owned—his tarps, his propane, his carefully hoarded copper wire—into the crushing jaws of a garbage truck. It meant losing the woven branch dome he had bled to build. It meant starting over with absolutely nothing, standing on a sidewalk in the freezing rain.
+Usually, figures on the rim meant a police sweep. Sweeps were the terror that haunted every unsheltered mind. A sweep meant flashing lights, bullhorns, and yellow caution tape. It meant municipal sanitation workers throwing everything Arthur owned, his tarps, his propane, his carefully hoarded copper wire, into the crushing jaws of a garbage truck. It meant losing the woven branch dome he had bled to build. It meant starting over with nothing, standing on a sidewalk in the freezing rain.
 
 Arthur tightened his grip on Buster’s collar. His heart hammered a frantic rhythm against his ribs. The adrenaline dump made his hands shake. *If they come down,* he thought, *we run south. Through the deep water.*
 
 But these figures didn't wear badges. They didn't have utility belts or sidearms. As the morning fog thinned, Arthur squinted through the gray light. 
 
-They carried clipboards. They wore bright blue, waterproof jackets. And they weren't shouting orders through a megaphone. They were simply standing there, looking down at the camp. 
+They carried clipboards. They wore bright blue, waterproof jackets. They did not shout orders through a megaphone. They stood looking down at the camp. 
 
 Slowly, carefully, the two figures began picking their way down the steep, slick concrete embankment, sliding sideways toward the water's edge. 
 

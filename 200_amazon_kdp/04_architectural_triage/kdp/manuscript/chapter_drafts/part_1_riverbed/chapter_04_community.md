@@ -1,14 +1,14 @@
 # Chapter 4: Community
 
-After ninety days in complete acoustic and physical isolation, Arthur finally received medical clearance to leave the decompression wing. His adrenal glands had rested. His sleep debt was paid. Now, he faced the hardest part of the transition: returning to human society. 
+After ninety days in acoustic and physical isolation, Arthur received medical clearance to leave the decompression wing. His adrenal glands had rested. His sleep debt was paid. Now, he faced the hardest part of the transition: returning to human society. 
 
-He stood in the elevator, his hands empty, as the car rose to the eighth floor. He felt his pulse accelerate. His chest tightened. Moving into a public housing project or a traditional shelter usually triggers intense panic for someone accustomed to the defensive isolation of the street. Arthur expected the doors to open on overwhelming chaos—hundreds of metal cots lined up end-to-end in a gymnasium, fluorescent lights buzzing angrily overhead, and the constant, violent threat of theft hanging in the stale air. 
+He stood in the elevator, his hands empty, as the car rose to the eighth floor. He felt his pulse accelerate. His chest tightened. Moving into a public housing project or a traditional shelter usually triggers intense panic for someone accustomed to the defensive isolation of the street. Arthur expected the doors to open on overwhelming chaos: hundreds of metal cots lined up end-to-end in a gymnasium, fluorescent lights buzzing angrily overhead, and the constant, violent threat of theft hanging in the stale air. 
 
 The elevator chimed. The metal doors slid open. 
 
 Arthur stepped out into a quiet, carpeted common area that looked remarkably like a modern apartment lobby. Potted ferns sat in the corners. Soft, warm light washed the walls. 
 
-The human brain cannot maintain trust within massive crowds. Cognitive limits restrict our ability to form stable, meaningful social relationships to about one hundred and fifty people—a neurological threshold known as Dunbar’s number. When legacy shelters pack three hundred traumatized individuals into a single armory, the brain registers the crowd as an uncontrollable threat. Fights break out. Paranoia spikes. People flee back to the streets simply to find space. 
+The human brain cannot maintain trust within massive crowds. Cognitive limits restrict our ability to form stable, meaningful social relationships to about one hundred and fifty people, a neurological threshold known as Dunbar’s number. When legacy shelters pack three hundred traumatized individuals into a single armory, the brain registers the crowd as an uncontrollable threat. Fights break out. Paranoia spikes. People flee back to the streets to find space. 
 
 Tower One’s architecture respected this strict biological limit. Rather than forcing hundreds of people into a single hall, the floor plan was partitioned into independent, self-governing pods. Pod Eight contained exactly one hundred and fifty-four people. 
 
@@ -41,13 +41,13 @@ That restored agency soon expanded down to the basement.
 
 Every morning at exactly nine o'clock, Arthur rode the elevator down to the tower's bicycle repair workshop. The program provided micro-enterprise opportunities designed to rebuild autonomic function and workplace habits. 
 
-Arthur learned to weld cracked frames, true bent wheels, and adjust complex derailleurs. The workshop smelled sharp and metallic—a mixture of hot solder, chain grease, and industrial degreaser. The physical weight of the steel wrenches and the focused heat of the welding torch grounded his mind. When his hands were busy cutting brake cables, he couldn't dwell on the past. 
+Arthur learned to weld cracked frames, true bent wheels, and adjust complex derailleurs. The workshop smelled sharp and metallic, a mixture of hot solder, chain grease, and industrial degreaser. The physical weight of the steel wrenches and the focused heat of the welding torch grounded his mind. When his hands were busy cutting brake cables, he couldn't dwell on the past. 
 
 He earned a small, regular stipend for assembling and repairing bikes for local commuters. At the end of his second month in the shop, David walked with him to a local credit union. There, holding his new ID, Arthur opened his first bank account in five years. Holding the crisp plastic debit card in his hand, the final traces of his street identity began to dissolve. 
 
 With his first official payout, Arthur didn't hoard survival gear. He didn't buy duct tape or heavy trash bags. 
 
-He took the elevator down to the second-floor kennel, carrying a large bag of premium, salmon-flavored dog treats. After spending an hour sitting with Buster in the climate-controlled visitation run, he rode back up to the eighth floor. Hearing a frustrated sigh from the hallway, he walked into the common laundry room. A new arrival—a terrified young man fresh out of the medical decompression wing—was staring blankly at the complex digital display of the communal washing machine. 
+He took the elevator down to the second-floor kennel, carrying a large bag of premium, salmon-flavored dog treats. After spending an hour sitting with Buster in the climate-controlled visitation run, he rode back up to the eighth floor. Hearing a frustrated sigh from the hallway, he walked into the common laundry room. A new arrival, a terrified young man fresh out of the medical decompression wing, was staring blankly at the complex digital display of the communal washing machine. 
 
 Arthur walked over, his shoulders relaxed, his posture open. 
 

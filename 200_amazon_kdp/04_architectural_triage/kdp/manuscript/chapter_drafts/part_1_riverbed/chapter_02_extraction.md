@@ -1,14 +1,14 @@
 # Chapter 2: Extraction
 
-Every Tuesday and Thursday, just as the morning commuter traffic on Interstate 5 began to thicken, two figures in bright blue waterproof jackets appeared on the concrete rim of the channel. They never carried bullhorns. They never shouted orders. And most importantly, they never carried the heavy, silver clipboards that usually signaled a county intake team. 
+Every Tuesday and Thursday, just as the morning commuter traffic on Interstate 5 began to thicken, two figures in bright blue waterproof jackets appeared on the concrete rim of the channel. They never carried bullhorns. They never shouted orders. They never carried the heavy, silver clipboards that usually signaled a county intake team. 
 
-Instead, they simply climbed halfway down the steep embankment, left a white paper bag on the dry concrete out of reach of the water, and retreated back to the rim. 
+They climbed halfway down the steep embankment, left a white paper bag on the dry concrete out of reach of the water, and retreated back to the rim. 
 
-For the first three weeks, Arthur watched them from the deep cover of his willow branches. He kept one hand locked on Buster’s collar, waiting for the trap to spring. Only after the blue jackets completely disappeared over the rim did he dare wade across the shallow, freezing water to retrieve the bag. Inside, he always found the same tactical payload: two pairs of thick, dry wool socks, two sealed styrofoam cups of black coffee radiating heat, and a plastic container packed with high-protein dog food. 
+For the first three weeks, Arthur watched them from the deep cover of his willow branches. He kept one hand locked on Buster’s collar, waiting for the trap to spring. Only after the blue jackets disappeared over the rim did he dare wade across the shallow, freezing water to retrieve the bag. Inside, he always found the same tactical payload: two pairs of thick, dry wool socks, two sealed styrofoam cups of black coffee radiating heat, and a plastic container packed with high-protein dog food. 
 
 The workers kept exactly twenty meters of open water between themselves and the camp. They moved slowly, keeping their hands out of their pockets and visible at all times. When they spoke to each other, they used low, rhythmic tones. 
 
-This specific distance mattered. A traumatized brain processes any rapid, uninvited approach as a predatory attack. Traditional street outreach often fails because well-meaning workers march directly into a camp, armed with government forms, demanding identification and signatures. To a nervous system locked in survival mode, a clipboard is a threat. It demands compliance from a brain that is actively scanning for physical danger. 
+This specific distance mattered. A traumatized brain processes any rapid, uninvited approach as a predatory attack. Traditional street outreach often fails because well-meaning workers march directly into a camp, armed with government forms, demanding identification and signatures. To a nervous system locked in survival mode, a clipboard is a threat. It demands compliance from a brain that is scanning for physical danger. 
 
 By staying across the river, the outreach team proved they were not a threat. They let Arthur set the pace of the interaction. By the fourth week, Arthur stopped hiding inside the dome. When he heard their boots crunch on the gravel, he stood at the edge of his mud island, one hand resting heavily on Buster's head. He didn't speak, but as the workers left the supplies, he offered a single, stiff nod. 
 
@@ -24,7 +24,7 @@ The rising water struck just after midnight. It ripped the woven willow branches
 
 Arthur scrambled to the highest patch of mud remaining, but the island was shrinking fast. Freezing rain lashed his face, blinding him. The water climbed past his knees, pulling at his boots with immense, physical weight. He gripped Buster by the heavy nylon collar, pulling the shivering eighty-pound dog up against his chest to keep the animal's head above the surging current. 
 
-The deafening roar of the flood triggered complete dorsal-vagal shutdown. It was a biological paralysis. His muscles locked. He couldn't force his legs to move toward the steep concrete walls. He could only stand planted in the freezing mud, his arms wrapped around his dog, waiting for the water to rise high enough to take them both.
+The deafening roar of the flood triggered dorsal-vagal shutdown. It was a biological paralysis. His muscles locked. He couldn't force his legs to move toward the steep concrete walls. He could only stand planted in the freezing mud, his arms wrapped around his dog, waiting for the water to rise high enough to take them both.
 
 "Arthur!" 
 
