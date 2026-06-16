@@ -753,8 +753,6 @@ On the ninth floor of the Kenneth Hahn Hall of Administration, the fluorescent l
 
 # Citations and Sources
 
-::: {.citations}
-
 ## Neuroscience and Polyvagal Theory
 
 Porges, Stephen W. "Orienting in a Defensive World: Mammalian Modifications of our Evolutionary Heritage. A Polyvagal Theory." *Psychophysiology* 32, no. 4 (1995): 301–318.
@@ -780,8 +778,6 @@ Culhane, Dennis P., Stephen Metraux, and Trevor Hadley. "Public Service Reductio
 
 
 ---
-
-# About the Author
 
 # About the Author
 

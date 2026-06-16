@@ -1,4 +1,4 @@
-# Chapter 5: Graduation
+# Chapter 6: Graduation
 
 Ten months after the winter flood nearly drowned them in the Glendale Narrows, Arthur stood in the first-floor administrative office of Tower One. He wasn't wearing wet, muddy denim or plastic trash bags taped over his legs. He wore a clean, pressed button-down shirt and durable canvas work pants purchased with his own bicycle workshop earnings. 
 

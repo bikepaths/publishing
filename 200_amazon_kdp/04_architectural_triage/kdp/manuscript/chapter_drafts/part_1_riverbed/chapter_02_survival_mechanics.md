@@ -1,4 +1,4 @@
-# Chapter 1: Survival Mechanics
+# Chapter 2: Survival Mechanics
 
 The roar of Interstate 5 never stopped. It vibrated through the concrete banks of the Glendale Narrows, shook the dry willow branches, and traveled deep into the mud of the riverbed. Every time a semi-truck hit the metal expansion joints on the overpass, a rhythmic, mechanical *clack-clack* echoed down the channel like a gunshot. 
 

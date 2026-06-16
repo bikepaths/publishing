@@ -1,4 +1,4 @@
-# Chapter 4: Community
+# Chapter 5: Community
 
 After ninety days in acoustic and physical isolation, Arthur received medical clearance to leave the decompression wing. His adrenal glands had rested. His sleep debt was paid. Now, he faced the hardest part of the transition: returning to human society. 
 

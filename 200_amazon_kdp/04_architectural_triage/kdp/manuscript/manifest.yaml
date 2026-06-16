@@ -12,67 +12,69 @@ files:
     skip_lines: 4
   - type: frontmatter
     heading: "Preface: The Architectural Engine"
-    path: chapter_drafts/00_preface.md
+    path: chapter_drafts/part_0_foundation/00_preface.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 1: Ground Floor Operations"
-    path: chapter_drafts/01_ground_floor_intake.md
+    path: chapter_drafts/part_0_foundation/chapter_01_ground_floor_intake.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 2: Survival Mechanics"
-    path: chapter_drafts/part_1_riverbed/chapter_01_survival_mechanics.md
+    path: chapter_drafts/part_1_riverbed/chapter_02_survival_mechanics.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 3: Extraction"
-    path: chapter_drafts/part_1_riverbed/chapter_02_extraction.md
+    path: chapter_drafts/part_1_riverbed/chapter_03_extraction.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 4: Silence"
-    path: chapter_drafts/part_1_riverbed/chapter_03_silence.md
+    path: chapter_drafts/part_1_riverbed/chapter_04_silence.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 5: Community"
-    path: chapter_drafts/part_1_riverbed/chapter_04_community.md
+    path: chapter_drafts/part_1_riverbed/chapter_05_community.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 6: Graduation"
-    path: chapter_drafts/part_1_riverbed/chapter_05_graduation.md
+    path: chapter_drafts/part_1_riverbed/chapter_06_graduation.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 7: The Concrete Loop"
-    path: chapter_drafts/part_2_urban_core/chapter_06_concrete_psychosis.md
+    path: chapter_drafts/part_2_urban_core/chapter_07_concrete_psychosis.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 8: Compelled Extraction"
-    path: chapter_drafts/part_2_urban_core/chapter_07_compelled_extraction.md
+    path: chapter_drafts/part_2_urban_core/chapter_08_compelled_extraction.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 9: Forced Decompression"
-    path: chapter_drafts/part_2_urban_core/chapter_08_forced_decompression.md
+    path: chapter_drafts/part_2_urban_core/chapter_09_forced_decompression.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 10: Behavioral Reconstitution"
-    path: chapter_drafts/part_2_urban_core/chapter_09_behavioral_reconstitution.md
+    path: chapter_drafts/part_2_urban_core/chapter_10_behavioral_reconstitution.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 11: The Velocity of Falling"
-    path: chapter_drafts/part_3_economic/chapter_08_eviction_velocity.md
+    path: chapter_drafts/part_3_economic/chapter_11_eviction_velocity.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 12: Preventing the Collapse"
-    path: chapter_drafts/part_3_economic/chapter_09_rapid_stabilization.md
+    path: chapter_drafts/part_3_economic/chapter_12_rapid_stabilization.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 13: Rapid Exit Protocol"
-    path: chapter_drafts/part_3_economic/chapter_10_rapid_exit_protocol.md
+    path: chapter_drafts/part_3_economic/chapter_13_rapid_exit_protocol.md
     skip_lines: 2
   - type: chapter
     heading: "Chapter 14: The Municipal Yield"
-    path: chapter_drafts/part_3_economic/chapter_11_municipal_yield.md
+    path: chapter_drafts/part_3_economic/chapter_14_municipal_yield.md
     skip_lines: 2
   - type: bibliography
     heading: "Citations and Sources"
     path: citations.md
+    skip_lines: 2
   - type: backmatter
     heading: "About the Author"
     path: about_the_author.md
+    skip_lines: 2

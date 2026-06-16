@@ -1,4 +1,4 @@
-# Chapter 9: The Stabilization Suite
+# Chapter 9: Forced Decompression
 
 The stabilization suite measured twelve feet by fourteen feet, designed with the clean, quiet comfort of a premium hotel. Behind smooth acoustic wall panels, an advanced environmental control system maintained the air at a steady sixty-eight degrees and forty percent relative humidity in silence. A private bathroom, equipped with a full bath and pre-set, regulated hot water, sat behind a sliding door. In the corner, a dedicated alcove with a cushioned floor pad stood ready for a resident's pet, accommodating the animal companion. Natural sunlight entered through a sealed, double-glazed window. A living wall of low-maintenance ferns and moss occupied the panel beside the bathroom door, part of the biophilic design specification that the MDI architecture required on every residential floor. A wall-mounted media screen, call buttons, an outbound telephone, and network access points provided connectivity and diversion. The room was not a cell. It was a medical sanctuary engineered to the biological specifications that street survival destroys.
 
