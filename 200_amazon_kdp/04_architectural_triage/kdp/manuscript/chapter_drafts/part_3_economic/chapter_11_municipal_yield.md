@@ -24,7 +24,7 @@ The supervisor reviewed his notes. "Let's look at performance. What's your recid
 
 The supervisor removed his glasses. "And Pipeline C?"
 
-"Pipeline C operates on a different clinical timeline. The conservatorship cohort requires long-term stabilization with no predetermined discharge date. Cost avoidance in that population is measured against emergency department utilization. Jenifer, our index case, generated nineteen paramedic transports in the twelve months before intake. She has generated zero since architectural containment."
+"Pipeline C operates on a different clinical timeline. The conservatorship cohort requires long-term stabilization with no predetermined discharge date. Cost avoidance in that population is measured against emergency department volume. Jenifer, our index case, generated nineteen paramedic transports in the twelve months before intake. She has generated zero since architectural containment."
 
 The supervisor at the far end of the dais leaned into his microphone. "But you are proposing a single engineering intervention for a crisis that is systemic. Homelessness is rooted in housing market failure, deindustrialization, structural racism, and psychiatric illness. How can a concrete tower, no matter how quiet, solve these deep structural problems? Isn't this just a technocratic silver bullet?"
 

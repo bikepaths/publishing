@@ -10,7 +10,7 @@ The workers kept exactly twenty meters of open water between themselves and the 
 
 This specific distance mattered. A traumatized brain processes any rapid, uninvited approach as a predatory attack. Traditional street outreach often fails because well-meaning workers march directly into a camp, armed with government forms, demanding identification and signatures. To a nervous system locked in survival mode, a clipboard is a threat. It demands compliance from a brain that is scanning for physical danger. 
 
-By staying across the river, the outreach team proved they were not a threat. They let Arthur set the pace of the interaction. By the fourth week, Arthur stopped hiding inside the dome. When he heard their boots crunch on the gravel, he stood at the edge of his mud island, one hand resting heavily on Buster's head. He didn't speak, but as the workers left the supplies, he offered a single, stiff nod. 
+By staying across the river, the outreach team proved they were not a threat. They let Arthur set the pace of the interaction. By the fourth week, Arthur stopped hiding inside the dome. When he heard their boots crunch on the gravel, he stood at the edge of his mud island, one hand resting on Buster's head. He didn't speak, but as the workers left the supplies, he offered a single, stiff nod. 
 
 "See you Thursday, Arthur," one of the workers called out, his voice calm and steady. "Keep the pup warm."
 
@@ -44,7 +44,7 @@ He didn't reach for Arthur. He reached for Buster.
 
 "Good boy," the worker yelled over the storm, clipping a second carabiner directly to the dog's collar. He gently guided the terrified animal through the water and hoisted him into the plastic veterinary crate on the bank. 
 
-When Arthur saw the heavy plastic door swing shut, locking Buster safely away from the lethal current, the biological paralysis broke. His chest heaved. He let the worker wrap a canvas harness around his shoulders. 
+When Arthur saw the heavy plastic door swing shut, locking Buster away from the lethal current, the biological paralysis broke. His chest heaved. He let the worker wrap a canvas harness around his shoulders. 
 
 "Pull!" the worker yelled. 
 
