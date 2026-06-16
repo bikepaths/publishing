@@ -2,7 +2,7 @@
 
 Ten months after the winter flood nearly drowned them in the Glendale Narrows, Arthur stood in the first-floor administrative office of Tower One. He wasn't wearing wet, muddy denim or plastic trash bags taped over his legs. He wore a clean, pressed button-down shirt and durable canvas work pants purchased with his own bicycle workshop earnings. 
 
-Across the desk, David, the pod steward from the eighth floor, grinned. Behind him stood the two outreach workers in blue jackets who had pulled Arthur from the riverbed. 
+Across the desk, David, the Peer Support Specialist and pod steward from the eighth floor, grinned. Behind him stood the two Peer Support Specialists who had pulled Arthur from the riverbed. 
 
 "You ready for this?" David asked. 
 
@@ -38,4 +38,4 @@ The Material Dignity Infrastructure reverses that broken sequence. By treating c
 
 Arthur stepped backward into the kitchen. He filled a clean stainless-steel bowl with fresh, cold water from the tap and set it on the floor for Buster. He closed the heavy back door, locked the deadbolt from the inside, and leaned against the wood. 
 
-The mechanical rescue was complete. The architectural intervention had worked. Arthur was home.
+The mechanical rescue was complete. The architectural intervention had worked. By signing his lease, Arthur achieved full economic stabilization. Next month, he becomes eligible for employment as a Peer Support Specialist, closing the systemic loop by turning his own survival into the credential required to extract the next cohort. Arthur was home.

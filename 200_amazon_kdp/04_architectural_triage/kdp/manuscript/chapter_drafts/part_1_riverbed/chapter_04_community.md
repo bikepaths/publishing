@@ -12,9 +12,9 @@ The human brain cannot maintain trust within massive crowds. Cognitive limits re
 
 Tower One’s architecture respected this strict biological limit. Rather than forcing hundreds of people into a single hall, the floor plan was partitioned into independent, self-governing pods. Pod Eight contained exactly one hundred and fifty-four people. 
 
-A tall man in a faded grey sweatshirt approached from the shared kitchen. He held a clipboard, but he didn't wear a plastic staff badge. He didn't carry himself with the stiff, detached authority of a security guard. 
+A tall man in a faded grey sweatshirt approached from the shared kitchen. He held a mobile tablet, but he didn't wear a plastic staff badge. He didn't carry himself with the stiff, detached authority of a security guard. 
 
-"I'm David," the man said, offering a warm smile. "I've got the suite right down the hall. I'm the pod steward this month."
+"I'm David," the man said, offering a warm smile. "I've got the suite right down the hall. I'm an employed Peer Support Specialist, and the pod steward this month."
 
 David handed Arthur a printed schedule for the shared kitchen. 
 
@@ -30,7 +30,7 @@ On the last Sunday of his third week, David knocked on his door at nine in the m
 
 "Pod Council. Common room. You should come."
 
-Arthur followed him down the hall and found fourteen residents seated in a rough circle of folding chairs and kitchen stools. No staff member occupied a chair. The meeting was chaired by a woman named Corazon who had a clipboard and a flat, businesslike manner. She worked through the agenda: the washing machine in unit three needed a new agitator belt, the communal pantry had run short of rice three times in the past month, and a new resident on the north end of the floor had been playing music after midnight and three neighbors had filed noise complaints. The group voted on each item by show of hands. Arthur voted twice. The decisions went into Corazon's clipboard. The meeting ended in forty minutes.
+Arthur followed him down the hall and found fourteen residents seated in a rough circle of folding chairs and kitchen stools. No staff member occupied a chair. The meeting was chaired by a woman named Corazon, a Peer Support Specialist, who carried a digital tablet and had a flat, businesslike manner. She worked through the agenda: the washing machine in unit three needed a new agitator belt, the communal pantry had run short of rice three times in the past month, and a new resident on the north end of the floor had been playing music after midnight and three neighbors had filed noise complaints. The group voted on each item by show of hands. Arthur voted twice. The decisions went into Corazon's tablet. The meeting ended in forty minutes.
 
 He walked back to his room and sat on the edge of the bed. What he had just experienced was not a therapy session or a compliance check. The Pod Council was a governance mechanism, functioning at the scale where each member's vote was visible and meaningful. In a two-hundred-person shelter, his absence would have gone unnoticed. On Pod Eight's one-hundred-fifty-four-person floor, Corazon had noted his name on the roster and nodded when he sat down. He was not a client receiving services. He was a citizen casting votes.
 

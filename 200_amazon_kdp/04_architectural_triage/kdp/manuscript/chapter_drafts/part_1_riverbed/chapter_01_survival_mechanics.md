@@ -50,7 +50,7 @@ Arthur tightened his grip on Buster’s collar. His heart hammered a frantic rhy
 
 But these figures didn't wear badges. They didn't have utility belts or sidearms. As the morning fog thinned, Arthur squinted through the gray light. 
 
-They carried clipboards. They wore bright blue, waterproof jackets. They did not shout orders through a megaphone. They stood looking down at the camp. 
+They carried backpacks. They wore neutral outdoor gear. They did not shout orders through a megaphone. They stood looking down at the camp, resting over the handlebars of two mountain bikes. 
 
 Slowly, carefully, the two figures began picking their way down the steep, slick concrete embankment, sliding sideways toward the water's edge. 
 

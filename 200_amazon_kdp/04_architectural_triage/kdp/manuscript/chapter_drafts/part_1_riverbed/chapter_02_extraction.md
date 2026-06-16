@@ -1,6 +1,6 @@
 # Chapter 2: Extraction
 
-Every Tuesday and Thursday, just as the morning commuter traffic on Interstate 5 began to thicken, two figures in bright blue waterproof jackets appeared on the concrete rim of the channel. They never carried bullhorns. They never shouted orders. They never carried the heavy, silver clipboards that usually signaled a county intake team. 
+Every Tuesday and Thursday, just as the morning commuter traffic on Interstate 5 began to thicken, an Assertive Community Treatment team of Peer Support Specialists arrived on mountain bikes along the concrete rim of the channel. They wore neutral outdoor gear. They never carried bullhorns. They never shouted orders. They used mobile audio transcription rather than the clipboards that usually signaled a county intake team. 
 
 They climbed halfway down the steep embankment, left a white paper bag on the dry concrete out of reach of the water, and retreated back to the rim. 
 

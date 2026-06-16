@@ -18,9 +18,9 @@ At 11:30 PM, a figure approached his passenger-side window on foot. The man knoc
 
 If he remained in this vehicle for six months, the chronic sleep deprivation and constant hyper-vigilance would physically rewire his nervous system, dragging him down the same neurological slope that had destroyed Jenifer's prefrontal cortex and locked Arthur into dorsal-vagal shutdown. Pipeline A becomes Pipeline B becomes Pipeline C. The degradation follows a strict biological schedule that no amount of personal resilience can override.
 
-At 2:00 AM, a municipal MDI intervention vehicle pulled alongside his sedan. The outreach workers recognized the heavy condensation on the inside of Marcus's windows, the universal signature of a human sleeping in a vehicle. In the winter months, intervention teams run systematic grid sweeps of supermarket lots, rest stops, and hospital parking structures, scanning for fogged glass after midnight.
+At 2:00 AM, an MDI Peer Support Specialist foot patrol swept the parking lot. The outreach workers recognized the heavy condensation on the inside of Marcus's windows, the universal signature of a human sleeping in a vehicle. In the winter months, intervention teams run systematic grid sweeps of supermarket lots, rest stops, and hospital parking structures, scanning for fogged glass after midnight.
 
-The lead worker stepped out of the van and approached the driver's side window. She did not carry a clipboard. She did not announce herself as county personnel or ask Marcus to step out of the vehicle. She tapped on the glass with two knuckles, waited for Marcus to crack the window, and held up an MDI digital intake tablet.
+The lead Peer Support Specialist approached the driver's side window. She did not carry a clipboard. She did not announce herself as county personnel or ask Marcus to step out of the vehicle. She tapped on the glass with two knuckles, waited for Marcus to crack the window, and held up an MDI digital intake tablet.
 
 The screen displayed a single, immediate offer: a secure, private room in Tower One, available right now. No waiting list. No intake questionnaire. No mandatory group counseling session. A digital keycard and a locked door, issued within thirty minutes of arrival.
 

@@ -168,7 +168,7 @@ Arthur tightened his grip on Buster’s collar. His heart hammered a frantic rhy
 
 But these figures didn't wear badges. They didn't have utility belts or sidearms. As the morning fog thinned, Arthur squinted through the gray light. 
 
-They carried clipboards. They wore bright blue, waterproof jackets. They did not shout orders through a megaphone. They stood looking down at the camp. 
+They carried backpacks. They wore neutral outdoor gear. They did not shout orders through a megaphone. They stood looking down at the camp, resting over the handlebars of two mountain bikes. 
 
 Slowly, carefully, the two figures began picking their way down the steep, slick concrete embankment, sliding sideways toward the water's edge. 
 
@@ -181,7 +181,7 @@ Arthur didn't know it yet, but this wasn't a sweep. This wasn't a sanitation cre
 # Chapter 3: Extraction
 
 
-Every Tuesday and Thursday, just as the morning commuter traffic on Interstate 5 began to thicken, two figures in bright blue waterproof jackets appeared on the concrete rim of the channel. They never carried bullhorns. They never shouted orders. They never carried the heavy, silver clipboards that usually signaled a county intake team. 
+Every Tuesday and Thursday, just as the morning commuter traffic on Interstate 5 began to thicken, an Assertive Community Treatment team of Peer Support Specialists arrived on mountain bikes along the concrete rim of the channel. They wore neutral outdoor gear. They never carried bullhorns. They never shouted orders. They used mobile audio transcription rather than the clipboards that usually signaled a county intake team. 
 
 They climbed halfway down the steep embankment, left a white paper bag on the dry concrete out of reach of the water, and retreated back to the rim. 
 
@@ -307,9 +307,9 @@ The human brain cannot maintain trust within massive crowds. Cognitive limits re
 
 Tower One’s architecture respected this strict biological limit. Rather than forcing hundreds of people into a single hall, the floor plan was partitioned into independent, self-governing pods. Pod Eight contained exactly one hundred and fifty-four people. 
 
-A tall man in a faded grey sweatshirt approached from the shared kitchen. He held a clipboard, but he didn't wear a plastic staff badge. He didn't carry himself with the stiff, detached authority of a security guard. 
+A tall man in a faded grey sweatshirt approached from the shared kitchen. He held a mobile tablet, but he didn't wear a plastic staff badge. He didn't carry himself with the stiff, detached authority of a security guard. 
 
-"I'm David," the man said, offering a warm smile. "I've got the suite right down the hall. I'm the pod steward this month."
+"I'm David," the man said, offering a warm smile. "I've got the suite right down the hall. I'm an employed Peer Support Specialist, and the pod steward this month."
 
 David handed Arthur a printed schedule for the shared kitchen. 
 
@@ -325,7 +325,7 @@ On the last Sunday of his third week, David knocked on his door at nine in the m
 
 "Pod Council. Common room. You should come."
 
-Arthur followed him down the hall and found fourteen residents seated in a rough circle of folding chairs and kitchen stools. No staff member occupied a chair. The meeting was chaired by a woman named Corazon who had a clipboard and a flat, businesslike manner. She worked through the agenda: the washing machine in unit three needed a new agitator belt, the communal pantry had run short of rice three times in the past month, and a new resident on the north end of the floor had been playing music after midnight and three neighbors had filed noise complaints. The group voted on each item by show of hands. Arthur voted twice. The decisions went into Corazon's clipboard. The meeting ended in forty minutes.
+Arthur followed him down the hall and found fourteen residents seated in a rough circle of folding chairs and kitchen stools. No staff member occupied a chair. The meeting was chaired by a woman named Corazon, a Peer Support Specialist, who carried a digital tablet and had a flat, businesslike manner. She worked through the agenda: the washing machine in unit three needed a new agitator belt, the communal pantry had run short of rice three times in the past month, and a new resident on the north end of the floor had been playing music after midnight and three neighbors had filed noise complaints. The group voted on each item by show of hands. Arthur voted twice. The decisions went into Corazon's tablet. The meeting ended in forty minutes.
 
 He walked back to his room and sat on the edge of the bed. What he had just experienced was not a therapy session or a compliance check. The Pod Council was a governance mechanism, functioning at the scale where each member's vote was visible and meaningful. In a two-hundred-person shelter, his absence would have gone unnoticed. On Pod Eight's one-hundred-fifty-four-person floor, Corazon had noted his name on the roster and nodded when he sat down. He was not a client receiving services. He was a citizen casting votes.
 
@@ -359,7 +359,7 @@ He was no longer just a resident receiving aid. He was a peer steward. He was a 
 
 Ten months after the winter flood nearly drowned them in the Glendale Narrows, Arthur stood in the first-floor administrative office of Tower One. He wasn't wearing wet, muddy denim or plastic trash bags taped over his legs. He wore a clean, pressed button-down shirt and durable canvas work pants purchased with his own bicycle workshop earnings. 
 
-Across the desk, David, the pod steward from the eighth floor, grinned. Behind him stood the two outreach workers in blue jackets who had pulled Arthur from the riverbed. 
+Across the desk, David, the Peer Support Specialist and pod steward from the eighth floor, grinned. Behind him stood the two Peer Support Specialists who had pulled Arthur from the riverbed. 
 
 "You ready for this?" David asked. 
 
@@ -395,7 +395,7 @@ The Material Dignity Infrastructure reverses that broken sequence. By treating c
 
 Arthur stepped backward into the kitchen. He filled a clean stainless-steel bowl with fresh, cold water from the tap and set it on the floor for Buster. He closed the heavy back door, locked the deadbolt from the inside, and leaned against the wood. 
 
-The mechanical rescue was complete. The architectural intervention had worked. Arthur was home.
+The mechanical rescue was complete. The architectural intervention had worked. By signing his lease, Arthur achieved full economic stabilization. Next month, he becomes eligible for employment as a Peer Support Specialist, closing the systemic loop by turning his own survival into the credential required to extract the next cohort. Arthur was home.
 
 
 
@@ -584,9 +584,9 @@ At 11:30 PM, a figure approached his passenger-side window on foot. The man knoc
 
 If he remained in this vehicle for six months, the chronic sleep deprivation and constant hyper-vigilance would physically rewire his nervous system, dragging him down the same neurological slope that had destroyed Jenifer's prefrontal cortex and locked Arthur into dorsal-vagal shutdown. Pipeline A becomes Pipeline B becomes Pipeline C. The degradation follows a strict biological schedule that no amount of personal resilience can override.
 
-At 2:00 AM, a municipal MDI intervention vehicle pulled alongside his sedan. The outreach workers recognized the heavy condensation on the inside of Marcus's windows, the universal signature of a human sleeping in a vehicle. In the winter months, intervention teams run systematic grid sweeps of supermarket lots, rest stops, and hospital parking structures, scanning for fogged glass after midnight.
+At 2:00 AM, an MDI Peer Support Specialist foot patrol swept the parking lot. The outreach workers recognized the heavy condensation on the inside of Marcus's windows, the universal signature of a human sleeping in a vehicle. In the winter months, intervention teams run systematic grid sweeps of supermarket lots, rest stops, and hospital parking structures, scanning for fogged glass after midnight.
 
-The lead worker stepped out of the van and approached the driver's side window. She did not carry a clipboard. She did not announce herself as county personnel or ask Marcus to step out of the vehicle. She tapped on the glass with two knuckles, waited for Marcus to crack the window, and held up an MDI digital intake tablet.
+The lead Peer Support Specialist approached the driver's side window. She did not carry a clipboard. She did not announce herself as county personnel or ask Marcus to step out of the vehicle. She tapped on the glass with two knuckles, waited for Marcus to crack the window, and held up an MDI digital intake tablet.
 
 The screen displayed a single, immediate offer: a secure, private room in Tower One, available right now. No waiting list. No intake questionnaire. No mandatory group counseling session. A digital keycard and a locked door, issued within thirty minutes of arrival.
 
