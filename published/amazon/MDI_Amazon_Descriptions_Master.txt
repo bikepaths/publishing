@@ -19,6 +19,8 @@ Volume 2, The Architecture of Survival, exposes the misaligned financial incenti
 
 Volume 3, The Moral Physics of Survival, constructs the philosophical and ethical foundation for this system, demonstrating how chronic street exposure destroys human cognitive agency and establishing the moral legitimacy of compelled clinical intervention.
 
+Volume 4, A Citizen's Guide to Ending Chronic Homelessness, translates the engineering and architectural frameworks of the MDI model into actionable civic mechanics, providing citizens with the strict protocols required to override localized veto power and force municipal implementation.
+
 This series is not an appeal to abstract compassion. It is a rigorous manual for civic leaders, economists, and urban developers seeking to replace municipal collapse with structural stability.
 
 
@@ -144,4 +146,57 @@ In this final volume of the series, you will discover:
 * The Legitimacy of Compelled Care: The ethical justification for removing individuals from self-destructive street exposure and placing them in clinical-housing environments.
 
 The Moral Physics of Survival is the philosophical capstone of the Material Dignity Infrastructure series. It bridges the gap between physical engineering, public policy, and moral law. The choice is not between compassion and coercion, but between survival and systemic abandonment.
+
+-----------------------------------------------------------------------------
+5. BOOK 4: A CITIZEN'S GUIDE TO ENDING CHRONIC HOMELESSNESS
+-----------------------------------------------------------------------------
+
+=== HTML VERSION (Copy and paste directly into KDP) ===
+<p><b>The legacy municipal response to chronic homelessness operates as a twenty-four billion dollar containment failure.</b> Reactive spending funds a continuous cycle of street exposure, police sweeps, and emergency room visits while producing zero durable reduction in the unsheltered population. This failure is a structural inevitability.</p>
+
+<p><i>Material Dignity Infrastructure: A Citizen's Guide to Ending Chronic Homelessness</i> translates the engineering and architectural frameworks of the MDI model into actionable civic mechanics. It provides citizens, policymakers, and urban planners with the precise protocols required to override localized veto power, convert abandoned commercial real estate into secure biological stabilization towers, and execute a permanent public utility model.</p>
+
+<p>Ending the crisis requires replacing abstract policy debates with strict industrial specifications.</p>
+
+<p><b>In this definitive operational guide, you will master:</b></p>
+<ul>
+<li><b>The Phase Zero Intake:</b> Why eliminating administrative compliance during the first seventy-two hours arrests metabolic collapse and secures biological stabilization.</li>
+<li><b>The Dunbar Metric:</b> How to engineer social trust and prevent violence by matching infrastructure density to human neurobiological tracking limits.</li>
+<li><b>Public Utility Classification:</b> The legal mechanism required to strip localized opposition of its veto power over critical public health installations.</li>
+<li><b>Commercial Real Estate Conversion:</b> How to identify distressed downtown office towers and leverage public datasets to map MDI structural deployment.</li>
+<li><b>The Institutional Waste Argument:</b> How to audit local budgets and weaponize municipal inefficiency to force capital redirection toward permanent physical solutions.</li>
+</ul>
+
+<p>This is not a theoretical proposal. It is a strict municipal playbook. The infrastructure exists. The biological mechanics are proven. The only missing variable is execution.</p>
+
+=== PLAIN TEXT VERSION (Copy and paste where HTML is not supported) ===
+The legacy municipal response to chronic homelessness operates as a twenty-four billion dollar containment failure. Reactive spending funds a continuous cycle of street exposure, police sweeps, and emergency room visits while producing zero durable reduction in the unsheltered population. This failure is a structural inevitability.
+
+Material Dignity Infrastructure: A Citizen's Guide to Ending Chronic Homelessness translates the engineering and architectural frameworks of the MDI model into actionable civic mechanics. It provides citizens, policymakers, and urban planners with the precise protocols required to override localized veto power, convert abandoned commercial real estate into secure biological stabilization towers, and execute a permanent public utility model.
+
+Ending the crisis requires replacing abstract policy debates with strict industrial specifications.
+
+In this definitive operational guide, you will master:
+* The Phase Zero Intake: Why eliminating administrative compliance during the first seventy-two hours arrests metabolic collapse and secures biological stabilization.
+* The Dunbar Metric: How to engineer social trust and prevent violence by matching infrastructure density to human neurobiological tracking limits.
+* Public Utility Classification: The legal mechanism required to strip localized opposition of its veto power over critical public health installations.
+* Commercial Real Estate Conversion: How to identify distressed downtown office towers and leverage public datasets to map MDI structural deployment.
+* The Institutional Waste Argument: How to audit local budgets and weaponize municipal inefficiency to force capital redirection toward permanent physical solutions.
+
+This is not a theoretical proposal. It is a strict municipal playbook. The infrastructure exists. The biological mechanics are proven. The only missing variable is execution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =============================================================================
