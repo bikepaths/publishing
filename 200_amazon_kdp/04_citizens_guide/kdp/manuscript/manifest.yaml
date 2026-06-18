@@ -1,0 +1,123 @@
+title: Material Dignity Infrastructure
+subtitle: A Citizen's Guide to Ending Chronic Homelessness
+author: Charles J. DiBella
+lang: en-US
+base_dir: .
+files:
+- type: copyright
+  path: copyright.md
+- type: frontmatter
+  heading: Author's Note
+  path: front_matter.md
+  skip_lines: 4
+- type: chapter
+  heading: 'Chapter 1: What Is Skid Row and How Did It Get There?'
+  path: chapter_drafts/Chapter_01.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 2: The Street as a Trauma Ward'
+  path: chapter_drafts/Chapter_02.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 3: Why Current Systems Fail'
+  path: chapter_drafts/Chapter_03.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 4: Who Is Actually on the Street?'
+  path: chapter_drafts/Chapter_04.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 5: The Human Body as a Physical System'
+  path: chapter_drafts/Chapter_05.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 6: Sleep Is Not a Luxury'
+  path: chapter_drafts/Chapter_06.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 7: Temperature and Thermodynamics'
+  path: chapter_drafts/Chapter_07.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 8: The Nutritional Imperative'
+  path: chapter_drafts/Chapter_08.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 9: The Contagion of Precarity'
+  path: chapter_drafts/Chapter_09.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 10: The Sovereign Isolation Requirement'
+  path: chapter_drafts/Chapter_10.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 11: The Pipeline C-Riparian Crisis'
+  path: chapter_drafts/Chapter_11.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 12: The Pipeline D Exemption'
+  path: chapter_drafts/Chapter_12.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 13: The Dunbar Metric'
+  path: chapter_drafts/Chapter_13.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 14: The Phase Zero Intake'
+  path: chapter_drafts/Chapter_14.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 15: Metabolic Stabilization'
+  path: chapter_drafts/Chapter_15.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 16: Legal Instruments for Compelled Care'
+  path: chapter_drafts/Chapter_16.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 17: Re-entry and Cycling'
+  path: chapter_drafts/Chapter_17.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 18: Upward Mobility'
+  path: chapter_drafts/Chapter_18.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 19: Federal Funding Streams'
+  path: chapter_drafts/Chapter_19.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 20: State Funding and Medicaid'
+  path: chapter_drafts/Chapter_20.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 21: Private Capital and Blended Finance'
+  path: chapter_drafts/Chapter_21.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 22: The Institutional Waste Argument'
+  path: chapter_drafts/Chapter_22.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 23: Ten Objections and Why They Fail'
+  path: chapter_drafts/Chapter_23.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 24: Riparian Encampments and Environmental Law'
+  path: chapter_drafts/Chapter_24.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 25: Comparative Models'
+  path: chapter_drafts/Chapter_25.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 26: Community, Opposition, and Democracy'
+  path: chapter_drafts/Chapter_26.md
+  skip_lines: 2
+- type: chapter
+  heading: 'Chapter 27: What Citizens Can Do'
+  path: chapter_drafts/Chapter_27.md
+  skip_lines: 2
+- type: bibliography
+  heading: Citations and Sources
+  path: citations.md

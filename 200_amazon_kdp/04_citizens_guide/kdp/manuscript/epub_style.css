@@ -1,0 +1,213 @@
+/* ============================================
+   Material Dignity Infrastructure Series
+   ePub 3 Stylesheet — Chicago/IDPF Compliant
+   Charles J. DiBella / Material Dignity Press
+   ============================================ */
+
+/* --- Reset and Base --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* --- Body and Base Typography --- */
+body {
+    font-family: 'Baskerville', 'Georgia', 'Times New Roman', serif;
+    font-size: 1.12em;
+    line-height: 1.75;
+    color: #1a1a1a;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -epub-hyphens: auto;
+    widows: 2;
+    orphans: 2;
+}
+
+/* --- Chapter Sections (epub:type="chapter") --- */
+section[epub\:type~="chapter"],
+section[epub\:type~="bodymatter"] {
+    margin: 0;
+    padding: 1em 0;
+}
+
+/* --- Headings --- */
+h1 {
+    font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
+    font-size: 1.43em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 2.2em; /* Spacious gap before chapter body text */
+    line-height: 1.25;
+    color: #111111;
+    break-before: page;
+    -webkit-break-before: page;
+    page-break-before: always;
+}
+
+/* Cover and title page: no page break before h1 */
+section[epub\:type~="cover"] h1,
+section[epub\:type~="titlepage"] h1,
+section[epub\:type~="frontmatter"] h1:first-child {
+    break-before: auto;
+    page-break-before: auto;
+}
+
+h2 {
+    font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
+    font-size: 0.85em;
+    font-weight: normal;
+    font-style: italic;
+    color: #555555;
+    margin-top: 0.1em;
+    margin-bottom: 2.5em;
+    text-align: left;
+}
+
+h3 {
+    font-family: 'Cinzel', 'Playfair Display', 'Baskerville', 'Georgia', serif;
+    font-size: 0.80em;
+    font-weight: bold;
+    color: #333333;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+}
+
+/* --- Paragraphs --- */
+p {
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-indent: 0;
+}
+
+/* If subtitle (h2) is present, pull it up close to title (h1) */
+h1 + h2 {
+    margin-top: -2.0em;
+}
+
+/* --- Section Rule / Ornamental Break --- */
+hr {
+    border: none;
+    border-top: 1px solid #cccccc;
+    margin: 2em auto;
+    width: 100%;
+}
+
+/* --- Copyright Page --- */
+section[epub\:type~="copyright-page"] p,
+.copyright-page p {
+    font-size: 0.82em;
+    line-height: 1.55;
+    color: #555555;
+    text-indent: 0;
+    margin-bottom: 0.6em;
+}
+
+/* --- Title Page --- */
+section[epub\:type~="titlepage"] {
+    text-align: center;
+    padding-top: 3em;
+}
+
+section[epub\:type~="titlepage"] h1 {
+    font-size: 1.78em;
+    text-align: center;
+    margin-bottom: 0.4em;
+}
+
+section[epub\:type~="titlepage"] p {
+    text-indent: 0;
+    text-align: center;
+    font-style: italic;
+    color: #444444;
+    margin-bottom: 0.5em;
+}
+
+/* --- Table of Contents --- */
+nav[epub\:type~="toc"] ol {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0;
+}
+
+nav[epub\:type~="toc"] li {
+    margin-bottom: 0.5em;
+    font-size: 0.95em;
+}
+
+nav[epub\:type~="toc"] a {
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+nav[epub\:type~="toc"] a:hover {
+    text-decoration: underline;
+}
+
+/* --- Bibliography / Citations --- */
+section[epub\:type~="bibliography"] p,
+.citations p,
+div.citations p {
+    font-size: 0.88em;
+    line-height: 1.6;
+    text-indent: -1.8em;
+    padding-left: 1.8em;
+    margin-bottom: 0.6em;
+    color: #222222;
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+/* Chapter sub-headings within bibliography */
+section[epub\:type~="bibliography"] h2,
+.citations h2,
+div.citations h2 {
+    font-size: 1em;
+    font-weight: bold;
+    font-style: normal;
+    color: #111111;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 0.2em;
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+/* Prevent orphans by keeping the entire chapter references block together */
+.citations section.level2,
+section[epub\:type~="bibliography"] section.level2 {
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+/* --- Block Quotes --- */
+blockquote {
+    margin: 1em 2em;
+    font-style: italic;
+    color: #333333;
+    border-left: 3px solid #cccccc;
+    padding-left: 1em;
+}
+
+blockquote p {
+    text-indent: 0;
+}
+
+/* --- Links --- */
+a {
+    color: #1a1a1a;
+    text-decoration: underline;
+}
+
+/* --- Accessibility: Skip nav, screen reader utilities --- */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+}
