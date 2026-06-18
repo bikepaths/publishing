@@ -8,14 +8,14 @@ Every new infrastructure model encounters resistance. Some resistance operates i
 *Answer:* Compulsion applies exclusively below the biological floor of cognitive agency. It targets a highly defined sub-population experiencing documented anosognosia. The system mandates strict judicial oversight and independent review. 
 
 **2. The Housing-Reductionist Objection**
-*Objection:* Housing First already provides the solution. Cities simply need to distribute independent apartments.
+*Objection:* Housing First already provides the solution. Cities need to distribute independent apartments.
 *Error:* This argument misapplies Housing First to a cohort for whom developers never designed it.
 *Answer:* Housing First demonstrates strong evidence for individuals possessing intact cognitive function. For the Pipeline C cohort experiencing profound neurological damage, Phase Zero stabilization serves as the biological prerequisite that Housing First assumes but cannot provide.
 
 **3. The Monolithic Cohort Objection**
 *Objection:* MDI restricts the agency of the unhoused population.
 *Error:* This argument treats a diverse administrative category as a uniform biological population. 
-*Answer:* MDI differentiates populations precisely. Pipeline A and B cohorts receive voluntary services. Pipeline D receives unconditional harm reduction while retaining absolute autonomy. Pipeline C receives intensive clinical support calibrated exactly to their neurological degradation.
+*Answer:* MDI differentiates populations precisely. Pipeline A and B cohorts receive voluntary services. Pipeline D receives unconditional harm reduction while retaining absolute autonomy. Pipeline C receives intensive clinical support calibrated to their neurological degradation.
 
 **4. The Fiscal Impossibility Objection**
 *Objection:* Municipalities cannot afford the capital cost of MDI installations.
@@ -35,12 +35,12 @@ Every new infrastructure model encounters resistance. Some resistance operates i
 **7. The Pseudoscience Objection**
 *Objection:* Applying thermodynamics to human dignity does not constitute real science.
 *Error:* This argument mistakes a conceptual framework for a formal equation.
-*Answer:* The thermodynamic framework operates as an analogical heuristic. The underlying biological evidence regarding HPA axis activation, cortisol toxicity, and prefrontal degradation stands entirely independent of the analogy.
+*Answer:* The thermodynamic framework operates as an analogical heuristic. The underlying biological evidence regarding HPA axis activation, cortisol toxicity, and prefrontal degradation stands independent of the analogy.
 
 **8. The Engineering Feasibility Objection**
 *Objection:* Municipal zoning and neighborhood opposition render the project impossible.
 *Error:* This argument accepts administrative barriers as permanent laws of physics.
-*Answer:* MDI seeks municipal utility classification. This classification accesses entirely different regulatory pathways than standard residential development. Public health infrastructure historically overcomes zoning barriers when sufficient political will mobilizes.
+*Answer:* MDI seeks municipal utility classification. This classification accesses different regulatory pathways than standard residential development. Public health infrastructure historically overcomes zoning barriers when sufficient political will mobilizes.
 
 **9. The Predator-Victim Binary Objection**
 *Objection:* Separating victims from predators oversimplifies the complex dynamics of street encampments.

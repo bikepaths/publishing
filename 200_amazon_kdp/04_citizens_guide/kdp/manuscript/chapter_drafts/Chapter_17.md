@@ -4,7 +4,7 @@ Clinical recovery operates exclusively as a non-linear process. The broader medi
 
 Material Dignity Infrastructure reorganizes this approach. MDI establishes the Re-entry Principle. Leaving a stabilization tower constitutes a recognized clinical cycle. It does not constitute a system failure. It does not represent a behavioral violation. The infrastructure anticipates departure and engineers a precise mechanism for return. 
 
-MDI utilizes a seven-day return window. When an individual leaves the facility and returns within seven days, the system routes them directly back into their established residential pod. They bypass the Phase Zero intake protocol. The system preserves their clinical history, their peer relationships, and their exact pod placement. The biological telemetry window remains active. The infrastructure absorbs the disruption without penalizing the resident. 
+MDI utilizes a seven-day return window. When an individual leaves the facility and returns within seven days, the system routes them directly back into their established residential pod. They bypass the Phase Zero intake protocol. The system preserves their clinical history, their peer relationships, and their pod placement. The biological telemetry window remains active. The infrastructure absorbs the disruption without penalizing the resident. 
 
 If an individual returns after the seven-day window expires, the system restarts standard triage protocols. The resident must re-enter Phase Zero. This requirement does not operate as a punishment. It operates as a strict clinical necessity. Seven days of street exposure alters the biological baseline. The nervous system absorbs new trauma, the metabolic floor degrades, and the individual requires fresh psychiatric assessment. 
 

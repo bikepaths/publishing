@@ -1,6 +1,6 @@
 # Chapter 12: The Pipeline D Exemption
 
-Consider a resident living in a customized recreational vehicle. The vehicle contains a functional solar array, a chemical toilet, and secure food storage. The resident maintains clear executive functioning, navigates daily logistics effectively, and actively chooses this mobile existence. This individual does not experience biological collapse. They experience poverty, but they do not experience metabolic precarity. 
+Consider a resident living in a customized recreational vehicle. The vehicle contains a functional solar array, a chemical toilet, and secure food storage. The resident maintains clear executive functioning, navigates daily logistics effectively, and chooses this mobile existence. This individual does not experience biological collapse. They experience poverty, but they do not experience metabolic precarity. 
 
 Municipal policy frequently fails to distinguish between poverty and precarity. Nomadic living constitutes a deliberate housing choice. Chronic street trauma constitutes a terminal metabolic collapse. Conflating these two distinct conditions produces disastrous legal and ethical outcomes. 
 
