@@ -1,0 +1,15 @@
+# Chapter 17: Re-entry and Cycling
+
+Clinical recovery operates exclusively as a non-linear process. The broader medical establishment accepts this reality unconditionally. Oncology protocols account for relapse. Cardiology assumes secondary events. Addiction medicine constructs its entire treatment architecture around cyclical recovery. Yet municipal homelessness policy remains one of the few fields treating a return to street conditions as an absolute institutional failure. When policy demands linear perfection from traumatized nervous systems, it guarantees mass eviction.
+
+Material Dignity Infrastructure reorganizes this approach. MDI establishes the Re-entry Principle. Leaving a stabilization tower constitutes a recognized clinical cycle. It does not constitute a system failure. It does not represent a behavioral violation. The infrastructure anticipates departure and engineers a precise mechanism for return. 
+
+MDI utilizes a seven-day return window. When an individual leaves the facility and returns within seven days, the system routes them directly back into their established residential pod. They bypass the Phase Zero intake protocol. The system preserves their clinical history, their peer relationships, and their exact pod placement. The biological telemetry window remains active. The infrastructure absorbs the disruption without penalizing the resident. 
+
+If an individual returns after the seven-day window expires, the system restarts standard triage protocols. The resident must re-enter Phase Zero. This requirement does not operate as a punishment. It operates as a strict clinical necessity. Seven days of street exposure alters the biological baseline. The nervous system absorbs new trauma, the metabolic floor degrades, and the individual requires fresh psychiatric assessment. 
+
+Tracking these cycles generates critical operational data. Re-entry patterns directly inform subsequent pod matching and clinical support intensity. A resident who cycles back to the street three times within six months requires a vastly different support configuration than a resident who cycles once every three years. Each cycle provides an opportunity to refine the environmental match. The system learns from the data rather than punishing the data source. 
+
+Within this framework, long-term residents become critical structural components. Individuals maintaining stability within a Dunbar Pod for multiple years serve as cohesion anchors. They model emotional regulation and enforce peer accountability for newly stabilized residents. The system treats their tenure as a clinical asset rather than a municipal burden. 
+
+A public utility that cannot process cyclical failure cannot serve traumatized populations. Designing a system around the expectation of linear recovery constitutes architectural malpractice. Material Dignity Infrastructure integrates cycling as an expected biological reality. The system bends to accommodate human biology. It refuses to break human beings who fail to meet rigid administrative timelines.

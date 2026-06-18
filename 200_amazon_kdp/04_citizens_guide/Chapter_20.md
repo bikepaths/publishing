@@ -1,0 +1,13 @@
+# Chapter 20: State Funding and Medicaid
+
+California utilizes the CalAIM program to execute the most ambitious state-level intervention in the country. CalAIM explicitly authorizes the use of Medicaid funding for housing-adjacent services. The program demonstrates the exact mechanism required to treat chronic homelessness as a public health crisis rather than a municipal nuisance. 
+
+This mechanism relies entirely on the federal Medicaid Section 1115 Waiver framework. The 1115 Waiver allows states to request federal approval to use Medicaid funds for experimental pilot programs. Through this waiver, a state can finance clinical services not traditionally covered under standard health plans. CalAIM functions as California's specific implementation of this federal tool. Any state can pursue an equivalent waiver structure. The Material Dignity Infrastructure billing architecture generalizes to the federal Medicaid framework rather than relying exclusively on California's specific implementation layer. 
+
+Within the CalAIM structure, MDI accesses two primary operational revenue streams. First, the Enhanced Care Management provision generates billable revenue immediately upon a resident achieving metabolic clearance. Second, the In Lieu of Services provision generates sustained billing for retaining that resident within supportive housing beyond the initial thirty-day window. These provisions transform clinical stability into a reliable financial asset for the facility. 
+
+Integrating this revenue requires a strict billing integrity requirement. A facility cannot allow financial incentives to drive clinical decisions. MDI utilizes a dual-trigger alert system to monitor this boundary. If a resident requires re-entry to the Phase Zero intake unit, the facility loses the In Lieu of Services retention billing. The system must prevent administrators from delaying a necessary clinical re-entry simply to protect a revenue stream. Clinical necessity must always supersede billing state. 
+
+Beyond operational revenue, states provide critical capital injections to supplement federal equity. California authorizes infrastructure bonds through Proposition 1, the No Place Like Home program, and CARE Act funding. This state-level capital fills the structural gaps left by federal Low Income Housing Tax Credits. 
+
+By leveraging the 1115 Waiver framework, a state reclassifies the crisis. The state stops viewing the chronically unhoused population as a localized policing problem. The state begins treating the population as a federally subsidized healthcare cohort. This reclassification unlocks the sustained revenue streams required to operate an MDI facility permanently.
