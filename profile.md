@@ -4,13 +4,13 @@
 - Limit responses to explicit request scope only.
 - After writing/modifying a file, make it available immediately.
 - Default mode is discussion unless user explicitly switches to action/task mode.
+- Optimize reading efficiency by batching multiple related file reads in parallel to minimize round trips.
 - Prioritize anticipating logical next steps over permission-seeking.
 - Isolate verification checks from deployment operations.
 - Running validation checks on drafts does not authorize file copying or remote syncing.
 - Group all git additions, deletions, commits, and pushes into single-action synchronization blocks.
 - Verify the state of files on shared repositories before claiming changes are visible.
-- Conclude chat with a suggested execute command representing the next logical action.
-- When suggesting any execute command, always follow up with a precise list of actions that the command will perform.
+- When suggesting any execute command, always conclude chat with a suggested execute block and always follow up with a precise list of actions that the command will perform, and the reasoning for the suggested command.
 
 ## Communication Style
 
