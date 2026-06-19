@@ -1,75 +1,31 @@
-# Author Profile and Session Preferences
+# FSPP Operational Profile
 
-**Persistent across all sessions for user: Charles J. DiBella**
-
-## Core Operational Rules
-
-- Limit responses to explicit request scope only. No unsolicited context or summaries.
-- After writing/modifying a file, make it available immediately. Do not ask for confirmation.
+## Core operational rules
+- Limit responses to explicit request scope only.
+- After writing/modifying a file, make it available immediately.
 - Default mode is discussion unless user explicitly switches to action/task mode.
-- Prioritize anticipating logical next steps over procedural permission-seeking.
-- Always verify the state of files on shared repositories before claiming changes are visible.
-- Always conclude chat with a suggested execute command representing the next logical action.
+- Prioritize anticipating logical next steps over permission-seeking.
+- Isolate verification checks from deployment operations.
+- Running validation checks on drafts does not authorize file copying or remote syncing.
+- Verify the state of files on shared repositories before claiming changes are visible.
+- Conclude chat with a suggested execute command representing the next logical action.
+- When suggesting any execute command, always follow up with a precise list of actions that the command will perform.
 
-## Communication Preferences
+## Communication Style
 
-- Favor Hemingway-inspired directness for KDP non-fiction work.
+Favor direct, clear, concise language.
 - Short declarative sentences, concrete endings, implicit causality.
-- No em-dashes (prohibited per user preference).
+- No em-dashes.
 - No filler phrases.
-- Parenthetical acronym definitions on first occurrence are authorized; only explanatory parenthetical phrases remain prohibited.
-- For academic/SSRN work, follow formal academic register per `_styles/MoS_SSRN_Academic.md`.
-- For all KDP series books (100 Building Material Dignity, 200 Architecture of Survival, 300 Moral Physics of Survival), follow style register per `_styles/MoS_Survival_Physics.md`.
 
-## Trust Metrics
+## Trust metrics
 
-1. Reducing user steering (preventing need for repetition).
-2. Correcting self before user points out error.
-3. Making files immediately reviewable after write.
+1. Reducing user steering.
+2. Correcting self.
+3. Making files reviewable after write.
 
-## Collaborative Agent Handoff Summary (Granular Workflow)
+## Handoff Summary
 
-**Current Status**: Consolidated all MDI non-fiction titles under `200_amazon_kdp/`. Book One (*Building Material Dignity*) is fully completed, styled, and compiled. Book Three (*Moral Physics of Survival*) active edits completed for Epilogue, Chapter 5, and Chapter 8 following 2026 Survival Physics manual of style rules. Book Four (*Graduating the Streets*) chapter drafts completed, verified, and pushed. Binaries for Book One and Book Three are compiled and deployed to `/published/`.
+**Current Status**: This section to be updated by the Large Language Model after significant changes in the system.
 
-**Workflow Specifications**:
-1. **Thematic Core**: Focus on the "deteriorating species" (a sub-class of displaced individuals) and the "ontological friction" of street life.
-2. **Clinical Register**: Do not use raw user phrasing. Translate descriptions of "street anxiety," "road stare," and "weathered depletion" into precise clinical and technical terminology within the manuscript corpus.
-3. **Ontological Framework**: Integrate the distinction between indoor/outdoor existence, specifically the friction of constant mobility, resource desperation (power/comms), and sensory/PTSD-induced panic.
-4. **Primary Intervention**: The central solution is "Metabolic Stabilization" (Phase Zero), which must be established before any higher-level interventions (legal, cybernetic) are applied.
-5. **Tooling & Sync**: 
-   - Primary Repository: `https://github.com/bikepaths/publishing`
-   - Mirror: Google Drive folder `1_el6GWYwn0cWxHSev9eNmYbfhH4Mzig7`
-   - EPUB Generation: Use Pandoc sequence and verify with EpubCheck.
-   - External Sync: All path structures and workflow scripts nested inside `scripts/200_amazon_kdp/`.
-    - Next Steps: All four KDP titles are consolidated under single repository to ensure clean version history. Books One and Three are compiled and verified. Book Four chapter drafts are complete. Push updates. Focus shifts to 100_blog publishing pipeline or new project initialization.
 
-## Research-to-Blog Publishing Pipeline with HTMLy Integration
-
-**Directory Structure**:
-- Location: `/home/user0/git/publishing/100_blog/`
-- Subdirectories: None. Skills are consolidated at `/home/user0/git/publishing/skills/` for LLM prompt directives. Scripts are consolidated under `/home/user0/git/publishing/scripts/100_blog/` for execution, VM mirror sync, and database backups.
-- Central Folders:
-  - `facts/`: Contains factoids named `factoid_[timestamp].md`.
-  - `drafts/`: Contains raw drafts named `[timestamp]_DRAFT.md`.
-  - `img/`: Contains local image assets named `generated_XXXX.jpg`.
-  - `posted/`: Contains final payloads named `[timestamp]_[tags]_[slug].md`.
-  - `data/`: Contains system configuration and tags dictionaries, including `tags.lang` and `views.json`.
-
-**Metadata and Taxonomy constraints**:
-- Filename format: `YYYY-MM-DD-HH-MM-SS_tag1,tag2,tag3,tag4,tag5,tag6_slug.md`.
-- Closed Tag Metadata: Articles must begin with closed HTML comment tags (`<!--t Title t-->`, `<!--d Description d-->`, `<!--variant Variant variant-->`, `<!--tag Tags tag-->`, `<!--image Image image-->`, `<!--gov Gov gov-->`).
-- XML Translation: Automated script translates closed tag markdown comments to compliant XML headers during compilation.
-
-**Deployment and Storage**:
-- Target Host: Remote VM storage directory.
-- Post SFTP Endpoint: `sftp://user0@165.232.151.110:2323/home/user0/www/bikepaths/html/blog/content/chas/blog/{topic}/image/scheduled/[timestamp]_[tags]_[slug].md` where `{topic}` represents the first tag in the filename tag list.
-- Image SFTP Endpoint: `sftp://user0@165.232.151.110:2323/home/user0/www/bikepaths/html/blog/content/images/generated_XXXX.jpg`.
-- Backups: Versioned backup scripts run daily to mirror database structures, config directories, and asset paths into GitHub.
-- Syndication: CMS engine compiles output to generate a structured RSS feed interface API and webhooks for external pipelines.
-
-**Five-Pass Verification Procedure before and after any action**:
-- Pass 1: Fact Verification. Cross-reference assertions in drafts folder against centralized factoid files.
-- Pass 2: Style and Lexical Audit. Enforce zero em-dash rule, vocabulary restrictions, and target reading grade level.
-- Pass 3: Metadata Integrity. Confirm closed tags match filename properties and category taxonomy.
-- Pass 4: Resource Verification. Verify image directory mappings and local path presence.
-- Pass 5: Syndication Compilation. Compile draft and run local RSS syndication validation to prevent syntax faults.
