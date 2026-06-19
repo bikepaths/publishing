@@ -47,12 +47,24 @@ def main():
     body_content = "".join(body_lines).strip()
     
     slug = slugify(title)
-    timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
-    post_filename = f"{timestamp}_{','.join(tags)}_{slug}.md"
     
     # Target post file local path
     blog_dir = "/home/user0/git/publishing/100_blog"
-    post_local_path = os.path.join(blog_dir, "03_posted", post_filename)
+    posted_dir = os.path.join(blog_dir, "03_posted")
+    
+    # Check for existing post with same slug to prevent duplicate timestamps
+    existing_files = []
+    if os.path.exists(posted_dir):
+        existing_files = [f for f in os.listdir(posted_dir) if f.endswith(f"_{slug}.md")]
+        
+    if existing_files:
+        post_filename = existing_files[0]
+        print(f"Reusing existing post file to prevent duplicates: {post_filename}")
+    else:
+        timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+        post_filename = f"{timestamp}_{','.join(tags)}_{slug}.md"
+        
+    post_local_path = os.path.join(posted_dir, post_filename)
     
     # Image name logic (prefix with first two tags)
     prefix = "_".join(tags[:2]) if len(tags) >= 2 else tags[0]
