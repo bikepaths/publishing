@@ -8,7 +8,7 @@ def compile_docx(md_path, docx_path):
     print(f"Compiled DOCX: {docx_path}")
 
 def main():
-    jsdh_dir = "/home/user0/git/publishing/networking/jsdh"
+    jsdh_dir = "/home/user0/git/publishing/300_working_papers/310_moral_physics_wp5/v1"
     draft_path = os.path.join(jsdh_dir, "manuscript_draft.md")
     
     with open(draft_path, "r", encoding="utf-8") as f:

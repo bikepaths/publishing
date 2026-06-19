@@ -10,7 +10,7 @@
 - Running validation checks on drafts does not authorize file copying or remote syncing.
 - Group all git additions, deletions, commits, and pushes into single-action synchronization blocks.
 - Verify the state of files on shared repositories before claiming changes are visible.
-- When suggesting any execute command, always conclude chat with a suggested execute block and always follow up with a precise list of actions that the command will perform, and the reasoning for the suggested command.
+- Always conclude chat with block delineator "=======", then follow up with a precise list of suggested actions to perform, the reasoning for the suggested actions, and the command to EXECUTE the actions.
 
 ## Communication Style
 

@@ -28,7 +28,7 @@ if [[ -z "$IMAGE_VAL" ]]; then
 fi
 
 IMAGE_NAME=$(basename "$IMAGE_VAL")
-LOCAL_IMAGE_PATH="${BLOG_DIR}/img/${IMAGE_NAME}"
+LOCAL_IMAGE_PATH="${BLOG_DIR}/05_img/${IMAGE_NAME}"
 
 if [[ ! -f "$LOCAL_IMAGE_PATH" ]]; then
   echo "Error: local image file ${LOCAL_IMAGE_PATH} not found."

@@ -1,16 +1,19 @@
-# Repository safeguards
+# FSPP (Full Spectrum Publishing Pipeline)
 
-## Pre‑push verification
+Repository functions as unified system that consolidates three publishing streams into one master repository. Sysop operates workspace for extended re-discovery.
 
-A **pre‑push hook** is provided to guarantee that any file we claim to be live on GitHub actually exists on the remote before the push completes.
+## Unified Directory Architecture
 
-1. The verification script lives at `scripts/pre-push`.
-2. To enable the hook locally run:
-   ```bash
-   git config core.hooksPath scripts
-   chmod +x scripts/pre-push
-   ```
-   This makes Git automatically use `scripts/pre-push` as the `pre‑push` hook.
-3. The hook aborts the push if any added or modified file returns an HTTP 200 error when fetched from `https://raw.githubusercontent.com/`.
+- **100_blog**: Micro-blogging platform that generates and deploys articles.
+- **200_amazon_kdp**: Amazon Kindle Direct Publishing non-fiction series management.
+- **300_working_papers**: Academic research and working papers management.
 
-The CI workflow (`.github/workflows/kdp_style_check.yml`) also runs this check on every push for an extra safety net.
+## Operational Framework
+
+- **scripts**: Directory contains pre-push verification hook. Hook intercepts and blocks commits failing remote HTTP checks before pushing changes to origin. Nested folders manage database backups, KDP synchronization workflows, and other automated routines.
+- **_styles**: Directory houses semantic registers that dictate style and formatting rules.
+- **profile.md**: File defines operational parameters that enforce specified terminology, syntax, and punctuation rules.
+
+## Development Cycle
+
+Current development cycle prioritizes unified pipeline execution or new project initialization.

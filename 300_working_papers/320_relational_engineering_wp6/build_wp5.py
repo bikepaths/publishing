@@ -1,8 +1,8 @@
 import os
 import re
 
-research_dir = "/home/user0/git/publishing/220_relational_engineering_wp5/research"
-out_path = "/home/user0/git/publishing/220_relational_engineering_wp5/WP5_Working_Paper.tex"
+research_dir = "/home/user0/git/publishing/300_working_papers/320_relational_engineering_wp6/research"
+out_path = "/home/user0/git/publishing/300_working_papers/320_relational_engineering_wp6/WP5_Working_Paper.tex"
 
 # Read compiled mechanics
 with open(f"{research_dir}/03_compiled_operational_mechanics.md", "r") as f:

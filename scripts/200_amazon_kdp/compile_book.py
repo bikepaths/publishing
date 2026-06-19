@@ -48,9 +48,9 @@ BOOKS = {
         "epub_title": "The Moral Physics of Survival"
     },
     4: {
-        "dir_name": "04_architectural_triage",
-        "output_name": "architectural_triage",
-        "epub_title": "Architectural Triage: Stabilizing Street Exposure Biology Across Three Demographic Pipelines"
+        "dir_name": "04_citizens_guide",
+        "output_name": "citizens_guide",
+        "epub_title": "Material Dignity Infrastructure: A Citizen's Guide to Ending Chronic Homelessness"
     }
 }
 

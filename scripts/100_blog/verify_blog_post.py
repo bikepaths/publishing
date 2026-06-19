@@ -202,7 +202,7 @@ def verify_file(filepath):
 
     # Load tags.lang for validation of additional tags
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    tags_file = os.path.join(os.path.dirname(os.path.dirname(script_dir)), "100_blog", "data", "tags.lang")
+    tags_file = os.path.join(os.path.dirname(os.path.dirname(script_dir)), "100_blog", "06_data", "tags.lang")
     allowed_tags = set()
     if os.path.isfile(tags_file):
         with open(tags_file, "r", encoding="utf-8", errors="ignore") as f:
@@ -259,7 +259,7 @@ def verify_file(filepath):
         print(f"[PASS] Pass 4: Resource path verified against remote URL: {image_val}.")
     else:
         image_filename = os.path.basename(image_val)
-        local_img_dir = os.path.join(blog_dir, "img")
+        local_img_dir = os.path.join(blog_dir, "05_img")
         local_image_path = os.path.join(local_img_dir, image_filename)
 
         if not os.path.isfile(local_image_path):

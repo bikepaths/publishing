@@ -73,7 +73,7 @@ def download_and_create_raw(filename):
     if t_text or d_text:
         body_content = f"Legacy Title: {t_text}\nLegacy Description: {d_text}\n\n{body_content}".strip()
 
-    raw_path = os.path.join(blog_dir, "draft", f"{timestamp}_RAW.md")
+    raw_path = os.path.join(blog_dir, "02_draft", f"{timestamp}_RAW.md")
     
     raw_content = f"<!--original_filename {filename} original_filename-->\n<!--original_image_link {image_link} original_image_link-->\n{body_content}\n"
 
@@ -131,7 +131,7 @@ def generate_draft(raw_file):
         slug = re.sub(r'-+', '-', slug).strip("-")
 
     blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(raw_file)))
-    draft_path = os.path.join(blog_dir, "draft", f"{timestamp}_{slug}_DRAFT.md")
+    draft_path = os.path.join(blog_dir, "02_draft", f"{timestamp}_{slug}_DRAFT.md")
 
     print("Initiating autonomous narrative synthesis via OpenRouter API...")
     
@@ -179,7 +179,7 @@ def deploy_and_cleanup(posted_file):
 
     RE-DEPLOYMENT PROTOCOL:
     To update or redeploy an existing scheduled remote post:
-    1. Download the target post from the remote scheduled folder to the local 'draft' folder.
+    1. Download the target post from the remote scheduled folder to the local '02_draft' folder.
     2. Delete the remote scheduled file using ssh to prevent duplicate entries.
     3. Modify the local draft file to apply edits.
     4. Run this deployment script with --deploy pointing to the edited local draft path.
@@ -230,7 +230,7 @@ def deploy_and_cleanup(posted_file):
     image_val = metadata["image"]
     is_remote_image = image_val.startswith("http://") or image_val.startswith("https://")
     image_filename = os.path.basename(image_val)
-    local_image_path = os.path.join(blog_dir, "img", image_filename)
+    local_image_path = os.path.join(blog_dir, "05_img", image_filename)
 
     if not is_remote_image and not os.path.isfile(local_image_path):
         print(f"Error: local image {local_image_path} not found.")
@@ -274,7 +274,7 @@ def deploy_and_cleanup(posted_file):
             print(f"Error uploading image: {err}")
             return False
 
-    final_posted_path = os.path.join(blog_dir, "posted", filename)
+    final_posted_path = os.path.join(blog_dir, "03_posted", filename)
     if os.path.dirname(os.path.abspath(posted_file)) != os.path.dirname(os.path.abspath(final_posted_path)):
         try:
             os.rename(posted_file, final_posted_path)
@@ -283,7 +283,7 @@ def deploy_and_cleanup(posted_file):
             print(f"Error moving staged file: {err}")
             return False
 
-    raw_path = os.path.join(blog_dir, "draft", f"{timestamp}_RAW.md")
+    raw_path = os.path.join(blog_dir, "02_draft", f"{timestamp}_RAW.md")
     
     orig_filename = None
     if os.path.isfile(raw_path):
@@ -307,8 +307,8 @@ def deploy_and_cleanup(posted_file):
 
     import glob
     draft_patterns = [
-        os.path.join(blog_dir, "draft", f"{timestamp}_*_DRAFT.md"),
-        os.path.join(blog_dir, "draft", f"{timestamp}_DRAFT.md"),
+        os.path.join(blog_dir, "02_draft", f"{timestamp}_*_DRAFT.md"),
+        os.path.join(blog_dir, "02_draft", f"{timestamp}_DRAFT.md"),
         os.path.join(blog_dir, "drafts", f"{timestamp}_*_DRAFT.md"),
         os.path.join(blog_dir, "drafts", f"{timestamp}_DRAFT.md")
     ]
@@ -459,7 +459,7 @@ def promote_draft(draft_file):
     factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")
     
     slug = None
-    raw_path = os.path.join(blog_dir, "draft", f"{timestamp}_RAW.md")
+    raw_path = os.path.join(blog_dir, "02_draft", f"{timestamp}_RAW.md")
     if os.path.isfile(raw_path):
         with open(raw_path, "r", encoding="utf-8") as f:
             raw_content = f.read()
@@ -482,7 +482,7 @@ def promote_draft(draft_file):
         return None
 
     posted_filename = f"{timestamp}_{tags}_{slug}.md"
-    staging_path = os.path.join(blog_dir, "draft", posted_filename)
+    staging_path = os.path.join(blog_dir, "02_draft", posted_filename)
     
     with open(staging_path, "w", encoding="utf-8") as f:
         f.write(content)
@@ -509,7 +509,7 @@ if __name__ == "__main__":
         generate_draft(args.draft)
     elif args.deploy:
         target_file = args.deploy
-        if target_file.endswith("_DRAFT.md") or "drafts" in target_file or "/draft/" in target_file:
+        if target_file.endswith("_DRAFT.md") or "drafts" in target_file or "/02_draft/" in target_file:
             posted_file = promote_draft(target_file)
             if posted_file:
                 deploy_and_cleanup(posted_file)
