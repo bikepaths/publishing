@@ -1,0 +1,11 @@
+title: Fixing Skid Row
+subtitle: How Urban Design Can End Chronic Homelessness
+author: Charles J. DiBella
+lang: en-US
+cover-image: 04_cover.png
+base_dir: .
+files:
+- type: copyright
+  path: copyright.md
+- type: raw
+  path: Fixing_Skid_Row_DiBella.md

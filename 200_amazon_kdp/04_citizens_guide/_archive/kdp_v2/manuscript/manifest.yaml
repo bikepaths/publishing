@@ -1,0 +1,10 @@
+title: "Fixing Skid Row: How Urban Design Can End Chronic Homelessness"
+subtitle: "A Citizen's Guide to Housing Policy, Building Conversion, and the Science of Human Survival"
+author: Charles J. DiBella
+lang: en-US
+base_dir: .
+files:
+- type: copyright
+  path: copyright.md
+- type: raw
+  path: Fixing_Skid_Row_DiBella.md

@@ -49,8 +49,8 @@ BOOKS = {
     },
     4: {
         "dir_name": "04_citizens_guide",
-        "output_name": "citizens_guide",
-        "epub_title": "Material Dignity Infrastructure: A Citizen's Guide to Ending Chronic Homelessness"
+        "output_name": "fixing_skid_row",
+        "epub_title": "Fixing Skid Row: How Urban Design Can End Chronic Homelessness"
     }
 }
 
@@ -239,9 +239,14 @@ def main():
     book_root = workspace_root / "200_amazon_kdp" / book_info["dir_name"]
     kdp_dir = book_root / "kdp"
     
-    # Support Book One flat directory structure if it is not yet fully migrated to kdp/ subfolders
+    # Support versioned directory structures: kdp_v2 > kdp_v1 > flat
     if not kdp_dir.exists():
-        kdp_dir = book_root
+        if (book_root / "kdp_v2").exists():
+            kdp_dir = book_root / "kdp_v2"
+        elif (book_root / "kdp_v1").exists():
+            kdp_dir = book_root / "kdp_v1"
+        else:
+            kdp_dir = book_root
         
     manuscript_dir = kdp_dir / "manuscript"
     handoff_dir = kdp_dir / "handoff"
@@ -304,8 +309,8 @@ def main():
             "--to", "epub3",
             "--output", str(epub_out_path),
             "--toc",
-            "--toc-depth=1",
-            "--split-level=1",
+            "--toc-depth=2",
+            "--split-level=2",
             "--metadata", f"title={book_info['epub_title']}",
             "--metadata", f"author={manifest.get('author', 'Charles J. DiBella')}",
             "--metadata", f"lang={manifest.get('lang', 'en-US')}"

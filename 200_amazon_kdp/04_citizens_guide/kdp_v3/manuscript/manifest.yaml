@@ -1,0 +1,159 @@
+title: "Fixing Skid Row: How Urban Design Can End Chronic Homelessness"
+subtitle: "A Citizen's Guide to Housing Policy, Building Conversion, and the Science of Human Survival"
+author: "Charles J. DiBella"
+lang: "en-US"
+base_dir: "."
+files:
+  - type: copyright
+    path: copyright.md
+  - type: frontmatter
+    heading: "Author's Note"
+    path: front_matter.md
+    skip_lines: 4
+  - type: frontmatter
+    heading: "Foreword"
+    path: chapter_drafts/00_foreword.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Unit One — The Problem"
+    path: chapter_drafts/unit_01_the_problem.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 1: What Is Skid Row and How Did It Get There?"
+    path: chapter_drafts/chapter_01_what_is_skid_row.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 2: The Street as a Trauma Ward"
+    path: chapter_drafts/chapter_02_the_street_as_trauma_ward.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 3: Why Current Systems Fail"
+    path: chapter_drafts/chapter_03_why_current_systems_fail.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 4: Who Is Actually on the Street?"
+    path: chapter_drafts/chapter_04_who_is_actually_on_the_street.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Unit Two — The Science"
+    path: chapter_drafts/unit_02_the_science.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 5: The Human Body as a Physical System"
+    path: chapter_drafts/chapter_05_the_human_body_as_a_physical_system.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 6: Sleep Is Not a Luxury"
+    path: chapter_drafts/chapter_06_sleep_is_not_a_luxury.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 7: The Capability Approach"
+    path: chapter_drafts/chapter_07_the_capability_approach.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Unit Three — The Physical Solution"
+    path: chapter_drafts/unit_03_the_physical_solution.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 8: Distressed Commercial Real Estate as Infrastructure"
+    path: chapter_drafts/chapter_08_distressed_commercial_real_estate.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 9: The Vertical Stabilization Tower"
+    path: chapter_drafts/chapter_09_the_vertical_stabilization_tower.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 10: The Sanitation Pod"
+    path: chapter_drafts/chapter_10_the_sanitation_pod.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 11: Dunbar's Number and the Science of Community"
+    path: chapter_drafts/chapter_11_dunbars_number.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 12: Automated Maintenance and Human Dignity"
+    path: chapter_drafts/chapter_12_automated_maintenance.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Unit Four — The Human Pipeline"
+    path: chapter_drafts/unit_04_the_human_pipeline.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 13: Field Engagement and the Warm Offer"
+    path: chapter_drafts/chapter_13_field_engagement.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 14: Phase Zero — The Unconditional Entry"
+    path: chapter_drafts/chapter_14_phase_zero.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 15: Metabolic Stabilization"
+    path: chapter_drafts/chapter_15_metabolic_stabilization.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 16: Legal Instruments for Compelled Care"
+    path: chapter_drafts/chapter_16_legal_instruments.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 17: Re-entry and Cycling"
+    path: chapter_drafts/chapter_17_reentry_and_cycling.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 18: Upward Mobility"
+    path: chapter_drafts/chapter_18_upward_mobility.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Unit Five — The Funding Architecture"
+    path: chapter_drafts/unit_05_the_funding_architecture.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 19: Federal Funding Streams"
+    path: chapter_drafts/chapter_19_federal_funding_streams.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 20: State Funding and Medicaid"
+    path: chapter_drafts/chapter_20_state_funding_and_medicaid.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 21: Private Capital and Blended Finance"
+    path: chapter_drafts/chapter_21_private_capital.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 22: The Institutional Waste Argument"
+    path: chapter_drafts/chapter_22_institutional_waste.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Unit Six — Objections and Answers"
+    path: chapter_drafts/unit_06_objections_and_answers.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 23: Ten Objections and Why They Fail"
+    path: chapter_drafts/chapter_23_ten_objections.md
+    skip_lines: 2
+  - type: frontmatter
+    heading: "Unit Seven — Making It Happen"
+    path: chapter_drafts/unit_07_making_it_happen.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 24: Riparian Encampments and Environmental Law"
+    path: chapter_drafts/chapter_24_riparian_encampments.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 25: Comparative Models"
+    path: chapter_drafts/chapter_25_comparative_models.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 26: Community, Opposition, and Democracy"
+    path: chapter_drafts/chapter_26_community_opposition_democracy.md
+    skip_lines: 2
+  - type: chapter
+    heading: "Chapter 27: What Citizens Can Do"
+    path: chapter_drafts/chapter_27_what_citizens_can_do.md
+    skip_lines: 2
+  - type: epilogue
+    heading: "Back Matter"
+    path: chapter_drafts/back_matter.md
+    skip_lines: 2
+  - type: bibliography
+    heading: "Citations and Sources"
+    path: citations.md
