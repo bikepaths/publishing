@@ -7,6 +7,7 @@
 - Prioritize anticipating logical next steps over permission-seeking.
 - Isolate verification checks from deployment operations.
 - Running validation checks on drafts does not authorize file copying or remote syncing.
+- Group all git additions, deletions, commits, and pushes into single-action synchronization blocks.
 - Verify the state of files on shared repositories before claiming changes are visible.
 - Conclude chat with a suggested execute command representing the next logical action.
 - When suggesting any execute command, always follow up with a precise list of actions that the command will perform.
