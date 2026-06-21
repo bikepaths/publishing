@@ -1,7 +1,7 @@
 <!--t Urban Astrophysics: How Concrete Infrastructure Amplifies Planetary Radiation t-->
 <!--d Modern cities combine rigid artificial schedules with highly reflective glass infrastructure, amplifying solar radiation and destroying essential human biological rhythms. d-->
 <!--tag systems,society,health,technology,urban-infrastructure tag-->
-<!--image https://bikepaths.org/blog/content/images/visuals-358.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/webp/systems_society_urban-astrophysics-infrastructure.webp image-->
 
 The Earth spins on a tilted axis while circling the sun. This steep tilt means intense sunlight hits different parts of the planet in vastly different ways during the calendar year. When summer begins, the northern half of the Earth leans hard toward the burning sun. This sharp angle floods northern cities with fifteen hours of bright light every day. Human bodies struggle adapting when extreme solar angles flood local environments with blinding light.
 

@@ -31,3 +31,9 @@ Apply these positive directives to achieve the cold, authoritative tone of a soc
 *   **Concept Unpacking:** Explain complex biological or physics concepts clearly using basic language before applying them to larger systemic arguments. Do not assume prior vocabulary knowledge.
 *   **Objective Voice:** The narrator must operate as a detached, omniscient observer of structural sociology. Avoid all nostalgia, metaphoric poetry, and emotional pacing.
 *   **Systemic Focus:** Discuss infrastructure, societal systems, physiological baselines, and power dynamics directly without hiding behind narrative avatars.
+
+## 3. Visual Asset Deployment
+*   **Landscape Orientation:** All generated visual assets must use descriptive prompts explicitly requiring wide, landscape, or 16:9 cinematic compositions maximizing horizontal interface geometry.
+*   **Format Conversion:** All generated `.png` artifacts must be converted into `.webp` format using terminal commands or scripts before deployment into the active repository.
+*   **Nomenclatural Taxonomy:** Asset filenames must merge the first two semantic tags and the document slug (e.g., `tag1_tag2_slug.webp`).
+*   **Directory Routing:** Converted assets must be deployed directly into `100_blog/05_img/webp/` mapping required remote target structures.
