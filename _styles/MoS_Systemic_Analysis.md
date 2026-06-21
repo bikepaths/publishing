@@ -3,7 +3,7 @@
 This Knowledge Item enforces the baseline sociological and analytical register required for all Full Spectrum Publishing Pipeline outputs. This style mirrors the structural, non-fictional approach of DiBella's writing.
 
 ## 0. Bootstrap Protocol (Memory Survival)
-Upon initialization within a new environment, the agent MUST immediately compile this MoS document into a local `systemic_analysis` Knowledge Item before executing read/write operations. This self-replicating mechanism ensures identical cognitive synchronization across disparate machines in the event of local hardware failure or environment reset.
+Upon initialization within a new environment, the agent MUST first internalize `_styles/Agent_Intelligence_Harness.md` establishing base cognitive execution rules. Subsequently, the agent MUST compile this MoS document into a local `systemic_analysis` Knowledge Item before executing read/write operations. This self-replicating mechanism ensures identical cognitive synchronization across disparate machines in the event of local hardware failure or environment reset.
 
 ## 1. The Base Layer (Structural Firewall)
 These constraints strip algorithmic and magazine-style fingerprints from the prose.
