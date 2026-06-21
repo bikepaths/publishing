@@ -30,21 +30,23 @@ def main():
 
     # Read source file lines
     with open(source_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+        content = f.read()
 
-    if len(lines) < 7:
-        print("Error: Source file too short. Must contain title, meta description, and body.")
+    t_match = re.search(r'<!--t (.*?) t-->', content)
+    d_match = re.search(r'<!--d (.*?) d-->', content)
+    
+    if not t_match or not d_match:
+        print("Error: Source file missing <!--t or <!--d tags.")
         sys.exit(1)
+        
+    title = t_match.group(1).strip()
+    meta_desc = d_match.group(1).strip()
 
-    title = lines[0].strip()
-
-    meta_desc_raw = lines[2].strip()
-    # Strip "**Meta description:**" prefix if present
-    meta_desc = re.sub(r'^\*\*Meta description:\*\*\s*', '', meta_desc_raw, flags=re.IGNORECASE)
-
-    # Body starts from line 7 (index 6)
-    body_lines = lines[6:]
-    body_content = "".join(body_lines).strip()
+    img_match = re.search(r'<!--image (.*?) image-->', content)
+    if img_match:
+        body_content = content[img_match.end():].strip()
+    else:
+        body_content = content.split("tag-->\n")[-1].strip()
 
     slug = slugify(title)
 
