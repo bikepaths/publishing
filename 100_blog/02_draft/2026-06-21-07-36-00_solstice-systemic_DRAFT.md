@@ -1,5 +1,5 @@
-<!--t The Tilt and the City: How Summer Solstice Breaks Our Systems t-->
-<!--d Our bodies need dark to rest. Our cities force us to work while the tilted Earth blasts us with constant light. d-->
+<!--t Urban Astrophysics: How Concrete Infrastructure Weaponizes Planetary Tilt t-->
+<!--d Modern cities combine rigid artificial schedules with highly reflective glass infrastructure, amplifying solar radiation and destroying essential human biological rhythms. d-->
 <!--tag systems,society,health,technology tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-358.jpg image-->
 
