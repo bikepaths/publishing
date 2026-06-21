@@ -1,0 +1,12 @@
+<!--t The Tilt and the City: How Summer Solstice Breaks Our Systems t-->
+<!--d Our bodies need dark to rest. Our cities force us to work while the tilted Earth blasts us with constant light. d-->
+<!--tag systems,society,health,technology tag-->
+<!--image https://bikepaths.org/blog/content/images/visuals-358.jpg image-->
+
+The Earth does not spin straight up but rather leans to one side, meaning the sun hits different parts of the planet in vastly different ways throughout the calendar year. The summer solstice happens when one half of the Earth leans as close to the sun as possible, giving the Northern Hemisphere fifteen hours of bright and non-stop summer sunlight. This planetary tilt changes our physical world in deep ways.
+
+Human biology relies on a built-in clock called a circadian rhythm, which uses natural sunlight as a primary signal to control when we sleep and decide when we wake up. When the sky slowly gets dark, a small part inside the brain makes a chemical called melatonin, making us feel tired and starting the physical recovery process inside the body. If the sun stays high in the sky until late evening, the brain never gets the dark signal needed to make melatonin, leaving the body feeling very awake and stressed. The human body requires deep natural darkness to recover from daily activity.
+
+Modern cities routinely ignore this basic biological rule, building large transit systems and huge supply chains around a fixed mathematical schedule that never changes during different seasons of the year. During the summer solstice, a tired worker leaving the office at seven in the evening walks into blinding solar radiation, receiving a strong brain signal to stay awake much longer. Yet, rigid work schedules demand that this same worker must fall asleep in just a few short hours to wake up and work again during the very next morning shift. Our natural bodies break under this extreme pressure.
+
+Glass buildings make this problem worse by acting like giant mirrors, bouncing bright sun straight into the exposed eyes of tired workers traveling home during the final hours of day. Fixing this deep friction requires us to stop using a rigid clock and adopt flexible schedules, allowing workers to match their daily jobs with actual light conditions found outside today. We could start work later or allow people to work from home when the tilt hits its maximum point, placing human health over outdated and extremely rigid corporate daily rules. Smart societies respect biology.

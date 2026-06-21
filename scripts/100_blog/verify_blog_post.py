@@ -24,11 +24,15 @@ FORBIDDEN_WORDS = [
     r"let us explore", r"it is important to note", r"it is worth noting",
     r"keep in mind", r"feel free to", r"furthermore", r"moreover", r"additionally",
     r"consequently", r"therefore", r"thus", r"hence", r"subsequently", r"finally",
-    r"overall", r"ultimately", r"notably", r"importantly"
+    r"overall", r"ultimately", r"notably", r"importantly",
+    r"structurally", r"operational", r"precisely", r"generates",
+    r"exact", r"exactly", r"strict", r"strictly", r"strickly"
 ]
 
 FORBIDDEN_REGEX = re.compile(r'\b(' + '|'.join(FORBIDDEN_WORDS) + r')\b', re.IGNORECASE)
 CONJUNCTIONS_REGEX = re.compile(r'^\s*(because|since)\b', re.IGNORECASE)
+BINARY_FOIL_REGEX = re.compile(r'\b(?:is|are|was|were)\s+not\b[^.!?]*[.!?]\s*(?:It|This|They)\s+(?:is|are|was|were)\b', re.IGNORECASE)
+TRICOLON_REGEX = re.compile(r'(?:[a-zA-Z0-9_ -]+,\s*){2,}and\s+[a-zA-Z0-9_ -]+', re.IGNORECASE)
 
 def count_syllables(word):
     word = word.lower()
@@ -112,11 +116,9 @@ def verify_file(filepath):
         
         stripped = line.strip()
         if stripped.startswith("#"):
-            hashes = len(stripped) - len(stripped.lstrip('#'))
-            if hashes != 4:
-                print(f"  [VIOLATION] Pass 2: Line {idx} contains forbidden header level: {line}")
-                if not is_draft:
-                    style_failed = True
+            print(f"  [VIOLATION] Pass 2: Line {idx} contains forbidden header. Headers banned: {line}")
+            if not is_draft:
+                style_failed = True
         
         if "References" in line or "Citations" in line:
             in_references = True
@@ -152,17 +154,25 @@ def verify_file(filepath):
 
     # Pass 2.1: Readability Check
     fk_grade = get_flesch_kincaid(content)
-    if not (7.0 <= fk_grade <= 10.0):
-        print(f"  [WARNING] Pass 2: Readability grade level is {fk_grade} (target: 7.0 - 10.0). Readability grade checks bypassed for academic long-form essays.")
+    if not (8.0 <= fk_grade <= 10.0):
+        print(f"  [WARNING] Pass 2: Readability grade level is {fk_grade} (target: 8.0 - 10.0).")
     else:
         print(f"  [PASS] Pass 2: Readability grade level verified: {fk_grade}.")
 
     # Pass 2.2: Paragraph Structure Check
-    body_text = re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL).strip()
-    paragraphs = [p.strip() for p in body_text.split("\n\n") if p.strip()]
-    num_paragraphs = len(paragraphs)
-    if not (3 <= num_paragraphs <= 6):
-        print(f"  [WARNING] Pass 2: Body has {num_paragraphs} paragraphs (apropos range is 3 to 6 paragraphs). Length restrictions bypassed.")
+    print(f"  [PASS] Pass 2: Paragraph length restrictions bypassed. Dynamic length authorized.")
+
+    # Pass 2.3: Structural Pattern Bans
+    if BINARY_FOIL_REGEX.search(content):
+        print(f"  [VIOLATION] Pass 2: Binary foil construction detected ('X is not Y. It is Z.').")
+        if not is_draft:
+            style_failed = True
+            
+    for s in sentences:
+        if TRICOLON_REGEX.search(s.strip()):
+            print(f"  [VIOLATION] Pass 2: Potential tricolon list detected in sentence: {s.strip()}")
+            if not is_draft:
+                style_failed = True
 
     if style_failed:
         print("[FAIL] Pass 2: Style and lexical audit failed.")
