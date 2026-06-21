@@ -13,4 +13,4 @@ All manuscripts housed within this architecture must adhere strictly to baseline
 
 ## Metadata Tracking
 All internal manuscripts must contain the following specific metadata tag inside their front matter:
-`<!--tag series-redefining-urban-infrastructure tag-->`
+`<!--tag urban-infrastructure tag-->`
