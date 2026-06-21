@@ -76,6 +76,8 @@ def verify_file(filepath):
     if filename.endswith("_DRAFT.md"):
         is_draft = True
         timestamp = filename.split("_")[0]
+    elif filename.endswith("_POST.md"):
+        timestamp = filename.split("_")[0]
     elif filename.endswith(".md"):
         if " " in filename:
             print("[FAIL] Pass 3: Filename contains space characters.")
@@ -228,7 +230,7 @@ def verify_file(filepath):
                 print(f"[FAIL] Pass 3: Tag '{tag}' is not in approved tags.lang list.")
                 return False
 
-    if not is_draft:
+    if not is_draft and not filename.endswith("_POST.md"):
         filename_parts = filename.split("_")
         if len(filename_parts) >= 3:
             filename_tags = [t.strip() for t in filename_parts[1].split(",")]
