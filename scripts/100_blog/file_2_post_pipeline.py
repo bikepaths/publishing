@@ -45,8 +45,11 @@ def main():
     img_match = re.search(r'<!--image (.*?) image-->', content)
     if img_match:
         body_content = content[img_match.end():].strip()
+        draft_image_url = img_match.group(1).strip()
+        image_filename = os.path.basename(draft_image_url)
     else:
         body_content = content.split("tag-->\n")[-1].strip()
+        image_filename = None
 
     slug = slugify(title)
 
@@ -68,11 +71,12 @@ def main():
 
     post_local_path = os.path.join(posted_dir, post_filename)
 
-    # Image name logic (prefix with first two tags)
-    prefix = "_".join(tags[:2]) if len(tags) >= 2 else tags[0]
-    image_filename = f"{prefix}_{slug}.webp"
+    # Image name logic (extracted from draft)
+    if not image_filename:
+        print("Error: Source file missing <!--image tag with valid URL.")
+        sys.exit(1)
+        
     image_url_path = f"webp/{image_filename}"
-
     image_local_path = os.path.join(blog_dir, "05_img", "webp", image_filename)
     os.makedirs(os.path.dirname(image_local_path), exist_ok=True)
 
@@ -81,8 +85,8 @@ def main():
         print("--- IMAGE GENERATION PROMPT REQUIRED ---")
         print("Local image file not found. Run generate_image with following specifications:")
         print(f"  Tool: generate_image")
-        print(f"  ImageName: {prefix}_{slug}")
-        print(f"  Prompt: An ancient temple dome next to modern concrete building, dramatic dusk lighting, symbolic transition, architectural contrast, professional photography")
+        print(f"  ImageName: {image_filename.replace('.webp', '')}")
+        print(f"  Prompt: Descriptive visual prompt based on document content")
         print(f"  Format: landscape proportional webp")
         print(f"  Move generated image to target: {image_local_path}")
         print("\nRun pipeline again after image is created.")
