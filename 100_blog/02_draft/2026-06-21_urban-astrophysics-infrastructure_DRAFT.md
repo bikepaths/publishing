@@ -1,4 +1,4 @@
-<!--t Urban Astrophysics: How Concrete Infrastructure Weaponizes Planetary Tilt t-->
+<!--t Urban Astrophysics: How Concrete Infrastructure Amplifies Planetary Radiation t-->
 <!--d Modern cities combine rigid artificial schedules with highly reflective glass infrastructure, amplifying solar radiation and destroying essential human biological rhythms. d-->
 <!--tag systems,society,health,technology,urban-infrastructure tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-358.jpg image-->
