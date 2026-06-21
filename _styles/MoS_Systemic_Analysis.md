@@ -37,3 +37,6 @@ Apply these positive directives to achieve the cold, authoritative tone of a soc
 *   **Format Conversion:** All generated `.png` artifacts must be converted into `.webp` format using terminal commands or scripts before deployment into the active repository.
 *   **Nomenclatural Taxonomy:** Asset filenames must merge the first two semantic tags and the document slug (e.g., `tag1_tag2_slug.webp`).
 *   **Directory Routing:** Converted assets must be deployed directly into `100_blog/05_img/webp/` mapping required remote target structures.
+
+## 4. Draft Metadata Integrity
+*   **Regex Compatibility:** Front matter metadata tags (`<!--t`, `<!--d`, `<!--tag`) must remain isolated strings. Never nest identical formatting blocks risking recursive extraction failures across automated pipeline tools.
