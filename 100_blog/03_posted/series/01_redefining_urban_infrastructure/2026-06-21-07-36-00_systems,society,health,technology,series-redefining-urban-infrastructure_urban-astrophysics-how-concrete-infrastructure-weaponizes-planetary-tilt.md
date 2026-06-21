@@ -1,6 +1,6 @@
 <!--t Urban Astrophysics: How Concrete Infrastructure Weaponizes Planetary Tilt t-->
 <!--d Modern cities combine rigid artificial schedules with highly reflective glass infrastructure, amplifying solar radiation and destroying essential human biological rhythms. d-->
-<!--tag systems,society,health,technology tag-->
+<!--tag systems,society,health,technology,series-redefining-urban-infrastructure tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-358.jpg image-->
 
 The Earth spins on a fixed tilted axis, meaning solar radiation hits different parts of the planet in radically different ways throughout the duration of the long calendar year. During the summer solstice, one half of the Earth leans as close to the sun as possible, giving the Northern Hemisphere fifteen hours of bright and non-stop summer sunlight. This aggressive solar geometry forces biological organisms into unnatural physical states requiring constant adaptation.
