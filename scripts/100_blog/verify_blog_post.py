@@ -157,8 +157,8 @@ def verify_file(filepath):
 
     # Pass 2.1: Readability Check
     fk_grade = get_flesch_kincaid(content)
-    if not (8.0 <= fk_grade <= 10.0):
-        print(f"  [WARNING] Pass 2: Readability grade level is {fk_grade} (target: 8.0 - 10.0).")
+    if not (8.0 <= fk_grade <= 9.5):
+        print(f"  [WARNING] Pass 2: Readability grade level is {fk_grade} (target: 8.0 - 9.5).")
     else:
         print(f"  [PASS] Pass 2: Readability grade level verified: {fk_grade}.")
 
