@@ -26,7 +26,8 @@ FORBIDDEN_WORDS = [
     r"consequently", r"therefore", r"thus", r"hence", r"subsequently", r"finally",
     r"overall", r"ultimately", r"notably", r"importantly",
     r"structurally", r"operational", r"precisely", r"generates",
-    r"exact", r"exactly", r"strict", r"strictly", r"strickly"
+    r"exact", r"exactly", r"strict", r"strictly", r"strickly",
+    r"weaponize", r"destroy", r"brutal", r"blood"
 ]
 
 FORBIDDEN_REGEX = re.compile(r'\b(' + '|'.join(FORBIDDEN_WORDS) + r')\b', re.IGNORECASE)
