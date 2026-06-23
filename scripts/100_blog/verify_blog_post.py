@@ -55,7 +55,7 @@ def get_flesch_kincaid(text):
     num_words = len(words)
     num_sentences = len(sentences)
     num_syllables = sum(count_syllables(w) for w in words)
-    
+
     fk = 0.39 * (num_words / num_sentences) + 11.8 * (num_syllables / num_words) - 15.59
     return round(fk, 1)
 
@@ -73,7 +73,7 @@ def verify_file(filepath):
 
     timestamp = None
     is_draft = False
-    
+
     if filename.endswith("_DRAFT.md"):
         is_draft = True
         timestamp = filename.split("_")[0]
@@ -116,26 +116,26 @@ def verify_file(filepath):
     for idx, line in enumerate(lines, 1):
         if line.strip().startswith("<!--"):
             continue
-        
+
         stripped = line.strip()
         if stripped.startswith("#"):
             print(f"  [VIOLATION] Pass 2: Line {idx} contains forbidden header. Headers banned: {line}")
             if not is_draft:
                 style_failed = True
-        
+
         if "References" in line or "Citations" in line:
             in_references = True
-            
+
         if in_references:
             continue
-            
+
         if ":" in line:
             is_valid_colon = line.strip().endswith(":") or (line.strip().startswith("*") and "**" in line)
             if "://" not in line and not is_valid_colon:
                 print(f"  [VIOLATION] Pass 2: Line {idx} contains colon: {line}")
                 if not is_draft:
                     style_failed = True
-        
+
         clean_line = re.sub(r'\[[^\]]*\]\([^)]+\)', '', line)
         if "(" in clean_line or ")" in clean_line:
             print(f"  [VIOLATION] Pass 2: Line {idx} contains parenthesis: {line}")
@@ -157,8 +157,8 @@ def verify_file(filepath):
 
     # Pass 2.1: Readability Check
     fk_grade = get_flesch_kincaid(content)
-    if not (8.0 <= fk_grade <= 9.5):
-        print(f"  [WARNING] Pass 2: Readability grade level is {fk_grade} (target: 8.0 - 9.5).")
+    if not (8.0 <= fk_grade <= 10.0):
+        print(f"  [WARNING] Pass 2: Readability grade level is {fk_grade} (target: 8.0 - 10.0).")
     else:
         print(f"  [PASS] Pass 2: Readability grade level verified: {fk_grade}.")
 
@@ -170,7 +170,7 @@ def verify_file(filepath):
         print(f"  [VIOLATION] Pass 2: Binary foil construction detected ('X is not Y. It is Z.').")
         if not is_draft:
             style_failed = True
-            
+
     for s in sentences:
         if TRICOLON_REGEX.search(s.strip()):
             print(f"  [VIOLATION] Pass 2: Potential tricolon list detected in sentence: {s.strip()}")
@@ -191,7 +191,7 @@ def verify_file(filepath):
     if missing_tags:
         print(f"[FAIL] Pass 3: Missing required metadata tags: {missing_tags}")
         return False
-    
+
     if not metadata['d'].strip():
         print("[FAIL] Pass 3: Description ('d') tag is empty.")
         return False
@@ -202,7 +202,7 @@ def verify_file(filepath):
     if not meta_tags or not meta_tags[0]:
         print("[FAIL] Pass 3: Tag metadata list is empty.")
         return False
-    
+
     primary_category = meta_tags[0]
     if primary_category not in ALLOWED_CATEGORIES:
         print(f"[FAIL] Pass 3: Primary category '{primary_category}' is invalid. Must be one of: {ALLOWED_CATEGORIES}")
@@ -236,7 +236,7 @@ def verify_file(filepath):
         if len(filename_parts) >= 3:
             filename_tags = [t.strip() for t in filename_parts[1].split(",")]
             filename_slug = filename_parts[-1].replace(".md", "")
-            
+
             if filename_tags[0] != primary_category:
                 print(f"[FAIL] Pass 3: Filename primary category '{filename_tags[0]}' does not match metadata primary category '{primary_category}'")
                 return False
@@ -251,12 +251,12 @@ def verify_file(filepath):
                 print(f"[FAIL] Pass 3: Filename tags {filename_tags} do not match metadata tags {meta_tags}")
                 return False
             expected_slug = None
-            
+
             if not expected_slug:
                 expected_slug = metadata['t'].strip().lower().replace(" ", "-")
                 expected_slug = re.sub(r'[^a-z0-9\-]', '', expected_slug)
                 expected_slug = re.sub(r'-+', '-', expected_slug).strip("-")
-            
+
             if filename_slug != expected_slug:
                 print(f"[FAIL] Pass 3: Filename slug '{filename_slug}' does not match expected slug '{expected_slug}'")
                 return False

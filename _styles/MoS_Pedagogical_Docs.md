@@ -33,6 +33,7 @@ These directives override the Systemic Analysis MoS Analytical Layer where the t
 *   **Glossary Accumulation:** Each chapter appends new terms to a running glossary at the document end. Glossary definitions must not exceed fifteen words.
 *   **Physical Verb Priority:** Prefer action verbs describing observable physical events over abstract state verbs. "The government sends money" over "federal funding is allocated."
 *   **Causal Chain Visibility:** Every cause-and-effect relationship must be stated using explicit connectors: "so," "because of this," "when this happens," "the result is." Implied causation is forbidden.
+*   **Textual Expansion Mandate:** ALL simplification revisions require massive textual expansion overriding previous length limits guaranteeing total conceptual transfer. Vocabulary reduction sequences require automatic mathematical scaling increasing sentence counts.
 
 ## 4. Document Structure
 *   **Front Matter:** Title, target audience statement, prerequisite chapters, estimated reading time.

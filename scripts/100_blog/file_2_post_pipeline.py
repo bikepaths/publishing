@@ -13,7 +13,11 @@ def slugify(text):
 
 def main():
     if len(sys.argv) < 3:
-        print("Usage: file_2_post_pipeline.py <source_file> <comma_separated_tags>")
+        print("Usage: file_2_post_pipeline.py <source_file> <comma_separated_tags> [--sysop-force-deploy]")
+        sys.exit(1)
+
+    if "--sysop-force-deploy" not in sys.argv:
+        print("FATAL: Unauthorized remote push detected. NO DEPLOY WITHOUT EXPLICIT [--sysop-force-deploy] OVERRIDE.")
         sys.exit(1)
 
     source_file = sys.argv[1]
