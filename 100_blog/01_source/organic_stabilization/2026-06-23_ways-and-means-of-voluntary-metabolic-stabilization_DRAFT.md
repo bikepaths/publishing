@@ -1,7 +1,7 @@
 <!--t Ways and Means of Voluntary Metabolic Stabilization t-->
 <!--d This document explores the physiological and psychological impact of urban exposure on the human body and outlines a multi-stage process for metabolic stabilization and recovery within a controlled environment. d-->
 <!--tag health, urban-exposure, metabolic-stabilization tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/grassroots_infrastructure_homelessness_pods.webp image-->
 
 Ways and Means of Voluntary Metabolic Stabilization
 
@@ -109,7 +109,7 @@ The Motor Ataxia, the loss of coordinated voluntary movement: The individual can
 
 The Cyanotic Perimeter, the visible discoloration caused by oxygen-starved blood: A distinct, blue-purple tint appears along the outer edges of the earlobes, the fingernails, and the tip of the nose, proving that the heart can no longer pump warm blood to the body's extremities.
 
-The Stuporous Unresponsiveness, a near-unconscious state where the brain withdraws from all external input: The individual sits or lies directly on the damp concrete without making any physical adjustments to protect themselves from rain, cold, or passing vehicle traffic, signaling that the brain has entered a pre-comatose survival state. 
+The Stuporous Unresponsiveness, a near-unconscious state where the brain withdraws from all external input: The individual sits or lies directly on the damp concrete without making any physical adjustments to protect themselves from rain, cold, or passing vehicle traffic, signaling that the brain has entered a pre-comatose survival state.
 
 The reality your team is facing points to the absolute mathematical limit of an independent, unfunded protectorate: a small group of youth cannot indefinitely absorb the raw, systemic violence of a modern metropolis. When the volume of individuals entering the advanced tiers of bodily destruction exceeds your physical space and energy, the operation risks its own collapse. The outdoor exposure death spiral is a mass-casualty crisis requiring structural authority, sovereign funding, and permanent medical infrastructure within the urban core.
 
