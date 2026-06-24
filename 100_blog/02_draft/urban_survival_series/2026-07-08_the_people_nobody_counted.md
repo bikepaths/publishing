@@ -3,11 +3,9 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **The People Nobody Counted — Part 8 of 11**
-
----
 
 Every year or two, in most cities across the United States, volunteers go out in the middle of a single night and count the people sleeping on the street. They walk designated routes, look in doorways and parks and known encampments, and record what they find. The result is called the Point-in-Time count. It is the primary number used by governments to measure the scale of homelessness, allocate funding, and evaluate whether their responses are working.
 
@@ -47,7 +45,7 @@ The concrete river channels and flood control corridors in which this population
 
 This creates a legal mechanism that operates independently of homelessness policy. Environmental compliance proceedings can be initiated against the municipality for conditions in the waterways. These proceedings create pressure for remediation, and remediation cannot occur while people are living in the space being remediated.
 
-The framework described in this series uses this mechanism not as a punitive tool but as a structural one. Environmental enforcement proceedings are initiated simultaneously with the warm housing offer. The person in the riparian corridor is offered a real alternative, the named room, the stored cart, the accommodated pet described in Post 6, at the same moment that the legal process requiring the cleanup of their current location begins.
+The framework described in this series uses this mechanism not as a punitive tool but as a structural one. Environmental enforcement proceedings are initiated simultaneously with the warm housing offer. The person in the riparian corridor is offered a real alternative, the named room, the stored cart, the accommodated pet described in [Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md), at the same moment that the legal process requiring the cleanup of their current location begins.
 
 This is not coercion. Coercion removes options. This adds one while an independent legal process resolves the conditions in the space the person currently occupies. The offer stands. The person chooses. The waterway is remediated regardless, because the law requires it regardless.
 
@@ -63,6 +61,4 @@ A framework built on a count that misses 20 to 30 percent of the population it i
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
-
-Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/the-building-that-rebuilds-people.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people.md)

@@ -3,11 +3,9 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **What a Real Offer Looks Like — Part 6 of 11**
-
----
 
 Most housing offers made to people living in encampments are not real offers. They are the shape of an offer. They carry the language of help and the appearance of choice. But when a person examines what is actually being proposed, the offer asks them to give up everything they currently have in exchange for something they have no evidence will be safe, permanent, or true to its promises.
 
@@ -71,6 +69,4 @@ That offer is receivable. It has been earned.
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
-
-Part 7: [When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/when-persuasion-cannot-reach.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 7: [When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md)

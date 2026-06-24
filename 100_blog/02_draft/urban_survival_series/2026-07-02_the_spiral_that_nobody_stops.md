@@ -3,11 +3,9 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **The Spiral That Nobody Stops — Part 2 of 11**
-
----
 
 The body on the street is not in a stable condition. It is moving. It is moving in one direction, at a predictable speed, through a sequence of stages that researchers and physicians have now documented precisely enough to describe with a clock.
 
@@ -59,6 +57,4 @@ The rest of this series is about what a matched response looks like. It begins w
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
-
-Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/why-the-usual-answers-fail.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/urban-survival-why-the-usual-answers-fail.md)
