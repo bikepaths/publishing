@@ -1,6 +1,11 @@
-# The People Nobody Counted
+<!--t Urban Survival: The People Nobody Counted t-->
+<!--d This post exposes the hidden demographics of subterranean and riparian homelessness, explaining why traditional point-in-time counts systematically fail to locate the most vulnerable. d-->
+<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/the-people-nobody-counted.webp image-->
 
-*When a City Keeps Its Word — Post 8 of 11*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+**The People Nobody Counted — Part 8 of 11**
 
 ---
 
@@ -8,7 +13,7 @@ Every year or two, in most cities across the United States, volunteers go out in
 
 The count is a genuine effort by people who care about the problem. It is also structurally incapable of finding a significant portion of the population it is trying to count.
 
-## Why the Count Misses Who It Misses
+**Why the Count Misses Who It Misses**
 
 The Point-in-Time count works in accessible, visible locations. Routes are planned. Volunteers walk streets, check shelters, move through parks. They find people who are present in the places the route passes through.
 
@@ -22,7 +27,7 @@ Field estimates from researchers who have studied this population suggest that t
 
 This is not a small rounding error. It is a structural gap in the foundation of every policy response the city has built on that number.
 
-## How They Are Found
+**How They Are Found**
 
 Finding a population that has organized itself around not being found requires tools that go where foot patrols cannot.
 
@@ -36,7 +41,7 @@ A thermal sensor detects body heat. It does not record identity. It does not pro
 
 The alternative to thermal mapping is not leaving the riparian population in privacy. The alternative is leaving them to die in spaces that no outreach worker can reach. The sensor finds them. The outreach worker serves them. The technology is a tool of intervention, not a tool of control.
 
-## The Environmental Law Pathway
+**The Environmental Law Pathway**
 
 The concrete river channels and flood control corridors in which this population lives are regulated under the federal Clean Water Act. These waterways are subject to monitoring by regional water quality control boards, in California, the Los Angeles Regional Water Quality Control Board. Human habitation in these corridors produces contamination that constitutes a legal violation of Clean Water Act standards.
 
@@ -46,7 +51,7 @@ The framework described in this series uses this mechanism not as a punitive too
 
 This is not coercion. Coercion removes options. This adds one while an independent legal process resolves the conditions in the space the person currently occupies. The offer stands. The person chooses. The waterway is remediated regardless, because the law requires it regardless.
 
-## What This Population Needs
+**What This Population Needs**
 
 The riparian population is not a separate problem requiring a different framework. They are the same people described throughout this series: some are Group Two, reachable with a real offer; some are Group Three, requiring clinical presence and potentially legal pathways; a small number are Group Four, genuinely choosing an outdoor life in the terrain they know.
 
@@ -58,6 +63,6 @@ A framework built on a count that misses 20 to 30 percent of the population it i
 
 ---
 
-*Next: Post 9 — The Building That Rebuilds People*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
 
-*Series: When a City Keeps Its Word | Material Dignity Infrastructure | bikepaths.org*
+Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/the-building-that-rebuilds-people.md)

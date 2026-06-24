@@ -1,6 +1,11 @@
-# What the Body Needs Before the Key
+<!--t Urban Survival: What the Body Needs Before the Key t-->
+<!--d This post details the clinical process of Phase Zero stabilization, explaining why a period of controlled metabolic repair must precede any offer of permanent housing. d-->
+<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/what-the-body-needs-before-the-key.webp image-->
 
-*When a City Keeps Its Word — Post 5 of 11*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+**What the Body Needs Before the Key — Part 5 of 11**
 
 ---
 
@@ -10,7 +15,7 @@ Post 2 in this series described the descent, the three stages of biological dama
 
 The answer is called Phase Zero. It is the missing first step in almost every city's response to homelessness.
 
-## What Phase Zero Is
+**What Phase Zero Is**
 
 Phase Zero is the period of metabolic stabilization that must occur before a person in Stage Two or Stage Three depletion can benefit from housing, treatment, or any other intervention.
 
@@ -18,7 +23,7 @@ It is not a waiting room. It is not a bureaucratic holding stage. It is an activ
 
 The body under permanent outdoor exposure, as described in Post 1, is like an engine locked at full heat with no cooling system. You cannot service an engine running at full heat. You must bring the temperature down first. Phase Zero brings the temperature down.
 
-## What the Body Requires
+**What the Body Requires**
 
 The reversal of the exposure spiral requires three things, in this order.
 
@@ -30,7 +35,7 @@ The second requirement is clean air and warmth. The lungs that have been breathi
 
 The third requirement is the removal of street clothing and the provision of clean, dry fabric. Street clothing holds the physical residue of the outdoor environment: moisture, pollution, the chemical signature of the asphalt. When the clothing is changed and the body is washed in warm water, the skin receptors receive a new signal: the environment is stable and clean. This sensory update travels to the brain and reinforces the reduction in alarm state that the quiet room began.
 
-## The Three Stages of Stabilization
+**The Three Stages of Stabilization**
 
 With these conditions in place, the body passes through three distinct phases over approximately 48 hours.
 
@@ -42,7 +47,7 @@ From hour eighteen to the end of the second day, the cellular repair phase, the 
 
 This is the moment at which a housing key becomes receivable. Not before.
 
-## What Waking Up Requires
+**What Waking Up Requires**
 
 The transition out of Phase Zero is as important as the entry into it. A brain that has just completed 48 hours of deep repair is still sensitive. Loud noise causes the alarm system to reactivate. Heavy food introduced too quickly causes the stomach, which has been dormant, to react badly.
 
@@ -50,7 +55,7 @@ The person waking from Phase Zero needs a quiet room, indirect light, a calm hum
 
 This careful transition locks in the biological gains of the 48 hours. Without it, the nervous system re-activates its alarm state within hours of returning to street conditions and the gains are lost.
 
-## Why This Is Not Compulsion
+**Why This Is Not Compulsion**
 
 Phase Zero is entirely voluntary. This point is not a legal technicality. It is the biological foundation of the process.
 
@@ -62,6 +67,6 @@ This is why the outreach work described in Post 6 must come before the housing o
 
 ---
 
-*Next: Post 6 — What a Real Offer Looks Like*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
 
-*Series: When a City Keeps Its Word | Material Dignity Infrastructure | bikepaths.org*
+Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/what-a-real-offer-looks-like.md)

@@ -1,6 +1,11 @@
-# Why the Usual Answers Fail
+<!--t Urban Survival: Why the Usual Answers Fail t-->
+<!--d This post explains why emergency shelter and Housing First models fail the most vulnerable, and introduces the clinical necessity of Phase Zero stabilization. d-->
+<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/why-the-usual-answers-fail.webp image-->
 
-*When a City Keeps Its Word — Post 3 of 11*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+**Why the Usual Answers Fail — Part 3 of 11**
 
 ---
 
@@ -8,7 +13,7 @@ Cities have been trying to solve homelessness for decades. The efforts are real.
 
 This is not a failure of effort or compassion. It is a failure of match. The tools being used are applied to the wrong conditions, in the wrong sequence, at the wrong time. Understanding why requires looking honestly at what the most common approaches actually do, and what they cannot do.
 
-## The Shelter Bed That Cycles
+**The Shelter Bed That Cycles**
 
 Emergency shelter is the most common response to homelessness in most cities. A person comes in from the street. They receive a bed for the night, sometimes a meal, sometimes a locker for their belongings. In the morning, they leave.
 
@@ -18,7 +23,7 @@ But emergency shelter has a capacity and a design that does not change based on 
 
 Over five years, this produces a cycle. The same person appears in the shelter system hundreds of times. The city counts those appearances as service provision. The person's body continues to degrade. The cost accumulates. The condition does not resolve.
 
-## The Apartment Offered at the Wrong Moment
+**The Apartment Offered at the Wrong Moment**
 
 Housing First is a framework developed over several decades of careful research. Its central finding is accurate and important: stable housing is not a reward to be earned after sobriety or treatment or behavioral compliance. It is a precondition for all of those things. A person cannot stabilize their mental health, address addiction, maintain employment, or rebuild relationships while sleeping on concrete. The research supporting this is consistent and substantial.
 
@@ -32,7 +37,7 @@ Handing this person a key to an apartment is not wrong in intention. It is wrong
 
 The apartment sits empty or becomes a place where the crisis continues behind a closed door rather than on the street. The person is technically housed. The spiral has not been interrupted.
 
-## Why Both Approaches Fail the Same Group
+**Why Both Approaches Fail the Same Group**
 
 Emergency shelter and Housing First share a common assumption: that the person receiving the service is in a condition to engage with it. Emergency shelter assumes the person can sleep adequately in a shared dormitory space, navigate the rules of the facility, and leave in the morning. Housing First assumes the person can manage the cognitive load of independent living.
 
@@ -42,7 +47,7 @@ This is not a moral judgment. It is a biological description. An engine that has
 
 The body in Stage Three depletion is the seized engine. Phase Zero stabilization, the subject of Post 5 in this series, is the process of opening the engine before anything else is attempted.
 
-## What This Means for the City
+**What This Means for the City**
 
 A city that spends its entire homelessness budget on emergency shelter and scattered housing without a Phase Zero stabilization pathway is applying the right tools to the wrong condition for the most damaged third of its unsheltered population. The money is spent. The services are provided. The people cycle through the system for years without resolution.
 
@@ -54,6 +59,6 @@ Once that precondition is met, the rest of the tools work as they were designed 
 
 ---
 
-*Next: Post 4 — Not One Crisis, Five*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
 
-*Series: When a City Keeps Its Word | Material Dignity Infrastructure | bikepaths.org*
+Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/not-one-crisis-five.md)

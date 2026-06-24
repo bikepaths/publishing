@@ -1,6 +1,11 @@
-# The Spiral That Nobody Stops
+<!--t Urban Survival: The Spiral That Nobody Stops t-->
+<!--d This post deconstructs the specific biological sequence a human body undergoes during prolonged outdoor exposure, explaining why street living is an escalating medical emergency. d-->
+<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/the-spiral-that-nobody-stops.webp image-->
 
-*When a City Keeps Its Word — Post 2 of 11*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+**The Spiral That Nobody Stops — Part 2 of 11**
 
 ---
 
@@ -8,7 +13,7 @@ The body on the street is not in a stable condition. It is moving. It is moving 
 
 This is not a slow decline that takes years to become serious. Once a person has been outside continuously for more than a few days, the descent accelerates. Understanding this sequence is the first step toward understanding why urgency is not an exaggeration. It is a medical description.
 
-## The First Stage: The Body Spends Its Savings (Hours 24 to 48)
+**The First Stage: The Body Spends Its Savings (Hours 24 to 48)**
 
 A human body carries emergency fuel. It is stored as glycogen in the liver and the muscles, a reserve of quick energy that the body draws on when ordinary food intake is not enough to meet demand. On the street, demand is always high. The body burns fuel all night resisting cold. It burns fuel all day carrying possessions and moving to avoid displacement. It burns fuel continuously keeping the immune and respiratory systems working against the pollution in the air.
 
@@ -18,7 +23,7 @@ The body signals this depletion in ways that are visible to an observer. The sur
 
 These signs are not dramatic. A person walking past on a street might not notice them. But they mark the opening of a countdown.
 
-## The Second Stage: The Body Consumes Itself (Days 3 to 7)
+**The Second Stage: The Body Consumes Itself (Days 3 to 7)**
 
 When the emergency fuel reserves run out, the body does not stop. It finds another source. It begins to break down its own muscle tissue and fat stores to generate the heat and energy it cannot obtain from food. This process is called autophagy, the body eating itself. It is not a metaphor. It is a measurable chemical process in which the liver converts the body's own tissues into usable fuel.
 
@@ -28,7 +33,7 @@ The face changes visibly. The tissue beneath the eyes sinks inward as the body d
 
 The constant noise of the city, engines, sirens, voices, construction, prevents the brain from entering the deep phase of sleep in which the body actually repairs itself. The person is exhausted but not recovering. They are caught between depletion and the inability to rest deeply enough to reverse it.
 
-## The Third Stage: The Brain Loses Its Signal (Beyond One Week)
+**The Third Stage: The Brain Loses Its Signal (Beyond One Week)**
 
 After one week of continuous outdoor exposure without adequate shelter, rest, or nutrition, the central nervous system begins to fragment. The brain is starved of glucose, clean oxygen, and water. The chemical imbalance that has been building for days now crosses a threshold at which the brain's own functions begin to fail.
 
@@ -38,7 +43,7 @@ The eyes lose the ability to track a moving object smoothly. They drift or lock 
 
 At this stage, without intervention, the outcome is cardiac failure, respiratory failure, or death from exposure.
 
-## Why This Matters for Everything That Follows
+**Why This Matters for Everything That Follows**
 
 This sequence, 48 hours, one week, and beyond, is not offered here to produce despair. It is offered because it changes what the correct response looks like.
 
@@ -54,6 +59,6 @@ The rest of this series is about what a matched response looks like. It begins w
 
 ---
 
-*Next: Post 3 — Why the Usual Answers Fail*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
 
-*Series: When a City Keeps Its Word | Material Dignity Infrastructure | bikepaths.org*
+Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/why-the-usual-answers-fail.md)

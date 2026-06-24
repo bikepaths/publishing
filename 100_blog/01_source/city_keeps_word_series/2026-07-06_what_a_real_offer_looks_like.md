@@ -1,6 +1,11 @@
-# What a Real Offer Looks Like
+<!--t Urban Survival: What a Real Offer Looks Like t-->
+<!--d This post deconstructs the anatomy of a genuine housing offer, contrasting it with administrative placements that force impossible choices on encamped individuals. d-->
+<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/what-a-real-offer-looks-like.webp image-->
 
-*When a City Keeps Its Word — Post 6 of 11*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+**What a Real Offer Looks Like — Part 6 of 11**
 
 ---
 
@@ -10,7 +15,7 @@ Refusing that offer is not irrational. It is the correct response to the informa
 
 Understanding why encampment residents refuse housing at high rates requires understanding what the standard offer actually contains, and what a genuine offer would contain instead.
 
-## What the Standard Offer Asks
+**What the Standard Offer Asks**
 
 A person living in an encampment has built a life within its constraints. They know who is trustworthy and who is not. They have a location. They have a social structure. They often have a dog, or a partner, or a cart containing the possessions that represent continuity with who they were before the street: photographs, tools, clothes from another time, objects that hold meaning.
 
@@ -22,7 +27,7 @@ From the perspective of a person who has experienced broken promises from instit
 
 So they stay. Not because they prefer the concrete. Because the offer is not real.
 
-## The Three Barriers That Are Not What They Appear
+**The Three Barriers That Are Not What They Appear**
 
 Field research across multiple cities has identified three objects that appear in encampment refusals more consistently than any other: pets, partners, and possessions.
 
@@ -36,7 +41,7 @@ Possessions in the cart are identity. For a person who has lost housing, employm
 
 A real offer addresses all three. Not as an act of generosity. As a precondition for the offer to function.
 
-## What a Real Offer Contains
+**What a Real Offer Contains**
 
 A genuine housing offer for a Group Two encampment resident, the encamped but reachable, representing roughly 35 percent of the unsheltered population, has specific features that make it materially different from the standard offer.
 
@@ -54,7 +59,7 @@ These details are not amenities. They are the structure of a real offer. Each on
 
 When any one of them is missing, the offer collapses back to the standard offer and the person remains in the encampment.
 
-## The Relationship That Makes the Offer Possible
+**The Relationship That Makes the Offer Possible**
 
 A real offer does not work when delivered cold. The outreach worker who knocks on a tent with a housing offer has no history with the person inside. The offer, however genuine, lands in the same category as every other institutional promise the person has heard and seen broken.
 
@@ -66,6 +71,6 @@ That offer is receivable. It has been earned.
 
 ---
 
-*Next: Post 7 — When Persuasion Cannot Reach*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
 
-*Series: When a City Keeps Its Word | Material Dignity Infrastructure | bikepaths.org*
+Part 7: [When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/when-persuasion-cannot-reach.md)

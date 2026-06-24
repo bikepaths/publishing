@@ -1,6 +1,11 @@
-# How We Know If It Works
+<!--t Urban Survival: How We Know If It Works t-->
+<!--d This post establishes the eight verification metrics for systemic homelessness intervention, ensuring clinical and architectural pathways remain accountable to measurable biological and fiscal realities. d-->
+<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/how-we-know-if-it-works.webp image-->
 
-*When a City Keeps Its Word — Post 11 of 11*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+**How We Know If It Works — Part 11 of 11**
 
 ---
 
@@ -12,7 +17,7 @@ This is called falsifiability. It is the difference between a policy intention a
 
 This post presents the eight measurements the framework commits to in advance. If the framework runs at full specification, all five simultaneous operations active, the building occupied, the clinical teams in the field, for 24 months, and does not meet these measurements, the framework is falsified. Not revised to explain the gap. Falsified. The design requires foundational correction.
 
-## The Eight Measurements
+**The Eight Measurements**
 
 **Measurement One: Encampment Reduction in the Target Zone**
 
@@ -48,7 +53,7 @@ This measurement requires a nested Randomized Controlled Trial, a formal scienti
 
 No backlog in the Phase Zero intake system may exceed 15 days. This measurement confirms that the system is not creating a waiting list that allows people to deteriorate while waiting for a stabilization slot. A framework that can stabilize people in theory but cannot process them in practice has a bottleneck that defeats its purpose.
 
-## What Happens If the Measurements Are Not Met
+**What Happens If the Measurements Are Not Met**
 
 The falsifiability clause is stated explicitly in the framework: if One California Plaza, the building named in the framework, operates at full specification with all five simultaneous operations active for 24 months and fails to meet these measurements, the thesis is falsified.
 
@@ -58,7 +63,7 @@ This is how engineering works. It is not how policy usually works. Policy usuall
 
 The commitment to falsifiability is the commitment that makes this framework trustworthy. A plan that can only succeed, no matter what happens, is not a plan. It is a declaration. The measurements turn the declaration into a testable claim about the real world.
 
-## A Final Word to the Reader
+**A Final Word to the Reader**
 
 This series began with a person on the ground. It ends with a measurement system.
 
@@ -74,7 +79,9 @@ The standard is now written down. The measurements are now stated. The word can 
 
 ---
 
-*Series complete: When a City Keeps Its Word | Material Dignity Infrastructure*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+*Series Complete*
 
 *Full framework: bikepaths.org | Academic papers: SSRN 5968756 · 6211658 · 6579600*
 

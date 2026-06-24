@@ -1,6 +1,11 @@
-# The Person on the Ground
+<!--t Urban Survival: How it Feels to Be Homeless t-->
+<!--d This is the first post in a series about what it actually takes to end homelessness. These posts deconstruct the mechanics of survival on the street, what happens to the body, and what is required to stabilize and keep people housed. d-->
+<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-*When a City Keeps Its Word — Post 1 of 11*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+**How It Feels to Be Homeless — Part 1 of 11**
 
 ---
 
@@ -44,6 +49,8 @@ Everything that follows in this series is a response to what you have just seen.
 
 ---
 
-*Next: Post 2 — The Spiral That Nobody Stops*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
 
-*Series: When a City Keeps Its Word | Material Dignity Infrastructure | bikepaths.org*
+Part 2: [The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/the-spiral-that-nobody-stops.md)
+
+

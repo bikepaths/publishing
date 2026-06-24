@@ -1,6 +1,11 @@
-# What It Costs to Do Nothing
+<!--t Urban Survival: What It Costs to Do Nothing t-->
+<!--d This post outlines the invisible financial drain of chronic homelessness, contrasting the reactive spending of emergency systems with the proactive investment of stabilization infrastructure. d-->
+<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/what-it-costs-to-do-nothing.webp image-->
 
-*When a City Keeps Its Word — Post 10 of 11*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+
+**What It Costs to Do Nothing — Part 10 of 11**
 
 ---
 
@@ -10,7 +15,7 @@ The number is large. The objection is understandable. And it rests entirely on l
 
 This post counts both.
 
-## What the City Is Already Spending
+**What the City Is Already Spending**
 
 A person cycling through the homelessness system without resolution does not cost the city nothing. They generate costs continuously, across multiple city and county departments, in a pattern that is now well documented.
 
@@ -24,7 +29,7 @@ Researchers tracking the total cost of a single chronically homeless individual,
 
 The framework described in this series projects a reduction in emergency service costs of at least $40,000 per resident per year once Phase Zero stabilization and permanent housing are in place. This projection is conservative. It is based on the documented reduction in emergency service utilization that occurs when a person moves from chronic street exposure into stable, supported housing.
 
-## The Water Pump That Pays for Itself
+**The Water Pump That Pays for Itself**
 
 Consider a village without a clean water source. The village spends significant labor every day carrying water from a distant river. The labor is productive: water arrives. But it costs the village time and energy that could be spent on other things. The cost of carrying water is dispersed across every person and every day and is never added up into a single number, so it appears to be zero.
 
@@ -34,7 +39,7 @@ The objection is correct that the well is expensive. It ignores the cost of carr
 
 The city's homelessness expenditure is the water-carrying. It happens every day, across emergency rooms and police departments and public health systems and courts, in amounts that are real but never assembled into a single visible number. The framework described in this series is the well. It has a visible capital cost and a return on that capital that the framework projects to occur within 29 to 45 months of full operation.
 
-## The Capital Recovery Timeline
+**The Capital Recovery Timeline**
 
 The framework projects 2,000 units in a single building, acquired through receivership at a cost significantly below market construction cost. The five simultaneous operations, clinical field teams, legal pathway activation, the housing surplus event itself, environmental compliance enforcement, and the architectural stabilization environment, require coordinated capital deployment over a defined period.
 
@@ -44,7 +49,7 @@ Beyond the breakeven point, the city is spending less than it was spending befor
 
 This is the fiscal argument stated plainly: the framework costs money to build and saves money to operate. The alternative, the current system, costs money to operate every year without end, without resolution, and without a breakeven point that is ever reached.
 
-## What the Objection Gets Wrong
+**What the Objection Gets Wrong**
 
 The fiscal isolation fallacy, the name this series gives to the objection that the framework is too expensive, makes one specific error. It counts the capital cost of the framework and compares it to zero. It assumes that doing nothing costs nothing.
 
@@ -52,7 +57,7 @@ Doing nothing costs $30,000 to $150,000 per person per year, multiplied by the n
 
 The framework assembles it. The fiscal audit required by metric three of the eight verification metrics, a reduction in emergency service costs of at least $40,000 per resident per year, is the mechanism by which the invisible distributed cost becomes visible and comparable.
 
-## What Money Cannot Answer
+**What Money Cannot Answer**
 
 This post has made the fiscal argument because the fiscal argument is necessary and frequently decisive in policy decisions. But the group that has developed this framework does not believe the fiscal argument is the most important one.
 
@@ -64,6 +69,6 @@ The fiscal argument is offered here because it happens to be true, and because i
 
 ---
 
-*Next: Post 11 — How We Know If It Works*
+**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
 
-*Series: When a City Keeps Its Word | Material Dignity Infrastructure | bikepaths.org*
+Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/how-we-know-if-it-works.md)
