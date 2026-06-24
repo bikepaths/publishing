@@ -1,8 +1,6 @@
 # Ways and Means of Voluntary Metabolic Stabilization
 
-*This document explores the physiological and psychological impact of urban exposure on the human body and outlines a multi-stage process for metabolic stabilization and recovery within a controlled environment. It operates across two distinct political realities: first, the conditions that exist now, where no state support is available and state actors actively work against street dwellers through sweeps, relocation, and incarceration; and second, the conditions that would exist under a functioning state model that supports rather than criminalizes stabilization work. The methodology does not change between these two realities. Only the resources and legal protections surrounding it change.*
 
----
 
 ## The Body Under Permanent Alarm
 
@@ -10,7 +8,7 @@ A human body living continuously on the concrete of a modern metropolis operates
 
 This physical breakdown happens to everyone on the street. It does not matter if a person is elderly, sick, or struggling with addiction. The cold concrete destroys the human body in the exact same way. The exposure death spiral ignores a person's past. Because the physical damage is the same, the rescue process must also be the same. Basic bodily recovery must happen before any other treatment begins.
 
-Stabilization cannot begin while the person remains exposed to the open currents of the city. The transition must start with a voluntary decision to step inside a clean, quiet, and fully enclosed space. This tactical enclosure acts as a physical shield that cuts off the constant flow of external survival signals. When a person crosses this threshold, their eyes adjust to a steady light. Their ears register the sudden absence of street noise. The simple presence of four solid walls and a ceiling tells the primitive centers of the brain that the immediate environment is predictable. This sensory shift is the necessary trigger that allows the nervous system to begin dropping its guard.
+Stabilization cannot begin while the person remains exposed to the open currents of the city. The transition must start with a voluntary decision to step inside a clean, quiet, and fully enclosed space. Because state support is non-existent, citizens have formed peer protectorates. These civilian groups build tactical enclosures to survive municipal hostility. The tactical enclosure acts as a physical shield that cuts off the constant flow of external survival signals. When a person crosses this threshold, their eyes adjust to a steady light. Their ears register the sudden absence of street noise. The simple presence of four solid walls and a ceiling tells the primitive centers of the brain that the immediate environment is predictable. This sensory shift is the necessary trigger that allows the nervous system to begin dropping its guard.
 
 The first physical requirement of this transition is the removal of the layers of clothes that carry the dust, dampness, and scent of the asphalt. Street clothing holds the literal weight of the outdoor climate. It traps cold sweat against the skin and keeps the body in an active state of temperature regulation. By bathing thoroughly in warm water and changing into clean, dry fabric, the person sheds the physical residue of the environment. This act of washing is a biological signal. It tells the skin receptors that the surrounding air is stable, clean, and safe. This sensory update immediately reduces the workload on the heart and lungs.
 
@@ -88,7 +86,7 @@ The Glycogen and Fluid Bankruptcy Phase occurs within the first twenty-four to f
 
 ### Somatic Autophagy and Immune Suppression Phase
 
-The Somatic Autophagy and Immune Suppression Phase spans from the third day to the first week of continuous outdoor exposure. Autophagy is the process where the body consumes its own tissues for energy. The readily available sugar reserves become entirely exhausted. Once this happens, the metabolism shifts into a destructive state. It begins to break down its own muscle tissue and fat reserves to generate heat and baseline energy. The constant noise of the urban core prevents the brain from entering deep-stage rapid eye movement sleep. This deprivation leaves the nervous system in a permanent twilight of adrenaline-fueled exhaustion. This lack of restorative rest halts the production of white blood cells. Without these cells, the immune system collapses. Minor skin abrasions from the pavement or damp clothing become infected. The joints in the knees, ankles, and lower back swell with chronic fluid retention. This swelling severely limits the person's mobility.
+The Somatic Autophagy and Immune Suppression Phase spans from the third day to the first week of continuous outdoor exposure. The body enters autophagy, actively consuming its own muscle tissue for energy. The readily available sugar reserves become entirely exhausted. Once this happens, the metabolism shifts into a destructive state. It breaks down fat reserves to generate heat and baseline energy. The constant noise of the urban core prevents the brain from entering deep-stage rapid eye movement sleep. This deprivation leaves the nervous system in a permanent twilight of adrenaline-fueled exhaustion. This lack of restorative rest halts the production of white blood cells. Without these cells, the immune system collapses. Minor skin abrasions from the pavement or damp clothing become infected. The joints in the knees, ankles, and lower back swell with chronic fluid retention. This swelling severely limits the person's mobility.
 
 ### Central Nervous System Fragmentation Phase
 
@@ -114,7 +112,7 @@ The first signs of systematic destruction appear in the moisture levels of the f
 
 **The Postural Sag:** The shoulders drop forward by several inches. The chin tilts downward toward the chest. This posture shows that the core muscles are beginning to tire from the weight of damp clothing and possessions without adequate rest or caloric intake.
 
-**The Saccadic Stride:** This stride is named for saccades, the involuntary rapid eye movements that indicate nervous system stress. The walking pattern becomes uneven. It is characterized by micro-hesitations before the foot hits the pavement. These hesitations indicate that the nervous system is struggling to calculate the hardness of the ground underfoot.
+**The Saccadic Stride:** The person develops a saccadic stride, an uneven walking pattern filled with micro-hesitations before the foot hits the pavement. These hesitations indicate that the stressed nervous system is struggling to calculate the hardness of the ground underfoot.
 
 **The Epidermal Ashening:** The skin around the nostrils and the lower lip turns a flat, greyish white. This discoloration happens as the blood vessels constrict to keep the remaining fluid concentrated in the deeper muscle groups.
 
@@ -134,9 +132,9 @@ The second tier reveals that the body has begun to consume its own tissues to ma
 
 The final tier indicates that the central nervous system is fragmenting. The core thermal regulatory mechanisms are failing completely. This is the final window for a successful stabilization intervention.
 
-**The Fixed Nystagmus:** Nystagmus is the involuntary drifting of the eyes when the brain loses control of smooth tracking. The eyes lose the ability to track moving objects smoothly. They either lock onto a single point in space or drift erratically from side to side without focusing on the observer.
+**The Fixed Nystagmus:** The person develops nystagmus, an involuntary drifting of the eyes indicating the brain has lost tracking control. The eyes can no longer track moving objects smoothly. They either lock onto a single point or drift erratically without focusing on the observer.
 
-**The Motor Ataxia:** Ataxia is the loss of coordinated voluntary movement. The person can no longer maintain a straight line of travel. They stumble frequently over minor variations in the pavement. They lean heavily against walls to keep from falling.
+**The Motor Ataxia:** The person suffers from ataxia, a loss of coordinated muscle control that prevents a straight line of travel. They stumble frequently over minor variations in the pavement. They lean heavily against walls to keep from falling.
 
 **The Cyanotic Perimeter:** Cyanosis is the visible discoloration caused by oxygen-starved blood. A distinct, blue-purple tint appears along the outer edges of the earlobes, the fingernails, and the tip of the nose. This tint proves that the heart can no longer pump warm blood to the body's extremities.
 
