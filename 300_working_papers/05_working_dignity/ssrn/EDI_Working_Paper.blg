@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: EDI_Working_Paper.aux
 The style file: apalike.bst
 Database file #1: ../01_drafts/bibliography.bib
-You've used 11 entries,
+You've used 12 entries,
             1935 wiz_defined-function locations,
-            540 strings with 5683 characters,
-and the built_in function-call counts, 4042 in all, are:
-= -- 406
-> -- 135
-< -- 9
-+ -- 42
-- -- 42
-* -- 345
-:= -- 709
-add.period$ -- 33
-call.type$ -- 11
-change.case$ -- 73
-chr.to.int$ -- 11
-cite$ -- 11
-duplicate$ -- 153
-empty$ -- 299
-format.name$ -- 64
-if$ -- 782
+            544 strings with 5751 characters,
+and the built_in function-call counts, 4283 in all, are:
+= -- 425
+> -- 148
+< -- 10
++ -- 46
+- -- 46
+* -- 356
+:= -- 758
+add.period$ -- 36
+call.type$ -- 12
+change.case$ -- 79
+chr.to.int$ -- 12
+cite$ -- 12
+duplicate$ -- 166
+empty$ -- 314
+format.name$ -- 71
+if$ -- 828
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 13
-newline$ -- 58
-num.names$ -- 33
-pop$ -- 56
+missing$ -- 15
+newline$ -- 63
+num.names$ -- 36
+pop$ -- 67
 preamble$ -- 1
-purify$ -- 75
+purify$ -- 82
 quote$ -- 0
-skip$ -- 119
+skip$ -- 129
 stack$ -- 0
-substring$ -- 308
-swap$ -- 11
+substring$ -- 301
+swap$ -- 12
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 62
+type$ -- 66
 warning$ -- 0
 while$ -- 38
 width$ -- 0
-write$ -- 142
+write$ -- 153
