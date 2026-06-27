@@ -1,0 +1,48 @@
+{
+  "project_name": "Systemic Dignity Infrastructure Audio Series",
+  "pedagogy_model": "Organic Vernacular Pedagogy (OVP)",
+  "status": "production_ready",
+  "release_version": "1.0",
+  "deployment_flags": {
+    "cms_upload": true,
+    "podcast_syndication": true,
+    "require_tts_generation": true
+  },
+  "modules": [
+    {
+      "track_id": 1,
+      "population_focus": "Acute Economic Dislocation",
+      "script_path": "../ovp_audio_scripts/track_1_acute.md",
+      "target_audience": "Structurally intact individuals experiencing immediate financial shock",
+      "status": "drafted"
+    },
+    {
+      "track_id": 2,
+      "population_focus": "Chronic Physiological Collapse",
+      "script_path": "../ovp_audio_scripts/track_2_chronic.md",
+      "target_audience": "Long-term unsheltered individuals with profound metabolic deterioration",
+      "status": "drafted"
+    },
+    {
+      "track_id": 3,
+      "population_focus": "Institutional Cycling",
+      "script_path": "../ovp_audio_scripts/track_3_institutional.md",
+      "target_audience": "Populations oscillating between incarceration, emergency rooms, and the street",
+      "status": "drafted"
+    },
+    {
+      "track_id": 4,
+      "population_focus": "Severe Psychiatric/Substance Vulnerability",
+      "script_path": "../ovp_audio_scripts/track_4_vulnerability.md",
+      "target_audience": "Dual diagnosis populations requiring specialized clinical buffering",
+      "status": "drafted"
+    },
+    {
+      "track_id": 5,
+      "population_focus": "Hidden/Vehicular Homelessness",
+      "script_path": "../ovp_audio_scripts/track_5_hidden.md",
+      "target_audience": "Populations utilizing mobile sheltering to evade formal system interactions",
+      "status": "drafted"
+    }
+  ]
+}
