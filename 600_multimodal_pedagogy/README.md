@@ -95,15 +95,33 @@ The process works like this:
 
 ---
 
-## Status Summary
+## Detailed Episode Index (24 Total Episodes)
 
-| Track | Topic | Episodes Drafted | Audio Status |
-|-------|-------|-----------------|--------------|
-| 1 | Acute Economic Dislocation | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
-| 2 | Chronic Physiological Collapse | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
-| 3 | Institutional Cycling | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
-| 4 | Severe Psychiatric/Substance Vulnerability | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
-| 5 | Hidden/Vehicular Homelessness | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
-| 6 | Relational Engineering | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
-| 7 | The Tripartite Coalition | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
-| 8 | Civic Capital Alignment | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
+Each script contains roughly 150-250 words, engineered for high-impact, short-form consumption.
+
+| Podcast # | Track Focus | Episode Title | Estimated Audio | Status |
+|---|---|---|---|---|
+| **01** | 1: Acute Economic Dislocation | Ep 1: The Physiology of Panic | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **02** | 1: Acute Economic Dislocation | Ep 2: The Illusion of Independence | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **03** | 1: Acute Economic Dislocation | Ep 3: The Return to the Current | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **04** | 2: Chronic Physiological Collapse | Ep 1: Phase Zero | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **05** | 2: Chronic Physiological Collapse | Ep 2: The Return of Executive Function | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **06** | 2: Chronic Physiological Collapse | Ep 3: Agentive Selfhood | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **07** | 3: Institutional Cycling | Ep 1: The Revolving Door | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **08** | 3: Institutional Cycling | Ep 2: Building the Clean Reference | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **09** | 3: Institutional Cycling | Ep 3: The Verified Bypass | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **10** | 4: Severe Vulnerability | Ep 1: The Combat Zone Environment | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **11** | 4: Severe Vulnerability | Ep 2: The Space to Regulate | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **12** | 4: Severe Vulnerability | Ep 3: The Biological Plateau | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **13** | 5: Hidden/Vehicular Homelessness | Ep 1: The Depreciating Asset Trap | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **14** | 5: Hidden/Vehicular Homelessness | Ep 2: Liquidating the Trap | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **15** | 5: Hidden/Vehicular Homelessness | Ep 3: The Sovereign Tenancy | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **16** | 6: Relational Engineering | Ep 1: The Dunbar Limit | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **17** | 6: Relational Engineering | Ep 2: The Autonomic Routing | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **18** | 6: Relational Engineering | Ep 3: The Federated Network | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **19** | 7: The Tripartite Coalition | Ep 1: The Machine That Eats Itself | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **20** | 7: The Tripartite Coalition | Ep 2: The Legal Preemption | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **21** | 7: The Tripartite Coalition | Ep 3: The Inevitable Math | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **22** | 8: Civic Capital Alignment | Ep 1: The End of Charity | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **23** | 8: Civic Capital Alignment | Ep 2: The Performance of Poverty | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
+| **24** | 8: Civic Capital Alignment | Ep 3: The Return on Investment | ~2:00 mins | ✅ Scripted / ⏳ Awaiting TTS |
