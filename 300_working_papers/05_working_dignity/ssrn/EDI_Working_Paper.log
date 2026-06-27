@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.6.12)  27 JUN 2026 06:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.6.12)  27 JUN 2026 06:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1023,7 +1023,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.150 \newpage
+l.145 \newpage
                [1] (./EDI_Working_Paper.toc)
 \tf@toc=\write5
 \openout5 = `EDI_Working_Paper.toc'.
@@ -1045,17 +1045,17 @@ Package rerunfilecheck Info: File `EDI_Working_Paper.out' has not changed.
 Here is how much of TeX's memory you used:
  27733 strings out of 476182
  520864 string characters out of 5795595
- 1934975 words of memory out of 5000000
+ 1933975 words of memory out of 5000000
  49285 multiletter control sequences out of 15000+600000
  565255 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 102i,12n,107p,1376b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,13n,107p,1376b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/user0/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600
 pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on EDI_Working_Paper.pdf (9 pages, 95626 bytes).
+Output written on EDI_Working_Paper.pdf (9 pages, 95557 bytes).
 PDF statistics:
  136 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams

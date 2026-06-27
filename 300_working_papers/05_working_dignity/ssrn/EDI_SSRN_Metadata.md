@@ -34,16 +34,9 @@ Economic Dignity Infrastructure, agentive selfhood, identity capital, return def
 - **J54.** Producer Cooperatives; Labor Managed Firms; Employee Ownership
 - **H75.** State and Local Government, Health, Education, Welfare
 
----
-
 ## Target eJournals
 
-1. Labor Economics eJournal
-2. Housing and Residential Economics eJournal
-3. Social Enterprise eJournal
-4. Public Health Law and Policy eJournal
-5. Poverty, Income Distribution & Social Protection eJournal
-6. Economic Sociology eJournal
+1. Social Enterprise eJournal
 
 ---
 
