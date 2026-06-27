@@ -14,6 +14,11 @@ API_KEY = os.getenv("ELEVENLABS_API_KEY")
 
 def clean_markdown(text):
     """Strip markdown formatting and instructions for the narrator."""
+    # Isolate only the dialogue by removing everything before the first episode marker
+    episode_split = re.split(r'##\s*Episode\s*1', text, maxsplit=1, flags=re.IGNORECASE)
+    if len(episode_split) > 1:
+        text = episode_split[1]
+        
     # Remove metadata/headers if any
     text = re.sub(r'^#.*$', '', text, flags=re.MULTILINE)
     text = re.sub(r'^##.*$', '', text, flags=re.MULTILINE)
