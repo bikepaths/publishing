@@ -28,3 +28,22 @@ You have identity capital. You have employment history. But the longer you sleep
 Do not wait until the tow truck takes your only shelter. You do not need the congregate system, but you do need structural routing. You need the Tenancy Bridge. Your partial identity capital can be leveraged into a master lease if you stop trying to fix a systemic failure with a sedan.
 
 You have to come out of hiding to access the infrastructure. Turn off the engine. Let's get you inside.
+
+---
+
+## Episode 2 Dialogue Draft: Liquidating the Trap
+
+**[Ambient Sound: The sound of keys jingling, then being set down on a solid wooden table.]**
+
+**NARRATOR:**
+You made the hardest choice. You turned off the engine. You stepped out of the vehicle and into the infrastructure. 
+
+You feel exposed. You feel like you surrendered your independence. 
+
+You didn't. You surrendered a depreciating asset trap that was slowly bleeding you dry. 
+
+Now, we deploy the Tenancy Bridge. Your partial identity capital—your work history, your ability to function in the normal economy—is still intact. We are going to take that capital, pair it with our financial guarantee, and route you directly into a master lease. 
+
+You are skipping the congregate shelter. You are moving from the driver's seat to an apartment, underwritten by the clinical revenue of the system you successfully avoided. 
+
+You survived the trap. Now we build the future.

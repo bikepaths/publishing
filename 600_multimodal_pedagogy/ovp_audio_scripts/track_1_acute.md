@@ -30,3 +30,20 @@ Your only job for the next 72 hours is to protect your remaining identity capita
 Do not go to a congregate shelter. The chronic system is designed for populations experiencing physiological collapse. If you enter that environment tonight, the trauma and sleep deprivation will strip away the executive function you still have. You need to isolate. You need a safe parking program, a couch, or a micro-stabilization unit. 
 
 Hold onto your phone. Keep your clothes clean. Sleep. The normal economy still recognizes you, but you have to stop bleeding cash and you have to stop panicking. We are going to build a firewall around you right now, before the street gets its hands on your biology.
+
+---
+
+## Episode 2 Dialogue Draft: The Illusion of Independence
+
+**[Ambient Sound: Silence, broken only by a ticking clock. The sound of a pen scratching on paper.]**
+
+**NARRATOR:**
+You survived the first 72 hours. You slept on a couch, or in a safe parking zone, and your heart rate has finally dropped. 
+
+Now comes the hard part. 
+
+Your instinct is going to be to push everyone away. You’re going to want to fix this by yourself. You'll apply for jobs, look for apartments, and try to pretend this isn't happening. But the math doesn't work. The system is designed to demand first, last, and security deposit. You don't have it. 
+
+You need to accept micro-stabilization. You need to leverage the identity capital you still have—your references, your work history—and plug it into a system that can bridge the financial gap. 
+
+Do not let your pride turn an acute crisis into a chronic one. Accept the bridge.

@@ -26,3 +26,22 @@ We call the solution the Tripartite Coalition. We stop asking the city to do eve
 We use clinical revenue to guarantee the lease. We use private capital to build the modular infrastructure. And we use state-level preemption laws to bypass local zoning boards. When you lock those three gears together, the machine stops pulling itself apart. 
 
 You don't need another task force. You need a legally binding coalition that aligns the financial incentives. Stop fighting the politics. Engineer the economics.
+
+---
+
+## Episode 2 Dialogue Draft: The Legal Preemption
+
+**[Ambient Sound: The sharp crack of a gavel. The murmur of a city council meeting.]**
+
+**NARRATOR:**
+You’ve aligned the clinical revenue. You’ve secured the private capital. You’re ready to build the infrastructure. 
+
+And then the neighborhood association files a lawsuit to block the zoning permit. 
+
+This is where the third gear of the Tripartite Coalition engages. You cannot solve a systemic crisis if every single facility requires a two-year political war. 
+
+You need state-level preemption. You need the legal authority to bypass local zoning boards for critical stabilization infrastructure. 
+
+When you combine the financial power of clinical managed care, the speed of private capital, and the legal force of state preemption, you build a machine that cannot be stopped by NIMBYism. 
+
+You stop asking for permission to save lives. You simply engineer the legal reality where permission is no longer required.

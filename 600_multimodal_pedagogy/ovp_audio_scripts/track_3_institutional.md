@@ -30,3 +30,20 @@ You are not failing the system. The system was never designed to integrate you.
 The answer isn't trying harder at a game rigged against you. The answer is stepping entirely outside of it. You need a closed-loop economy. You need a cooperative structure where the people hiring you are the exact same people you live with, where your institutional record is irrelevant, and where your daily labor builds verified identity capital that the outside world is forced to recognize.
 
 Stop fighting the revolving door. Walk away from the building. 
+
+---
+
+## Episode 2 Dialogue Draft: Building the Clean Reference
+
+**[Ambient Sound: The rhythmic clatter of a commercial kitchen. Orders being called out.]**
+
+**NARRATOR:**
+You stopped filling out applications. You stopped playing the game you were guaranteed to lose. 
+
+Instead, you’re working inside the closed-loop economy. You’re managing the inventory for the facility. You’re cooking the meals. You’re fixing the plumbing. 
+
+And you’re getting paid. 
+
+But more importantly than the money, you are building a track record. When the time comes to step back into the external market, you aren't going to hand them a resume with a five-year gap and a parole officer's phone number. You are going to hand them a verifiable history of reliable, compensated labor from the cooperative. 
+
+We are manufacturing the identity capital the system stripped away from you. We are building the bridge they refused to build.

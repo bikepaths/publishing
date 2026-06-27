@@ -30,3 +30,20 @@ Throw the list away.
 You cannot think your way out of starvation. The first step—the *only* step—is metabolic stabilization. You need a door that locks from the inside. You need consecutive nights of REM sleep. You need predictable, heavy calories. Until you have that, any system demanding you act like a functional citizen is setting you up to fail. 
 
 We call this Phase Zero. Before you can work, before you can heal, you have to stop dying. 
+
+---
+
+## Episode 2 Dialogue Draft: The Return of Executive Function
+
+**[Ambient Sound: The rhythmic hum of a commercial refrigerator. The sound of a door clicking shut.]**
+
+**NARRATOR:**
+You’ve been inside for two weeks. You’ve had predictable calories. You’ve had a locked door. 
+
+For the first time in years, you slept for eight hours without waking up to defend yourself. 
+
+Something strange is happening. The fog is lifting. You’re starting to think about tomorrow. You’re starting to feel bored. That boredom is the greatest victory you’ve had in a decade. Boredom means your body is no longer convinced it’s dying. 
+
+But don't rush it. The external market is still toxic. Your identity capital is still depleted. 
+
+Now we begin the internal work. Now we introduce the micro-economy. You don't need a resume here. You just need to show up and wash the dishes. We are going to rebuild your capacity for labor, slowly, safely, and entirely on your terms.

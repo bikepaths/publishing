@@ -26,3 +26,22 @@ If you want to stabilize a population, you have to engineer the relationships, n
 We call this Relational Engineering. You do not scale a program by making the pods bigger. You scale it by adding more pods. Trust is horizontal, not vertical. If you force a traumatized body into a massive, anonymous crowd, you are actively preventing their nervous system from down-regulating. 
 
 Build the architecture to match the biology, not the budget.
+
+---
+
+## Episode 2 Dialogue Draft: The Autonomic Routing
+
+**[Ambient Sound: The quiet hum of a small group discussion. Chairs shifting.]**
+
+**NARRATOR:**
+You’ve broken the population down into pods of twelve. The violence has dropped to zero. The trust is building. 
+
+But how do you manage it? You can't have a social worker for every twelve people. The math doesn't work. 
+
+You have to decentralize the governance. You have to let the pod manage the pod. 
+
+This is where the Pod Steward comes in. They aren't staff. They are peers. They are the node that connects the pod to the broader infrastructure. They handle the conflict resolution. They manage the internal micro-economy. 
+
+You are engineering an autonomic system. Just like the human body regulates its own temperature without conscious thought, a properly engineered relational architecture regulates its own conflict. 
+
+Trust scales when you stop trying to control it, and start engineering the environment where it naturally occurs.
