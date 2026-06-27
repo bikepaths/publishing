@@ -57,6 +57,13 @@
       "script_path": "../ovp_audio_scripts/track_7_tripartite_coalition.md",
       "target_audience": "Policy makers, capital allocators, and civic leaders",
       "status": "drafted"
+    },
+    {
+      "track_id": 8,
+      "population_focus": "Civic Capital Alignment",
+      "script_path": "../ovp_audio_scripts/track_8_civic_capital.md",
+      "target_audience": "Philanthropists, community organizers, and civic investment boards",
+      "status": "drafted"
     }
   ]
 }
