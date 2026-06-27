@@ -22,11 +22,15 @@ The teaching method used here is called **Organic Vernacular Pedagogy (OVP)**. T
 ├── README.md                   ← This file. Explains the whole folder.
 │
 ├── ovp_podcast_manifest.md     ← The master planning document. Describes the teaching
-│                                  philosophy, the five population types, and the format
+│                                  philosophy, the eight population types, and the format
 │                                  rules for every audio track.
+│
+├── cycle_retrospective.md      ← Documents all structural changes and accomplishments
+│                                  made during the initial content generation cycle.
 │
 ├── ovp_audio_scripts/          ← The written scripts for each podcast episode.
 │   │                              These are the words that will be read aloud.
+│   │                              Each track contains Episodes 1, 2, and 3.
 │   │
 │   ├── track_1_acute.md        ← For people who just lost housing suddenly (e.g. lost job,
 │   │                              eviction). Their minds still work. The danger is panic.
@@ -54,10 +58,15 @@ The teaching method used here is called **Organic Vernacular Pedagogy (OVP)**. T
 │   │                              large shelters fail biologically and how small pod
 │   │                              structures (12-15 people) restore trust and safety.
 │   │
-│   └── track_7_tripartite_coalition.md
-│                               ← For policy makers and funders. Explains why clinical
-│                                  money, private capital, and municipal zoning must be
-│                                  legally locked together to solve the crisis.
+│   ├── track_7_tripartite_coalition.md
+│   │                           ← For policy makers and funders. Explains why clinical
+│   │                              money, private capital, and municipal zoning must be
+│   │                              legally locked together to solve the crisis.
+│   │
+│   └── track_8_civic_capital.md
+│                               ← For philanthropists and civic investment boards. Explains
+│                                  why charity fails structurally and how to convert
+│                                  discretionary giving into guaranteed civic infrastructure.
 │
 └── manifests/
     └── multimodal_deployment_manifest.json
@@ -88,12 +97,13 @@ The process works like this:
 
 ## Status Summary
 
-| Track | Topic | Script Status | Audio Status |
-|-------|-------|--------------|--------------|
-| 1 | Acute Economic Dislocation | ✅ Episode 1 drafted | ⏳ Awaiting audio provider |
-| 2 | Chronic Physiological Collapse | ✅ Episode 1 drafted | ⏳ Awaiting audio provider |
-| 3 | Institutional Cycling | ✅ Episode 1 drafted | ⏳ Awaiting audio provider |
-| 4 | Severe Psychiatric/Substance Vulnerability | ✅ Episode 1 drafted | ⏳ Awaiting audio provider |
-| 5 | Hidden/Vehicular Homelessness | ✅ Episode 1 drafted | ⏳ Awaiting audio provider |
-| 6 | Relational Engineering | ✅ Episode 1 drafted | ⏳ Awaiting audio provider |
-| 7 | The Tripartite Coalition | ✅ Episode 1 drafted | ⏳ Awaiting audio provider |
+| Track | Topic | Episodes Drafted | Audio Status |
+|-------|-------|-----------------|--------------|
+| 1 | Acute Economic Dislocation | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
+| 2 | Chronic Physiological Collapse | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
+| 3 | Institutional Cycling | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
+| 4 | Severe Psychiatric/Substance Vulnerability | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
+| 5 | Hidden/Vehicular Homelessness | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
+| 6 | Relational Engineering | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
+| 7 | The Tripartite Coalition | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
+| 8 | Civic Capital Alignment | ✅ Eps 1, 2, 3 | ⏳ Awaiting audio provider |
