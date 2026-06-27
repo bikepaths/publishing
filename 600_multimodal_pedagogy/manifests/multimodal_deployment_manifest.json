@@ -43,6 +43,20 @@
       "script_path": "../ovp_audio_scripts/track_5_hidden.md",
       "target_audience": "Populations utilizing mobile sheltering to evade formal system interactions",
       "status": "drafted"
+    },
+    {
+      "track_id": 6,
+      "population_focus": "Relational Engineering",
+      "script_path": "../ovp_audio_scripts/track_6_relational_engineering.md",
+      "target_audience": "Practitioners, system architects, and Pod Stewards managing transitional populations",
+      "status": "drafted"
+    },
+    {
+      "track_id": 7,
+      "population_focus": "The Tripartite Coalition",
+      "script_path": "../ovp_audio_scripts/track_7_tripartite_coalition.md",
+      "target_audience": "Policy makers, capital allocators, and civic leaders",
+      "status": "drafted"
     }
   ]
 }
