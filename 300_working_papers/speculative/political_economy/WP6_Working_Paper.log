@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.6)  5 JUN 2026 18:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.6.12)  27 JUN 2026 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**WP6_Working_Paper.tex
+**./WP6_Working_Paper.tex
 (./WP6_Working_Paper.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -739,14 +739,13 @@ l.120 \newpage
  [3] [4
 
 ] [5] [6] [7] [8]
-[9
-
-]
 
 Package caption Warning: Unused \captionsetup[table] on input line 71.
 See the caption package documentation for explanation.
 
-[10] (./WP6_Working_Paper.aux)
+[9
+
+] (./WP6_Working_Paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -755,22 +754,22 @@ Package rerunfilecheck Info: File `WP6_Working_Paper.out' has not changed.
 (rerunfilecheck)             Checksum: BE6A62E78745D2AD8F12B8E6CAF4D014;774.
  ) 
 Here is how much of TeX's memory you used:
- 17397 strings out of 476182
- 296220 string characters out of 5795596
+ 17396 strings out of 476182
+ 296215 string characters out of 5795595
  1936975 words of memory out of 5000000
  39185 multiletter control sequences out of 15000+600000
  565255 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,79p,2864b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,2866b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/user0/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600
 pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on WP6_Working_Paper.pdf (11 pages, 97964 bytes).
+Output written on WP6_Working_Paper.pdf (10 pages, 97191 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  5657 words of extra memory for PDF output out of 10000 (max. 10000000)
 

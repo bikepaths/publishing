@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.6)  8 JUN 2026 22:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.6.12)  27 JUN 2026 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**mdi_prospectus.tex
+**./mdi_prospectus.tex
 (./mdi_prospectus.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1046,12 +1046,12 @@ Package rerunfilecheck Info: File `mdi_prospectus.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  27696 strings out of 476182
- 520103 string characters out of 5795596
+ 520105 string characters out of 5795595
  1930975 words of memory out of 5000000
  49266 multiletter control sequences out of 15000+600000
  564908 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 102i,12n,107p,1203b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,1205b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/user0/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600
 pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
