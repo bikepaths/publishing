@@ -47,3 +47,22 @@ And you’re getting paid.
 But more importantly than the money, you are building a track record. When the time comes to step back into the external market, you aren't going to hand them a resume with a five-year gap and a parole officer's phone number. You are going to hand them a verifiable history of reliable, compensated labor from the cooperative. 
 
 We are manufacturing the identity capital the system stripped away from you. We are building the bridge they refused to build.
+
+---
+
+## Episode 3 Dialogue Draft: The Verified Bypass
+
+**[Ambient Sound: A printer humming. The sound of a crisp sheet of paper being pulled.]**
+
+**NARRATOR:**
+The algorithm still doesn't want you. The background check will still flash red. 
+
+But it no longer matters. 
+
+Because you aren't fighting the algorithm anymore. You are bypassing it. 
+
+You have a master lease guaranteed by the cooperative. You have an employment reference backed by the internal micro-economy. We have functionally insulated you from the return deficit. 
+
+You don't need the external market's permission to live with dignity. By building your own closed-loop ecosystem, you forced the outside world to interact with you on your terms, not theirs. 
+
+The revolving door is permanently jammed. You broke the cycle.

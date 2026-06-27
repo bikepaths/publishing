@@ -47,3 +47,20 @@ Now, we deploy the Tenancy Bridge. Your partial identity capital—your work his
 You are skipping the congregate shelter. You are moving from the driver's seat to an apartment, underwritten by the clinical revenue of the system you successfully avoided. 
 
 You survived the trap. Now we build the future.
+
+---
+
+## Episode 3 Dialogue Draft: The Sovereign Tenancy
+
+**[Ambient Sound: A key turning smoothly in a deadbolt. A door swinging open.]**
+
+**NARRATOR:**
+You left the vehicle behind. You leveraged your partial identity capital, and the Tenancy Bridge absorbed the risk the landlords refused to take. 
+
+You are standing in an apartment. 
+
+This isn't a shelter. This isn't transitional housing with a curfew and a case manager knocking on your door at 6 AM. This is sovereign tenancy. 
+
+You have the same rights, and the same quiet dignity, as any other renter in the city. The depreciating asset trap has been replaced by structural stability. 
+
+You don't have to hide anymore. The illusion is over. The reality is finally secure.

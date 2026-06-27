@@ -45,3 +45,22 @@ You need state-level preemption. You need the legal authority to bypass local zo
 When you combine the financial power of clinical managed care, the speed of private capital, and the legal force of state preemption, you build a machine that cannot be stopped by NIMBYism. 
 
 You stop asking for permission to save lives. You simply engineer the legal reality where permission is no longer required.
+
+---
+
+## Episode 3 Dialogue Draft: The Inevitable Math
+
+**[Ambient Sound: The quiet hum of a boardroom. Papers shuffling. The sound of a solid handshake.]**
+
+**NARRATOR:**
+The preemption laws bypassed the zoning. The private capital built the modular units. The clinical revenue guaranteed the leases. 
+
+The Tripartite Coalition is fully operational. 
+
+And suddenly, the municipal budget begins to recover. The emergency rooms aren't overflowing. The police aren't acting as armed social workers. 
+
+You didn't win an ideological argument. You won a mathematical one. 
+
+By aligning the financial incentives, you made it more profitable for the system to house a human being than it was to leave them on the concrete. 
+
+The friction is gone. The machine is finally working for the bodies it was supposed to protect.

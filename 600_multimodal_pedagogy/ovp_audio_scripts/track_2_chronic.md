@@ -47,3 +47,20 @@ Something strange is happening. The fog is lifting. You’re starting to think a
 But don't rush it. The external market is still toxic. Your identity capital is still depleted. 
 
 Now we begin the internal work. Now we introduce the micro-economy. You don't need a resume here. You just need to show up and wash the dishes. We are going to rebuild your capacity for labor, slowly, safely, and entirely on your terms.
+
+---
+
+## Episode 3 Dialogue Draft: Agentive Selfhood
+
+**[Ambient Sound: A broom sweeping a floor steadily. Focused, purposeful labor.]**
+
+**NARRATOR:**
+Six months ago, you couldn't remember your own phone number. Today, you are managing the inventory for the entire floor. 
+
+You haven't just regained weight. You have regained agentive selfhood. 
+
+The system thinks recovery means forcing you into a minimum-wage job you will inevitably lose. We know recovery means the quiet, internal realization that you are capable of unprompted, constructive action. 
+
+You are making decisions again. You are participating in governance. You are building clean references through the internal micro-economy. 
+
+The transition to the outside world isn't a cliff you have to jump off. It’s a ramp you are already walking up. When you finally decide to engage the external market, you won't be asking them for a chance. You will be offering them a proven asset.

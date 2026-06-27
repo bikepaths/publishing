@@ -45,3 +45,22 @@ This is where the Pod Steward comes in. They aren't staff. They are peers. They 
 You are engineering an autonomic system. Just like the human body regulates its own temperature without conscious thought, a properly engineered relational architecture regulates its own conflict. 
 
 Trust scales when you stop trying to control it, and start engineering the environment where it naturally occurs.
+
+---
+
+## Episode 3 Dialogue Draft: The Federated Network
+
+**[Ambient Sound: Multiple voices overlapping, then harmonizing. The sound of a gavel, but a soft, wooden one.]**
+
+**NARRATOR:**
+You built the pod. You decentralized the governance. The twelve people are stable. 
+
+But how do you stabilize twelve hundred? 
+
+You don't build a bigger pod. You federate the network. 
+
+The Pod Stewards form their own pod. They meet, they govern the broader infrastructure, and they pass the autonomic routing up the chain without ever breaking the Dunbar limit at the base level. 
+
+This is how Relational Dignity Infrastructure scales to a city level. It’s a fractal architecture. You repeat the pattern of trust, over and over, until the entire population is covered by a decentralized web of mutual accountability. 
+
+You engineered the environment. Now the environment is engineering the city.

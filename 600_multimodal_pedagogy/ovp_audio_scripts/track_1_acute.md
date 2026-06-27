@@ -47,3 +47,20 @@ Your instinct is going to be to push everyone away. You’re going to want to fi
 You need to accept micro-stabilization. You need to leverage the identity capital you still have—your references, your work history—and plug it into a system that can bridge the financial gap. 
 
 Do not let your pride turn an acute crisis into a chronic one. Accept the bridge.
+
+---
+
+## Episode 3 Dialogue Draft: The Return to the Current
+
+**[Ambient Sound: The distant, rhythmic hum of a train on tracks. Forward momentum.]**
+
+**NARRATOR:**
+The panic is gone. The bleeding has stopped. You utilized the micro-stabilization unit. You preserved your references, and you didn't let the street touch your biology. 
+
+Now, you have to transition back. 
+
+This isn't about starting over; it’s about resuming. You have the identity capital required to interact with the external market. You aren't fighting a return deficit. You are simply re-entering the stream of commerce. 
+
+We use the Tenancy Bridge to guarantee your master lease, bypassing the eviction on your record. You bring the income, we provide the risk absorption. You step back into the normal economy without ever wearing the label of "homeless." 
+
+You navigated the crisis. The acute phase is officially over. Welcome back.
