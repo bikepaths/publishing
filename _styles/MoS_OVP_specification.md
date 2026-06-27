@@ -6,7 +6,7 @@
 
 This specification governs prose consistency, structural formatting, and
 publication-type adaptation for all content produced under the Full Spectrum
-Publishing Platform (FSPP).
+Publishing Pipeline.
 
 All content originates in the Organic Vernacular Pedagogy (OVP) metastyle.
 
@@ -158,7 +158,7 @@ GitHub connector pending.
 
 This document is a living specification. Updates are made when:
 - The spokesperson identifies a gap or error
-- A new publication type is added to FSPP
+- A new publication type is added to the pipeline
 - A format platform changes its technical requirements
 
 Each update increments the version number and logs to version_log.md.

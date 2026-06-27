@@ -1,4 +1,4 @@
-# FSPP Operational Profile
+# Full Spectrum Publishing Pipeline Operational Profile
 
 ## Core operational rules
 - Limit responses to explicit request scope only.

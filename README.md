@@ -1,4 +1,4 @@
-# FSPP (Full Spectrum Publishing Pipeline)
+# Full Spectrum Publishing Pipeline
 
 Repository functions as unified system that consolidates three publishing streams into one master repository. Sysop operates workspace for extended re-discovery.
 
