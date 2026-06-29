@@ -1,4 +1,7 @@
-# Kefir on the Road: A Complete Nutrition Guide for the Self-Supported Solo Cyclist
+<!--t Kefir on the Road: A Complete Nutrition Guide for the Self-Supported Solo Cyclist t-->
+<!--d A complete nutrition guide on how to maintain living kefir grains and structure a high-protein, self-supported diet while cycling on the road. d-->
+<!--tag health, cycling, bicycle-touring, self-sufficiency tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/kefir_cycling.webp image-->
 
 The foundation of everything in this guide is kefir, not the flavored, pasteurized kefir sold in bottles at supermarkets, but living kefir made fresh every day from a small cluster of grains and whatever whole milk is available locally. Understanding kefir is where everything else begins.
 
@@ -63,6 +66,3 @@ The one-week-on, one-week-off riding schedule means the body needs more food dur
 Water is essential on every riding day. When the body burns fat, it produces waste products that the kidneys must flush out through urine. Without enough water, the kidneys struggle and the muscles cramp. The cyclist should drink water steadily throughout each riding day and not wait until thirsty.
 
 This diet is not complicated. It runs on foods found in most markets around the world. One small container, one small spice pouch, and one daily routine are all the management it needs. The kefir grains make fresh food every morning from whatever local milk is available. The spice blend makes it enjoyable and supports recovery. The canned fish fills the nutritional gaps that dairy alone cannot cover. The oats fuel the miles. The fresh produce and Vitamin C keep the body's smaller needs met. The cottage cheese keeps the hunger under control.
-
-
-
