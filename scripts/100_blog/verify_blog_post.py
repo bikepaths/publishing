@@ -148,12 +148,28 @@ def verify_file(filepath):
             if not is_draft:
                 style_failed = True
 
-    sentences = re.split(r'(?<=[.!?])\s+', content)
-    for s in sentences:
-        if CONJUNCTIONS_REGEX.match(s.strip()):
-            print(f"  [VIOLATION] Pass 2: Sentence starts with forbidden conjunction: {s.strip()}")
+    clean_text = re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL)
+    clean_sentences = re.split(r'(?<=[.!?])\s+', clean_text.strip())
+
+    for s in clean_sentences:
+        s_clean = s.strip()
+        if not s_clean:
+            continue
+        if CONJUNCTIONS_REGEX.match(s_clean):
+            print(f"  [VIOLATION] Pass 2: Sentence starts with forbidden conjunction: {s_clean}")
             if not is_draft:
                 style_failed = True
+                
+        s_words = re.findall(r'\b[a-zA-Z]+\b', s_clean)
+        if len(s_words) > 0:
+            if len(s_words) > 22:
+                print(f"  [VIOLATION] Pass 2: Sentence exceeds 22 word maximum ({len(s_words)} words): {s_clean}")
+                if not is_draft:
+                    style_failed = True
+            elif len(s_words) < 6:
+                print(f"  [VIOLATION] Pass 2: Staccato sentence detected (less than 6 words): {s_clean}")
+                if not is_draft:
+                    style_failed = True
 
     # Pass 2.1: Readability Check
     fk_grade = get_flesch_kincaid(content)
@@ -171,7 +187,7 @@ def verify_file(filepath):
         if not is_draft:
             style_failed = True
 
-    for s in sentences:
+    for s in clean_sentences:
         if TRICOLON_REGEX.search(s.strip()):
             print(f"  [VIOLATION] Pass 2: Potential tricolon list detected in sentence: {s.strip()}")
             if not is_draft:
