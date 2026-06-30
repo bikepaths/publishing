@@ -1,13 +1,14 @@
 ## 1. REQUEST PLAN
 
 FIRST DELIVERABLE: Full Feature Article (FFA) FORMAT 1 — CMS Web Post
-TOPIC:  AI Superintelligence Control
+TOPIC:  Ask Sysop
 pitched at **secondary level** (approximately ages 11–18)
+
 To serve as:
 1. A foundation document toward **academic journal publication**
 2. Source material for a **non-fiction KDP 40-page pamphlet**
 
- ## 2. CORE VOICE: ORGANIC VERNACULAR PEDAGOGY (OVP)
+## 2. CORE VOICE: ORGANIC VERNACULAR PEDAGOGY (OVP)
 
 This metastyle uses grounded, local metaphors. It treats deep physiological
 and social truths as accessible, shared knowledge.
