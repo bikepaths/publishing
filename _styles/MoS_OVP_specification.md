@@ -32,11 +32,15 @@ These rules apply to all four publication formats without exception.
 Violation of any rule is grounds for rejection at review.
 
 **Rule 1 — The Grounded Metaphor**
+Every document must open with an extended physical metaphor anchoring the core abstract concept.
 Replace abstract, high-technology, or academic analogies with physical,
-universally understood mechanics. Compare systems to engines, batteries,
-homes, soil, water, or seed. Do not compare systems to software,
-algorithms, or market instruments unless the subject demands it and no
-physical equivalent exists.
+universally understood mechanics. Acceptable metaphor extensions include:
+- Agricultural mechanics (soil, water, planting, harvest, weather)
+- Basic structural engineering (foundations, load-bearing walls, fatigue)
+- Simple thermodynamics (engines, fuel, heat, friction, cooling)
+- Anatomical processes (circulation, digestion, healing, infection)
+Map all abstract concepts directly onto these physical mechanics throughout the narrative.
+Do not compare systems to software, algorithms, or market instruments unless the subject demands it and no physical equivalent exists.
 
 **Rule 2 — The Eliminative Rhythm**
 Absolute prohibition:
