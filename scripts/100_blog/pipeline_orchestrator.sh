@@ -22,4 +22,6 @@ if [[ "$auth" != "y" && "$auth" != "Y" ]]; then
 fi
 
 python3 scripts/100_blog/deploy_asset.py "$FILE"
+echo "--- INITIATING GLOBAL SYNC ---"
+bash scripts/100_blog/sync_bikepaths_blog.sh
 echo "--- PIPELINE COMPLETE ---"
