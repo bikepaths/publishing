@@ -41,6 +41,7 @@ universally understood mechanics. Acceptable metaphor extensions include:
 - Anatomical processes (circulation, digestion, healing, infection)
 Map all abstract concepts directly onto these physical mechanics throughout the narrative.
 Do not compare systems to software, algorithms, or market instruments unless the subject demands it and no physical equivalent exists.
+Restrict discussion to a single metaphor unless complexity dictates another.
 
 **Rule 2 — The Eliminative Rhythm**
 Absolute prohibition:

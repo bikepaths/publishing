@@ -151,7 +151,7 @@ def generate_draft(raw_file):
     
     if api_key:
         url = "https://openrouter.ai/api/v1/chat/completions"
-        prompt = f"You are an elite editorial system executing the Full Spectrum Publishing Pipeline.\n\n### MASTER SPECIFICATION ###\n{mos_content}\n\n### TASK ###\nWrite a cohesive, narrative CMS Web Post (Format 1) based on these facts:\n\n{body_content}\n\nCONSTRAINTS:\n1. Adhere STRICTLY to the OVP Metastyle (Section 2) and all cross-format consistency rules.\n2. Ensure exactly ONE single extended physical metaphor is used throughout the entire document.\n3. Format: Start your response EXACTLY with these three lines:\nTitle: [Insert Title]\nDescription: [Insert 1-sentence description]\nTags: [Pick EXACTLY 3 tags from this authorized list ONLY: money, society, skills, systems, nature, technology, adventure, health, history, mind]\n\nThen leave a blank line and write the narrative body."
+        prompt = f"You are an elite editorial system executing the Full Spectrum Publishing Pipeline.\n\n### MASTER SPECIFICATION ###\n{mos_content}\n\n### TASK ###\nWrite a cohesive, narrative CMS Web Post (Format 1) based on these facts:\n\n{body_content}\n\nFollow OVP MoS explicitly with NO other instructions."
         data = {"model": "gpt-4o-mini", "messages": [{"role": "user", "content": prompt}]}
         headers = {"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
         req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
