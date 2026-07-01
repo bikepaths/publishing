@@ -454,6 +454,8 @@ def promote_draft(draft_file):
     filename = os.path.basename(draft_file)
     parts = filename.replace(".md", "").split("_")
     timestamp = parts[0]
+    if len(timestamp.split("-")) == 3:
+        timestamp = f"{timestamp}-06-00-00"
     
     blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(draft_file)))
     factoid_path = os.path.join(blog_dir, "facts", f"factoid_{timestamp}.md")

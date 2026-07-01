@@ -230,7 +230,7 @@ This is the operational design that separates an engineering framework from a po
 
 There is a sequence to recovery that the body enforces whether or not the city acknowledges it. The body does not care about policy timelines or intake forms or housing availability. It moves through its own stages of damage and repair at its own speed, in response to its own conditions. A framework that ignores this sequence does not eliminate it. It collides with it, and the body loses.
 
-[Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md) in this series described the descent, the three stages of biological damage that exposure produces over days and weeks. This post describes the reversal. What does it take to actually stop the spiral? What does the body need before it can receive anything else?
+[Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md) in this series described the descent, the three stages of biological damage that exposure produces over days and weeks. This document clearly describes the reversal. What does it take to actually stop the spiral? What does the body need before it can receive anything else?
 
 The answer is called Phase Zero. It is the missing first step in almost every city's response to homelessness.
 
@@ -362,7 +362,7 @@ That offer is receivable. It has been earned.
 
 **When Persuasion Cannot Reach — Part 7 of 11**
 
-[Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md) described the person whose refusal of housing is rational, whose objections are real and whose barriers are concrete and removable. This post describes a different person. This person cannot be reached by better offers, longer outreach relationships, or more skilled persuasion. Not because they have decided against housing. Because the neurological faculty that would process the offer and produce a decision has been damaged by disease.
+[Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md) described the person whose refusal of housing is rational, whose objections are real and whose barriers are concrete and removable. This post describes a different person. This person cannot be reached by better offers, longer outreach relationships, or more skilled persuasion. Not because they have decided against housing. The neurological faculty that would process the offer and produce a decision has been damaged by disease.
 
 Understanding this distinction is among the most important things this series will ask of the reader. Getting it wrong in one direction produces unnecessary coercion. Getting it wrong in the other direction leaves people to die on the street in the name of protecting their freedom.
 
