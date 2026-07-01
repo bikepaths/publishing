@@ -81,6 +81,11 @@ mandatory metadata form before each generation task.
 **Purpose:** Inform and engage the GYLC community and invited public
 readers via self-hosted CMS on private VM.
 
+**Web Post Constraints:**
+- Grade Level: 8th-grade conversational English (Flesch-Kincaid 7.0-10.0).
+- Structure: 3-5 flowing paragraphs.
+- Headings: Do not use #, ##, or ### headings. Only #### or bold headings are permitted.
+
 ### 3.2 FORMAT 2 — Pedagogical Paper
 
 **Purpose:** Develop a topic with structured argumentation for internal
@@ -114,9 +119,12 @@ These rules apply across all four formats without exception.
 
 ### 4.1 Prohibited words and constructions
 - "utilize" — use "use"
+- "leverage", "fosters", "greatly", "solely"
+- "nuanced", "holistic", "seamless", "heavy", "heavily"
+- "essential", "fundamentally", "specifically", "perfectly"
 - Em-dash in any form
 - "not X, but Y" synthetic contrast
-- "In conclusion" as section opener
+- "In conclusion" or "In summary" as section opener
 - "It is important to note that"
 - "As mentioned above" or "As stated previously"
 - "etc." — complete the list or restructure the sentence
