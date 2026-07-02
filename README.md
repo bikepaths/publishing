@@ -11,9 +11,7 @@ Repository functions as unified system that consolidates three publishing stream
 ## Operational Framework
 
 - **scripts**: Directory contains pre-push verification hook. Hook intercepts and blocks commits failing remote HTTP checks before pushing changes to origin. Nested folders manage database backups, KDP synchronization workflows, and other automated routines.
-- **_styles**: Directory houses semantic registers that dictate style and formatting rules.
-- **profile.md**: File defines operational parameters that enforce specified terminology, syntax, and punctuation rules.
-
+- **_styles**: Directory houses semantic registers that dictate style and formatting rules, including `profile.md` which defines operational terminology, syntax, and punctuation constraints.
 ## Development Cycle
 
 Current development cycle prioritizes unified pipeline execution or new project initialization.
