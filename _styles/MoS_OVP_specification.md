@@ -10,9 +10,8 @@ Publishing Pipeline.
 
 All content originates in the Organic Vernacular Pedagogy (OVP) metastyle.
 
-Word counts for each publication are confirmed at generation time via the
-mandatory metadata form. The ranges listed here are operational defaults
-only. The spokesperson may override them at confirmation.
+Word counts and document length for each publication are governed by subject
+complexity, not arbitrary defaults. The Sysop may override at any time.
 
 ---
 
@@ -76,17 +75,21 @@ mandatory metadata form before each generation task.
 
 ### 3.1 FORMAT 1 — CMS Web Post
 
+> **AUTHORITATIVE SPECIFICATION:** This section is the sole governing
+> document for all Format 1 web post generation. It supersedes any
+> derivative or simplified prompt documents (e.g. archived Lite versions).
+
 **Purpose:** Inform and engage the GYLC community and invited public
 readers via self-hosted CMS on private VM.
 
 **Web Post Constraints:**
-- Grade Level: 8th-grade pedagogical English (Flesch-Kincaid 7.0-10.0). Do not phoneticize numbers (e.g., use numerals like "2005").
-- Structure: 3-5 flowing paragraphs.
+- Vocabulary: CEFR B2+ common-word register. Enforced via automated pipeline verification against `100_blog/06_data/cefr_b2_dict.txt`. Do not phoneticize numbers (e.g., use numerals like "2005").
+- Structure: Dynamic length. Use as many paragraphs as subject complexity demands. No paragraph ceiling.
 - Headings: Do not use #, ##, or ### headings. Only #### or bold headings are permitted.
 - Metadata Format: Start your response EXACTLY with these three lines before the narrative body:
   Title: [Insert Title]
   Description: [Insert 1-sentence description]
-  Tags: [Pick EXACTLY 3 tags from this authorized list ONLY: money, society, skills, systems, nature, technology, adventure, health, history, mind]
+  Tags: [Pick EXACTLY 6 tags. First tag MUST be from the primary category list: money, society, skills, systems, nature, technology, adventure, health, history, mind. Remaining 5 tags from approved tags.lang whitelist.]
 
 ### 3.2 FORMAT 2 — Pedagogical Paper
 

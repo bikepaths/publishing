@@ -35,29 +35,6 @@ CONJUNCTIONS_REGEX = re.compile(r'^\s*(because|since)\b', re.IGNORECASE)
 BINARY_FOIL_REGEX = re.compile(r'\b(?:is|are|was|were)\s+not\b[^.!?]*[.!?]\s*(?:It|This|They)\s+(?:is|are|was|were)\b', re.IGNORECASE)
 TRICOLON_REGEX = re.compile(r'(?:[a-zA-Z0-9_ -]+,\s*){2,}and\s+[a-zA-Z0-9_ -]+', re.IGNORECASE)
 
-def count_syllables(word):
-    word = word.lower()
-    word = re.sub(r'[^a-z]', '', word)
-    if len(word) <= 3:
-        return 1
-    word = re.sub(r'(?:[^laeiouy]es|ed|[^laeiouy]e)$', '', word)
-    word = re.sub(r'^y', '', word)
-    matches = re.findall(r'[aeiouy]{1,2}', word)
-    return max(1, len(matches))
-
-def get_flesch_kincaid(text):
-    clean_text = re.sub(r'<!--.*?-->', '', text, flags=re.DOTALL)
-    words = re.findall(r'\b[a-zA-Z]+\b', clean_text)
-    sentences = re.split(r'(?<=[.!?])\s+', clean_text.strip())
-    sentences = [s for s in sentences if s.strip()]
-    if not words or not sentences:
-        return 0.0
-    num_words = len(words)
-    num_sentences = len(sentences)
-    num_syllables = sum(count_syllables(w) for w in words)
-
-    fk = 0.39 * (num_words / num_sentences) + 11.8 * (num_syllables / num_words) - 15.59
-    return round(fk, 1)
 
 def verify_file(filepath):
     """
@@ -167,24 +144,27 @@ def verify_file(filepath):
             if len(s_words) < 6:
                 print(f"  [WARNING] Pass 2: Staccato sentence detected (less than 6 words): {s_clean}")
 
-    # Pass 2.1: Readability Check
+    # Pass 2.1: CEFR B2+ Vocabulary Check
     project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     cefr_dict_path = os.path.join(project_root, "100_blog", "06_data", "cefr_b2_dict.txt")
+    CEFR_FAIL_THRESHOLD = 10
     if os.path.isfile(cefr_dict_path):
         with open(cefr_dict_path, "r", encoding="utf-8") as df:
             cefr_words = set(df.read().lower().split())
         words_in_doc = set([w.lower() for w in re.findall(r'\b[a-zA-Z]+\b', clean_text)])
         out_of_bounds = words_in_doc - cefr_words
-        if out_of_bounds:
-            print(f"  [WARNING] Pass 2: {len(out_of_bounds)} words exceed CEFR B2+ ceiling. Examples: {list(out_of_bounds)[:5]}")
+        if len(out_of_bounds) > CEFR_FAIL_THRESHOLD:
+            print(f"  [FAIL] Pass 2: {len(out_of_bounds)} words exceed CEFR B2+ ceiling (threshold: {CEFR_FAIL_THRESHOLD}). Examples: {list(out_of_bounds)[:10]}")
+            style_failed = True
+        elif out_of_bounds:
+            print(f"  [WARNING] Pass 2: {len(out_of_bounds)} words near CEFR B2+ ceiling. Examples: {list(out_of_bounds)[:5]}")
         else:
             print("  [PASS] Pass 2: CEFR B2+ vocabulary ceiling verified.")
     else:
-        print("  [WARNING] Pass 2: CEFR B2+ dictionary missing. Vocabulary rarity verification bypassed.")
-        print("  [PASS] Pass 2: Flesch-Kincaid readability check bypassed (Legacy proxy retired).")
+        print("  [WARNING] Pass 2: CEFR B2+ dictionary not found. Vocabulary verification bypassed.")
 
     # Pass 2.2: Paragraph Structure Check
-    print(f"  [PASS] Pass 2: Paragraph length restrictions bypassed. Dynamic length authorized.")
+    print("  [PASS] Pass 2: Dynamic paragraph length authorized. No structural ceiling enforced.")
 
     # Pass 2.3: Structural Pattern Bans
     if BINARY_FOIL_REGEX.search(content):

@@ -42,7 +42,7 @@ Executes remote Secure Copy (SCP) transfers, creates missing remote directories,
 ## Composition Authorities
 **DO NOT use this README for stylistic or structural generative rules.** 
 All blog synthesis is strictly governed by external knowledge items and baseline documents:
-1.  **Master Manual of Style:** Located at `_styles/MoS_Systemic_Analysis.md`.
+1.  **Master Manual of Style:** Located at `_styles/MoS_OVP_specification.md` (Section 3.1 — Format 1: CMS Web Post). This is the authoritative governing document for all web post generation.
 2.  **Systemic Analysis KI:** Active agent constraint parameters.
 
 ## Metadata Requirements
