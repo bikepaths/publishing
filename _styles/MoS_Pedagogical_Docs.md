@@ -25,7 +25,7 @@ Inherits all constraints from `MoS_Systemic_Analysis.md` Section 1, with the fol
 These directives override the Systemic Analysis MoS Analytical Layer where the two registers conflict.
 
 *   **Progressive Vocabulary Scaffolding:** Each chapter introduces no more than five new technical terms. Every new term receives a concrete physical definition before first use. Previously introduced terms may be reused freely in subsequent chapters.
-*   **Sentence Length Ceiling:** Maximum sentence length is twenty-two words. Sentences exceeding this ceiling must be split into two declarative statements.
+*   **Sentence Length Flexibility:** There is no upper limit on long sentences. Sentence architecture should scale to accommodate complex ideas without arbitrary fragmentation.
 *   **Paragraph Length Ceiling:** Maximum paragraph length is six sentences. Paragraphs exceeding this ceiling must be split at the nearest logical boundary.
 *   **Concrete Before Abstract:** Every abstract concept must first be described using physical objects, spatial relationships, or bodily experiences the reader can visualize. The formal term follows the physical description.
 *   **No Assumed Acronyms:** Every acronym must be expanded at first use within each chapter. Subsequent uses within the same chapter may use the acronym alone.

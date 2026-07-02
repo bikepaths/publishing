@@ -31,15 +31,13 @@ through concrete, observable description.
 These rules apply to all four publication formats without exception.
 Violation of any rule is grounds for rejection at review.
 
-**Rule 1 — The Grounded Metaphor**
-Every document must open with an extended physical metaphor anchoring the core abstract concept.
-Replace abstract, high-technology, or academic analogies with physical,
-universally understood mechanics. Acceptable metaphor extensions include:
+**Rule 1 — The Grounded Metaphor (Optional)**
+Use physical metaphors only when necessary to introduce complex abstract systems. Do not force metaphors into straightforward pedagogical instruction.
+When required, replace abstract, high-technology, or academic analogies with physical, universally understood mechanics. Acceptable metaphor extensions include:
 - Agricultural mechanics (soil, water, planting, harvest, weather)
 - Basic structural engineering (foundations, load-bearing walls, fatigue)
 - Simple thermodynamics (engines, fuel, heat, friction, cooling)
 - Anatomical processes (circulation, digestion, healing, infection)
-Map all abstract concepts directly onto these physical mechanics throughout the narrative.
 Do not compare systems to software, algorithms, or market instruments unless the subject demands it and no physical equivalent exists.
 
 **Rule 2 — The Eliminative Rhythm**
@@ -82,7 +80,7 @@ mandatory metadata form before each generation task.
 readers via self-hosted CMS on private VM.
 
 **Web Post Constraints:**
-- Grade Level: 8th-grade conversational English (Flesch-Kincaid 7.0-10.0).
+- Grade Level: 8th-grade pedagogical English (Flesch-Kincaid 7.0-10.0). Do not phoneticize numbers (e.g., use numerals like "2005").
 - Structure: 3-5 flowing paragraphs.
 - Headings: Do not use #, ##, or ### headings. Only #### or bold headings are permitted.
 - Metadata Format: Start your response EXACTLY with these three lines before the narrative body:

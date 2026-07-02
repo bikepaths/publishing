@@ -11,39 +11,31 @@ This directory serves as the primary processing pipeline for systemic blog synth
 
 ## Pipeline Architecture
 
-The monolithic processing architecture has been disassembled into a decoupled, modular sequence orchestrated via `pipeline_orchestrator.sh`.
+The processing architecture has been fully decoupled into a modular 3-script sequence to ensure the Sysop can manually verify files in the IDE before advancing to the next stage.
 
-### 1. Global Orchestrator
-**`scripts/100_blog/pipeline_orchestrator.sh`**
-Acts as the central entry point. Enforces sequential execution, manages hard-stop validation failures, and mandates manual Sysop authorization prior to production deployment.
+### 1. Generation Layer
+**`scripts/100_blog/01_generate.sh`**
+Acts as the synthesis entry point. Reads a RAW file, interacts with OpenRouter API to generate the draft, automatically calculates 24-hour sequential scheduling, and optionally generates/converts WebP assets.
 
-### 2. Transformation Layer
-**`scripts/100_blog/transform_draft.py`**
-Applies baseline structural and syntactic transformations to raw drafts. Executes OVP compliance modifications (e.g., merging staccato sentences, replacing prohibited framework terminology) preparing the draft for verification.
+### 2. Verification Layer
+**`scripts/100_blog/02_verify.sh`**
+Runs the validation suite (`verify_syntax.py`, `verify_metadata.py`, `verify_blog_post.py`) and structural transformations on the generated `_DRAFT.md` file. The execution halts completely after this script to force manual Sysop review in the IDE.
 
-### 3. Verification Layer
-*   **`scripts/100_blog/verify_syntax.py`**: Validates document readability (Flesch-Kincaid targets), sentence length ceilings (22-word limit), and style compliance.
-*   **`scripts/100_blog/verify_metadata.py`**: Audits HTML metadata comment blocks ensuring taxonomy adherence, timestamp accuracy, and required schema structures.
-
-### 4. Deployment Layer
-**`scripts/100_blog/deploy_asset.py`**
-Executes remote Secure Copy (SCP) transfers, creates missing remote directories, relocates local staging files into `03_posted/`, purges legacy redundant drafts, and clears the remote CMS cache directory.
-
-### 5. Synchronization Layer
-**`scripts/100_blog/sync_bikepaths_blog.sh`**
-Bidirectional global synchronizer. Pushes terminal virtual machine state to GitHub origin, then pulls changes into the local working directory guaranteeing global state parity.
+### 3. Deployment Layer
+**`scripts/100_blog/03_deploy.sh`**
+Executes remote Secure Copy (SCP) transfers, creates missing remote directories, relocates local staging files into `03_posted/`, purges legacy redundant drafts, clears the remote CMS cache directory, and invokes the bidirectional `sync_bikepaths_blog.sh` synchronizer.
 
 ---
 
 ## Step-by-Step Processing Sequence
 
-1.  **Draft Synthesis**: Place target draft into `02_draft/` ensuring filename ends with `_DRAFT.md`. Include required metadata comment blocks.
-2.  **Pipeline Initialization**: Execute `./scripts/100_blog/pipeline_orchestrator.sh 100_blog/02_draft/[filename]_DRAFT.md`.
-3.  **Automated Transformation**: Orchestrator triggers `transform_draft.py` modifying active file.
-4.  **Automated Verification**: Orchestrator triggers `verify_syntax.py` and `verify_metadata.py`. Any failure initiates a hard stop requiring manual remediation.
-5.  **Sysop Authorization Gate**: Execution halts. Orchestrator prompts: `Deploy [file] to production? (y/N)`. Sysop must manually audit and authorize.
-6.  **Remote Deployment**: `deploy_asset.py` transfers file to VM, relocates local tracking asset to `03_posted/`, and purges cached web assets.
-7.  **Global Synchronization**: Orchestrator triggers `sync_bikepaths_blog.sh` locking remote state into GitHub version control and mirroring to local repository.
+1.  **Draft Initialization**: Place target raw content into `02_draft/` ending with `_RAW.md`.
+2.  **Synthesis**: Execute `./scripts/100_blog/01_generate.sh 100_blog/02_draft/[filename]_RAW.md`.
+3.  **Visual Audit I**: Sysop manually inspects the newly generated `_DRAFT.md` file in the IDE, verifying the scheduled date and narrative format.
+4.  **Automated Verification**: Execute `./scripts/100_blog/02_verify.sh 100_blog/02_draft/[filename]_DRAFT.md`.
+5.  **Visual Audit II**: Sysop manually inspects the `_DRAFT.md` file in the IDE for any syntax changes or metadata corrections applied during verification.
+6.  **Remote Deployment**: Execute `./scripts/100_blog/03_deploy.sh 100_blog/02_draft/[filename]_DRAFT.md`.
+7.  **Global Synchronization**: `03_deploy.sh` automatically triggers `sync_bikepaths_blog.sh` locking remote state into GitHub version control and mirroring to local repository.
 
 ---
 
@@ -60,5 +52,5 @@ Required metadata tags block (embed as HTML comments anywhere in file):
 `<!--tag [primary_category,tag2,tag3] tag-->`
 `<!--image [image_filename.jpg or URL] image-->`
 
-*   **Tags:** Must contain exactly 1 primary category followed by up to 5 optional tags (max 6 total).
+*   **Tags:** Must contain exactly 6 tags (1 primary category followed by exactly 5 sub-tags).
 *   **Primary Categories:** `society`, `skills`, `systems`, `money`, `nature`, `technology`, `adventure`, `health`, `history`, `mind`.

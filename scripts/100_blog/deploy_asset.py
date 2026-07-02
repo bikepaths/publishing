@@ -86,7 +86,7 @@ def download_and_create_raw(filename):
         os.remove(local_temp)
     return True
 
-def generate_draft(raw_file):
+def generate_draft(raw_file, generate_image=False):
     """
     Generates draft post from raw file.
     """
@@ -112,30 +112,47 @@ def generate_draft(raw_file):
     body_content = re.sub(r'<!--original_filename.*?-->', '', content)
     body_content = re.sub(r'<!--original_image_link.*?-->', '', body_content).strip()
 
-    # If it is a timestamped file, extract slug
-    timestamp_pattern = r'^\d{4}-\d{2}-\d{2}-\d{2}-\d{2}-\d{2}$'
-    if re.match(timestamp_pattern, timestamp):
-        if len(parts) >= 3:
-            slug = parts[-1]
-        else:
-            orig_parts = orig_filename.replace(".md", "").split("_")
-            if len(orig_parts) >= 3:
-                slug = orig_parts[-1]
-            else:
-                slug = "_".join(orig_parts[1:])
+    orig_parts = orig_filename.replace(".md", "").split("_")
+    if len(orig_parts) >= 3:
+        slug = orig_parts[-1]
     else:
-        from datetime import datetime
-        timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
         slug = filename.replace(".md", "").replace("_", "-")
-        slug = re.sub(r'[^a-z0-9\-]', '', slug.lower())
-        slug = re.sub(r'-+', '-', slug).strip("-")
+    
+    slug = re.sub(r'[^a-z0-9\-]', '', slug.lower())
+    slug = re.sub(r'-+', '-', slug).strip("-")
+
+    from datetime import datetime, timedelta
+    import subprocess
+    blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(raw_file)))
+    latest_dt = datetime.now()
+    try:
+        find_cmd = ["ssh", "-p", VM_PORT, f"{VM_USER}@{VM_HOST}", f"find {REMOTE_PAGES_ROOT} -type f -name '*.md'"]
+        res = subprocess.run(find_cmd, capture_output=True, text=True, check=True)
+        for f_path in res.stdout.splitlines():
+            f_basename = os.path.basename(f_path)
+            f_parts = f_basename.split("_")
+            if len(f_parts) >= 3:
+                try:
+                    dt = datetime.strptime(f_parts[0], "%Y-%m-%d-%H-%M-%S")
+                    if dt > latest_dt:
+                        latest_dt = dt
+                except ValueError:
+                    pass
+    except Exception as e:
+        print(f"Warning: Remote SSH query failed for scheduling. Using local time.")
+                
+    next_dt = latest_dt + timedelta(hours=24)
+    timestamp = next_dt.strftime("%Y-%m-%d-%H-%M-%S")
+    print(f"--- SCHEDULING ---")
+    print(f"Auto-scheduled date: {timestamp} (24h after remote latest post).")
+    print(f"Review and modify the timestamp in the generated file if necessary.")
 
     blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(raw_file)))
     draft_path = os.path.join(blog_dir, "02_draft", f"{timestamp}_{slug}_DRAFT.md")
 
     print("Initiating autonomous narrative synthesis via OpenRouter API...")
     
-    mos_path = os.path.join(os.path.dirname(blog_dir), "_styles", "MoS_OVP_specification.md")
+    mos_path = os.path.join(os.path.dirname(blog_dir), "_styles", "MoS_OVP_Lite.md")
     try:
         with open(mos_path, "r", encoding="utf-8") as mos_file:
             mos_content = mos_file.read()
@@ -149,9 +166,27 @@ def generate_draft(raw_file):
     tags_str = "[Tags]"
     body_text = "[Body content goes here]"
     
+    tags_file = os.path.join(blog_dir, "06_data", "tags.lang")
+    valid_tags_str = ""
+    try:
+        with open(tags_file, "r", encoding="utf-8") as tf:
+            tf_content = tf.read()
+            found_tags = re.findall(r's:\d+:"([^"]+)"', tf_content)
+            valid_tags = list(set(found_tags))
+            valid_tags_str = ", ".join(valid_tags)
+    except Exception as e:
+        print(f"Warning: Could not load tags.lang: {e}")
+    corpus_file = os.path.join(blog_dir, "03_posted", "series", "02_urban_survival", "full_corpus.md")
+    corpus_content = ""
+    try:
+        with open(corpus_file, "r", encoding="utf-8") as cf:
+            corpus_content = cf.read()
+    except Exception as e:
+        print(f"Warning: Could not load full_corpus.md: {e}")
+
     if api_key:
         url = "https://openrouter.ai/api/v1/chat/completions"
-        prompt = f"You are an elite editorial system executing the Full Spectrum Publishing Pipeline.\n\n### MASTER SPECIFICATION ###\n{mos_content}\n\n### TASK ###\nWrite a cohesive, narrative CMS Web Post (Format 1) based on these facts:\n\n{body_content}\n\nFollow OVP MoS explicitly with NO other instructions."
+        prompt = f"You are an elite editorial system executing the Full Spectrum Publishing Pipeline.\n\n### DOCUMENT A: RAW EVENT DATA ###\n{body_content}\n\n### DOCUMENT B: SYSTEMIC CORPUS PHILOSOPHY ###\n{corpus_content}\n\n### MASTER SPECIFICATION ###\n{mos_content}\n\n### VALID TAGS WHITELIST ###\n{valid_tags_str}\n\n### TASK INSTRUCTIONS ###\n1. Perform a comprehensive comparative synthesis. You must merge the specific events and facts of Document A deeply into the broader systemic philosophy and conceptual architecture of Document B.\n2. Do NOT restrict the length. Write an expansive, comprehensive narrative that fully explores the intersection of both documents.\n3. You MUST strictly adhere to the OVP MoS constraints provided in the Master Specification.\n4. CRITICAL: You MUST explicitly define any advanced clinical, systemic, or sociological terminology immediately upon first use in the narrative.\n5. Ensure reading level remains 8th-grade conversational English.\n6. Output exactly 6 tags in your 'Tags:' line. The FIRST tag must be exactly one primary category tag selected from this exact list: ['society', 'skills', 'systems', 'money', 'nature', 'technology', 'adventure', 'health', 'history', 'mind']. Select the remaining 5 tags EXCLUSIVELY from the VALID TAGS WHITELIST provided above.\n\nFollow these instructions explicitly with NO other actions."
         data = {"model": "gpt-4o-mini", "messages": [{"role": "user", "content": prompt}]}
         headers = {"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
         req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
@@ -173,6 +208,50 @@ def generate_draft(raw_file):
     else:
         print("Warning: OPENROUTER_API_KEY not found. Falling back to placeholder.")
 
+    print(f"--- IMAGE GENERATION ---")
+    if generate_image:
+        openai_key = os.environ.get("OPENAI_API_KEY")
+        if openai_key:
+            print("Requesting image from DALL-E 3...")
+            img_url = "https://api.openai.com/v1/images/generations"
+            img_prompt = f"Realistic, 16:9 cinematic, landscape orientation. Visual concept for article titled '{title}'. No text or words."
+            img_data = {"model": "dall-e-3", "prompt": img_prompt, "n": 1, "size": "1024x1024"}
+        img_headers = {"Content-Type": "application/json", "Authorization": f"Bearer {openai_key}"}
+        img_req = urllib.request.Request(img_url, data=json.dumps(img_data).encode("utf-8"), headers=img_headers)
+        try:
+            with urllib.request.urlopen(img_req) as response:
+                res_json = json.loads(response.read())
+                download_url = res_json["data"][0]["url"]
+                
+                import string
+                stopwords = {"the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for", "of", "with", "vs", "by", "is", "are"}
+                words = [w.strip(string.punctuation).lower() for w in title.split() if w.lower() not in stopwords]
+                img_keywords = "_".join(words[:4]) if words else "default_visual_asset_image"
+                
+                local_img_dir = os.path.join(blog_dir, "05_img", "webp")
+                os.makedirs(local_img_dir, exist_ok=True)
+                
+                png_path = os.path.join(local_img_dir, f"{img_keywords}.png")
+                webp_path = os.path.join(local_img_dir, f"{img_keywords}.webp")
+                
+                img_bytes = urllib.request.urlopen(download_url).read()
+                with open(png_path, "wb") as f_img:
+                    f_img.write(img_bytes)
+                    
+                print("Converting and cropping to WEBP landscape format...")
+                try:
+                    subprocess.run(["cwebp", "-crop", "0", "192", "1024", "640", "-q", "80", png_path, "-o", webp_path], capture_output=True, check=True)
+                    os.remove(png_path)
+                    image_link = f"https://bikepaths.org/blog/content/images/webp/{img_keywords}.webp"
+                    print(f"[SUCCESS] Image generated and saved to {webp_path}")
+                except (subprocess.CalledProcessError, FileNotFoundError):
+                    print("Warning: cwebp conversion failed. Keeping PNG.")
+                    image_link = f"https://bikepaths.org/blog/content/images/webp/{img_keywords}.png"
+        except Exception as e:
+            print(f"Image generation failed: {e}")
+    else:
+        print("Image generation disabled (use --image to enable).")
+        
     draft_content = f"<!--t {title} t-->\n<!--d {desc} d-->\n<!--tag {tags_str} tag-->\n<!--image {image_link} image-->\n\n{body_text}\n"
 
     with open(draft_path, "w", encoding="utf-8") as f:
@@ -236,12 +315,12 @@ def deploy_and_cleanup(posted_file):
         return False
 
     image_val = metadata["image"]
-    is_remote_image = image_val.startswith("http://") or image_val.startswith("https://")
     image_filename = os.path.basename(image_val)
-    local_image_path = os.path.join(blog_dir, "05_img", image_filename)
+    local_image_path = os.path.join(blog_dir, "05_img", "webp", image_filename)
+    has_local_image = os.path.isfile(local_image_path)
 
-    if not is_remote_image and not os.path.isfile(local_image_path):
-        print(f"Error: local image {local_image_path} not found.")
+    if not has_local_image and not (image_val.startswith("http://") or image_val.startswith("https://")):
+        print(f"Error: local image {local_image_path} not found and no remote URL provided.")
         return False
 
     # Parse timestamp to determine target directory based on future scheduling
@@ -272,9 +351,16 @@ def deploy_and_cleanup(posted_file):
         print(f"Error uploading post: {err}")
         return False
 
-    if not is_remote_image:
-        remote_image_dest = f"{REMOTE_IMAGES}/{image_filename}"
-        print(f"Uploading image to: {remote_image_dest}")
+    if has_local_image:
+        remote_image_dest = f"{REMOTE_IMAGES}/webp/{image_filename}"
+        print(f"Uploading local image to: {remote_image_dest}")
+        
+        mkdir_img_cmd = ["ssh", "-p", VM_PORT, f"{VM_USER}@{VM_HOST}", f"mkdir -p {REMOTE_IMAGES}/webp"]
+        try:
+            subprocess.run(mkdir_img_cmd, check=True)
+        except subprocess.CalledProcessError:
+            pass
+
         img_cmd = ["scp", "-P", VM_PORT, local_image_path, f"{VM_USER}@{VM_HOST}:{remote_image_dest}"]
         try:
             subprocess.run(img_cmd, check=True)
@@ -508,6 +594,7 @@ if __name__ == "__main__":
     parser.add_argument("--deploy", type=str, help="Deploy post and run post-upload cleanups.")
     parser.add_argument("--verify-remote", action="store_true", help="Verify and fix remote file permissions/ownership.")
     parser.add_argument("--prepare-next", action="store_true", help="Automatically list, download, and prepare next post.")
+    parser.add_argument("--image", action="store_true", help="Enable optional image generation during draft synthesis.")
 
     args = parser.parse_args()
 
@@ -516,7 +603,7 @@ if __name__ == "__main__":
     elif args.download:
         download_and_create_raw(args.download)
     elif args.draft:
-        generate_draft(args.draft)
+        generate_draft(args.draft, generate_image=args.image)
     elif args.deploy:
         target_file = args.deploy
         if target_file.endswith("_DRAFT.md") or "drafts" in target_file or "/02_draft/" in target_file:
