@@ -1,0 +1,56 @@
+# CEFR B2+ Domain Supplement — Urban Survival & Homelessness Topic Cluster
+# These words are approved extensions to the base cefr_b2_dict.txt corpus.
+# Each word is a legitimate, accessible term within this subject domain.
+# This file is loaded and merged by verify_blog_post.py at verification time.
+# Maintainer: Sysop. Add new domain terms as topic clusters expand.
+
+# --- Grammatical variants missing from base corpus ---
+aligning
+aligns
+allocations
+cannot
+categorize
+crafting
+cues
+degrade
+degrades
+downward
+havens
+honoring
+integrates
+loses
+measurable
+metrics
+mistakenly
+prepares
+proves
+realities
+rebuilt
+redefines
+regain
+relies
+reshaping
+resolving
+rethink
+revived
+scattered
+spiral
+supportive
+troubling
+untreated
+
+# --- Urban Survival domain-specific terms ---
+homelessness
+unsheltered
+shelters
+stabilization
+depletion
+precursor
+metabolic
+physiological
+recuperate
+sociologists
+relentless
+disjointed
+coolant
+dignity

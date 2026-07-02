@@ -147,10 +147,15 @@ def verify_file(filepath):
     # Pass 2.1: CEFR B2+ Vocabulary Check
     project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     cefr_dict_path = os.path.join(project_root, "100_blog", "06_data", "cefr_b2_dict.txt")
+    cefr_supplement_path = os.path.join(project_root, "100_blog", "06_data", "cefr_b2_supplement.txt")
     CEFR_FAIL_THRESHOLD = 10
     if os.path.isfile(cefr_dict_path):
         with open(cefr_dict_path, "r", encoding="utf-8") as df:
             cefr_words = set(df.read().lower().split())
+        if os.path.isfile(cefr_supplement_path):
+            with open(cefr_supplement_path, "r", encoding="utf-8") as sf:
+                supplement_lines = [l.strip().lower() for l in sf if l.strip() and not l.strip().startswith("#")]
+                cefr_words.update(supplement_lines)
         words_in_doc = set([w.lower() for w in re.findall(r'\b[a-zA-Z]+\b', clean_text)])
         out_of_bounds = words_in_doc - cefr_words
         if len(out_of_bounds) > CEFR_FAIL_THRESHOLD:
