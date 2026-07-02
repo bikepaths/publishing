@@ -41,7 +41,6 @@ universally understood mechanics. Acceptable metaphor extensions include:
 - Anatomical processes (circulation, digestion, healing, infection)
 Map all abstract concepts directly onto these physical mechanics throughout the narrative.
 Do not compare systems to software, algorithms, or market instruments unless the subject demands it and no physical equivalent exists.
-Restrict discussion to a single metaphor unless complexity dictates another.
 
 **Rule 2 — The Eliminative Rhythm**
 Absolute prohibition:
@@ -86,6 +85,10 @@ readers via self-hosted CMS on private VM.
 - Grade Level: 8th-grade conversational English (Flesch-Kincaid 7.0-10.0).
 - Structure: 3-5 flowing paragraphs.
 - Headings: Do not use #, ##, or ### headings. Only #### or bold headings are permitted.
+- Metadata Format: Start your response EXACTLY with these three lines before the narrative body:
+  Title: [Insert Title]
+  Description: [Insert 1-sentence description]
+  Tags: [Pick EXACTLY 3 tags from this authorized list ONLY: money, society, skills, systems, nature, technology, adventure, health, history, mind]
 
 ### 3.2 FORMAT 2 — Pedagogical Paper
 
