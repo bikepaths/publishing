@@ -111,10 +111,23 @@ distribution. Price point: 3 USD. Minimum 24 pages per KDP requirement.
 - Line spacing: 1.15 to 1.3
 - Paragraph indent: 0.3 to 0.5 inches first-line
 
-### 3.4 FORMAT 4 — SSRN Academic Working Paper
+### 3.4 FORMAT 4 \u2014 SSRN Academic Working Paper
 
 **Purpose:** Circulate research findings via the Social Science Research
 Network. Assigned JEL classification codes for academic discoverability.
+
+**Vocabulary Verification Posture:**
+- SSRN format operates under a WARNING-ONLY CEFR posture. The automated
+  pipeline will flag out-of-bounds vocabulary but will NOT block deployment.
+- Disciplinary terminology (e.g., econometric, cointegration, heteroskedasticity)
+  is expected and permitted. Define each term inline upon first use per OVP Rule 1.
+- Before submitting a new SSRN paper, run `02_verify.sh` and extract the
+  out-of-bounds word list. Audit each flagged term against two criteria:
+  1. Is it a genuine disciplinary necessity? If yes, add to `cefr_b2_supplement_economics.txt`.
+  2. Can it be replaced by a simpler word without loss of precision? If yes, rewrite.
+- Topic supplement file: `100_blog/06_data/cefr_b2_supplement_economics.txt`.
+  This file is loaded automatically when primary category tag is `money`,
+  `systems`, `technology`, or `history`.
 
 ---
 

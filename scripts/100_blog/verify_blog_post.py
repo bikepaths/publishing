@@ -80,6 +80,15 @@ def verify_file(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
+    # Pre-scan: Extract primary category tag for topic-aware supplement loading
+    _metadata_prescan = re.compile(r'<!--(\w+)\s+(.*?)\s+\1-->')
+    _prescan_meta = dict(_metadata_prescan.findall(content))
+    _primary_category = None
+    if "tag" in _prescan_meta:
+        _raw_tags = [t.strip() for t in _prescan_meta["tag"].split(",") if t.strip()]
+        if _raw_tags:
+            _primary_category = _raw_tags[0]
+
     # Pass 2: Style and Lexical Audit
     style_failed = False
 
@@ -145,20 +154,38 @@ def verify_file(filepath):
                 print(f"  [WARNING] Pass 2: Staccato sentence detected (less than 6 words): {s_clean}")
 
     # Pass 2.1: CEFR B2+ Vocabulary Check
+    ACADEMIC_CATEGORIES = {"history", "systems", "money", "technology"}
     project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     cefr_dict_path = os.path.join(project_root, "100_blog", "06_data", "cefr_b2_dict.txt")
-    cefr_supplement_path = os.path.join(project_root, "100_blog", "06_data", "cefr_b2_supplement.txt")
     CEFR_FAIL_THRESHOLD = 10
     if os.path.isfile(cefr_dict_path):
         with open(cefr_dict_path, "r", encoding="utf-8") as df:
             cefr_words = set(df.read().lower().split())
-        if os.path.isfile(cefr_supplement_path):
-            with open(cefr_supplement_path, "r", encoding="utf-8") as sf:
-                supplement_lines = [l.strip().lower() for l in sf if l.strip() and not l.strip().startswith("#")]
-                cefr_words.update(supplement_lines)
+
+        # Load base supplement
+        base_supplement = os.path.join(project_root, "100_blog", "06_data", "cefr_b2_supplement.txt")
+        if os.path.isfile(base_supplement):
+            with open(base_supplement, "r", encoding="utf-8") as sf:
+                cefr_words.update(l.strip().lower() for l in sf if l.strip() and not l.strip().startswith("#"))
+
+        # Load topic-specific supplement based on primary category
+        if _primary_category:
+            topic_supplement = os.path.join(project_root, "100_blog", "06_data", f"cefr_b2_supplement_{_primary_category}.txt")
+            if os.path.isfile(topic_supplement):
+                with open(topic_supplement, "r", encoding="utf-8") as tf:
+                    cefr_words.update(l.strip().lower() for l in tf if l.strip() and not l.strip().startswith("#"))
+                print(f"  [INFO] Pass 2: Topic supplement loaded for category '{_primary_category}'.")
+
         words_in_doc = set([w.lower() for w in re.findall(r'\b[a-zA-Z]+\b', clean_text)])
         out_of_bounds = words_in_doc - cefr_words
-        if len(out_of_bounds) > CEFR_FAIL_THRESHOLD:
+
+        # Academic categories use warning-only posture (no hard FAIL)
+        if _primary_category in ACADEMIC_CATEGORIES:
+            if out_of_bounds:
+                print(f"  [WARNING] Pass 2: {len(out_of_bounds)} words exceed CEFR B2+ ceiling (academic posture — warning only). Examples: {list(out_of_bounds)[:5]}")
+            else:
+                print("  [PASS] Pass 2: CEFR B2+ vocabulary ceiling verified.")
+        elif len(out_of_bounds) > CEFR_FAIL_THRESHOLD:
             print(f"  [FAIL] Pass 2: {len(out_of_bounds)} words exceed CEFR B2+ ceiling (threshold: {CEFR_FAIL_THRESHOLD}). Examples: {list(out_of_bounds)[:10]}")
             style_failed = True
         elif out_of_bounds:

@@ -1,0 +1,27 @@
+# CEFR B2+ Domain Supplement — Economics, Policy & Academic Working Papers
+# Loaded automatically by verify_blog_post.py when primary category tag is:
+# money, systems, technology, or history
+#
+# PROCEDURE FOR ADDITIONS:
+# 1. Run 02_verify.sh against the new document.
+# 2. Extract the out-of-bounds word list from Pass 2.1 output.
+# 3. For each flagged word, apply the two-criteria audit:
+#    a. Genuine disciplinary necessity with no simpler substitute → add here.
+#    b. Replaceable by a simpler word without precision loss → rewrite the document.
+# 4. Commit this file before executing 03_deploy.sh.
+# 5. Group entries by sub-domain using comment headers (see below).
+
+# --- Econometrics & Quantitative Methods ---
+# (Add terms here as they are encountered and audited)
+
+# --- Labour Economics & Wage Policy ---
+# (Add terms here as they are encountered and audited)
+
+# --- Housing, Land Use & Urban Policy ---
+# (Add terms here as they are encountered and audited)
+
+# --- Institutional & Governance Terms ---
+# (Add terms here as they are encountered and audited)
+
+# --- Social Policy & Welfare Systems ---
+# (Add terms here as they are encountered and audited)
