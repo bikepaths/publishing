@@ -8,18 +8,24 @@ Working Paper - May 2026
 ABSTRACT
 Chronic street homelessness in Los Angeles persists because the physiological prerequisites
 for maintaining housing are absent at the moment of placement. Finland reduced long-term
-homelessness by sixty-eight percent through a national welfare infrastructure that provides those
-prerequisites before housing entry. The United States places individuals in housing while they
-remain in acute physiological crisis, producing sub-forty percent retention despite twenty-four
-billion dollars in California expenditure since 2019. The Material Dignity Infrastructure closes
-this sequencing gap. Phase Zero deploys MHRC-licensed sub-sixteen-unit clusters delivering
-metabolic, neurological, and nutritional stabilization under a DSM-5 protocol funded through
-Medi-Cal sub-acute billing at fifty percent federal participation before any permanent placement
-occurs. Five parallel operations follow: ACT field engagement over twelve to twenty-four months;
-CARE Court and Assisted Outpatient Treatment for compelled pathways; two thousand prematched units at One California Plaza; riparian encampment abatement through field mapping
-and Clean Water Act proceedings; and STC 65 acoustic sanctuaries sustaining residents postplacement. The fiscal model generates an eighty-two-million-dollar annual Efficiency Surplus
-per tower. Seven binary verification metrics constitute the Singular Prototype Threshold. All
-seven must pass before network expansion proceeds.
+homelessness by 68 percent through a national welfare infrastructure that provides those
+prerequisites before housing entry.
+
+The United States places individuals in housing while
+
+they remain in acute physiological crisis, producing sub-40 percent retention despite 24 billion
+dollars in California expenditure since 2019 (UCSF Benioff Homelessness and Housing Initiative,
+2023); consequently, the Material Dignity Infrastructure closes this sequencing gap. Phase Zero
+deploys MHRC-licensed sub-16 unit clusters delivering metabolic, neurological, and nutritional
+stabilization under a DSM-5 protocol funded through Medi-Cal sub-acute billing at 50 percent
+federal participation before any permanent placement occurs. This physiological clearance
+sequence precedes five parallel operations: ACT field engagement over 12 to 24 months; CARE
+Court and Assisted Outpatient Treatment for compelled pathways; 2,000 pre-matched units at
+One California Plaza; riparian encampment abatement through field mapping and Clean Water
+Act proceedings; and Ontological Permanence Architecture sustaining residents post-placement.
+The fiscal model generates an annual Efficiency Surplus ranging from 33 to 82 million dollars
+per tower; simultaneously, eight binary verification metrics constitute the Singular Prototype
+Threshold. Every metric must pass before network expansion proceeds.
 
 Working Paper, May 2026
 
@@ -47,15 +53,15 @@ Target eJournals
 
 Statement of Necessity
 Los Angeles is experiencing a three-dimensional structural failure involving housing, public health, and fiscal policy.
-Despite twenty-four billion dollars in expenditure since 2019, forty-six thousand unsheltered individuals remain on
-the street; furthermore, mortality among the unhoused has accelerated to create a thirty-year life expectancy gap.
-Current systems fail because they violate causal necessity by deploying housing before the physiological prerequisites for
-maintaining tenure are present. Whereas Finland solved chronic homelessness by providing these prerequisites through
-a comprehensive national welfare infrastructure, the United States lacks such a foundational layer. The Material
-Dignity Infrastructure engineers a substitute for this missing infrastructure: a Metabolic Stabilization layer as Phase
-Zero that restores biological prerequisites before any permanent unit is offered. Because an alternative framework built
-on this causal foundation is required, the Material Dignity Infrastructure proposes a falsifiable, industrially specified
-pipeline extending from street engagement through permanent residential stabilization.
+Despite 24 billion dollars in expenditure since 2019, 46,000 unsheltered individuals remain on the street; furthermore,
+mortality among the unhoused has accelerated to create a 30-year life expectancy gap. Current systems fail because they
+violate causal necessity by deploying housing before the physiological prerequisites for maintaining tenure are present.
+Whereas Finland solved chronic homelessness by providing these prerequisites through a comprehensive national welfare
+infrastructure, the United States lacks such a foundational layer. The Material Dignity Infrastructure engineers
+a substitute for this missing infrastructure: a Metabolic Stabilization layer as Phase Zero that restores biological
+prerequisites before any permanent unit is offered. Because an alternative framework built on this causal foundation
+is required, the Material Dignity Infrastructure proposes a falsifiable, industrially specified pipeline extending from
+street engagement through permanent residential stabilization.
 Author’s Note
 The author engineered this framework from three decades of unsheltered lived experience. Direct observation of
 street-level structural failure produced the finalized industrial pipeline. Companion audio architecture available at
@@ -83,17 +89,17 @@ Contents
 2 Phase Zero: Metabolic Stabilization
 2.1 The Three-Gate Triage Decision Architecture . . . . . . . . . . . . . . . . . . . . . .
 2.2 The Civil Liberties Architecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.3 The Three Intake Pathways . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.3 The Three Concurrent Intake Pathways . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.4 The MHRC Cluster Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.5 The ST-65 Medical Utility Unit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5 The STC 65 Phase Zero Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.6 The Metabolic Stabilization Clinical Protocol . . . . . . . . . . . . . . . . . . . . . .
 2.7 The Three-Phase Diagnostic Protocol . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.8 Day-30 Functional Indicators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3 Phase One: Pre-Admission Field Architecture
-3.1 Phase 1: The By-Name HMIS Registry . . . . . . . . . . . . . . . . . . . . . . . . . .
-3.2 Phase 2: ACT Team Sustained Presence . . . . . . . . . . . . . . . . . . . . . . . . .
-3.3 Phase 3: The Warm Offer Window . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3.4 Phase 4: Encampment Resolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.1 Stage 1: The By-Name HMIS Registry . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.2 Stage 2: ACT Team Sustained Presence . . . . . . . . . . . . . . . . . . . . . . . . .
+3.3 Stage 3: The Warm Offer Window . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.4 Stage 4: Encampment Resolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3.5 ACT Workforce Sizing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3.6 Workforce Funding Stack . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4 The Legal Lever System: Parallel Compelled Pathway
@@ -101,13 +107,13 @@ Contents
 4.2 AOT: Assisted Outpatient Treatment . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4.3 LPS Conservatorship (SB 43 Expansion) . . . . . . . . . . . . . . . . . . . . . . . . .
 4.4 The Three-Instrument Decision Matrix . . . . . . . . . . . . . . . . . . . . . . . . . .
-5 Phase Two: Ground Floor Intake and Metabolic Stabilization
+5 Phase Two: Ground Floor Intake and Operational Continuity
 5.1 The Open Resource Center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5.2 Zone A: The Sally Port . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5.3 Zone B: Triage and Acuity Segmentation . . . . . . . . . . . . . . . . . . . . . . . . .
 5.4 The Incident Pathway and Outbreak Design . . . . . . . . . . . . . . . . . . . . . . .
 5.5 Acuity-Segmented Hygiene . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-5.6 Metabolic Stabilization: The Clinical Sequence . . . . . . . . . . . . . . . . . . . . . .
+5.6 Intake Stabilization Sequence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6 Phase Three: Ontological Architecture
 6.1 The Acoustic Sanctuary: STC 65 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6.2 The ALMU: Sovereign Cabin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -120,7 +126,7 @@ Contents
 2
 
 4
-5
+4
 6
 7
 7
@@ -137,128 +143,92 @@ Contents
 15
 15
 16
-17
-17
-17
+18
+18
 18
 19
-19
 20
+21
 22
-22
-23
-23
+24
 24
 25
 25
-25
-26
-26
-27
 27
 28
 28
 28
+29
+29
 30
 30
-32
-32
-32
+31
+31
+31
 33
+34
+35
+35
+35
+36
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-7.4 Animal Companions: The On-Site Facility Model . . . . . . . . . . . . . . . . . . . .
-7.5 The Residential Behavioral Floor . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-7.6 The Three Ps Infrastructure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-7.7 Digital Access Center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-7.8 Micro-Community Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.4 Animal Companions: The On-Site Facility Model . . . . . . . . . . . . . . . . . . . . 36
+7.5 The Residential Behavioral Floor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+7.6 The Three Ps Infrastructure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+7.7 Digital Access Center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+7.8 Micro-Community Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
 8 The Cybernetic Grid: Automated-Human Operational Balance
-8.1 The Telemetry Threshold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-8.2 CPTED: Natural Surveillance Over Digital Surveillance . . . . . . . . . . . . . . . . .
-8.3 The Robotic Platform: The Gausium Scrubber 50 . . . . . . . . . . . . . . . . . . . .
-8.4 Nocturnal Access Protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-8.5 Transportation Asset Management . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-8.6 Measure Alpha Cybernetic Allocation . . . . . . . . . . . . . . . . . . . . . . . . . . .
+39
+8.1 The Telemetry Threshold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+8.2 CPTED: Natural Surveillance Over Digital Surveillance . . . . . . . . . . . . . . . . . 39
+8.3 The Robotic Platform: The Gausium Scrubber 50 . . . . . . . . . . . . . . . . . . . . 40
+8.4 Nocturnal Access Protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+8.5 Transportation Asset Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+8.6 Measure Alpha Cybernetic Allocation . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
 9 Fiscal Architecture and the Efficiency Surplus
-9.1 Layer 0: Medi-Cal Sub-Acute Billing Through MHRC Licensure . . . . . . . . . . . .
-9.2 The Four-Layer Funding Stack . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-9.3 The Commercial Real Estate (CRE) Bailout Logic . . . . . . . . . . . . . . . . . . . .
-9.4 Prototype Capitalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-9.5 The Efficiency Surplus and Operational Tolerance . . . . . . . . . . . . . . . . . . . .
-9.6 Measure Alpha Integration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-9.7 Non-Profit Co-Location Economics . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-9.8 Seven-Stakeholder Value Hierarchy . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+9.1 Layer 0: Medi-Cal Sub-Acute Billing Through MHRC Licensure . . . . . . . . . . . . 42
+9.2 The Four-Layer Funding Stack . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+9.3 The Commercial Real Estate (CRE) Bailout Logic . . . . . . . . . . . . . . . . . . . . 43
+9.4 Prototype Capitalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+9.5 The Efficiency Surplus and Operational Tolerance . . . . . . . . . . . . . . . . . . . . 44
+9.6 Measure Alpha Integration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+9.7 Non-Profit Co-Location Economics . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+9.8 Seven-Stakeholder Value Hierarchy . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
 10 Legal Governance: The Stewardship Authority
-10.1 The TVA Model: Operational Autonomy . . . . . . . . . . . . . . . . . . . . . . . . .
-10.2 The Home Rule Stabilization Ordinance . . . . . . . . . . . . . . . . . . . . . . . . .
-10.3 Sovereign Acquisition via Receivership . . . . . . . . . . . . . . . . . . . . . . . . . .
-10.4 The Stewardship Contract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-10.5 The Rapid Transition Protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-10.6 Federal Supremacy Leasing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-10.7 Medical Classification Waiver . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+47
+10.1 The TVA Model: Operational Autonomy . . . . . . . . . . . . . . . . . . . . . . . . . 47
+10.2 The Home Rule Stabilization Ordinance . . . . . . . . . . . . . . . . . . . . . . . . . 47
+10.3 Sovereign Acquisition via Receivership . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+10.4 The Stewardship Contract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+10.5 The Rapid Transition Protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+10.6 Federal Supremacy Leasing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+10.7 Section 1115 Demonstration Waiver . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
 11 Comparative Models and Evidence Base
-11.1 Houston: The Way Home Validation . . . . . . . . . . . . . . . . . . . . . . . . . . .
-11.2 Finland: National Housing First Program . . . . . . . . . . . . . . . . . . . . . . . . .
-11.3 The French Gardien Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-11.4 EmPATH: Emergency Psychiatric Assessment Treatment and Healing . . . . . . . . .
-11.5 CIT: Crisis Intervention Team Memphis Model . . . . . . . . . . . . . . . . . . . . . .
-11.6 Adaptive Reuse Precedents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+11.1 Houston: The Way Home Validation . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+11.2 Finland: National Housing First Program . . . . . . . . . . . . . . . . . . . . . . . . . 51
+11.3 The French Gardien Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+11.4 EmPATH: Emergency Psychiatric Assessment Treatment and Healing . . . . . . . . . 52
+11.5 CIT: Crisis Intervention Team Memphis Model . . . . . . . . . . . . . . . . . . . . . . 53
+11.6 Adaptive Reuse Precedents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
 12 The Prototype Verification Threshold
-12.1 The Seven Verification Metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-12.2 The SPT Gate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-12.3 The Falsifiability Clause . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+12.1 The Eight Verification Metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+12.2 The SPT Gate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+12.3 The Falsifiability Clause . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
 13 Conclusion
+57
 A Operational Lexicon
+59
 References
+71
 
 3
-
-33
-34
-34
-35
-35
-36
-36
-36
-37
-37
-37
-38
-39
-39
-39
-40
-40
-41
-42
-42
-42
-43
-43
-43
-44
-44
-45
-45
-45
-46
-46
-46
-47
-47
-48
-48
-49
-49
-50
-50
-52
-54
-66
 
 Working Paper, May 2026
 
@@ -266,67 +236,69 @@ Material Dignity Infrastructure (Los Angeles)
 
 1. The Los Angeles Inflection Point
 The chronic street homelessness crisis in Los Angeles persists because the metropolitan urban design
-has reached a point of structural exhaustion. The city was built upon a post-war ideal of low-density
-residential ownership and automobile dependency; contemporary land values and infrastructure costs
-have rendered that model obsolete for the average worker. Consequently, the region is characterized
-by a profound housing imbalance: an abundance of per capita luxury inventory exists alongside a total
-absence of ”utility housing” for the working class. This architectural trap forces a transportation tax
-on the poor while leaving the most vulnerable with no soft landing in the private real estate market.
-Although the city contains fifty million square feet of vacant commercial inventory, it has failed to
-adapt these assets for human stabilization (GlobeSt, 2025). Since fiscal year 2019, California has spent
-twenty-four billion dollars on homelessness programs while the encampment population continued to
-grow; the crisis is not a matter of capital volume but of engineering sequence (California State
-Auditor, 2026; Los Angeles Homeless Services Authority, 2025).
-Legacy interventions fail because they violate the causal necessity of stabilization. Municipal encampment clearances produce a ”Leaf Blower Effect” that generates visible motion while achieving zero
-net population reduction because they lack a simultaneous destination. Congregate shelter models
-generate rational refusal by forcing individuals to choose between residency and survival anchors such
-as animal companions, partners, or personal possessions (United States Department of Agriculture,
-2023; U.S. Department of Housing and Urban Development, 2022). Finally, fragmented clinical
-outreach fails to match the multi-year engagement window required by a neurologically compromised
-population. These failures converge at a single point: the city offers housing to individuals who have
-not yet regained the physiological capacity for tenancy.
+has reached a point of structural exhaustion since the city was built upon a post-war ideal of lowdensity residential ownership and automobile dependency. Contemporary land values and infrastructure costs have rendered that model obsolete for the average worker whereas the resulting region is
+characterized by a profound housing imbalance. An abundance of per capita luxury inventory exists
+alongside a total absence of ”utility housing” for the working class to create an architectural trap that
+forces a transportation tax on the poor while leaving the most vulnerable with no soft landing in the
+private real estate market. Although the city contains 50 million square feet of vacant commercial
+inventory, it has failed to adapt these assets for human stabilization (GlobeSt, 2025). Since fiscal
+year 2019, California has spent 24 billion dollars on homelessness programs while the encampment
+population continued to grow; the crisis is not a matter of capital volume but of engineering sequence
+(California State Auditor, 2026; Los Angeles Homeless Services Authority, 2025).
+Legacy interventions fail because they violate the causal necessity of stabilization since municipal
+encampment clearances produce a ”Leaf Blower Effect” that generates visible motion while achieving
+zero net population reduction. These operations lack a simultaneous destination whereas congregate
+shelter models generate rational refusal by forcing individuals to choose between residency and
+survival anchors such as animal companions, partners, or personal possessions (United States Department of Agriculture, 2023; U.S. Department of Housing and Urban Development, 2022). Fragmented
+clinical outreach fails to match the multi-year engagement window required by a neurologically
+compromised population so that these failures converge at a single point where the city offers
+placement to individuals who have not yet regained the physiological capacity for tenancy.
 The Material Dignity Infrastructure (MDI) resequences this pipeline through three operational layers:
 a Clinical Field Architecture, a Legal Lever System for treatment-resistant cohorts, and a Terminal
-Infrastructure Node. Within this framework, the tower at One California Plaza is not the final
-solution to the urban housing crisis; rather, it is the stabilization destination that bridges the gap
-between the street and the sovereign real estate market. Because the street environment precludes
-recovery, the tower provides the metabolic gateway required to restore an individual’s biological
-prerequisites for housing maintenance.
-
+Infrastructure Node. Within this framework, the tower at One California Plaza functions as the
+stabilization destination that bridges the gap between the street and the sovereign real estate market.
+Because the street environment precludes recovery, the tower provides the metabolic gateway required
+to restore an individual’s biological prerequisites for long-term residential tenure.
+1.1. The Five Simultaneous Operations
+The objective is documented, sustained elimination of visible encampment homelessness within the
+defined geographic zone. The prototype operates against a fixed denominator of approximately 2,500
 4
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-1.1. The Five Simultaneous Operations
-The objective is documented, sustained elimination of visible encampment homelessness in the Los
-Angeles metropolitan corridor, reduction of the total unsheltered population by seventy to eighty
-percent at prototype verification threshold, and full remediation of all identified riparian encampment
-sites. Achieving this requires five operations running in parallel.
+unsheltered individuals within the Skid Row containment zone, achieving an 80 percent reduction via
+the 2,000-unit capacity at the 24-month prototype verification threshold, alongside full remediation
+of adjacent riparian encampments. Achieving metropolitan-scale impact requires expanding this
+prototype into a 20-tower network. Executing the initial prototype requires five operations running
+in parallel.
 The Field Architecture deploys Assertive Community Treatment teams to every chronic encampment
-corridor in the target zone, builds a by-name HMIS registry of every individual, and begins sustained
-presence engagement twelve to eighteen months before the first tower unit opens. Each named
-individual is matched to a specific unit, pod, and floor before the offer is made.
+corridor in the target zone, builds a continuous dynamic by-name HMIS registry of every individual,
+and executes sustained presence engagement over a standardized 12 to 24 month period. Because the
+registry tracks real-time behavioral data throughout this engagement window, each named individual
+is mapped and matched to a specific unit, pod, and floor prior to the final warm offer. The physical
+unit activation occurs through a phased occupancy rollout synchronized to the 75-bed Phase Zero
+stabilization throughput rather than a single simultaneous event.
 The Legal Lever System operates a parallel compelled clinical pathway. The MDI Stewardship
 Authority functions as a petitioning entity under CARE Court for individuals whose anosognosia
 or grave disability makes voluntary engagement clinically impossible. Assisted Outpatient Treatment mandates psychiatric compliance for the treatment-resistant. Lanterman-Petris-Short (LPS)
 Conservatorship provides the legal guardian mechanism for the profoundly gravely disabled. These
 instruments create a court-supervised pathway running in parallel to voluntary outreach.
-The coordinated unit activation opens the first tower at One California Plaza with two thousand
-units pre-matched to named individuals in the by-name registry. This activation transforms the offer
-from a generic referral into a specific, immediate, and irreversible commitment integrating a named
-room, a stored cart, a kenneled pet in the Level 2 facility, and a keycard.
+The coordinated unit activation opens the first tower at One California Plaza with 2,000 units prematched to named individuals in the by-name registry. This activation transforms the offer from a
+generic referral into a specific, immediate, and irreversible commitment integrating a named room, a
+stored cart, a kenneled pet in the Level 2 facility, and a keycard.
 The Environmental Compliance Enforcement Track addresses the hidden riparian sub-population
 occupying flood control channels, storm drains, and protected wetlands across the Los Angeles basin.
 These encampments produce documented federal regulatory violations including fecal coliform contamination exceeding Clean Water Act National Pollutant Discharge Elimination System (NPDES)
 permit standards, biological waste infiltration into protected habitat, and infrastructure obstruction
-within Army Corps of Engineers jurisdiction (United States Congress, 1972). Systematic field mapping of riparian corridors, using ground-based documentation teams and
-available aerial survey methods operating within established Fourth Amendment parameters,
-identifies and locates hidden encampments within the target zone. Environmental abatement
-proceedings trigger simultaneously with the warm housing offer. The legal basis for clearance
-is environmental protection. The MDI housing inventory
-provides the simultaneous placement required for clearance to be durable.
+within Army Corps of Engineers jurisdiction (United States Congress, 1972).
+
+Systematic field
+
+mapping of riparian corridors, using ground-based documentation teams and available aerial survey
+methods operating within established Fourth Amendment parameters, identifies and locates hidden
+encampments within the target zone. Environmental abatement proceedings trigger simultaneously
 
 5
 
@@ -334,27 +306,27 @@ provides the simultaneous placement required for clearance to be durable.
 
 Material Dignity Infrastructure (Los Angeles)
 
+with the warm offer whereas the legal basis for clearance is environmental protection. The MDI
+placement inventory provides the simultaneous destination required for clearance to be durable.
 The Ontological Permanence Architecture sustains the individual inside the tower. The Dunbar Pod
 structure, STC 65 acoustic sanctuaries, on-site animal accommodation, and the Pod Steward rebuild
 the neurological conditions for selfhood that chronic street life destroys including predictability,
 privacy, control, and recognized social membership (Giddens, 1991; Laing, 1960).
 1.2. The Governing Principle
-Sovereign space operates as the absolute clinical precondition for stabilization. Housing is not the
-reward for getting better. It is the clinical precondition for getting better at all.
-Finland proved this at the national scale demonstrating a sixty-eight percent reduction in long-term
-homelessness between 2008 and 2022 (Y-Foundation, 2023). Houston proved it at the metropolitan
-scale achieving a sixty percent reduction between 2011 and 2020 alongside ninety percent two-year
-housing retention (Coalition for the Homeless of Houston/Harris County, 2024). The MDI thesis
-applies this principle at the architectural and legal scale required for Los Angeles.
+Sovereign space operates as the clinical precondition for stabilization since placement represents the
+foundational requirement for clinical improvement rather than a reward for recovery.
+Finland proved this at the national scale demonstrating a 68 percent reduction in long-term homelessness between 2008 and 2022 (Y-Foundation, 2023). Houston proved it at the metropolitan scale
+achieving a 60 percent reduction between 2011 and 2020 alongside 90 percent two-year housing
+retention (Coalition for the Homeless of Houston/Harris County, 2024). The MDI thesis applies this
+principle at the architectural and legal scale required for Los Angeles.
 The existing unmanaged street environment imposes a continuous biological failure condition upon
-the encamped population. Los Angeles County mortality data document the consequences (Los Angeles County Department of Public Health, 2026). The engineering error rate generates less damage
-than the inaction death rate. The problem is un-engineered. The Material Dignity Infrastructure
-engineers it.
-The chronic unsheltered population is not a monolithic actor. MDI interventions fail when they
-treat all unsheltered individuals as a single cohort requiring a single solution. Four structurally
-distinct sub-populations require four separate intervention architectures. Misallocating instrument
-to population produces waste at best, compounded harm at worst.
-These four pipelines function as a dynamic state machine rather than a static categorization. Because
+the encamped population. Los Angeles County mortality data document the consequences (Los
+Angeles County Department of Public Health, 2026). The problem is un-engineered. The Material
+Dignity Infrastructure engineers it.
+The chronic unsheltered population is not a monolithic actor. MDI interventions fail when they treat
+all unsheltered individuals as a single cohort requiring a single solution. Five structurally distinct subpopulations require five separate intervention architectures. Misallocating instrument to population
+produces waste at best, compounded harm at worst.
+These five pipelines function as a dynamic state machine rather than a static categorization. Because
 behavioral stability and clinical acuity fluctuate, individuals may transition between states as their
 needs change; a Pipeline B resident may regress to a Pipeline C state during a substance-induced crisis
 or stabilize into a Pipeline A state following metabolic intervention. The MDI tracking architecture
@@ -370,36 +342,32 @@ Material Dignity Infrastructure (Los Angeles)
 
 1.3. Pipeline A: The Near-Homeless and Voluntarily Transitioning
 Economic disruption, temporary crisis, or institutional discharge from hospital, prison, or foster care
-triggers entry. This cohort presents free of major psychiatric comorbidity and behavioral calcification.
-Social functioning is intact. This population self-identifies as needing housing, engages voluntarily
-with the Coordinated Entry System, and completes intake documentation within standard timescales.
-The MDI ALMU model resolves this cohort with minimal friction. CES is the existing pipeline. MDI
-accelerates it by creating surplus inventory. Pipeline A, while significant in number, is not the primary
-driver of street visibility or public safety concern. These individuals cycle through faster and rarely
-form long-term encampments.
+triggers entry for this cohort, representing approximately 12,246 individuals across the region who
+present free of major psychiatric comorbidity and behavioral calcification. Because social functioning
+remains intact, this population self-identifies as needing placement and engages voluntarily with the
+Coordinated Entry System whereas the MDI ALMU model resolves the transition with minimal
+friction. CES functions as the existing pipeline that MDI accelerates by creating surplus transitional
+inventory. Pipeline A is not the primary driver of street visibility or public safety concern because
+these individuals cycle through the system faster and rarely form long-term encampments.
 1.4. Pipeline B: The Encamped but Engageable
-Long-term encampment with functional social bonds within the camp community.
-
-Psychiatric
-
-comorbidity may be present but the individual retains enough insight to evaluate offers rationally.
-Refusal is directed at congregate shelter models, not at housing itself.
-The refusal pattern is consistent across the research literature (United States Department of Agriculture, 2023; U.S. Department of Housing and Urban Development, 2022). Refusal anchors on
-forced separation from animal companions required for emotional regulation, mandatory separation
-from intimate partners, and the loss of accumulated belongings representing the individual’s only
-remaining assets. Eliminating these barriers drives acceptance rates upward. Houston’s “The Way
-Home” achieved fifty-eight to seventy percent encampment-level acceptance rates when specific and
-immediate offers were made (Coalition for the Homeless of Houston/Harris County, 2024). The MDI
-architectural model is superior to what Houston offered. The engagement timeline spans weeks to
-months executing sustained presence outreach followed by a specific warm offer at an acute crisis
-window.
+This cohort comprises approximately 16,485 individuals characterized by long-term encampment with
+functional social bonds within the camp community. Psychiatric comorbidity may be present but
+the individual retains enough insight to evaluate offers rationally. Refusal targets congregate shelter
+models whereas the stabilization infrastructure eliminates the barriers driving rejection.
+The refusal pattern is consistent across the research literature (United States Department of Agriculture, 2023; U.S. Department of Housing and Urban Development, 2022). Refusal anchors on forced
+separation from animal companions required for emotional regulation, mandatory separation from
+intimate partners, and the loss of accumulated belongings representing the individual’s only remaining
+assets. Eliminating these barriers drives acceptance rates upward. Houston’s “The Way Home”
+achieved 58 to 70 percent encampment-level acceptance rates when specific and immediate offers were
+made (Coalition for the Homeless of Houston/Harris County, 2024). The MDI architectural model
+is superior to what Houston offered. The engagement timeline spans weeks to months executing
+sustained presence outreach followed by a specific warm offer at an acute crisis window.
 1.5. Pipeline C: The Behaviorally Calcified Chronic
-The core of the street crisis and the primary driver of public safety concern. Long Duration of
-Untreated Psychosis ranging from five to fifteen years. Active schizophrenia spectrum disorder, often
-with Diogenes syndrome overlay. This population requires a different intervention instrument at the
-neurological level.
-Anosognosia operates as a neurological incapacity to perceive one’s own psychiatric condition. The
-frontal lobe damage producing psychosis simultaneously destroys the self-monitoring faculty driving
+This cohort, representing approximately 16,014 individuals, constitutes the core of the street crisis and
+the primary driver of public safety concern. Because these individuals present with a Long Duration of
+Untreated Psychosis ranging from 5 to 15 years, often complicated by active schizophrenia spectrum
+disorder and Diogenes syndrome overlay, the population requires a distinct intervention instrument
+at the neurological level.
 
 7
 
@@ -407,9 +375,9 @@ frontal lobe damage producing psychosis simultaneously destroys the self-monitor
 
 Material Dignity Infrastructure (Los Angeles)
 
-self-recognition. Up to fifty percent of individuals with schizophrenia present with anosognosia.
-Outreach strategies premised on persuasion target a faculty that metabolic disease has already
-destroyed.
+Anosognosia operates as a neurological incapacity to perceive one’s own psychiatric condition. The
+frontal lobe damage producing psychosis simultaneously destroys the self-monitoring faculty driving
+self-recognition. 50 to 80 percent of individuals with schizophrenia present with anosognosia. Outreach strategies premised on persuasion target a faculty that metabolic disease has already destroyed.
 Duration of Untreated Psychosis produces measurable progressive brain changes with each untreated
 year including increasing cognitive rigidity, treatment resistance, and functional decline. A decade
 of street-level untreated psychosis is a different neurological substrate than six months. Standard
@@ -422,21 +390,20 @@ individual. Removing the hoard without replacing the identity structure triggers
 destabilization. Intervention must be identity-preserving.
 Metabolic collapse operates as a cognitive impairment independent of psychiatric diagnosis. The
 individual presenting at intake is not operating from a healthy neurological baseline. Electrolyte derangements from sustained dehydration and malnutrition impair executive function, impulse control,
-and emotional regulation. Volatility at intake is partly physiology, not exclusively psychiatry.
+and emotional regulation. Volatility at intake derives from physiological distress compounding the
+psychiatric presentation.
 The Pipeline C behavioral pattern features active hostility to outreach, conspiratorial framing of
 offers, repeated encampment re-establishment following displacement, and preference for outdoor
 environments where the paranoid threat-perception system has habituated. Unfamiliar enclosed
-spaces trigger acute agitation. The necessary intervention combines ACT sustained presence over
-twelve to twenty-four months and the legal lever system targeting individuals refusing voluntary
-engagement.
+spaces trigger acute agitation. The necessary intervention combines ACT sustained presence over 12
+to 24 months and the legal lever system targeting individuals refusing voluntary engagement.
 1.6. Pipeline C Sub-Variant: The Hidden Riparian Population
-A sub-set of Pipeline C operates invisible to standard Point-in-Time counts and actively resists both
-voluntary outreach and legal lever engagement. This cohort remains mobile, terrain-adaptive, and
-encamped in environmentally sensitive or legally inaccessible sites including the LA River riparian
-corridor, Ballona Creek, Santa Ana River, Hansen Dam Recreation Area, storm drain infrastructure,
-and urban edge creek systems. Estimated at twenty to thirty percent above the PIT count’s Pipeline
-C figure due to systematic undercount of hidden sites.
-
+A sub-set of Pipeline C operates invisible to standard Point-in-Time counts and resists both voluntary
+outreach and legal lever engagement. This cohort remains mobile, terrain-adaptive, and encamped
+in environmentally sensitive or legally inaccessible sites including the LA River riparian corridor,
+Ballona Creek, Santa Ana River, Hansen Dam Recreation Area, storm drain infrastructure, and
+urban edge creek systems. Estimated at 20 to 30 percent above the PIT count’s Pipeline C figure
+due to systematic undercount of hidden sites.
 8
 
 Working Paper, May 2026
@@ -447,31 +414,30 @@ This population has built a calibrated survival architecture demanding territori
 protection hierarchies, known supply chains, animal companions as primary attachment bonds, and
 ontological security derived from competence in terrain survival. The MDI voluntary offer competes
 against a system that already operates on its own terms. The voluntary acceptance rate for this
-sub-population is fifteen to thirty percent globally across all evidence-based programs regardless of
-offer quality.
+sub-population is 15 to 30 percent globally across all evidence-based programs regardless of offer
+quality.
 Riparian encampments produce documented federal regulatory violations that transform this from
 a social services problem into an environmental enforcement matter. Fecal coliform bacteria contamination of LA waterways at levels exceeding Clean Water Act NPDES permit standards (United
 States Congress, 1972). Hypodermic needle and pharmaceutical waste infiltration into riparian and
 wetland habitat. Biological waste and trash accumulation blocking flood control infrastructure within
 Army Corps jurisdiction. LARWQCB enforcement records document these violations. They provide
-a legal basis for abatement independent of housing law and not governed by the City of Grants Pass
-v. Johnson framework (Supreme Court of the United States, 2024).
+a legal basis for abatement independent of housing law, rooted in state-level nuisance protocols
+triggered by Section 402 National Pollutant Discharge Elimination System (NPDES) enforcement
+liabilities (United States Congress, 1972). Precedent exists for environmental eviction under state and
+federal water board mandates where life-safety and severe contamination risks supersede standard
+habitability protections (Environmental Protection Agency, 2023). Following the Supreme Court
+reversal of Martin v. Boise via Grants Pass v. Johnson, municipalities maintain unrestricted
+clearance authority. The MDI architectural model requires simultaneous shelter placement strictly
+to ensure clearance durability rather than legal compliance.
 1.7. Pipeline D: The Voluntary Nomadic
-The voluntary nomadic sub-population is not metabolically destabilized in the Pipeline C clinical
-sense. This cohort has organized a functioning life around outdoor living, street community bonds,
-informal economy, and deliberate rejection of institutional structures based upon genuine preference
-and cultural identity. The street sub-culture this population inhabits is real. Its social bonds are
-real. The competence, freedom, and mutual protection it provides are real. Treating Pipeline D
-individuals as a variant of Pipeline C is a diagnostic error with severe operational consequences.
+The voluntary nomadic sub-population, comprising approximately 2,355 individuals, is not metabolically destabilized in the Pipeline C clinical sense. This cohort has organized a functioning life around
+outdoor living, street community bonds, informal economy, and deliberate rejection of institutional
+structures based upon genuine preference and cultural identity. The street sub-culture this population
+inhabits is real. Its social bonds are real. The competence, freedom, and mutual protection it provides
+are real. Treating Pipeline D individuals as a variant of Pipeline C is a diagnostic error with severe
+operational consequences.
 Interventions designed for acute metabolic destabilization produce rational refusal when applied
 to individuals whose primary condition is a preference for outdoor community life. Misdirecting
-that refusal into the legal lever system wastes legal resources and damages the trust-based outreach
-relationships required for voluntary engagement over time.
-The correct intervention instrument for Pipeline D is harm reduction without housing requirement.
-Ground floor open access provides wound care, nutrition, hygiene, needle exchange, veterinary services, and device charging without an intake requirement, a housing agreement, or any precondition.
-These services reduce harm even when housing placement does not occur. No element of Pipeline D
-intervention requires legal authority. No element requires the individual to surrender outdoor life in
-exchange for care.
 
 9
 
@@ -479,23 +445,35 @@ exchange for care.
 
 Material Dignity Infrastructure (Los Angeles)
 
-The Anti-Detention Covenant directly protects this population. The MDI system offers. It does not
-compel Pipeline D. Pipeline D individuals may self-select into the MS Unit or ALMU at any point
-they choose. The standing offer does not expire.
-The bulk majority argument establishes why Pipeline D management does not require clearance.
-When the metabolically destabilized, the acutely psychotic, and the neurologically compromised
-individuals comprising the Pipeline C population are substantially housed, what remains on the
-street is a qualitatively different population presenting as smaller in volume, less acutely destabilized,
-and significantly less visible as a public health crisis. The behavioral contagion effect that amplifies
-crisis in dense encampment conditions diminishes. Harm reduction services operate more effectively
-on fewer individuals with less acute presentations. Community tolerance for the remaining voluntary
-nomadic population increases because the character of the street environment has fundamentally
-changed.
+that refusal into the legal lever system wastes legal resources and damages the trust-based outreach
+relationships required for voluntary engagement over time.
+The correct intervention instrument for Pipeline D is harm reduction without a placement requirement
+since ground floor open access provides wound care, nutrition, hygiene, needle exchange, veterinary
+services, and device charging without an intake requirement, a clinical agreement, or any precondition.
+These services reduce harm even when placement does not occur while no element of the Pipeline
+D routine intervention requires legal authority excepting universal emergency 5150 WIC medical
+holds. No element requires the individual to surrender outdoor life in exchange for care because the
+Anti-Detention Covenant protects this population. The MDI system offers care without compulsion
+so that Pipeline D individuals may self-select into the MS Unit or ALMU at any point they choose
+whereas the standing offer does not expire.
+The bulk majority argument establishes why Pipeline D management does not require clearance
+because when the metabolically destabilized and acutely psychotic individuals comprising the Pipeline
+C population are substantially housed, what remains on the street is a qualitatively different population. This cohort presents as smaller in volume and less acutely destabilized whereas the behavioral
+contagion effect that amplifies crisis in dense encampment conditions diminishes. Harm reduction
+services operate more effectively on fewer individuals with less acute presentations so that community
+tolerance for the remaining voluntary nomadic population increases because the character of the street
+environment has changed.
 1.8. The Population Calculus
 The five pipeline classifications, matched intervention instruments, and primary MDI delivery nodes
 are summarized in Table 1. Each row represents a distinct decision architecture. The table is read as
 a triage reference: the population classification determines the instrument, the instrument determines
 the node, and the node determines the operational sequence.
+
+10
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
 
 Pipeline
 
@@ -533,8 +511,7 @@ C: Riparian
 
 Abatement + offer
 
-Field mapping + environmental
-enforcement
+field mapping + envi- LARWQCB, Warm Ofronmental enforcement fer, ALMU
 
 D: Voluntary Nomadic
 
@@ -543,28 +520,19 @@ Open-ended
 Harm reduction, no pre- Ground Floor open accondition
 cess only
 
-LARWQCB, Warm Offer, ALMU
-
 Table 1. Population Pipeline Classification and Matched Intervention Architecture. Pipeline D
 receives harm reduction services without housing requirement. No legal instrument applies to Pipeline
 D.
-
-10
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
-
 Pipeline A approaches full voluntary engagement within a standard coordinated entry timeline.
-Pipeline B reaches fifty-eight to seventy percent acceptance at the targeted warm offer. Pipeline C
-visible cohorts generate fifteen to thirty percent voluntary acceptance, with the remainder requiring
-the legal lever pathway. Pipeline C hidden riparian populations demonstrate minimal voluntary
-engagement, establishing environmental enforcement as the primary access mechanism. Pipeline D
-receives services without placement pressure. Clearance of Pipelines A through C from the street
-environment changes the character of the remaining Pipeline D population sufficiently that harm
-reduction becomes the dominant management instrument county-wide.
-The pipeline classification is complete. The instrument matched to each population now enters its
-operational specification.
+Pipeline B reaches 58 to 70 percent acceptance at the targeted warm offer. Pipeline C visible
+cohorts generate 15 to 30 percent voluntary acceptance, with the remainder requiring the legal
+lever pathway. Pipeline C hidden riparian populations demonstrate minimal voluntary engagement,
+establishing environmental enforcement as the primary access mechanism. Pipeline D receives services
+without placement pressure. Clearance of Pipelines A through C from the street environment changes
+the character of the remaining Pipeline D population sufficiently that harm reduction becomes the
+dominant management instrument county-wide.
+Because the pipeline classification is complete, the instrument matched to each population now enters
+its operational specification.
 
 11
 
@@ -573,19 +541,19 @@ operational specification.
 Material Dignity Infrastructure (Los Angeles)
 
 2. Phase Zero: Metabolic Stabilization
-Housing First achieves eighty to ninety percent two-year housing retention in Finland (Y-Foundation,
-2023; FEANTSA, 2022). The same intervention, applied in the United States, produces retention
-below forty percent (Mobile Loaves and Fishes, 2024). The mechanism difference is not the housing. It
-is the physiological condition of the individual at the moment of placement. Finland’s national welfare
-infrastructure delivers nutritional support, healthcare, and social services that stabilize individuals
-physiologically before they enter housing. The United States delivers the housing unit to an individual
-who remains in acute physiological crisis. That individual cannot sustain tenancy. This failure results
-strictly from neurological and metabolic incapacity.
-Metabolic Stabilization is the engineering intervention that closes this gap. It is Phase Zero of the
-MDI pipeline: the clinical stage that precedes ground floor intake, precedes the warm housing offer,
-and precedes every element of the ontological permanence architecture. Without it, the pipeline
-delivers housing to individuals who cannot hold housing. With it, the pipeline replicates the Finnish
-prerequisite layer from a Los Angeles County institutional foundation.
+While Finland demonstrated a 68 percent reduction in long-term homelessness, its Housing First
+model simultaneously achieves 80 to 90 percent two-year housing retention for those placed (YFoundation, 2023; FEANTSA, 2022). The same intervention, applied in the United States, produces
+retention below 40 percent (UCSF Benioff Homelessness and Housing Initiative, 2023).1 The mechanism difference is not the housing itself but rather the physiological condition of the individual
+at the moment of placement since Finland’s national welfare infrastructure delivers the nutritional
+support, healthcare, and social services that stabilize individuals before they enter housing. Whereas
+the United States delivers a placement unit to an individual who remains in acute physiological crisis,
+that individual cannot sustain tenancy so that the resulting failure stems strictly from neurological
+and metabolic incapacity.
+Metabolic Stabilization is the core physiological intervention that closes this gap. It operates within
+Phase Zero of the MDI pipeline: the clinical stabilization stage that runs concurrently with ground
+floor intake to execute physiological stabilization before the permanent warm housing offer occurs.
+Without it, the pipeline delivers housing to individuals who cannot hold housing. With it, the pipeline
+replicates the Finnish prerequisite layer from a Los Angeles County institutional foundation.
 2.1. The Three-Gate Triage Decision Architecture
 Mobile crisis outreach workers, ACT teams, and law enforcement assess each individual presenting
 in crisis. Three authorized outcomes exist for crisis presentations. The triage determination routes
@@ -616,74 +584,93 @@ act, intoxication, exposure
 
 mobile crisis outreach and ACT clinical determination
 
-Table 2. Three-Gate Triage Decision Architecture. Applied jointly by mobile crisis outreach, ACT
-team, and law enforcement at point of contact. Release to street is not an authorized triage outcome
-for individuals meeting crisis criteria. Non-crisis individuals retain full freedom of movement at all
-times.
+1
+
+Community First! Village achieves 85 to 88 percent retention by operating a high-support community model
+distinct from standard Housing First placement (Mobile Loaves and Fishes, 2024).
+
 12
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
+Table 2. Three-Gate Triage Decision Architecture. Applied jointly by mobile crisis outreach, ACT
+team, and law enforcement at point of contact. Release to street is not an authorized triage outcome
+for individuals meeting crisis criteria. Pipeline D (Voluntary Nomadic) individuals are exempted
+from the triage gate unless independently meeting the strict 5150 medical hold standard. Non-crisis
+individuals retain full freedom of movement at all times.
 This architecture does not create new coercive authority. California Welfare and Institutions Code
 Section 5150 already authorizes a 72-hour involuntary psychiatric hold for individuals posing danger
-to self, danger to others, or meeting grave disability criteria. That authority predates MDI. The
-mobile crisis outreach and ACT clinical determination identifies which existing legal pathway applies.
-MDI provides the destination those pathways currently lack.
+to self, danger to others, or meeting grave disability criteria. This authority predates the Material
+Dignity Infrastructure whereas the mobile crisis outreach and ACT clinical determination identifies
+which existing legal pathway applies. MDI provides the destination those pathways currently lack.
 2.2. The Civil Liberties Architecture
-Residency in the MS Unit and ALMU is voluntary. The Anti-Detention Covenant codified in the
-Stewardship Authority charter guarantees unrestricted egress for all residents at all times following
-admission. Existing California legal authority governs the acute triage window covering the hours
-immediately following mobile crisis, ACT, or law enforcement assessment for individuals in active
-crisis. This statutory authority includes medical holds under 5150 WIC, law enforcement intervention
-for criminal acts, and incapacity consent protocols. That is statutory authority, not MDI authority.
-The Covenant governs what occurs after the acute crisis resolves and the individual is admitted as a
-participant rather than a detainee. Pipeline D individuals and any non-crisis individual who declines
-the MS Unit offer retain full street access. The gate applies to acute crisis presentations only.
-2.3. The Three Intake Pathways
-Three distinct routes deliver individuals to the MS Unit and ground floor resource center. Each
-operates independently. The tower receives from all three simultaneously.
+Existing California legal authority governs the acute triage window covering the hours immediately
+following mobile crisis, ACT, or law enforcement assessment for individuals in active crisis. This
+statutory authority includes medical holds under 5150 WIC, CARE Court mandates, AOT compliance enforcement, and LPS conservatorship pathways. This pre-existing statutory authority defines
+the boundary conditions of compulsion and forces individuals out of the street environment while the
+MDI residency itself remains voluntary. The Anti-Detention Covenant codified in the Stewardship
+Authority charter governs voluntary residency only, guaranteeing unrestricted egress for all residents
+at all times following admission, with a strict legal exception subordinating this right to active
+LPS conservatorship or CARE Court mandates. The Covenant governs what occurs after the acute
+crisis resolves and the individual is admitted as a participant rather than a detainee. Pipeline D
+individuals and any non-crisis individual who declines the Phase Zero offer retain full street access.
+The involuntary gate applies strictly to external court orders and acute crisis presentations, while
+the facility reserves the right to reject elopement-risk conservatees to maintain operational integrity.
+2.3. The Three Concurrent Intake Pathways
+Three distinct routes operate concurrently to deliver individuals into the Metabolic Stabilization sequence. Each operates independently. The intake architecture receives from all three simultaneously.
 Pathway 1. Sally Port formal intake. This pathway relies on a mobile crisis outreach and ACT teamfacilitated warm offer directed to a named individual on the by-name HMIS registry. The individual
 is pre-matched to a specific unit, pod, and floor before the offer conversation even begins. Because
 the process is structured, documented, and consent-based, the individual enters the system known,
 pre-matched, and at a chosen moment of willingness.
-Pathway 2. Open ground floor walk-in. An individual presents voluntarily to the open-access resource
-center without prior registration or preconditions. Upon arrival, ground floor Zone B triage assesses
-the presenting condition and routes the individual to the appropriate clinical tier. Because walk-in
-access converts unknown individuals into registered participants, this serves as the highest-volume
-intake pathway during early operations.
+13
+
+Working Paper, May 2026
+
+Pathway 2. Open ground floor walk-in.
+
+Material Dignity Infrastructure (Los Angeles)
+
+An individual presents voluntarily to the open-access
+
+resource center without prior registration or preconditions. Upon arrival, ground floor Zone B triage
+concurrently assesses the presenting condition and executes secure clinical transport to an external
+Metabolic Stabilization tier scattered site. Because walk-in access converts unknown individuals into
+registered participants, this serves as the highest-volume intake pathway during early operations.
 Pathway 3.
 
 Secondary clinical transfer from field contact, law enforcement, or ER. Individual
 
 transferred following field contact, a non-criminal law enforcement determination, or ER discharge
-
-13
+to a lower-acuity setting. The backdoor entrance to Zone A physically separates this pathway from
+the open resource center population, preventing crisis contagion in the commons and preserving the
+non-clinical character of open access.
+2.4. The MHRC Cluster Model
+Phase Zero operates through Mental Health Rehabilitation Center clusters deployed within the
+contiguous one-mile footprint of the Skid Row defined geographic zone (California Department
+of Health Care Services, 2024c). To process the 500 Pipeline C entries requiring 60 to 90 day
+stabilization windows without generating a backlog, the prototype mathematically requires the
+concurrent acquisition of 75 external MHRC beds spanning five localized clusters. Each cluster holds
+exactly 15 units. Each files an independent Department of Health Care Services (DHCS) Form 1813
+MHRC licensure application. Each bills Medi-Cal independently as a specialty mental health subacute facility at approximately 50 percent federal financial participation through Federal Medical
+Assistance Percentage (FMAP). While the sub-sixteen unit threshold targets the Institution for
+Mental Disease Exclusion architecturally, the clustered design requires a Section 1115 demonstration
+waiver anchored to the California CalAIM framework to secure Centers for Medicare and Medicaid
+Services approval.
+MHRC is a 24-hour DHCS-licensed facility classification for adults with mental disorders providing
+intensive rehabilitative services for sub-acute stabilization, skill-building, and independence. The 30
+to 90 day Metabolic Stabilization protocol matches this classification precisely. Licensure requires
+submission of DHCS Form 1813 with a defined service array, staffing plan, and individualized
+treatment planning protocol (California Department of Health Care Services, 2024c,a).
+2.5. The STC 65 Phase Zero Module
+The physical module of each MHRC cluster is the STC 65 Phase Zero Module: a sixty-five-decibelproof sound enclosure designated as a state-owned clinical environment. It is not a residential dwelling.
+14
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-to a lower-acuity setting. The backdoor entrance to Zone A physically separates this pathway from
-the open resource center population, preventing crisis contagion in the commons and preserving the
-non-clinical character of open access.
-2.4. The MHRC Cluster Model
-Phase Zero operates through Mental Health Rehabilitation Center clusters deployed at scattered sites
-across the Los Angeles downtown corridor (California Department of Health Care Services, 2024b).
-Each cluster holds fewer than sixteen units. Each files an independent Department of Health Care
-Services (DHCS) Form 1813 MHRC licensure application. Each bills Medi-Cal independently as a
-specialty mental health sub-acute facility at approximately fifty percent federal financial participation
-through Federal Medical Assistance Percentage (FMAP). The sub-sixteen unit threshold resolves the
-Institution for Mental Disease (IMD) Exclusion architecturally. This specification eliminates the
-requirement for speculative waivers.
-MHRC is a 24-hour DHCS-licensed facility classification for adults with mental disorders providing
-intensive rehabilitative services for sub-acute stabilization, skill-building, and independence. The
-thirty-to-ninety day Metabolic Stabilization protocol matches this classification precisely. Licensure
-requires submission of DHCS Form 1813 with a defined service array, staffing plan, and individualized
-treatment planning protocol (California Department of Health Care Services, 2024b,a).
-2.5. The ST-65 Medical Utility Unit
-The physical module of each MHRC cluster is the ST-65 Medical Utility Unit: a sixty-five-decibelproof sound enclosure designated as a state-owned clinical environment. It is not a residential dwelling.
 It is not a shelter. It is a therapeutic milieu unit analogous to a hospital step-down bed (Frontiers
 in Psychology Editorial Board, 2024; GB Acoustics, 2024).
 Hypervigilance is a Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)
@@ -692,13 +679,7 @@ symptom of methamphetamine-induced psychosis during post-acute withdrawal. Sleep
 disruption from environmental noise prolongs both conditions by preventing the neurological consolidation processes occurring during slow-wave and rapid eye movement (REM) sleep. The sixty-fivedecibel acoustic specification is a therapeutic milieu standard required to deliver effective psychiatric
 rehabilitation to a population whose primary diagnoses include conditions for which uncontrolled
 auditory stimulation is a documented symptom trigger and recovery barrier. This is the Form 1813
-clinical language that defends the specification against regulatory challenge. The ST-65 classification
-14
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
-
+clinical language that defends the specification against regulatory challenge. The STC 65 classification
 as a medical facility exits the residential zoning framework that community opposition targets and
 enters the medical facility regulatory pathway where opposition carries materially different legal
 weight.
@@ -718,22 +699,20 @@ progressive diagnostic clarification from provisional to finalized DSM-5 diagnos
 2.7. The Three-Phase Diagnostic Protocol
 A Pipeline C resident arriving post-acute from the emergency room presents with no prior treatment
 history, significant cognitive impairment from methamphetamine withdrawal, and active psychosis
-potentially indistinguishable from primary psychotic disorder. Billing requires a clinical reasoning
-trail. The protocol provides it in three phases (California Department of Health Care Services,
-2024b).
-Phase 1 (Hours 0–72): A Licensed Practitioner of the Healing Arts conducts clinical interview
-and mental status examination. Staff document observable symptoms including psychosis, cognitive
-impairment, withdrawal signs, and functional deficits. A provisional DSM-5 diagnosis is recorded:
-Stimulant-Induced Psychotic Disorder or Unspecified Schizophrenia Spectrum Disorder as appropriate. DSM-5 allows provisional diagnosis when full criteria are unclear due to substance effects. The
-assessment itself is billable as Mental Health Services Assessment under DHCS Specialty Mental
-Health Services rules.
-
 15
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
+potentially indistinguishable from primary psychotic disorder. Billing requires a clinical reasoning
+trail. The protocol provides it in three phases (California Department of Health Care Services, 2024c).
+Phase 1 (Hours 0–72): A Licensed Practitioner of the Healing Arts conducts clinical interview
+and mental status examination. Staff document observable symptoms including psychosis, cognitive
+impairment, withdrawal signs, and functional deficits. A provisional DSM-5 diagnosis is recorded:
+Stimulant-Induced Psychotic Disorder or Unspecified Schizophrenia Spectrum Disorder as appropriate. DSM-5 allows provisional diagnosis when full criteria are unclear due to substance effects. The
+assessment itself is billable as Mental Health Services Assessment under DHCS Specialty Mental
+Health Services rules.
 Phase 2 (Days 1 to 14): Collateral from emergency room records, field notes, and by-name HMIS
 registry. Toxicology and basic labs to rule out acute medical issues. Daily progress notes tracking symptom changes as withdrawal clears. The daily note entry sustains provisional billing and
 constitutes the audit-defensible clinical reasoning trail.
@@ -741,9 +720,11 @@ Phase 3 (By Day 30): DSM-5 diagnosis finalized and signed by the LPHA. The Indiv
 Treatment Plan links problems to measurable goals and rehabilitative services. Full Medi-Cal billing
 for specialty mental health services is authorized following signed ITP.
 2.8. Day-30 Functional Indicators
-The ITP measurable goals define five functional indicators. Progress on at least two by day thirty
-is the clearance threshold. If fewer than two are met, the ITP extends the stabilization phase with
-revised goals. Billing continues. The timeline adjusts to the individual.
+The ITP measurable goals define five functional indicators. Progress on at least two by day 30 constitutes the interim stabilization checkpoint, derived from standard psychiatric sub-acute utilization
+review criteria (California Department of Health Care Services, 2024c). Final Phase Zero clearance
+requires maintaining at least two indicators across the 60 to 90 day window. If fewer than two are
+met at the checkpoint, the ITP extends the stabilization phase with revised goals. Billing continues.
+The timeline adjusts to the individual.
 1. Sustained hygiene maintenance without staff prompting
 2. Sleep continuity of six or more hours without pharmacological support
 3. Orientation to person, place, and date consistently across three consecutive days
@@ -751,9 +732,6 @@ revised goals. Billing continues. The timeline adjusts to the individual.
 5. Initiation of at least one activity of daily living task independently per day
 These indicators are the measurement substrate for Verification Metric 7. The Phase Zero clearance
 rate is the causal test of the primary MDI thesis. This rate represents the proportion of residents
-meeting two or more indicators at ninety days. A retention gain at Metric 2 (housing retention)
-without a clearance gain at Metric 7 cannot be attributed to the Metabolic Stabilization sequencing
-design.
 
 16
 
@@ -761,22 +739,31 @@ design.
 
 Material Dignity Infrastructure (Los Angeles)
 
+meeting two or more indicators at 90 days. A retention gain at Metric 2 (housing retention) without
+a clearance gain at Metric 7 cannot be attributed to the Metabolic Stabilization sequencing design.
+
+17
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 3. Phase One: Pre-Admission Field Architecture
 The MDI tower is a terminal infrastructure node. It cannot function as an intake mechanism for
-Pipeline C without a pre-admission field architecture operating at the encampment level twelve to
-twenty-four months in advance. The Field Architecture is the pipeline. Without it, the tower houses
-Pipelines A and B while Pipeline C remains on the street, congregating at the base of the building.
-3.1. Phase 1: The By-Name HMIS Registry
+Pipeline C without a pre-admission field architecture operating at the encampment level 12 to 24
+months in advance. The Field Architecture is the pipeline. Without it, the tower houses Pipelines
+A and B while Pipeline C remains on the street, congregating at the base of the building.
+3.1. Stage 1: The By-Name HMIS Registry
 Field documentation teams deploy to all encampment sites within the MDI target zone during months
 one through six of pre-operations. Field documentation requires mapping each individual’s known
 name or identifier, fixed versus nomadic GPS location pattern, observable survival anchors including
 animal companions and primary possessions, tentative Pipeline classification, and behavioral observation notes. All data enters an HMIS instance managed by the MDI Stewardship Authority. The
 by-name list is the operational backbone. Every housing unit pre-opening is pre-matched to a named
 individual on this list. The warm offer is specific because the preparation was specific.
-Houston’s HMIS integration across over one hundred partner agencies was the single factor most cited
-in that city’s sixty percent reduction (Coalition for the Homeless of Houston/Harris County, 2024).
-Real-time data eliminated the coordination lag where individuals fell through agency handoffs.
-3.2. Phase 2: ACT Team Sustained Presence
+Houston’s HMIS integration across over 100 partner agencies was the single factor most cited in that
+city’s 60 percent reduction (Coalition for the Homeless of Houston/Harris County, 2024). Real-time
+data eliminated the coordination lag where individuals fell through agency handoffs.
+3.2. Stage 2: ACT Team Sustained Presence
 Each encampment cluster receives a dedicated Assertive Community Treatment team whose composition ensures redundant relationship coverage. Team composition requires one mobile psychiatrist,
 one registered nurse, one licensed social worker, and one outreach case manager alongside a peer
 support specialist, a substance use counselor, and a team coordinator. To maintain operational
@@ -785,27 +772,29 @@ and a team-level identity protocol where two or more staff members share relatio
 for every resident. This redundant coverage prevents trust cycles from resetting when individual staff
 members transition; consequently, the relationship with the participant remains a property of the
 system rather than the individual clinician. This total of seven to eight full-time equivalents manages
-an active caseload ratio of eighty to one hundred twenty Pipeline C clients.
-The operational protocol mandates leading with presence rather than service offers. Initial engagement deploys only coffee, food, wound care, and harm reduction supplies. Engagement operates
-strictly without intake forms or entry conditions. Teams establish a fixed schedule returning to
+an active caseload ratio of 80 to 120 Pipeline C clients.
+The operational protocol mandates prioritizing presence over service offers. Initial engagement
+deploys only coffee, food, wound care, and harm reduction supplies. Engagement operates strictly
+without intake forms or entry conditions. Teams establish a fixed schedule returning to the identical
 
-17
+18
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-the identical individuals at the identical encampment on the identical days. This predictability
-structurally reduces threat-perception in paranoid individuals. Teams update HMIS records following
-every contact documenting behavioral changes, new anchors identified, and crisis windows observed.
+individuals at the identical encampment on the identical days. This predictability structurally reduces
+threat-perception in paranoid individuals. Teams update HMIS records following every contact
+documenting behavioral changes, new anchors identified, and crisis windows observed.
 The peer specialist’s function is irreplaceable. Pipeline C individuals with paranoid systems can
 often accept contact from someone who has visibly survived the same experiences. The psychiatrist
 and social worker follow the peer specialist’s relationship. Because the team maintains a strict nondischarge policy, service refusal is documented while outreach contact continues uninterrupted.
-Engagement timeline realities indicate Pipeline B requires four to sixteen weeks of contact before
-productively receiving a warm offer. Pipeline C requires six to twenty-four months of continuous
-engagement. Some individuals necessitate multi-year sustained contact. The ACT literature demonstrates persistence without pressure as the only evidence-based approach for this cohort (Substance
-Abuse and Mental Health Services Administration, 2024).
-3.3. Phase 3: The Warm Offer Window
+Engagement timeline realities indicate Pipeline B requires 4 to 16 weeks of contact before productively
+receiving a warm offer. Pipeline C requires 6 to 24 months of continuous engagement. Some
+individuals necessitate multi-year sustained contact. The ACT literature demonstrates persistence
+without pressure as the only evidence-based approach for this cohort (Substance Abuse and Mental
+Health Services Administration, 2024).
+3.3. Stage 3: The Warm Offer Window
 Voluntary movement from the street to housing most frequently occurs within a tight window
 following an acute crisis event at the encampment site including the death of a nearby individual, a
 violent incident, a severe weather event, or an acute medical emergency. The window closes rapidly.
@@ -821,68 +810,87 @@ hours of acceptance.
 The specificity of this offer is structural. It eliminates every rational objection Pipeline B uses and
 reduces the cognitive load on Pipeline C individuals who cannot process abstract future states.
 
-18
+19
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-3.4. Phase 4: Encampment Resolution
+3.4. Stage 4: Encampment Resolution
 Encampment clearance without simultaneous housing placement produces geographic redistribution
 only. Municipal sweeps ignoring the by-name registry and warm offer protocol sever ACT relationships and extend engagement timelines by months.
-Clearance operations trigger only after every individual has received a specific and immediate unit
-offer or enters active CARE Court or AOT supervision. Clearance functions as a logistics event where
-sanitation and storage teams accompany the housing placement. Post-clearance operations require
-ACT team follow-up with placed individuals for ninety days to prevent re-encampment.
+For urban encampments, clearance operations trigger only after every individual has received a
+specific and immediate unit offer or enters active CARE Court or AOT supervision. This conditionality governs urban populations; riparian abatement under the Clean Water Act proceeds
+under independent environmental authority, though MDI provides simultaneous placement options
+to ensure clearance durability. Clearance functions as a logistics event where sanitation and storage
+teams accompany the housing placement. Post-clearance operations require ACT team follow-up
+with placed individuals for 90 days to prevent re-encampment.
+
+20
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 3.5. ACT Workforce Sizing
 The 2025 Los Angeles Homeless Services Authority (LAHSA) Greater Los Angeles County PIT
 Count recorded approximately 75,312 total homeless with fifty-eight percent unsheltered, yielding
-approximately 43,700 unsheltered individuals on any night (Los Angeles Homeless Services Authority,
-2025). PIT methodology systematically undercounts the most deeply hidden encampments.
+approximately 47,100 unsheltered individuals on any night when adjusted for the previously hidden
+riparian cohort (Los Angeles Homeless Services Authority, 2025). PIT methodology systematically
+undercounts the most deeply hidden encampments.
 
 Pipeline
 
-Est. Pct. Unsheltered
+Percent
 
-LA County Count Primary Intervention
+Count
+
+Intervention
 
 A. Voluntary
 
-∼30%
+∼26 percent
 
-∼13,100
+∼12,246
 
 CES rapid placement
 
 B. Engageable
 
-∼40%
+∼35 percent
 
-∼17,500
+∼16,485 Warm offer at crisis window
 
-Warm offer at crisis window
+C. Calcified (Urban + Riparian) ∼34 percent
 
-C. Calcified
-
-∼30%
-
-∼13,100
+∼16,014
 
 ACT sustained presence + legal
 
+∼5 percent
+
+∼2,355
+
+Harm reduction without placement
+
+D. Voluntary Nomadic
+
 Table 3. Pipeline Distribution Applied to Unsheltered Count.
-One California Plaza operating two thousand units requires five ACT teams targeting approximately
-five hundred Pipeline C individuals requiring forty full-time equivalents (FTE) alongside eight to ten
-field registry teams requiring twenty-five equivalents. The ground floor clinical node staff requires
-twelve equivalents alongside thirteen Pod Stewards. The total pilot field and residential workforce
-demands approximately ninety full time equivalents.
-The full twenty-tower forty-thousand-person system demands one hundred thirty ACT teams for
-thirteen thousand one hundred Pipeline C individuals at one hundred caseloads equaling one thousand
-forty equivalents alongside three hundred field registry workers, two hundred sixty Pod Stewards, one
-hundred twenty ground floor clinical staff, two hundred robotic swarm supervisors, and one hundred
-digital access center staff. The total full system requires approximately two thousand twenty full
-time equivalents.
-19
+One California Plaza operating 2,000 units distributes its inventory across its target zone: approximately 800 units reserved for Pipeline C, 1,200 units for Pipeline B, and zero units for Pipeline
+A. The prototype does not resolve the entire 16,500-person county-wide Pipeline C demographic
+encompassing both urban and riparian cohorts; it requires five ACT teams targeting those specific
+500 Pipeline C individuals within its geographic boundary. To manage the 12 to 24 month engagement
+timeline without exhausting the static 500-client capacity, ACT teams operate on a graduated stepdown throughput model, rotating stabilized individuals to lower-acuity case management to admit
+new entrants. This operation requires 40 full-time equivalents (FTE) alongside eight to ten field
+registry teams requiring 25 equivalents. The ground floor clinical node staff requires six equivalents
+alongside 13 Pod Stewards, ten robotic swarm supervisors, and five digital access center staff. The
+total pilot field and residential workforce demands approximately 99 full-time equivalents.
+The 20-tower, 40,000-person system demands 165 ACT teams for 16,500 Pipeline C individuals at
+100 caseloads equaling 1,320 equivalents alongside 300 field registry workers, 260 Pod Stewards, 120
+ground floor clinical staff, 200 robotic swarm supervisors, and 100 digital access center staff. The
+total full system requires approximately 2,300 full-time equivalents.
+
+21
 
 Working Paper, May 2026
 
@@ -892,24 +900,29 @@ Material Dignity Infrastructure (Los Angeles)
 The MDI field workforce draws from four interlocking revenue streams with Medi-Cal reimbursement
 as the load-bearing base.
 ACT performs as a Medi-Cal-billable service in California under the Community Mental Health
-Services framework (California Department of Health Care Services, 2024a). Approximately eightyfive to ninety percent of the Pipeline C population qualifies for Medi-Cal. At the standard ACT
-billing rate of one hundred fifty dollars to one hundred ninety dollars per day per enrolled client
-alongside a single team carrying one hundred clients generates approximately five and a half million
-dollars to nearly seven million dollars annually. Across one hundred thirty teams the structure
-generates approximately seven hundred fifteen million dollars to eight hundred ninety-seven million
-dollars annually in federal-state insurance offset.
-The Mental Health Services Act generates approximately three and a half billion dollars statewide
-annually. Los Angeles County’s MHSA allocation reaches approximately four hundred million dollars
-per year (California Mental Health Services Oversight and Accountability Commission, 2024). ACT
-teams for the chronically homeless unsheltered rank among the highest-priority eligible expenditures
-under the Full Service Partnership category.
-The Substance Abuse and Mental Health Services Administration (SAMHSA) funds ACT implementation through competitive grants of $500K to $2M per program (Substance Abuse and Mental
-Health Services Administration, 2024). Measure Alpha covers residential infrastructure and a portion
-of field architecture operating costs. CARE Court implementation via AB 1976 appropriating $14.7M
-statewide qualifies the Stewardship Authority’s petitioning function as an eligible implementation cost
-(California State Legislature, 2024).
+Services framework (California Department of Health Care Services, 2024a). Approximately 85 to
+90 percent of the Pipeline C population qualifies for Medi-Cal (UCSF Benioff Homelessness and
+Housing Initiative, 2023). At the standard ACT billing rate of 150 dollars to 190 dollars per day
+per enrolled client alongside a single team carrying 100 clients generates a theoretical gross potential
+of approximately 5.5 million dollars to nearly 7 million dollars annually. Across 165 teams the
+structure generates a theoretical gross of 903 million dollars to 1 billion 144 million dollars annually;
+applying a strict 30 to 45 day annual billable window per client based on historical DHCS benchmarks
+to account for billing constraints (California Department of Health Care Services, 2024b) yields a
+functional offset of approximately 95 million dollars to 105 million dollars annually.
+The Mental Health Services Act generates approximately 3.5 billion dollars statewide annually. Los
+Angeles County’s MHSA allocation reaches approximately 400 million dollars per year (California
+Mental Health Services Oversight and Accountability Commission, 2024).
 
-20
+ACT teams for the
+
+chronically homeless unsheltered rank among the highest-priority eligible expenditures under the
+Full Service Partnership category.
+The Substance Abuse and Mental Health Services Administration (SAMHSA) funds ACT implementation through competitive grants of 500,000 dollars to 2 million dollars per program (Substance
+Abuse and Mental Health Services Administration, 2024). Measure Alpha covers residential infrastructure and a portion of field architecture operating costs. CARE Court implementation via AB
+1976 appropriating 14.7 million dollars statewide qualifies the Stewardship Authority’s petitioning
+function as an eligible implementation cost (California State Legislature, 2024a).
+
+22
 
 Working Paper, May 2026
 
@@ -920,19 +933,20 @@ reduces net public expenditure.
 
 Cost Item
 
-Annual Gross
+Annual
+Gross
 
 Medi-Cal Offset
 
 Net Public Cost
 
-Full ACT workforce (130 teams)
+Full ACT workforce (165 teams)
 
-∼$78M
+∼$99M
 
-∼$75–85M
+∼$95–99M
 
-∼$0–5M
+∼$0M
 
 Registry/documentation (300 FTE)
 
@@ -942,30 +956,33 @@ Registry/documentation (300 FTE)
 
 ∼$18M
 
-Pod Stewards + ground floor clinical
+Pod Stewards + full residential workforce (680 FTE)
 
-∼$24M
+∼$68M
 
-Partial
+∼$2–7M
 
-∼$15M
+∼$61–66M
 
 Total field + residential
 
-∼$120M
+∼$185M
 
-∼$75–85M
+∼$97–106M
 
-∼$35–45M
+∼$79–84M
 
-Table 4. Workforce Funding Stack. Net Public Cost After Medi-Cal Billing Offset.
-The net public cost of $35M to $45M annually for the full 40,000-person system falls within the
-combined Measure Alpha and MHSA allocation available to LA County (Los Angeles County Chief
-Executive Office, 2025). The workforce is a deficit-neutral employment pipeline once Medi-Cal billing
-is accounted for. This employment pool is a labor market event for Los Angeles with a structural
-preference for hiring from the populations the system serves.
+Table 4. Workforce Funding Stack. Net Public Cost After Medi-Cal Billing Offset. The 68 million
+dollar line item covers the entire 680-person full network residential facility staffing model at an
+estimated 100,000 dollar per-FTE burdened rate, establishing the distinct wage-to-FTE multiplier
+separate from field ACT capitalization.
+The net public cost of 79 million dollars to 89 million dollars annually for the full 40,000-person
+system falls within the combined Measure Alpha and MHSA allocation available to LA County (Los
+Angeles County Chief Executive Office, 2025). The workforce is a deficit-neutral employment pipeline
+once Medi-Cal billing is accounted for. This employment pool is a labor market event for Los Angeles
+with a structural preference for hiring from the populations the system serves.
 
-21
+23
 
 Working Paper, May 2026
 
@@ -977,26 +994,26 @@ clinical pathway that ensures no individual falls permanently through the gap be
 engagement capacity and the need for stabilization. California’s current legal architecture provides
 three instruments of increasing restriction.
 4.1. CARE Court (The CARE Act, 2023)
-All fifty-eight California counties achieved operational status as of 2024 (California State Legislature,
-2022). The target population focuses on adults with schizophrenia spectrum or other psychotic
-disorders alongside expanded inclusion for bipolar disorder with psychotic features as of early 2026.
-Restriction levels remain low. The pathway functions non-custodially. The individual remains in the
-community.
+All 58 California counties achieved operational status as of 2024 (California State Legislature, 2022).
+The target population focuses on adults with schizophrenia spectrum or other psychotic disorders
+alongside expanded inclusion for bipolar disorder with psychotic features as of early 2026 (California
+State Legislature, 2024b). Restriction levels remain low. The pathway functions non-custodially.
+The individual remains in the community.
 Families, roommates, first responders, or healthcare providers file the petition. The Court reviews
-the petition and upon meeting criteria establishes a twelve-to-twenty-four-month CARE Agreement
-operating as a court-monitored community treatment plan including housing, medication, and
-wraparound services. A multidisciplinary team reports to the court on progress. Persistent
-non-compliance triggers escalating review. CARE Court structurally diverts individuals away from
-more restrictive LPS conservatorships.
+the petition and upon meeting criteria establishes a 12 to 24 month CARE Agreement operating
+as a court-monitored community treatment plan including housing, medication, and wraparound
+services. A multidisciplinary team reports to the court on progress. Persistent non-compliance
+triggers escalating review. CARE Court structurally diverts individuals away from more restrictive
+LPS conservatorships.
 The MDI Stewardship Authority does not file CARE Court petitions and has no active role as
 petitioner in any involuntary or compelled proceeding. The Authority’s by-name HMIS registry
-contains documented field observations of behavioral presentation for Pipeline C individuals.
-This documentation exists as a factual record that authorized petitioners — families, first responders,
-or healthcare providers — may draw upon through their own independent processes. MDI’s role
-in any compelled pathway is limited to providing housing as one available option. The court,
-the treatment team, or the conservator selects it independently.
+contains documented field observations of behavioral presentation for Pipeline C individuals. This
+documentation exists as a factual record that authorized petitioners — families, first responders, or
+healthcare providers — may draw upon through their own independent processes. MDI’s role in any
+compelled pathway is limited to providing housing as one available option. The court, the treatment
+team, or the conservator selects it independently.
 
-22
+24
 
 Working Paper, May 2026
 
@@ -1011,10 +1028,10 @@ hit moderate. The mechanism executes court-ordered outpatient treatment via civi
 It carries no conviction. It mandates medication compliance and outpatient clinical engagement.
 Non-compliance triggers court review and potential escalation to LPS.
 ACT teams accumulate documented interaction histories in HMIS. For individuals with observable
-histories of hospitalization, incarceration, or threatening behavior, AOT petitions may be filed
-by authorized parties. The Stewardship Authority does not file or co-file AOT petitions. Its
-HMIS documentation exists as a factual field record accessible through standard legal discovery
-or referral processes, not as an instrument the Authority deploys to initiate proceedings.
+histories of hospitalization, incarceration, or threatening behavior, AOT petitions may be filed by
+authorized parties. The Stewardship Authority does not file or co-file AOT petitions. Its HMIS
+documentation exists as a factual field record accessible through standard legal discovery or referral
+processes, not as an instrument the Authority deploys to initiate proceedings.
 4.3. LPS Conservatorship (SB 43 Expansion)
 The target population defines individuals deemed gravely disabled and unable to provide for their own
 food, clothing, or shelter due to a mental health disorder or severe substance use disorder (California
@@ -1025,17 +1042,24 @@ appoints Public Guardian or designated conservator. Conservator may consent to h
 and medical treatment on the individual’s behalf. Subject to periodic court review.
 For the most profoundly calcified Pipeline C individuals, those for whom years of ACT engagement
 have produced no voluntary movement, LPS Conservatorship provides the legal mechanism for
-housing placement. A court-appointed conservator may independently select an available ALMU
-unit as the housing placement through normal court channels. MDI does not petition for
-conservatorship, does not participate in those proceedings, and does not receive a unit
-assignment on any individual’s behalf. The conservator acts through the court; MDI
-provides the housing inventory from which the court may draw.
+housing placement. A court-appointed conservator may independently select an available ALMU unit
+as the housing placement through normal court channels. MDI does not petition for conservatorship,
+does not participate in those proceedings, and does not receive a unit assignment on any individual’s
+behalf. The conservator acts through the court; MDI provides the housing inventory from which the
+court may draw.
 Conservatorship is not indefinite institutionalization. The MDI ALMU environment is designed to
 provide the stability that allows psychiatric symptoms to stabilize over time. As condition improves,
+
+25
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 conservatorship review may result in restoration of legal autonomy, at which point the Stewardship
 Contract governs tenancy voluntarily.
 
-23
+26
 
 Working Paper, May 2026
 
@@ -1053,20 +1077,26 @@ MDI Role
 Schizophrenia spectrum, CARE Court
 no prior system history
 
-Housing inventory available;
-no MDI petitioning role
+Housing
+inventory
+available; no MDI
+petitioning role
 
 History of hospitaliza- AOT (Laura’s Law)
 tion/incarceration/threats
 
-HMIS record as factual field
-document only; no petition role
+HMIS record as factual field document
+only; no petition role
 
 Gravely disabled, cannot LPS Conservatorship
 self-provide
 
-ALMU available for independent
-court/conservator selection
+ALMU
+available
+for
+independent
+court/conservator
+selection
 
 Voluntary but treatment- ACT sustained presence
 resistant
@@ -1075,23 +1105,22 @@ Field Architecture (no
 legal instrument)
 
 Table 5. Legal Lever Decision Matrix and MDI Role.
-The MDI Stewardship Authority has no active petitioning, filing, or co-petitioning role in any
-CARE Court, AOT, or LPS proceeding. MDI’s position relative to the legal lever system is that
-of a housing provider whose inventory is available for court-directed or conservator-directed
-placement through independent legal channels. The by-name HMIS registry remains a field
-documentation resource; it is not deployed by MDI as an evidentiary instrument in compelled
-proceedings. ACT teams continue sustained presence engagement for voluntary-track individuals
-throughout the duration of any parallel legal process, maintaining the voluntary pathway as the
-primary and preferred route regardless of whether a legal track is simultaneously active for
-that individual.
+The MDI Stewardship Authority has no active petitioning, filing, or co-petitioning role in any CARE
+Court, AOT, or LPS proceeding. MDI’s position relative to the legal lever system is that of a housing
+provider whose inventory is available for court-directed or conservator-directed placement through
+independent legal channels. The by-name HMIS registry remains a field documentation resource;
+it is not deployed by MDI as an evidentiary instrument in compelled proceedings. ACT teams
+continue sustained presence engagement for voluntary-track individuals throughout the duration of
+any parallel legal process, maintaining the voluntary pathway as the primary and preferred route
+regardless of whether a legal track is simultaneously active for that individual.
 
-24
+27
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-5. Phase Two: Ground Floor Intake and Metabolic Stabilization
+5. Phase Two: Ground Floor Intake and Operational Continuity
 The ground floor of the MDI tower carries three spatially distinct and operationally independent
 systems on a single 26,000 square foot floor plate. They co-exist without mixing. The architecture
 enforces separation. It does not rely on staff enforcement.
@@ -1099,14 +1128,14 @@ enforces separation. It does not rely on staff enforcement.
 The public-facing, welcoming commons. Low-barrier, zero conditions, open to registered guests and
 upper-floor residents. Operations are strictly environmental with access requiring only an RFID
 token or thermal scan. Clinical triage and assessment are geometrically excluded from this space.
-New street arrivals from Pipeline A and Pipeline B access hygiene, laundry, food, or device charging
-voluntarily. Upper-floor MDI residents use the commons as their residential amenity floor providing
-cafeteria, veterinary node, dog run access, Digital Access Center, and decompression zones.
+New street arrivals from Pipeline A, Pipeline B, and voluntary nomadic individuals from Pipeline D
+access hygiene, laundry, food, or device charging voluntarily without intake preconditions. Upperfloor MDI residents use the commons as their residential amenity floor providing cafeteria, veterinary
+node, dog run access, Digital Access Center, and decompression zones.
 Atmosphere requires circadian lighting providing warm tones alongside biophilic materials and curved
-surfaces eliminating institutional fixtures. The cafeteria capacity hits twelve hundred. The cafeteria
-operates a robotic kitchen and direct-access pharmacy vending. A real-time unit availability display
-shows unit availability across the tower network. The design features a veterinary node adjacent to
-dog run access.
+surfaces eliminating institutional fixtures. The cafeteria capacity hits 400. The cafeteria operates
+a robotic kitchen and direct-access pharmacy vending. A real-time unit availability display shows
+unit availability across the tower network. The design features a veterinary node adjacent to dog run
+access.
 5.2. Zone A: The Sally Port
 Secured, clinical, dedicated arrival node for high-acuity individuals via mobile crisis team or law
 enforcement handoff. The node requires a separate entrance from the Resource Center and operates
@@ -1120,7 +1149,7 @@ health clinician and one peer support specialist with lived experience (CIT Inte
 The clinician manages clinical assessment. The peer specialist manages the human connection that
 reduces threat-perception.
 
-25
+28
 
 Working Paper, May 2026
 
@@ -1154,41 +1183,43 @@ separated from the main commons by biophilic partition walls, allow private atte
 staff members until stability permits back-door transit. The pathway from resource center incident
 to Zone A crisis management does not pass through the open commons at any point.
 
-26
+29
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
 5.5. Acuity-Segmented Hygiene
-Because multi-actor escalation most commonly originates in communal hygiene spaces, the MDI
-specification eliminates communal hygiene entirely. The architecture replaces shared facilities with
-single-occupancy, reinforced medical-grade modules that feature resident-controlled water temperature defaulting to 38 degrees Celsius and a low-lighting option utilizing adjustable warm LEDs. To
-prevent escalation driven by urgency, residents face no time pressure for the first thirty minutes while
-UV-C and HEPA air scrubbing systems maintain environmental safety.
-Hygiene rehabilitation for Diogenes-pattern individuals executes clothing exchange framed as addition rather than replacement. The team offers a hygiene intake kit as a gift. Staff bag and tag
-soiled clothing pending individual consent for disposal. Teams conduct skin and wound assessments
-immediately post-hygiene. Chronic wound pain operates as a primary driver of behavioral agitation.
-Pain management precedes psychiatric medication adjustment in the stabilization sequence.
-5.6. Metabolic Stabilization: The Clinical Sequence
-Hours zero through four prioritize rehydration. Oral rehydration requires World Health Organization
+Communal hygiene spaces are primary origins of multi-actor escalation. The MDI specification
+eliminates communal hygiene entirely, replacing shared facilities with single-occupancy, medical-grade
+modules. These modules feature resident-controlled water temperature defaulting to 38 degrees
+Celsius and a low-lighting option with warm LEDs to reduce agitation. To prevent escalation driven
+by urgency, residents face no time pressure for the first 30 minutes while UV-C and HEPA air
+scrubbing maintain air safety.
+Clothing exchange for Diogenes-pattern individuals functions as a supplemental addition. Hygiene
+kit is offered as a gift. Staff bag and tag soiled clothing pending consent for disposal. Skin and
+wound assessments are conducted immediately post-hygiene. Chronic wound pain is identified as a
+primary driver of agitation and pain management precedes psychiatric medication adjustment in the
+stabilization sequence.
+5.6. Intake Stabilization Sequence
+Hours 0 through 4 prioritize rehydration. Oral rehydration requires World Health Organization
 formulated electrolyte solutions (World Health Organization, 2006). Rapid water loading in severely
 dehydrated individuals with depleted sodium produces hyponatremia, a potentially fatal cerebral
-edema. This is a life-safety specification for the robotic kitchen and pharmacy protocols.
-Hours four through twenty-four focus on nutritional triage. Refeeding Syndrome is a life-threatening
-risk for severely malnourished arrivals (Mehanna et al., 2008). Rapid reintroduction of carbohydrates
-triggers electrolyte shifts producing cardiac arrhythmia and neurological complications. The cafeteria
-requires a clinical triage layer identifying high-risk individuals indicating Body Mass Index (BMI)
-below 16, visible severe wasting, or reported days without food and routing them to a Gradual
-Reintroduction Protocol before open cafeteria access.
-Hours twenty-four through seventy-two comprise the psychiatric assessment window. Once basic
-metabolic stability is achieved, the individual’s neurological baseline rises enough for meaningful
+edema. This is a life-safety specification that drives robotic kitchen and pharmacy protocols.
+Hours 4 through 24 focus on nutritional triage. Refeeding Syndrome is a life-threatening risk for
+severely malnourished arrivals (Mehanna et al., 2008). Rapid reintroduction of carbohydrates triggers
+electrolyte shifts producing cardiac arrhythmia and neurological complications. The cafeteria requires
+a clinical triage layer identifying high-risk individuals indicating Body Mass Index (BMI) ¡ 16, visible
+severe wasting, or reported days without food and routing them to a gradual reintroduction protocol
+before open cafeteria access.
+Hours 24 through 72 comprise the psychiatric assessment window executing at the scattered-site
+MHRC cluster following secure transport from the resource center. Once metabolic stability is
+achieved within the resource center, the individual’s neurological baseline rises enough for meaningful
 psychiatric evaluation. Attempting psychiatric assessment before this window produces false-negative
-assessments of capacity and compliance. Psychiatric assessment strictly follows metabolic stabilization.
-For guests requiring immediate psychiatric stabilization beyond ground floor capacity the architecture
-provides direct-path access to an on-site psychiatric emergency node. CIT-trained staff accompany.
+capacity and compliance assessments. Psychiatric assessment follows metabolic stabilization.
+For guests requiring immediate psychiatric stabilization beyond resource center capacity, the architecture provides direct-path access to an on-site psychiatric emergency node.
 
-27
+30
 
 Working Paper, May 2026
 
@@ -1215,26 +1246,35 @@ Active masking layer integrated into the 6-to-10 exchange per hour air filtratio
 white-noise frequencies including running water and wind spectra introduced at low amplitude. Neutralizes residual micro-sound without the clinical sterility of silence, which can itself be disorienting
 for individuals habituated to outdoor ambient environments.
 6.2. The ALMU: Sovereign Cabin
-A precision-engineered 150 square foot module delivers one single inviolable experience establishing
-a door that locks where only the resident holds the key.
-The wet bath module occupies 28 to 32 square feet. Wet room design is a single waterproofed chamber
+A precision-engineered 150 square foot module provides a locked door controlled exclusively by the
+resident.
+The wet bath module occupies 24 to 28 square feet. Wet room design is a single waterproofed chamber
 where the shower pan is the entire bathroom floor. Toilet, wall-mounted sink, and showerhead share
 a drain-sloped floor. Resident-controlled water temperature. Solar thermal pre-heated supply. The
 architecture prohibits communal hygiene facilities. Every ALMU incorporates an independent wet
 bath. This is a non-negotiable dignity threshold.
 
-28
+31
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-The living volume occupies 90 to 95 square feet. Murphy wall-bed folds flat when stowed, reclaiming
+The living volume occupies 90 to 92 square feet. Murphy wall-bed folds flat when stowed, reclaiming
 approximately 35 square feet of floor during daytime. Wall-mounted fold-down desk with seated and
 standing dual configuration. Under-bed and under-desk locking storage. Countertop one-point-seven
 cubic foot mini-refrigerator, induction cooktop plate, microwave alcove. No gas range. Fire safety
 constraint at this density is absolute. Built-in wardrobe column measuring 12 inches deep by 24
 inches wide.
+The remaining 20 to 30 square feet accommodate the demising wall thickness, acoustic insulation
+layers, and the integrated mechanical, electrical, and plumbing chases required for the STC 65
+specification and individual HVAC control. The 150-square-foot ALMU represents the net private
+dimension. The gross residential footprint per unit consumes 400 square feet, allocating the 250square-foot delta to primary circulation corridors, the Tier 1 pod-level biophilic nodes, the pod
+common kitchens, elevator lobbies, and centralized mechanical chases. Across 2,002 units, this gross
+distribution mathematically accounts for 800,800 square feet. The remaining 199,200 square feet
+accommodates the four-story commercial base and the ground floor triage architecture consuming
+104,000 square feet, explicitly allocating the remaining 95,200 square feet across the five Tier 2
+tower-level sanctuaries at 19,040 square feet per level.
 Materials feature a warm-toned material palette. Matte birch ply paneling meets stone-texture
 wall surfaces. The spec eliminates white institutional finishes. Systems feature individual Heating,
 Ventilation, and Air Conditioning (HVAC) control within a 68-to-78-degree operating band. Facilities
@@ -1249,39 +1289,47 @@ floor space converts to pod common areas, biophilic nodes, and pod kitchens. Whe
 units prove necessary to meet the 2,000-unit target, full-spectrum circadian LED ceiling panels
 execute a programmable dawn-to-midday-to-dusk 24-hour cycle providing documented mitigation of
 seasonal affective disorder and circadian disruption. Perimeter units provide full-height commercial
-glazing with floor-to-ceiling sky views. Unobstructed sky access remains a therapeutic variable for
-populations exiting a street encampment.
-Module definition as a non-property interest ensures the legal classification bypasses housing court
-jurisdiction while preserving residential dignity. Residents cannot face eviction through standard
-housing court processes. The Stewardship Contract governs all tenure conditions.
-Redundant resilience requires hydrogen or dual-fuel backup generators. Architecture demands a 96hour potable water cistern mandate holding 560,000 gallons total at One California Plaza occupying
-12 percent of the P5 basement slab. Pressurized sewage ejectors carry a 50,000-hour Mean Time
-Between Failures (MTBF) mandate.
 
-29
+32
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
+glazing with floor-to-ceiling sky views. Unobstructed sky access remains a therapeutic variable for
+populations exiting a street encampment.
+Module definition as a transitional medical facility establishes a legal structure designed to bypass
+housing court jurisdiction while preserving residential dignity. By strictly capping continuous occupancy below 30 days, residents cannot claim statutory tenancy under California Civil Code Section
+1940. The Stewardship Contract governs all short-term tenure conditions.
+Redundant resilience requires hydrogen or dual-fuel backup generators. Architecture demands a 96hour potable water cistern mandate holding 560,000 gallons total at One California Plaza distributed
+across 35 percent of the P3, P4, and P5 basement slabs to maintain standard 8-to-10-foot vertical
+parking clearances. Pressurized sewage ejectors carry a 50,000-hour Mean Time Between Failures
+(MTBF) mandate.
 6.3. Dunbar Verticality: Partitioning Against Anonymity
 A 2,000-unit tower is institutionally scaled, too large for organic social cohesion. Dunbar’s Number
 establishing a limit of approximately 150 represents the cognitive ceiling for stable, trust-based social
 relationships (Dunbar, 1992). Above 150, organic mutual accountability fails, necessitating formal
 enforcement mechanisms.
-The tower mass partitions into 13 independent Home Pods of approximately 154 individuals each, four
-to five floors per pod. These pods function as operationally autonomous zones with dedicated staff
-clusters, localized incident containment protocols, and independent vertical circulation loops serviced
-by the 28-elevator bank. By programming independent elevator loops, Pod 3 residents encounter
-primarily their own pod neighbors in transit, thereby creating recognizable daily familiarity. Digital
-lockout enforces pod boundaries on shared amenity floors via RFID-linked time-slot scheduling, which
-prevents anonymous mass congregation and ensures that any behavioral or infrastructure failure
-remains contained within a single pod. This modular architecture transforms the 2,000-unit tower
-from a single point of failure into a failure-tolerant network of thirteen semi-autonomous residential
-communities.
+The tower mass partitions into 13 independent Home Pods of 154 units each (yielding 2,002 units,
+with two units permanently reserved as an administrative vacancy buffer to sustain a rigid 2,000unit operating baseline). While this structural allocation marginally exceeds the precise Dunbar
+Number limit of 150, it falls well within the natural empirical variance of Dunbar’s research. These
+pods function as operationally autonomous zones with dedicated staff clusters, localized incident
+containment protocols, and independent vertical circulation loops serviced by the 28-elevator bank.
+By programming independent elevator loops, Pod 3 residents encounter primarily their own pod
+neighbors in transit, thereby creating recognizable daily familiarity. Digital lockout enforces pod
+boundaries on shared amenity floors via RFID-linked time-slot scheduling, which prevents anonymous
+mass congregation and ensures that any behavioral or infrastructure failure remains contained within
+a single pod. This modular architecture transforms the 2,000-unit tower from a single point of failure
+into a network of 13 semi-autonomous residential communities.
 Dunbar Group sizing within each pod is not standardized. The ITP finalized at day 30 of Phase
 Zero specifies individual DG assignment based on observed social tolerance, agitation triggers, and
-psychiatric presentation. Some residents stabilize best in smaller DG clusters of five to eight individuals. Others integrate readily into groups of twenty to thirty. The Dunbar number of 150 establishes
+psychiatric presentation. Some residents stabilize best in smaller DG clusters of five to eight individ33
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
+uals. Others integrate readily into groups of twenty to thirty. The Dunbar number of 150 establishes
 the pod-level ceiling, not the individual’s social density threshold. Smaller DG assignment is not
 a lower-status outcome. It is a clinically appropriate match to the individual’s neurological needs
 at the point of ALMU placement. DG assignment is revisable as the resident stabilizes and social
@@ -1290,44 +1338,38 @@ tolerance expands.
 Biophilic exposure reduces cortisol, improves mood regulation, and decreases agitation incidents in
 high-density residential settings (Grand Rising Behavioral Health, 2024; IMEG Corp, 2024). The
 MDI tower delivers biophilic access at two distinct scales.
-Tier 1 Pod-Level Node occupying every pod and every 4 to 5 floors. A 200-to-300 square foot
+Tier 1 Pod-Level Node occupying every pod and every 4 to 5 floors. A 200 to 300 square foot
 planted alcove embedded in the path residents travel daily. Living plant wall with automated drip
 irrigation. Window-adjacent seating. Small conversation-scaled table. The living plant wall absorbs
 mid-frequency sound, creating a quieter micro-zone within the circulation path. Native California
-30
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
-
 species, drought-tolerant, low-volatile organic compound (VOC), sensory-appropriate. Positioned
 immediately adjacent to the pod common kitchen. Cooking smells, plant presence, natural light, and
 informal social encounter occupy the same zone. Residents traverse the pod node organically. The
-five-to-ten-minute passive biophilic exposure that occurs incidentally during daily movement delivers
+five to ten minute passive biophilic exposure that occurs incidentally during daily movement delivers
 the documented cortisol-reduction dose without requiring behavioral change.
 Tier 2 Tower-Level Sanctuary occupying every seven floors. A destination. Oxygenated lounge
 with native California flora, operating at 50 percent of original HVAC design load surplus. Doubleheight volume or exterior terrace where structural conditions permit. Hydroponic garden nodes with
 resident-accessible cultivation plots. Rooftop greenspace with automated irrigation and weatherprotected seating. This is where residents from different pods encounter each other. Cross-pod social
 bridges form here organically, reducing the risk of pod insularity becoming pod tribalism.
 
-31
+34
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
 7. Social Infrastructure: The Human Layer
-The tower’s physical architecture creates the conditions for ontological security. The social infrastructure sustains it. Architectural design cannot force community formation (Frontiers in Psychology
-Editorial Board, 2024). It engineers the spatial conditions that precipitate community formation.
+The tower’s physical architecture creates the conditions for ontological security. The social infrastructure sustains it. Architectural design engineers the spatial conditions that precipitate community
+formation (Frontiers in Psychology Editorial Board, 2024).
 7.1. The Pod Steward: The Gardien Model
 The French Gardien model in social housing demonstrates that a live-in, on-site human presence
 functions as a Social Broker, bridging anonymous institutional management and the daily human
 realities of residents (Harvard Graduate School of Design, 2023; Eindhoven University of Technology,
 2024).
-A security guard’s primary function is enforcement. Residents perceive enforcement as a threat
-signal, particularly Pipeline C individuals with paranoid presentations. A Pod Steward’s primary
-function is recognition. They know every resident by name, observe behavioral baseline, and respond
-to deviation exclusively as a welfare signal.
+Security guards execute enforcement protocols which residents perceive as a threat signal, particularly
+Pipeline C individuals with paranoid presentations. A Pod Steward executes recognition protocols.
+They know every resident by name, observe behavioral baseline, and respond to deviation exclusively
+as a welfare signal.
 Staffing requires a credentialed peer support specialist possessing certificated lived experience of
 homelessness or psychiatric illness operating with social work supervision. One Pod Steward serves
 each Dunbar Pod of 154 individuals. Residential unit within the pod preferred. The 24-hour welfare
@@ -1344,7 +1386,7 @@ platform maintenance cycle reducing paranoid threat-perception of automated syst
 agency over the physical environment. Community Kitchen Coordination involves pod-level meal
 scheduling alongside shared cooking and informal hosting. Food preparation functions as social
 
-32
+35
 
 Working Paper, May 2026
 
@@ -1353,10 +1395,10 @@ Material Dignity Infrastructure (Los Angeles)
 ritual. Digital Access Center Support invites residents with vocational or technical skills to mentor
 others in peer-to-peer skill transfer.
 7.3. The Pod Common Kitchen
-The ground floor cafeteria handles mass nutrition operating a 1,200-person capacity robotic kitchen.
-The pod common kitchen handles the informal, voluntary, social act of cooking together. Whereas
-the cafeteria is engineered to provide mass metabolic sustenance, the pod kitchen functions strictly
-to build the social architecture of the pod through shared meal preparation.
+The ground floor cafeteria handles mass nutrition operating a four-hundred-person capacity robotic
+kitchen. The pod common kitchen handles the informal, voluntary, social act of cooking together.
+Whereas the cafeteria is engineered to provide mass metabolic sustenance, the pod kitchen functions
+strictly to build the social architecture of the pod through shared meal preparation.
 Scale accommodates 8 to 15 people cooking and eating together. Four-to-six-burner induction range.
 Two ovens. Commercial-grade refrigerators. Prep island with seating for six. Dining table for 10
 to 12. Open shelving for communal pantry, restocked from the Resource Bank inventory via Pod
@@ -1368,11 +1410,11 @@ spanning 0600 to 2300. The Nocturnal Access Protocol does not apply to the pod k
 7.4. Animal Companions: The On-Site Facility Model
 Pipeline B’s primary stated reason for refusing shelter is pet separation. The MDI architecture
 guarantees contiguous pet ownership and unlimited daytime access.
-One hundred fifty-four residents in a Dunbar Pod with each person’s animal companion present in
-their unit would make the environment intolerable for the majority. Dogs bark, shed, and have
-elimination accidents. Dander saturates shared HVAC corridors. Inter-animal aggression in elevators
-is a safety event at this density. The residential floors are for human habitation. Animal companions
-live in the on-site facility.
+154 residents in a Dunbar Pod with each person’s animal companion present in their unit would
+make the environment intolerable for the majority. Dogs bark, shed, and have elimination accidents.
+Dander saturates shared HVAC corridors. Inter-animal aggression in elevators is a safety event at
+this density. The residential floors are for human habitation. Animal companions live in the on-site
+facility.
 Professionally managed kennel suites with individual enclosed runs.
 
 Climate-controlled, sound-
@@ -1383,7 +1425,7 @@ vaccination, behavioral, and spay-neuter services.
 Small caged animals (birds, hamsters, fish) may be registered for in-unit accommodation. No in-unit
 cats or dogs on residential floors. This is a fixed rule.
 
-33
+36
 
 Working Paper, May 2026
 
@@ -1396,10 +1438,10 @@ impact. Intoxication becoming a safety event in shared corridors triggers the de
 directing Pod Steward response and peer specialist engagement. Whereas consuming alcohol within
 the private unit remains a protected liberty, generating a safety event in shared communal space
 immediately triggers the de-escalation protocol.
-California Health and Safety Code Section 1947.5 prohibits indoor smoking in multi-unit residential
-buildings. The design response deploys a purpose-designed, covered, weatherproofed outdoor smoking
-terrace with seating, weather protection, and social adjacency to the ground floor commons. Nicotine
-replacement therapy remains available at the pharmacy node. Voluntary.
+The internal Stewardship Contract prohibits indoor smoking within the facility to eliminate fire risk
+and protect the STC 65 ventilation standard. The design response deploys a purpose-designed, covered, weatherproofed outdoor smoking terrace with seating, weather protection, and social adjacency
+to the ground floor commons. Nicotine replacement therapy remains available at the pharmacy node.
+Voluntary.
 The ALMU residential track is not the immediate destination for individuals in active, unmanaged
 heavy substance dependence that is functionally incapacitating. These individuals require a Managed
 Alcohol Program facility or medically supervised transitional care setting first (Podymow et al., 2006;
@@ -1423,8 +1465,8 @@ veterinary node and dog run
 
 Partners
 
-Co-location within same Dunbar Pod; Companion 200 sq ft Intake matching, HMIS
-ALMU
+Co-location within same Dunbar Pod; Two adjacent standard Intake matching, HMIS
+150 sq ft ALMUs
 
 Possessions
 
@@ -1433,7 +1475,7 @@ RFID access
 
 Table 6. Three Ps Infrastructure: Structural Elimination of Shelter Refusal Barriers.
 
-34
+37
 
 Working Paper, May 2026
 
@@ -1457,7 +1499,7 @@ of tenure until a new private market lease is verified, signed, and funded. No r
 to the independent market without a confirmed landing. The contract is the safety net beneath the
 transition.
 
-35
+38
 
 Working Paper, May 2026
 
@@ -1483,7 +1525,7 @@ Authorized telemetry forming the Metabolic Substrate includes smoke and CO2 dete
 and pipe pressure monitoring, air quality checks measuring PM2.5 and CO2 concentration for HVAC
 optimization, utility flow at building system level, structural vibration for anti-stripping detection,
 sewage ejector pressure and MTBF tracking, and the life-safety binary occupancy check where zero
-movement for twenty-four hours triggers Pod Steward notification.
+movement for 24 hours triggers Pod Steward notification.
 Telemetry permanently unauthorized covering the Social Substrate includes internal movement within
 the ALMU, sound levels inside the ALMU, guest visitors or behavioral patterns, consumption patterns
 at unit level, and digital activity on resident devices.
@@ -1492,7 +1534,7 @@ Crime Prevention Through Environmental Design is the architectural alternative t
 digital surveillance (Council on Tall Buildings and Urban Habitat, 2024). Its core principle demands
 designing spaces enabling residents to naturally observe common areas as part of daily movement.
 
-36
+39
 
 Working Paper, May 2026
 
@@ -1507,27 +1549,27 @@ Digital camera placement stands strictly limited to building perimeter capturing
 exits alongside the Sally Port Zone A and bike storage node. No corridor cameras in residential pods.
 Corridor cameras elevate resident anxiety while failing to reduce incident rates.
 8.3. The Robotic Platform: The Gausium Scrubber 50
-EN IEC 63327 certified. Eighty percent water recycling efficiency. Automated maintenance of
-common floor surfaces, utility corridor cleaning, and rapid response to biological waste events on
-the ground floor.
+The Gausium Scrubber 50 is ISO 3741 compliant with 80 percent water recycling efficiency, automated
+maintenance of common floor surfaces, corridor cleaning, and rapid response to biological waste
+events.
 The Swarm Integration Protocol mandates robotic swarms perform rapid replacement of standardized
 components including door lock hardware, panel seals, and utility node covers exclusively under Pod
-Steward supervision. Systems execute proactive maintenance addressing leak detection through
-pipe repair fully autonomously. Reactive social-context maintenance requiring response to biological
-waste events in residential corridors necessitates Pod Steward human triage for dispatch. The swarm
-requires human authorization before dispatching into residential areas.
+Steward authorization. Systems execute proactive maintenance addressing environmental envelope
+integrity and leak detection through pipe repair fully autonomously. Reactive maintenance requiring
+response to biological events in residential areas necessitates Pod Steward human authorization for
+dispatch.
 8.4. Nocturnal Access Protocol
-Automated throttling of common floor access between 0000 and 0500 hours. Gym, cafeteria, and
-social nodes shift to reduced-capacity mode. Primary elevator banks prioritize emergency and directfloor access only. Residential neighborhood behavioral normalization mandates reducing unrestricted
-common floor activity in the overnight window to mirror the social rhythm of market-rate residential
-buildings and reduce the institutional facility feeling that erodes ontological security. Medical, mental
-health, and safety access remain unrestricted globally. The protocol applies only to discretionary
-amenity access.
+Automated throttling of common floor access between 0000 and 0600 hours. Gym, cafeteria, and
+social nodes shift to reduced-capacity mode. Primary elevator banks prioritize emergency and directfloor access only. Residential behavior normalization mandates reducing unrestricted common floor
+activity in the overnight window to mirror the social rhythm of market-rate residential buildings and
+reduce the perception of an institutional facility. Medical, mental health, and safety access remain
+unrestricted globally. The protocol applies only to discretionary amenity access.
 8.5. Transportation Asset Management
 Automated Storage and Retrieval System for bicycles at ground floor and per-pod access nodes.
 Frame integrity and weight scan on every entry and exit cycle detects component stripping attempts.
-Bicycle stationary in private node beyond 48 hours triggers Pod Steward welfare check. The real-time
-37
+Bicycle stationary in private node beyond 72 hours triggers Pod Steward welfare check. The real-time
+
+40
 
 Working Paper, May 2026
 
@@ -1535,13 +1577,13 @@ Material Dignity Infrastructure (Los Angeles)
 
 unit availability display shows transportation asset availability across the pod network. Scarcitydriven hoarding behavior is structurally neutralized by visible abundance.
 8.6. Measure Alpha Cybernetic Allocation
-1.25 percent of the $843M Measure Alpha allocation yields $13,380,000 annually for telemetry
-hardware, robotic platform maintenance, and cybernetic infrastructure (Los Angeles County Chief
-Executive Office, 2025). Telemetry data architecture reviewed annually by an independent Privacy
-Audit Board with resident pod council representation. No data retention beyond 24-hour local purge
-without explicit resident consent and Board approval.
+1.587 percent of the 843 million dollar proposed FY 2026–27 Measure Alpha allocation yields 13,380,000
+dollars annually for telemetry hardware, robotic platform maintenance, and cybernetic infrastructure
+(Los Angeles County Chief Executive Office, 2025). Telemetry data architecture reviewed annually
+by an independent Privacy Audit Board with resident pod council representation. No data retention
+beyond 24-hour local purge without explicit resident consent and Board approval.
 
-38
+41
 
 Working Paper, May 2026
 
@@ -1549,38 +1591,33 @@ Material Dignity Infrastructure (Los Angeles)
 
 9. Fiscal Architecture and the Efficiency Surplus
 9.1. Layer 0: Medi-Cal Sub-Acute Billing Through MHRC Licensure
-The fiscal architecture begins at Phase Zero, before any individual enters the tower. Each MHRC
-sub-sixteen-unit cluster is licensed under DHCS Form 1813 and bills Medi-Cal as a specialty mental
-health sub-acute facility at approximately fifty percent federal financial participation through FMAP
-(California Department of Health Care Services, 2024b,a).
-
-A sixty-day Metabolic Stabilization
-
-episode billed at the sub-acute specialty mental health services rate generates approximately fifteen
-thousand dollars per enrolled resident, of which approximately seven thousand five hundred dollars
-derives from federal FMAP. This layer funds the most clinically intensive phase of the pipeline. It
-operates under existing California law. No legislative action and no speculative waiver is required for
-activation. The IMD Exclusion is resolved architecturally by the sub-sixteen-unit cluster structure:
-each cluster falls below the threshold that triggers Medicaid exclusion, and each files independently
-(Supreme Court of the United States, 2012).
-The cost comparison is direct. A high-frequency emergency room user cycles at three thousand to
-five thousand dollars per visit across eight to twelve visits annually, generating twenty-four thousand
-to sixty thousand dollars in healthcare expenditure per year with no stabilization outcome. A sixtyday MHRC episode at fifteen thousand dollars total produces clinical stabilization enabling every
-downstream pipeline stage. The Medi-Cal case to county fiscal officers and DHCS reviewers is built
-on this comparison.
+The fiscal architecture begins at Phase Zero, before any individual enters the tower. Each MHRC sub16-unit cluster is licensed under DHCS Form 1813 and bills Medi-Cal as a specialty mental health subacute facility at approximately 50 percent federal financial participation through FMAP (California
+Department of Health Care Services, 2024c,a). A 60-day Metabolic Stabilization episode billed at the
+sub-acute specialty mental health services rate generates approximately 15,000 dollars per enrolled
+resident, of which approximately 7,500 dollars derives from federal FMAP. This layer funds the most
+clinically intensive phase of the pipeline. It operates under existing California law. No legislative
+action and no speculative waiver is required for activation. The architecture targets the Institution
+for Mental Disease Exclusion by isolating operations into 15-unit clusters. Because the Centers for
+Medicare and Medicaid Services interprets coordinated clusters operating within the contiguous 1mile footprint of the defined geographic zone as a de facto single institution (Centers for Medicare &
+Medicaid Services, 2017), the fiscal model requires a preemptive Section 1115 demonstration waiver
+to maintain Medi-Cal eligibility.
+The cost comparison is direct. A high-frequency emergency room user cycles at 3,000 to 5,000 dollars
+per visit across 8 to 12 visits annually, generating 24,000 to 60,000 dollars in healthcare expenditure
+per year with no stabilization outcome. A 60-day MHRC episode at 15,000 dollars total produces
+clinical stabilization enabling every downstream pipeline stage. The Medi-Cal case to county fiscal
+officers and DHCS reviewers is built on this comparison.
 9.2. The Four-Layer Funding Stack
 The MDI fiscal model operates through four reinforcing layers. Layer 0 funds Phase Zero Metabolic
 Stabilization through MHRC Medi-Cal sub-acute billing. Layer 1 funds ongoing tower-resident
-clinical services through Medi-Cal ACT billing at one hundred fifty to one hundred ninety dollars per
-enrolled client per day (California Department of Health Care Services, 2024a). Layer 2 funds field
-architecture, Pod Stewards, and residential management through Measure Alpha and MHSA Full
-Service Partnership allocations. Layer 3 generates the Efficiency Surplus through municipal service
-cost elimination, recovering the capital investment within the verified timeline. No layer depends
-on a speculative administrative approval for its core viability. The Medical Classification Waiver, if
-granted, enhances Layer 1 yield. If denied, Layer 1 still operates through the standard Community
-Mental Health Services billing framework.
-
-39
+clinical services through Medi-Cal ACT billing at 150 to 190 dollars per enrolled client per day
+(California Department of Health Care Services, 2024a). Layer 2 funds field architecture, Pod
+Stewards, and residential management through Measure Alpha and MHSA Full Service Partnership
+allocations. Layer 3 generates the Efficiency Surplus through municipal service cost elimination,
+recovering the capital investment within the verified timeline. The Section 1115 Demonstration
+Waiver secures Layer 0 yield. Without it, the clustered Phase Zero facility design triggers the
+Institution for Mental Disease Exclusion. Layer 1 yield remains secure because the permanent
+supportive housing classification bypasses the institutional threshold entirely.
+42
 
 Working Paper, May 2026
 
@@ -1588,30 +1625,29 @@ Material Dignity Infrastructure (Los Angeles)
 
 The MDI fiscal model leverages a central insight establishing the inefficiency of the current system as
 the operational funding source. The delta between what Los Angeles currently spends on managing
-chronic homelessness equaling fifty thousand dollars per person per year through fragmented emergency services, law enforcement, healthcare, and judicial costs versus what the MDI system costs
-to operate per resident per year generates an Efficiency Surplus sufficient to recover the full capital
-investment within twenty-nine months of tower activation (CalMatters, 2026).
+chronic homelessness equaling 50,000 dollars per person per year through fragmented emergency
+services, law enforcement, healthcare, and judicial costs versus what the MDI system costs to operate
+per resident per year generates an Efficiency Surplus sufficient to recover the full capital investment
+within 29 months of tower activation (UCSF Benioff Homelessness and Housing Initiative, 2023;
+CalMatters, 2026). While the 50,000 dollar baseline utilizes a secondary public policy aggregation,
+it aligns with primary cost studies of high-acuity cohorts.
 The financial architecture simultaneously resolves the metropolitan homelessness crisis and the downtown commercial real estate collapse.
 9.3. The Commercial Real Estate (CRE) Bailout Logic
-One California Plaza operates in receivership following a three hundred million dollar default. Marketverified floor valuation sits at one hundred twenty million dollars equaling approximately one hundred
-twenty dollars per square foot (GlobeSt, 2025). This represents an approximately 80 percent discount
-from peak CRE valuation.
-The MDI Stewardship Authority targets distressed trophy towers at the $120 per square foot floor.
-Acquisition via Sovereign Acquisition through Receivership or by settling defaulted debt through
-bankruptcy bidding using state police power authority.
-
-The acquisition mechanism secures an
-
-orderly resolution of defaulted debt at a verified floor value for bondholders while converting stranded
-commercial inventory into stabilization infrastructure at an 80 percent discount to replacement cost
-(Estrada, 2026; Allwork Space, 2026).
+One California Plaza operates in receivership following a 300 million dollar default. Market-verified
+floor valuation sits at 120 million dollars equaling approximately 120 dollars per square foot (GlobeSt,
+2025). This represents an approximately 80 percent discount from peak CRE valuation.
+The MDI Stewardship Authority targets distressed trophy towers at the 120 dollar per square foot
+floor. Acquisition via Sovereign Acquisition through Receivership or by settling defaulted debt
+through bankruptcy bidding using state police power authority. The acquisition mechanism secures
+an orderly resolution of defaulted debt at a verified floor value for bondholders while converting
+stranded commercial inventory into stabilization infrastructure at an 80 percent discount to replacement cost (Estrada, 2026; Allwork Space, 2026).
 The sixteen million square foot network is gated by binary proof of concept at One California
 Plaza. Successful Singular Prototype Threshold demonstration unlocks replication across the 20tower network using the same receivership acquisition model across the distressed downtown corridor.
 9.4. Prototype Capitalization
-The One California Plaza prototype requires a total capital expenditure of $195,000,000 across three
-cost categories, detailed in Table 7.
+The One California Plaza prototype requires a total capital expenditure of 195 million dollars across
+three cost categories, detailed in Table 7.
 
-40
+43
 
 Working Paper, May 2026
 
@@ -1690,30 +1726,36 @@ Capital Recovery Timeline
 
 Table 8. Efficiency Surplus Variance Matrix. Single Tower Capital Recovery.
 9.5. The Efficiency Surplus and Operational Tolerance
-The municipal system spends fifty thousand dollars per chronically unsheltered individual annually
-across emergency, psychiatric, judicial, and sanitation operations (CalMatters, 2026). Accommodating two thousand individuals yields a baseline avoided cost of one hundred million dollars annually.
-The one hundred ninety-five million dollar single-tower capital expenditure recovers through this
-surplus mapped across three execution scenarios. The Best Case scenario achieves full capital recovery
-within twenty-nine months. The Most Probable scenario incorporates twenty-five percent system
-friction achieving recovery within forty-five months. The Worst Case scenario modeling severe friction
-attains recovery within seventy-one months.
-These calculations execute before accounting for Medi-Cal ACT billing revenue, Measure Alpha
-allocation, or MHSA funding streams. The surplus stands self-reinforcing. Each additional tower
-activation multiplies the annual surplus linearly while sharing fixed administrative overhead across
-the network.
+The municipal system spends 50,000 dollars per chronically unsheltered individual annually across
+emergency, psychiatric, judicial, and sanitation operations (CalMatters, 2026). Accommodating 2,000
+individuals yields a best-case avoided cost of 100 million dollars annually. The most probable scenario
+achieves an avoided cost of 75 million dollars annually. Deducting the estimated 22.5 million dollar
+net recurring expense per tower yields a net mode surplus of 52.5 million dollars for the most probable
+execution.
+The 195 million dollar single-tower capital expenditure recovers through this surplus mapped across
+three execution scenarios based on the 50,000-dollar avoided cost baseline. The Best Case scenario
+achieves full capital recovery within 29 months. The Most Probable scenario incorporates 25 percent
+system friction achieving recovery within 45 months. The Worst Case scenario modeling severe
+friction attains recovery within 71 months. Sensitivity analysis indicates that if municipal avoided
+costs drop to 30,000 dollars per person, the Most Probable capital recovery timeline extends to
+approximately 62 months.
 
-41
+44
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
+These calculations execute before accounting for Medi-Cal ACT billing revenue, Measure Alpha
+allocation, or MHSA funding streams. The surplus stands self-reinforcing. Each additional tower
+activation multiplies the annual surplus linearly while sharing fixed administrative overhead across
+the network.
 9.6. Measure Alpha Integration
-The $843M annual Measure Alpha allocation funds homelessness services across Los Angeles County
-(Los Angeles County Chief Executive Office, 2025; Los Angeles County Homeless Initiative, 2025).
-The MDI tower network operationalizes this funding by providing a verifiable infrastructure destination. Measure Alpha expenditures currently disperse across hundreds of independent providers
-with limited outcome verification. The MDI Stewardship Authority centralizes reporting, converting
-Measure Alpha into capital infrastructure investment with measurable per-resident outcomes.
+The 843 million dollar proposed annual Measure Alpha allocation funds homelessness services across
+Los Angeles County (Los Angeles County Chief Executive Office, 2025; Los Angeles County Homeless
+Initiative, 2025). The MDI tower network operationalizes this funding by providing a verifiable
+infrastructure destination. Measure Alpha expenditures currently disperse across hundreds of independent providers with limited outcome verification. The MDI Stewardship Authority centralizes
+reporting, converting Measure Alpha into capital infrastructure investment with measurable perresident outcomes.
 9.7. Non-Profit Co-Location Economics
 Floors two through four of each tower dedicate commercial-grade floor plates to non-profit partner
 offices providing legal aid, vocational training, behavioral health clinics, peer support organizations,
@@ -1729,10 +1771,17 @@ verifiable reduction in chronic homelessness causing corresponding emergency ser
 State government achieves accountability-targeted deployment of the massive homelessness expenditure stream (California State Auditor, 2026). Non-profit partners acquire co-located physical presence
 eliminating transportation barriers. Residents receive sovereign, permanent, and dignity-preserving
 housing. Taxpayers see deficit-neutral operations through Medi-Cal billing offsets alongside massive
+
+45
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 annual public efficiency returns per tower. The labor market adds substantial full-time equivalents
 at full system scale featuring structural hiring preference for individuals offering lived experience.
 
-42
+46
 
 Working Paper, May 2026
 
@@ -1740,10 +1789,10 @@ Material Dignity Infrastructure (Los Angeles)
 
 10. Legal Governance: The Stewardship Authority
 The MDI Stewardship Authority operates as a state-chartered and quasi-governmental entity modeled
-on the Tennessee Valley Authority (Holland and Knight, 2025). It operates wielding delegated state
-police power, independent bonding capacity, and a charter mandate limited to two specific functions
-including acquisition and conversion of distressed commercial real estate into permanent stabilization infrastructure and operation of the MDI pipeline from field architecture through residential
-permanence.
+on the Tennessee Valley Authority (United States Congress, 1933). It operates wielding delegated
+state police power, independent bonding capacity, and a charter mandate limited to two specific
+functions including acquisition and conversion of distressed commercial real estate into permanent
+stabilization infrastructure and operation of the MDI pipeline from field architecture through residential permanence.
 10.1. The TVA Model: Operational Autonomy
 The Authority is chartered by the California Legislature as a special-purpose entity with statutory
 independence from municipal government. This independence resolves the coordination failure that
@@ -1767,70 +1816,67 @@ SB 330 vesting locks zoning entitlements at the date of application for qualifyi
 no subsequent zoning amendment can alter the entitlement. The Adaptive Reuse Ordinance February
 2026 expansion eliminates minimum unit size requirements and public hearing mandates for qualifying
 
-43
+47
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-conversions (Los Angeles City Planning, 2026a). The MDI ALMU at one hundred fifty square feet
-qualifies under the expanded ARO.
+conversions (Los Angeles City Planning, 2026a). The MDI ALMU at 150 square feet qualifies under
+the expanded ARO.
 10.3. Sovereign Acquisition via Receivership
 Commercial buildings in receivership following mortgage default enter a court-supervised disposition
-process. The Stewardship Authority participates in bankruptcy proceedings as a qualified governmental bidder with statutory acquisition priority for structures meeting MDI conversion criteria. The
-acquisition price targets market-verified floor valuations typically seventy to eighty-five percent below
-peak commercial real estate valuations for distressed downtown assets (GlobeSt, 2025).
+process. The Stewardship Authority participates in bankruptcy proceedings as a qualified governmental bidder with statutory acquisition priority for structures meeting MDI conversion criteria.
+The acquisition price targets market-verified floor valuations typically 70 to 85 percent below peak
+commercial real estate valuations for distressed downtown assets (GlobeSt, 2025).
 The acquisition mechanism simultaneously resolves bondholder debt through orderly liquidation at
 floor value alongside converting stranded commercial inventory into public infrastructure supplying
-stabilization housing at replacement cost discounts exceeding eighty percent. This dual resolution
-creates political support from constituencies that normally oppose public housing expansion.
+stabilization housing at replacement cost discounts exceeding 80 percent. This dual resolution creates
+political support from constituencies that normally oppose public housing expansion.
 10.4. The Stewardship Contract
-The Stewardship Contract governs all residential tenure within the tower. It is classified as a nonproperty interest. This novel legal classification is the structural innovation permitting the MDI
-model to operate outside standard housing court jurisdiction while preserving residential dignity
-protections.
-The resident holds a Stewardship Agreement granting occupancy, privacy, and non-interference rights
-equivalent to a standard residential lease. The resident does not hold a property interest or tenancy
-triggering housing court eviction jurisdiction. The Stewardship Authority retains the ability to
-relocate a resident within the network via tower-to-tower or pod-to-pod transfers through the Rapid
-Transition Protocol without initiating judicial proceedings. This is the mechanism that permits
-management of acute behavioral crises without either punitive eviction or enduring unsafe conditions
-for neighboring residents.
-Tenure stands permanent. The Stewardship Contract operates in perpetuity. The only available
-exits include voluntary graduation to the independent market requiring a verified Tenancy Bridge
-Guarantee, voluntary transfer to another MDI node, involuntary transfer via the Rapid Transition
-Protocol, or death.
+The Stewardship Contract governs all residential tenure within the tower. It is classified as a transitional medical occupancy. This classification mirrors hospital bed licensure precedents (California
+Department of Housing and Community Development, 2024). By enforcing mandatory transfers
+before the 30-day statutory tenancy threshold established in California Civil Code Section 1940, it
+is the structural innovation permitting the MDI model to operate outside standard housing court
+jurisdiction while preserving residential dignity protections.
+The resident holds a Stewardship Contract granting transitional occupancy, privacy, and non-interference
+rights during the medical stabilization window. Because occupancy cannot legally exceed 29 continuous days, the resident does not hold a property interest or statutory tenancy triggering housing court
+eviction jurisdiction. The Stewardship Authority retains the ability to relocate a resident within the
+network via tower-to-tower or pod-to-pod transfers through the Rapid Transition Protocol without
+initiating judicial proceedings. This is the mechanism that permits management of acute behavioral
+crises without either punitive eviction or enduring unsafe conditions for neighboring residents.
+Tenure stands transitional, capped strictly at 29 continuous days to preserve the medical facility
+exemption under California Civil Code Section 1940. The Stewardship Contract governs this transitional window. The only available exits include voluntary graduation to the independent market
 
-LEGAL RISK ACKNOWLEDGMENT — Stewardship Contract Classification:
-The classification of the Stewardship Contract as a “non-property interest” is a legal
-design choice intended to operate the MDI residential environment outside standard
-housing court eviction jurisdiction. This classification has not been tested in litigation
-and carries foreseeable legal risk. Courts in most jurisdictions examine the substantive
-character of a living arrangement — including the degree of exclusivity, continuity, and
-residential use — rather than the label a contract assigns it. A resident who occupies an
-ALMU unit with privacy rights, continuous tenure, and non-interference protections
-equivalent to a standard lease may be found by a court to hold a tenancy interest
-regardless of contractual nomenclature. California courts have applied this substance-over-
-form analysis in analogous contexts involving residential hotels, co-living arrangements,
-and program-conditioned occupancy agreements.
-A second risk concerns statutory tenant protections. California law restricts a landlord’s
-ability to contract away certain statutory rights, including just-cause eviction protections
-under AB 1482 and applicable local rent stabilization ordinances. A court could find that
-these protections attach to Stewardship Contract residents regardless of how the agreement
-characterizes the occupancy.
-This paper offers the Stewardship Contract mechanism as a legally untested design
-requiring further legal review before implementation. The policy architecture is sound
-as a design proposal. Its legal enforceability in California courts, and its interaction
-with state and local tenant protection statutes, must be evaluated by counsel before
-the Authority seeks to rely on the non-property-interest classification in any
-administrative or judicial proceeding. This acknowledgment applies to all fully voluntary
-residents and is independent of the compelled-pathway issues addressed in Section 4.
-
-44
+48
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
+requiring a verified Tenancy Bridge Guarantee, voluntary transfer to another MDI node to reset the
+occupancy clock, involuntary transfer via the Rapid Transition Protocol, or death.
+LEGAL RISK ACKNOWLEDGMENT — Stewardship Contract Classification The
+classification of the Stewardship Contract as a “non-property interest” is a legal design choice intended
+to operate the MDI residential environment outside standard housing court eviction jurisdiction.
+This classification has not been tested in litigation and carries foreseeable legal risk. Courts in most
+jurisdictions examine the substantive character of a living arrangement — including the degree of
+exclusivity, continuity, and residential use — rather than the label a contract assigns it. A resident
+who occupies an ALMU unit with privacy rights, continuous tenure, and non-interference protections
+equivalent to a standard lease may be found by a court to hold a tenancy interest regardless
+of contractual nomenclature. California courts have applied this substance-over-form analysis in
+analogous contexts involving residential hotels, co-living arrangements, and program-conditioned
+occupancy agreements.
+A second risk concerns statutory tenant protections. California law restricts a landlord’s ability to
+contract away certain statutory rights, including just-cause eviction protections under AB 1482 and
+applicable local rent stabilization ordinances. A court could find that these protections attach to
+Stewardship Contract residents regardless of how the agreement characterizes the occupancy.
+This paper offers the Stewardship Contract mechanism as a legally untested design requiring further
+legal review before implementation. The policy architecture is sound as a design proposal. Its
+legal enforceability in California courts, and its interaction with state and local tenant protection
+statutes, must be evaluated by counsel before the Authority seeks to rely on the non-property-interest
+classification in any administrative or judicial proceeding. This acknowledgment applies to all fully
+voluntary residents and is independent of the compelled-pathway issues addressed in Section 4.
 10.5. The Rapid Transition Protocol
 When a resident’s behavior creates conditions of physical danger for neighboring pod members and
 de-escalation has failed, the Rapid Transition Protocol transfers the individual to a different pod or
@@ -1838,21 +1884,26 @@ tower within 24 hours. Medical necessity review by the on-site psychiatric team 
 The Protocol executes a protective relocation. The resident retains their Stewardship Contract. They
 receive equivalent accommodations in the receiving pod. HMIS tracks the transfer and notifies the
 receiving Pod Steward.
+
+49
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 This mechanism replaces eviction by ensuring that a behavioral crisis triggers immediate structural
 relocation to a secondary pod, thereby guaranteeing continuous housing tenure.
 10.6. Federal Supremacy Leasing
 For commercially leased tower space housing federal agency partners (Veterans Administration clinical outreach, Social Security Administration benefits enrollment, SAMHSA-funded programs), Federal Supremacy Leasing invokes federal preemption of conflicting municipal regulations for space
 occupied by federal agencies or federally funded programs. This creates a secondary legal shield for
 federal service co-location floors against municipal obstruction.
-10.7. Medical Classification Waiver
-The Stewardship Authority petitions the California Department of Health Care Services for a Medical
-Classification Waiver enabling ALMU residential units to be classified as community-based residential
-treatment settings for Medi-Cal billing purposes. This waiver permits the ACT team to bill MediCal for treatment services delivered within the residential tower without triggering the Institution
-for Mental Disease classification that would eliminate Medi-Cal eligibility for residents aged 21 to 64.
-The waiver preserves the residential character of the ALMU while enabling the clinical billing that
-funds the field architecture.
+10.7. Section 1115 Demonstration Waiver
+The Stewardship Authority petitions the California Department of Health Care Services for a Section 1115 Demonstration Waiver exclusively for Phase Zero scattered clusters to bypass the IMD
+threshold for short-term stabilization (Centers for Medicare & Medicaid Services, 2023). The 2,000unit sovereign cabin tower is legally classified as independent permanent supportive housing. This
+classification ensures residents maintain indefinite Medicaid eligibility without triggering institutional
+treatment restrictions, while the external Phase Zero sites process clinical intake billing independently.
 
-45
+50
 
 Working Paper, May 2026
 
@@ -1862,43 +1913,36 @@ Material Dignity Infrastructure (Los Angeles)
 The MDI framework does not derive its architecture from theory. Every major design decision maps
 to a demonstrated precedent from a metropolitan, national, or clinical case study.
 11.1. Houston: The Way Home Validation
-Harris County deployed a coordinated metropolitan field architecture serving approximately ten
-thousand individuals over thirteen years (Coalition for the Homeless of Houston/Harris County,
-2024).
-
-The core mechanism demands a real-time by-name HMIS registry integrating over one
-
-hundred partner agencies. Encampment-specific Housing Surge Events coordinate placement offers
-at targeted sites. The city executes clearance only after confirming housing placement. Ninety-day
-post-placement follow-up remains standard protocol.
-Measured outcomes feature a sixty percent reduction in overall homelessness between 2011 and 2020.
-The 2018 Wheeler Encampment clearance placed fifty-eight percent in permanent supportive housing.
-The 2019 Chartres Encampment achieved a seventy percent housing placement rate. System-wide
-two-year housing retention hit ninety percent. Field teams fully resolved one hundred twenty-seven
-encampments between 2021 and 2023. Seventy-five percent of engaged individuals accepted housing
-navigation.
+Harris County deployed a coordinated metropolitan field architecture serving approximately 10,000 individuals over 13 years (Coalition for the Homeless of Houston/Harris County, 2024). The core mechanism demands a real-time by-name HMIS registry integrating over 100 partner agencies. Encampmentspecific Housing Surge Events coordinate placement offers at targeted sites. The city executes
+clearance only after confirming housing placement. Ninety-day post-placement follow-up remains
+standard protocol.
+Measured outcomes feature a 60 percent reduction in overall homelessness between 2011 and 2020.
+The 2018 Wheeler Encampment clearance placed 58 percent in permanent supportive housing. The
+2019 Chartres Encampment achieved a 70 percent housing placement rate. System-wide two-year
+housing retention hit 90 percent (Coalition for the Homeless of Houston/Harris County, 2024). Field
+teams fully resolved 127 encampments between 2021 and 2023. 75 percent of engaged individuals
+accepted housing navigation.
 Houston validates the by-name HMIS registry as the operational backbone of the Field Architecture.
-It validates pre-staged unit matching as the mechanism for achieving fifty-eight to seventy percent
-acceptance rates in long-term encampment populations. It validates the Leaf Blower Effect: encampment clearance without simultaneous housing placement produces redistribution, not population
-reduction.
+It validates pre-staged unit matching as the mechanism for achieving 58 to 70 percent acceptance rates
+in long-term encampment populations. It validates the Leaf Blower Effect: encampment clearance
+without simultaneous housing placement produces redistribution, not population reduction.
 11.2. Finland: National Housing First Program
 Finland executes at national scale concentrating efforts in Helsinki (Y-Foundation, 2023). Interventions converted legacy congregate shelters into permanent, scatter-site, and supported housing
 units. The Y-Foundation functioned as a non-profit institutional landlord buying, building, and
 leasing at scale. The system executed multi-stakeholder collaboration across national government,
 municipalities, and NGOs. Housing preceded all treatment conditions. The architecture requires no
 sobriety, employment, or behavioral requirements for entry.
-Measured outcomes demonstrate a sixty-eight percent reduction in long-term homelessness between
-2008 and 2022.
+Measured outcomes demonstrate a 68 percent reduction in long-term homelessness between 2008 and
+2022. Helsinki achieved dramatic reductions in emergency shelter beds generating a corresponding
 
-Helsinki achieved dramatic reductions in emergency shelter beds generating a
-46
+51
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-corresponding increase in permanent supported housing units. Documented cost-effectiveness proved
-savings in emergency health, law enforcement, and judicial costs exceeding program costs.
+increase in permanent supported housing units. Documented cost-effectiveness proved savings in
+emergency health, law enforcement, and judicial costs exceeding program costs.
 Finland validates the governing principle. Housing serves as the clinical precondition, not the reward.
 It validates the non-profit institutional landlord model as an analog to MDI’s non-profit co-location
 partners. It validates scatter-site and supported housing as the two-track architecture matching
@@ -1911,21 +1955,20 @@ recognition of behavioral baselines and deviations.
 Social cohesion in large-scale Habitation à Loyer Modéré (HLM) complexes correlates with Gardien
 engagement strength. Buildings with reduced or consolidated Gardien presence show measurable
 social fragmentation. The Gardien validates the Pod Steward model demonstrating lived-in presence,
-social broker function, the distinction between security enforcement and recognition-based welfare
-response, and the one-to-one-hundred-fifty staffing ratio as the working scale for effective social
-cohesion maintenance (Dunbar, 1992).
+social broker function, the distinction between security enforcement and recognition-based welfare response, and the one to 150 staffing ratio as the working scale for effective social cohesion maintenance
+(Dunbar, 1992).
 11.4. EmPATH: Emergency Psychiatric Assessment Treatment and Healing
 The model deploys non-coercive psychiatric emergency unit design in urban emergency departments
 across the United States (American College of Emergency Physicians, 2020). The architecture
 features an open-floor-plan unit with recliner chairs replacing institutional beds. It presents a
 residential aesthetic. It emphasizes rapid stabilization. It positions de-escalation as environmental
-design rather than pharmacological first response.
+design that structurally reduces the necessity for pharmacological first response.
 Measured outcomes demonstrate significant reductions in psychiatric boarding times and involuntary commitment rates compared against standard emergency department psychiatric intake. The
 literature documents reduced use-of-force incidents.
 EmPATH validates the Zone A Sally Port and Zone B Triage ground floor design philosophy. It
 validates the anti-institutional aesthetic requirement and the non-coercive de-escalation approach as
 clinically superior to security-first intake.
-47
+52
 
 Working Paper, May 2026
 
@@ -1933,14 +1976,15 @@ Material Dignity Infrastructure (Los Angeles)
 
 11.5. CIT: Crisis Intervention Team Memphis Model
 A specialized law enforcement co-responder model remains active across hundreds of United States
-municipalities (CIT International, 2023). The protocol mandates forty-hour specialized training for
+municipalities (CIT International, 2023). The protocol mandates 40-hour specialized training for
 law enforcement officers. The co-responder pairing embeds a mental health clinician with a CIT
 officer. The mechanism routes individuals into designated psychiatric emergency facilities, bypassing
 criminal jail. Verbal de-escalation functions as the primary tool.
-Measured outcomes prove a twenty-eight to fifty-eight percent reduction in use-of-force incidents
-across documented municipal studies establishing an approximate seventy percent psychiatric diversion rate for eligible cases. The model works strictly sequentially addressing one individual
-precisely independent of others. It cannot manage simultaneous multi-actor escalation events. Kinetic
-separation via the Sally Port represents the architectural equivalent enabling single-actor CIT deescalation at MDI.
+Measured outcomes prove a 28 to 58 percent reduction in use-of-force incidents across documented
+municipal studies establishing an approximate 70 percent psychiatric diversion rate for eligible cases.
+The model works strictly sequentially addressing one individual precisely independent of others. It
+cannot manage simultaneous multi-actor escalation events. Kinetic separation via the Sally Port
+represents the architectural equivalent enabling single-actor CIT de-escalation at MDI.
 CIT validates dual-role crisis node staffing in Zone A and Zone B. It establishes why multi-actor
 escalation requires architectural separation before clinical de-escalation can function.
 11.6. Adaptive Reuse Precedents
@@ -1950,23 +1994,23 @@ in a single vertical ecosystem (Crosstown Arts and Crosstown Concourse LLC, 2017
 integration creates organic daily encounters across demographic groups. Ground-floor activation
 connects the building to the surrounding neighborhood. Crosstown validates the non-profit colocation model as architecture (Los Angeles City Planning, 2026a). Visible mixed-use activation
 and community permeability reduce the stigma attached to stabilization housing.
-Le Corbusier’s 1952 Unité d’Habitation in Marseille established the conceptual precedent that vertical density does not preclude community formation when common infrastructure is deliberately
-embedded in the residential fabric (Corbusier, 1952). Three hundred thirty-seven apartments housing sixteen hundred residents across seventeen stories, with an internal commercial street, rooftop
-gymnasium, and nursery. The “streets in the air” concept prefigures the MDI pod-level sky garden
-and common kitchen placement logic.
+Le Corbusier’s 1952 Unité d’Habitation in Marseille established the conceptual precedent that vertical
+density does not preclude community formation when common infrastructure is deliberately embedded in the residential fabric (Corbusier, 1952). 1,600 residents across 17 stories, with an internal
+commercial street, rooftop gymnasium, and nursery. The “streets in the air” concept prefigures the
+MDI pod-level sky garden and common kitchen placement logic.
 
-48
+53
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
 12. The Prototype Verification Threshold
-The MDI thesis is falsifiable. The Singular Prototype Threshold at One California Plaza defines
-seven binary verification metrics. All seven must pass before the first replication tower is acquired.
-Failure of any single metric halts network expansion and triggers architectural revision.
-12.1. The Seven Verification Metrics
-Table 9 specifies the seven binary thresholds constituting the Singular Prototype Threshold gate.
+The MDI thesis is falsifiable. The Singular Prototype Threshold at One California Plaza defines eight
+binary verification metrics. All eight must pass before the first replication tower is acquired. Failure
+of any single metric halts network expansion and triggers architectural revision.
+12.1. The Eight Verification Metrics
+Table 9 specifies the eight binary thresholds constituting the Singular Prototype Threshold gate.
 
 # Metric
 
@@ -1977,14 +2021,14 @@ Threshold
 Encampment reduction
 in target zone
 
-70–80% within 24 months of tower activa- LAHSA PIT methodoltion
+70 to 80 percent within 24 months of tower LAHSA PIT methodolactivation
 ogy
 
 2
 
-Continuous housing re- ≥85% continuous residency at 24 months HMIS registry tracking
+Continuous housing re- ≥85 percent continuous residency at 24 HMIS registry tracking
 tention
-post-placement
+months post-placement
 
 3
 
@@ -1999,9 +2043,9 @@ rate (Pipeline B)
 
 5
 
-Legal lever Pipeline C ≥15% of total C-cohort housed via com- CARE
+Legal lever Pipeline C ≥15 percent of total C-cohort housed via CARE
 augmentation
-pelled pathways
+compelled pathways
 records
 
 6
@@ -2023,7 +2067,7 @@ Phase
 
 Source
 
-≥55% at targeted warm offer
+≥55 percent at targeted warm offer
 
 County fiscal audit
 Field
@@ -2037,8 +2081,8 @@ Court/AOT
 Stewardship Authority
 audit
 
-Zero ≥70% maintaining ≥2 indicators across 60– MHRC clinical records
-90 day window
+Zero ≥70 percent maintaining ≥2 indicators MHRC clinical records
+across 60 to 90 day window
 MHRC flow regulator
 audit
 
@@ -2051,55 +2095,65 @@ Zero functions as a flow regulator rather than a systemic bottleneck. To prevent
 or documentation gaming, all threshold data are subject to an adversarial audit conducted by the
 Singular Prototype Oversight Committee.
 
-49
+54
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
 12.2. The SPT Gate
-No replication tower is acquired, converted, or activated until all seven metrics achieve threshold at
+No replication tower is acquired, converted, or activated until all eight metrics achieve threshold at
 One California Plaza. Because the Singular Prototype Threshold (SPT) operates as a binary gate,
 partial success cannot authorize partial expansion. The gate exists to prevent the political dynamics
 that have historically scaled unverified homelessness programs across California before outcome data
-existed.
+existed. Bypassing the gate prior to successful metric validation requires a two-thirds supermajority
+override by the Stewardship Authority’s governing board.
 If the prototype fails any metric, the architectural revision process identifies the specific failure point,
 revises the design, and re-tests at the prototype site. The network does not expand on the basis
 of political pressure, media narrative, or projected outcomes. It expands on the basis of measured
 outcomes at a single verified site.
 12.3. The Falsifiability Clause
 The primary MDI thesis states that the physiological prerequisites for housing maintenance are
-the structural missing component explaining why Housing First achieves eighty to ninety percent
-housing retention in Finland and sub-forty percent in the United States. Metabolic Stabilization
-delivered through MHRC-licensed sub-acute clinical clusters before permanent placement provides
-these necessary prerequisites. The operational thesis is that a fully engineered pipeline delivering
-that prerequisite layer, combined with field architecture, a legal lever system, and a terminal infrastructure node operating simultaneously, can reduce chronic unsheltered homelessness in a targeted
-metropolitan zone by seventy to eighty percent within twenty-four months of tower activation, sustain
-retention at or above eighty-five percent, and recover capital investment within forty-five months.
+the structural missing component explaining why Housing First achieves 80 to 90 percent housing
+retention in Finland and sub-40 percent in the United States (UCSF Benioff Homelessness and Housing Initiative, 2023). Metabolic Stabilization delivered through MHRC-licensed sub-acute clinical
+clusters before permanent placement provides these necessary prerequisites. The operational thesis
+is that a fully engineered pipeline delivering that prerequisite layer, combined with field architecture,
+a legal lever system, and a terminal infrastructure node operating simultaneously, can reduce chronic
+unsheltered homelessness in a targeted metropolitan zone by 70 to 80 percent within 24 months of
+tower activation, sustain retention at or above 85 percent, and recover capital investment within 45
+months.
 If One California Plaza, operating at full specification with all simultaneous operations active for
-twenty-four months, fails to achieve these thresholds, the thesis is falsified at both levels. The
-Metabolic Stabilization prerequisite layer does not produce the physiological clearance claimed. The
-pipeline engineering model does not produce the claimed population-level outcome. Failure invalidates the model. It proves the structural barriers exceed the framework’s engineering capacity,
-requiring foundational revision rather than iterative adjustment.
+24 months, fails to achieve these thresholds, the thesis is falsified at both levels. The Metabolic
+Stabilization prerequisite layer does not produce the physiological clearance claimed. The pipeline
+engineering model does not produce the claimed population-level outcome. Failure invalidates the
+model. It proves the structural barriers exceed the framework’s engineering capacity, requiring
+foundational revision.
 Achieving the retention threshold alone cannot isolate the causal impact of Metabolic Stabilization
-from the architectural advantages of the ALMU environment or from potential selection effects associated with stabilization completion. To isolate this variable, the prototype mandates a nested Intentto-Treat Randomized Controlled Trial (RCT). A defined high-acuity cohort must be randomized at
-initial contact into two arms: Arm A receiving Phase Zero stabilization prior to placement, and Arm
-50
+from the architectural advantages of the ALMU environment or from potential selection effects associated with stabilization completion. To isolate this variable, the prototype mandates a nested Intent55
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
+to-Treat Randomized Controlled Trial (RCT). A defined high-acuity cohort must be randomized at
+initial contact into two arms: Arm A receiving Phase Zero stabilization prior to placement, and Arm
 B receiving immediate placement into the identical ALMU environment under equivalent service
 conditions. All participants are analyzed according to initial assignment, and non-completion of
-stabilization in Arm A is counted as a negative outcome. Continuous housing retention is defined as
-uninterrupted residence without administrative reset or transfer masking. This primary causal thesis
-fails if the difference in twelve-month continuous housing retention between arms falls below fifteen
-percentage points or fails to achieve statistical significance under intent-to-treat analysis.
+stabilization in Arm A is counted as a negative outcome. Continuous housing retention is defined
+as uninterrupted residence without administrative reset or transfer masking. This primary causal
+thesis fails if Arm A does not achieve at least 70 percent absolute 12-month retention, or if the
+difference in 12-month continuous housing retention between arms falls below 15 percentage points
+or fails to achieve statistical significance under intent-to-treat analysis. While this 12-month RCT
+structurally isolates the causal mechanism of stabilization, SPT Metric 2 evaluates the durability of
+the full pipeline system at 24 months. Both tests must independently verify. Furthermore, to prevent
+gaming, the RCT requires a pre-operations protocol establishing an independent IRB randomization
+authority and an external data custodian. Finally, the entire operational model remains subject
+to the CMS interpretation risk regarding IMD facility clustering, which operates independently of
+clinical outcomes.
 This clause is the difference between a policy proposal and an engineering specification. Policy proposals are evaluated on intention. Engineering specifications are evaluated on measured performance
 against stated thresholds.
 
-51
+56
 
 Working Paper, May 2026
 
@@ -2108,42 +2162,42 @@ Material Dignity Infrastructure (Los Angeles)
 13. Conclusion
 The street homelessness crisis in Los Angeles persists because the system is sequenced wrong. Housing
 is offered to individuals who cannot maintain housing because the physiological prerequisites for
-tenancy have not been established. Finland proved that establishing those prerequisites before
-placement produces eighty to ninety percent two-year housing retention. The United States produces
-sub-forty percent retention because it deploys housing without the prerequisite layer. Twenty-four
-billion dollars in California expenditure and four decades of distributed shelter programming have
-not changed this sequencing error (California State Auditor, 2026; Y-Foundation, 2023; FEANTSA,
-2022).
-The Material Dignity Infrastructure resequences the pipeline. Phase Zero deploys MHRC-licensed
-sub-sixteen-unit clusters that deliver sub-acute metabolic, neurological, and physiological stabilization before any permanent housing placement occurs. This is the missing layer. It operates under
-existing California law, funded through existing Medi-Cal sub-acute billing at fifty percent federal
-financial participation, requiring no legislative action and no speculative waiver. The IMD Exclusion
-is resolved architecturally. The Not In My Backyard (NIMBY) attack surface is resolved by medical
-facility classification. The diagnostic protocol is audit-defensible (California Department of Health
-Care Services, 2024b).
-Four distinct population pipelines receive four matched instruments. Pipeline A resolves through
-coordinated entry acceleration. Pipeline B resolves through a specific, immediate warm offer eliminating the rational refusal barriers of pet separation, partner separation, and possession loss. Pipeline
-C resolves through twelve-to-twenty-four months of ACT sustained presence combined with the
-legal lever system for individuals whose neurology precludes voluntary engagement. The voluntary
-nomadic individuals in Pipeline D receive harm reduction without placement pressure. No legal
-instrument applies to Pipeline D. The Anti-Detention Covenant protects every resident’s right of
-egress. All three intake pathways feed the same pipeline toward the same destination. Whether
-entering via Sally Port, open walk-in, or secondary clinical transfer, individuals route to a named
-room, a stored cart, a kenneled pet, and a keycard issued at the moment of willingness.
+tenancy have not been established. Finland proved that establishing those prerequisites before placement produces 80 to 90 percent 2-year housing retention. The United States produces sub-40 percent
+retention because it deploys housing without the prerequisite layer (UCSF Benioff Homelessness and
+Housing Initiative, 2023). 24 billion dollars in California expenditure and four decades of distributed
+shelter programming have not changed this sequencing error (California State Auditor, 2026; YFoundation, 2023; FEANTSA, 2022).
+The Material Dignity Infrastructure resequences the pipeline. Phase Zero defines the comprehensive
+pre-admission structural sequence including the clinical stabilization layer that operates before any
+permanent housing placement occurs. This is the missing layer. It operates under existing California
+law, funded through existing Medi-Cal sub-acute billing at 50 percent federal financial participation, requiring a Section 1115 demonstration waiver anchored to the California CalAIM framework
+(Centers for Medicare & Medicaid Services, 2023) to resolve the Centers for Medicare and Medicaid
+Services interpretation risk. The Not In My Backyard attack surface is resolved by medical facility
+classification. The diagnostic protocol is audit-defensible (California Department of Health Care
+Services, 2024c).
+Five distinct population pipelines receive five matched instruments. Pipeline A resolves through coordinated entry acceleration. Pipeline B resolves through a specific, immediate warm offer eliminating
+the rational refusal barriers of pet separation, partner separation, and possession loss. Pipeline C
+Calcified resolves through 12 to 24 months of ACT sustained presence combined with the legal lever
+system for individuals whose neurology precludes voluntary engagement. Pipeline C Riparian resolves
+through environmental abatement and simultaneous housing placement. The voluntary nomadic
+individuals in Pipeline D receive harm reduction without placement pressure. No legal instrument
+applies to Pipeline D. The Anti-Detention Covenant protects every resident’s right of egress. All
+three intake pathways feed the same pipeline toward the same destination. Whether entering via
+Sally Port, open walk-in, or secondary clinical transfer, individuals route to a named room, a stored
+cart, a kenneled pet, and a keycard issued at the moment of willingness.
 The population does not need to be cleared. It needs to be reduced substantially. Houston achieved
-sixty percent reduction using coordinated entry as its primary tool over nine years. MDI deploys
-five simultaneous operations with a stronger toolset, a purpose-built inventory, and a metabolic
-stabilization layer Houston lacked. The 70–80 percent reduction target at the prototype zone is
+60 percent reduction using coordinated entry as its primary tool over nine years. MDI deploys
 
-52
+57
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
+five simultaneous operations with a stronger toolset, a purpose-built inventory, and a metabolic
+stabilization layer Houston lacked. The 70 to 80 percent reduction target at the prototype zone is
 conservative relative to the comparative evidence base. County-wide reduction to that threshold
-requires sixteen to twenty tower deployments across a five-to-ten-year network timeline. The single
-prototype proves the pipeline. The network delivers the population-level outcome.
+requires 16 to 20 tower deployments across a five to ten year network timeline. The single prototype
+proves the pipeline. The network delivers the population-level outcome.
 The efficiency dividend that follows is not fiscal alone. The six-layer dividend reaches every public
 system that currently manages the chronic street crisis as an unresolvable baseline. Emergency
 rooms recover psychiatric bed capacity. Law enforcement reallocates officer time from encampment
@@ -2151,10 +2205,10 @@ management to other calls. Sanitation operations transition from crisis remediat
 maintenance. The Financial District corridor around One California Plaza recovers commercial
 viability. Community hospitals serving the housed population are relieved of the behavioral health
 surge the unhoused population currently generates. Every front line worker experiences materially
-improved working conditions when the population they manage decreases by seventy to eighty percent.
-This dividend benefits outreach workers, ACT clinicians, ER nurses, LAPD officers, and sanitation
-crews. These workforce sustainability gains are not counted in the Efficiency Surplus. They are
-system-level dividends that accrue to every institution that touches the crisis.
+improved working conditions when the population they manage decreases by 70 to 80 percent. This
+dividend benefits outreach workers, ACT clinicians, ER nurses, LAPD officers, and sanitation crews.
+These workforce sustainability gains are not counted in the Efficiency Surplus. They are system-level
+dividends that accrue to every institution that touches the crisis.
 The population that remains after substantial Pipeline C housing represents a qualitatively different
 street demographic that is smaller in total volume, less acutely destabilized, and significantly less
 visible as a public safety emergency. As the population shrinks, the behavioral contagion effect that
@@ -2170,7 +2224,7 @@ By defining clear verification thresholds, engineering a dedicated prerequisite 
 a rigid prototype model, the framework guarantees that the target population must diminish. This
 structural reorganization provides the exact mechanism by which that reduction occurs.
 
-53
+58
 
 Working Paper, May 2026
 
@@ -2196,33 +2250,30 @@ to the mechanical layer (safety telemetry, robotic maintenance, logistics). Huma
 relational layer (Pod Steward welfare checks, peer specialist engagement, crisis response). Total automation
 and total human management are both rejected.
 
-Pathway 3 (Secondary Clinical Transfer) Individual transferred following field contact, noncriminal law enforcement determination, or ER discharge to a lower-acuity setting. Uses the rear-wall
-Zone A entrance, physically separated from the open commons. Prevents crisis contagion in the resource
-center population.
-
-Bulk Majority Argument The thesis that clearing 70–80% of the Pipeline C street population
+Bulk Majority Argument The thesis that clearing 70 to 80 percent of the Pipeline C street population
 produces a population ecology shift, rendering the remaining voluntary nomadic Pipeline D population
 manageable via harm reduction rather than crisis management.
 
 Dunbar Group (DG) An ITP-assigned social cluster within a Dunbar Pod. Sizing is individualized:
-5–8 individuals for socially sensitive residents; up to 20–30 for those with higher social tolerance. DG
+5 to 8 individuals for socially sensitive residents; up to 20 to 30 for those with higher social tolerance. DG
 assignment is revisable as the resident stabilizes. Smaller DG is a clinical match, not a lower-status outcome.
 
 Dunbar Pod One of 13 independent residential partitions within the MDI tower. Approximately 154
-individuals per pod. Four to five floors. Independent elevator loop. Time-slot-scheduled shared amenity
-access via RFID lockout. Derived from Dunbar’s Number cognitive ceiling of approximately 150 for stable
-social relationships.
+units per pod, yielding 2,000 total. Four to five floors. Independent elevator loop. Time-slot-scheduled
+shared amenity access via RFID lockout. Derived from Dunbar’s Number cognitive ceiling of approximately
+150 for stable social relationships.
 
-54
+Efficiency Surplus The net annual public financial benefit per tower generated through municipal
+service cost elimination. Best case: 82 million dollars per year. Most probable: 52.5 million dollars per
+year. Worst case: 33 million dollars per year. Capital recovery timeline: 29–71 months. Six-layer dividend:
+ER throughput, law enforcement reallocation, sanitation, commercial district recovery, community hospital
+relief, and front line worker conditions.
+
+59
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
-
-Efficiency Surplus The net annual public financial benefit per tower generated through municipal
-service cost elimination. Best case: $82M/year. Most probable: $52.5M/year. Worst case: $33M/year.
-Capital recovery timeline: 29–71 months. Six-layer dividend: ER throughput, law enforcement reallocation,
-sanitation, commercial district recovery, community hospital relief, and front line worker conditions.
 
 Exoskeletal Identity Structure The functional role of a Pipeline C individual’s accumulated hoard.
 Provides the physical boundary of a self-constructed world. Not random accumulation. Removing the hoard
@@ -2245,9 +2296,10 @@ elimination of chronic street homelessness. Comprises Phase Zero (Metabolic Stab
 (Field Architecture), Phase Two (Ground Floor Intake), Phase Three (Ontological Architecture), and five
 simultaneous operations.
 
-Metabolic Stabilization (MS) Phase Zero of the MDI pipeline. The 30–90 day clinical stage delivering sub-acute metabolic, neurological, and nutritional stabilization before any permanent housing placement
-occurs. The prerequisite layer that Housing First requires but the United States system does not currently
-provide.
+Metabolic Stabilization (MS) Phase Zero of the MDI pipeline. The 30 to 90 day clinical stage
+delivering sub-acute metabolic, neurological, and nutritional stabilization before any permanent housing
+placement occurs. The prerequisite layer that Housing First requires but the United States system does not
+currently provide.
 
 MS Unit The Metabolic Stabilization Unit. The clinical residential environment where Phase Zero
 stabilization occurs. Operated under MHRC licensure. Distinct from the ALMU residential track.
@@ -2256,15 +2308,16 @@ Nocturnal Access Protocol Automated throttling of discretionary common floor acc
 and 0500 hours. Normalizes institutional social rhythm to match market-rate residential buildings. Medical,
 mental health, and safety access remain unrestricted globally.
 
-55
+Ontological Permanence Architecture (Ontological Security) The physical and operational
+mechanisms providing structural predictability sufficient to eliminate the routine of being rousted (Giddens,
+1991; Laing, 1960). Core markers: space for daily routines, sense of privacy, control over environment,
+coherent sense of self. The ALMU delivers all four simultaneously.
+
+60
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
-
-Ontological Security The provision of structural predictability sufficient to eliminate the routine of
-being rousted (Giddens, 1991; Laing, 1960). Core markers: space for daily routines, sense of privacy, control
-over environment, coherent sense of self. The ALMU delivers all four simultaneously.
 
 Pod Steward A credentialed peer support specialist with lived experience of homelessness or psychiatric
 illness. One per Dunbar Pod of 154 individuals. Residential unit within the pod preferred. Primary function:
@@ -2285,67 +2338,71 @@ Sally Port (Pathway 1) The formal, pre-matched intake pathway. Mobile crisis out
 team-facilitated warm offer to a named individual on the by-name HMIS registry. Unit, pod, and floor
 are pre-matched before the offer conversation begins. Highest-quality intake: the individual is known, prematched, and entering at a chosen moment of willingness.
 
-Singular Prototype Threshold (SPT) The seven binary verification metrics that must all pass at
+Singular Prototype Threshold (SPT) The eight binary verification metrics that must all pass at
 One California Plaza before any replication tower is acquired. A binary gate. Partial success does not
 authorize partial expansion. Metric 7 (Phase Zero clearance rate) is the causal test of the primary academic
 thesis.
 
 Sovereign Acquisition via Receivership The Stewardship Authority’s mechanism for acquiring
 distressed commercial towers through court-supervised bankruptcy proceedings at verified floor valuations
-(typically $120/sq ft; 70–85% below peak CRE valuations).
+(typically 120 dollars per square foot; 70 to 85 percent below peak CRE valuations).
 
-ST-65 Medical Utility Unit The physical module of each MHRC cluster. A 65-decibel-proof sound
+STC 65 Phase Zero Module The physical module of each MHRC cluster. A 65-decibel sound
 enclosure designated as a state-owned clinical environment. Not a residential dwelling. Not a shelter. A
 therapeutic milieu unit analogous to a hospital step-down bed.
 
 Stewardship Authority The state-chartered quasi-governmental entity modeled on the Tennessee
-Valley Authority. Possesses delegated state police power and independent bonding capacity. Functions as
-MDI operator, CARE Court petitioner, real estate acquirer, and outcome verifier. Resolves the coordination
-failure that paralyzes existing Los Angeles homelessness governance.
-
-56
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
+Valley Authority. Possesses delegated state police power and independent bonding capacity. Functions
+as MDI operator, CARE Court petitioner, real estate acquirer, and outcome verifier. Addresses the
+coordination failure that paralyzes existing Los Angeles homelessness governance.
 
 Stewardship Contract The legal instrument governing residential tenure within the tower. Classified
 as a non-property interest. Resident holds occupancy, privacy, and non-interference rights equivalent to a
 residential lease without triggering housing court eviction jurisdiction.
+
+61
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
 
 Hygiene Intake Kit The gift offered to Diogenes-pattern individuals at hygiene intake. Framed as
 addition, not replacement. Staff bag and tag soiled clothing pending individual consent for disposal.
 
 Resident Civic Engagement Pathway Voluntary participation tracks transitioning residents from
 passive service recipients to active stakeholders. Includes Garden Stewardship, Robotic Swarm Supervision,
-Community Kitchen Coordination, and Digital Access Center Support. Earns Stewardship Status—a social
+Community Kitchen Coordination, and Digital Access Center Support. Earns Stewardship Status, a social
 recognition category within the pod.
 
-Three Ps Infrastructure The structural elimination of the three primary shelter refusal barriers: Pets
+Three Ps Infrastructure The structural elimination of three primary shelter refusal barriers: Pets
 (on-site facility, veterinary node, dog run); Partners (co-location within same Dunbar Pod); Possessions
 (photographed, GPS-tagged, RFID-accessible secure storage).
 
-Warm Offer A specific, immediate, and irreversible housing offer made at the moment of the individual’s
+Warm Offer A specific, immediate, irreversible housing offer made at the moment of the individual’s
 first window of willingness following an acute crisis event. Pre-confirmed unit, kenneled pet, stored possessions, completed intake documentation. Eliminates bureaucratic delay and every rational refusal barrier
 simultaneously.
 
 Part II: Population Pipelines
+Pathway 3 (Secondary Clinical Transfer) Individual transferred following field contact, noncriminal law enforcement determination, or ER discharge to a lower-acuity setting. Uses the rear-wall
+Zone A entrance, physically separated from the open commons. Prevents crisis contagion in the resource
+center population.
+
 Pipeline A The near-homeless and voluntarily transitioning. No major psychiatric comorbidity. Engages
 voluntarily with the Coordinated Entry System. Rapid placement track. CES is the existing instrument;
 MDI accelerates it by creating surplus inventory.
-
 Pipeline B The encamped but engageable. Long-term encampment with intact insight. Refusal directed
 at congregate shelter barriers (pets, partners, possessions), not housing itself. Warm offer at acute crisis
-window. 58–70% acceptance rate with a specific, immediate offer.
-Pipeline C The behaviorally calcified chronic. Long Duration of Untreated Psychosis (5–15 years).
-Active schizophrenia spectrum disorder. Requires ACT sustained presence 12–24 months plus the legal lever
-system. Primary driver of public safety concern and street visibility.
+window. 58 to 70 percent acceptance rate with a specific, immediate offer.
 
-Pipeline C Riparian Sub-Variant The hidden riparian population. Mobile, terrain-adaptive, encamped in environmentally sensitive sites (LA River, Ballona Creek, storm drains). Estimated 20–30%
-above PIT count Pipeline C figure due to systematic undercount. Requires environmental enforcement track
-(field mapping + CWA abatement) paired with simultaneous warm offer.
+Pipeline C The behaviorally calcified chronic. Long Duration of Untreated Psychosis (5 to 15 years).
+Active schizophrenia spectrum disorder. Requires ACT sustained presence 12 to 24 months plus the legal
+lever system. Primary driver of public safety concern and street visibility.
 
-57
+Pipeline C Riparian Sub-Variant The hidden riparian population. Mobile, terrain-adaptive, encamped in environmentally sensitive sites (LA River, Ballona Creek, storm drains). Estimated 20 to
+30 percent above PIT count Pipeline C figure due to systematic undercount. Requires environmental
+enforcement track (field mapping + CWA abatement) paired with simultaneous warm offer.
+
+62
 
 Working Paper, May 2026
 
@@ -2357,8 +2414,8 @@ of Pipeline C changes the street environment sufficiently that Pipeline D become
 reduction alone.
 
 Part III: Clinical Terms
-Anosognosia A neurological incapacity to perceive one’s own psychiatric condition. Up to 50% of
-schizophrenia-spectrum individuals present with it. The frontal lobe damage producing psychosis simultaneously destroys the self-monitoring faculty. Outreach strategies premised on persuasion target a faculty
+Anosognosia A neurological incapacity to perceive one’s own psychiatric condition. Up to 50 percent
+of schizophrenia-spectrum individuals present with it. The frontal lobe damage producing psychosis simultaneously destroys the self-monitoring faculty. Outreach strategies premised on persuasion target a faculty
 already destroyed by the disease.
 
 Behavioral Calcification The progressive rigidity of survival routines and threat-perception systems
@@ -2380,14 +2437,14 @@ diagnostic classification system governing all provisional and finalized diagnos
 Three-Phase Diagnostic Protocol.
 
 DUP (Duration of Untreated Psychosis) The accumulation of years of untreated psychosis producing measurable progressive brain changes: increasing cognitive rigidity, treatment resistance, and functional
-decline. Pipeline C typically presents 5–15 years DUP. Standard clinical timescales do not apply to this
+decline. Pipeline C typically presents 5 to 15 years DUP. Standard clinical timescales do not apply to this
 cohort.
 
 Hyponatremia Potentially fatal cerebral edema produced by rapid water loading in severely dehydrated
 individuals with depleted sodium. Life-safety constraint on the rehydration protocol: WHO-formulated
 electrolyte solution is required before water. Governs the robotic kitchen and pharmacy protocols.
 
-58
+63
 
 Working Paper, May 2026
 
@@ -2397,8 +2454,8 @@ Refeeding Syndrome Life-threatening electrolyte shifts (cardiac arrhythmia, neur
 layer required at intake. BMI below 16, visible severe wasting, or reported days without food triggers the
 Gradual Reintroduction Protocol before open cafeteria access.
 
-Three-Phase Diagnostic Protocol Phase 1 (Hours 0–72): Provisional DSM-5 diagnosis by LPHA;
-billable as Mental Health Services Assessment. Phase 2 (Days 1–14): Collateral gathering, daily progress
+Three-Phase Diagnostic Protocol Phase 1 (Hours 0 to 72): Provisional DSM-5 diagnosis by LPHA;
+billable as Mental Health Services Assessment. Phase 2 (Days 1 to 14): Collateral gathering, daily progress
 notes, sustained billing trail. Phase 3 (By Day 30): Finalized DSM-5 diagnosis signed by LPHA; ITP signed;
 full Medi-Cal billing authorized.
 
@@ -2419,8 +2476,8 @@ engagement. Non-compliance triggers court review and potential LPS escalation.
 ARO (Adaptive Reuse Ordinance) The Los Angeles ordinance (February 2026 expansion) eliminating minimum unit size requirements and public hearing mandates for qualifying commercial-to-residential
 conversions. The MDI ALMU at 150 sq ft qualifies under the expanded ARO.
 
-CARE Court Community Assistance, Recovery, and Empowerment Act (2022). California court mechanism for adults with schizophrenia spectrum or other psychotic disorders. Non-custodial. Establishes a
-12–24 month court-monitored CARE Agreement including housing, medication, and wraparound services.
+CARE Court Community Assistance, Recovery, and Empowerment Act (2022). California court mechanism for adults with schizophrenia spectrum or other psychotic disorders. Non-custodial. Establishes a 12
+to 24 month court-monitored CARE Agreement including housing, medication, and wraparound services.
 The Stewardship Authority petitions as a qualifying entity using by-name HMIS registry documentation.
 
 CWA (Clean Water Act, 1972) Federal statute providing the legal basis for environmental abatement of riparian encampments. Fecal coliform contamination exceeding NPDES permit standards and
@@ -2431,23 +2488,23 @@ Federal Supremacy Leasing Legal mechanism invoking federal preemption of conflic
 regulations for tower space occupied by federal agencies or federally funded programs. Creates a secondary
 legal shield for federal service co-location floors against municipal obstruction.
 
-59
+64
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
 Grants Pass Framework City of Grants Pass v. Johnson (2024). The Supreme Court ruling governing
-municipal authority over encampment clearance. Riparian abatement is explicitly outside this framework—
+municipal authority over encampment clearance. Riparian abatement is explicitly outside this framework, as
 the legal basis is environmental protection (CWA, Army Corps jurisdiction), not anti-camping ordinances.
 
-Home Rule Stabilization Ordinance State ordinance pre-empting conflicting local land use regulations for qualifying Stewardship Authority projects. Codifies state housing law supremacy into automatic
-by-right conversion authority for commercial structures acquired through the Sovereign Acquisition process.
+Home Rule Stabilization Ordinance State ordinance pre-empting conflicting local land use regulations for qualifying projects. Codifies state housing law supremacy into automatic by-right conversion
+authority for commercial structures acquired through the Sovereign Acquisition process.
 
 IMD Exclusion (Institution for Mental Disease) The federal Medicaid rule excluding federal
 financial participation for mental health facilities with more than 16 beds. Resolved architecturally by the
 sub-16-unit MHRC cluster structure: each cluster falls below the threshold and files independently. No
-speculative waiver required.
+waiver required.
 
 LPS Conservatorship (Lanterman-Petris-Short Act) Highest-restriction legal instrument. Court
 appoints Public Guardian or designated conservator for individuals deemed gravely disabled and unable to
@@ -2456,28 +2513,26 @@ provide for food, clothing, or shelter due to mental health disorder or severe s
 periodic court review.
 
 Medical Classification Waiver DHCS petition enabling ALMU residential units to be classified as
-community-based residential treatment settings for Medi-Cal billing purposes. Preserves residential character
-while enabling clinical billing that funds the field architecture.
+community-based residential treatment for Medi-Cal billing purposes. Preserves residential character while
+enabling clinical billing that funds the field architecture.
 
 NPDES (National Pollutant Discharge Elimination System) Clean Water Act permitting
-system. Fecal coliform contamination of LA waterways from riparian encampments exceeds NPDES permit
-standards, constituting documented federal regulatory violations and the legal basis for environmental
-abatement proceedings.
+system. Fecal coliform contamination of LA waterways from encampments exceeds NPDES permit standards,
+constituting documented federal regulatory violations and the legal basis for environmental abatement
+proceedings.
 
-SB 330 State law vesting zoning entitlements at the date of application for qualifying residential projects.
-Prevents subsequent zoning amendments from altering the entitlement after the Stewardship Authority files
-a conversion application.
+SB 330 State law vesting zoning entitlements at the date of application for qualifying projects. Prevents subsequent zoning amendments from altering the entitlement after the Stewardship Authority files a
+conversion application.
 
 Stewardship Agreement The resident’s contractual instrument under the Stewardship Contract. Grants
-occupancy, privacy, and non-interference rights equivalent to a standard residential lease. Classified as a
-non-property interest to bypass housing court jurisdiction while preserving residential dignity protections.
+occupancy, privacy, and non-interference rights. Classified as a non-property interest to bypass housing court
+jurisdiction while preserving residential dignity protections.
 
-TVA Model (Tennessee Valley Authority) The organizational template for the Stewardship
-Authority. Quasi-governmental, state-chartered, operationally autonomous from municipal government.
-Consolidates field operations, legal petitioning, real estate acquisition, residential management, and outcome
-verification under a single mandate-limited entity.
+TVA Model (Tennessee Valley Authority) The template for the Stewardship Authority. Quasigovernmental, state-chartered, operationally autonomous from municipal government. Consolidates field
+operations, legal petitioning, real estate acquisition, management, and outcome verification under a single
+mandate-limited entity.
 
-60
+65
 
 Working Paper, May 2026
 
@@ -2488,8 +2543,8 @@ authority for the Emergency Room pathway.
 
 Part V: Operational and Field Architecture Terms
 ACT (Assertive Community Treatment) Evidence-based intensive outreach model. Team composition: mobile psychiatrist (shared), RN, licensed social worker, outreach case manager, peer support
-specialist, substance use counselor, team coordinator (7–8 FTE). Caseload ratio: 80–120 Pipeline C clients.
-Medi-Cal-billable in California at $150–$190/day/enrolled client.
+specialist, substance use counselor, team coordinator (7-8 FTE). Caseload ratio: 80-120 Pipeline C clients.
+Medi-Cal-billable in California at 150to190 per day per enrolled client.
 
 By-Name HMIS Registry The operational backbone of the Field Architecture. Every individual in
 the target zone registered by name in an HMIS instance managed by the Stewardship Authority. Every
@@ -2500,30 +2555,30 @@ CES (Coordinated Entry System) The existing Los Angeles coordinated intake and a
 system for homeless services. Pipeline A individuals engage voluntarily through CES. MDI accelerates CES
 by creating surplus inventory.
 
-CIT (Crisis Intervention Team) Specialized law enforcement co-responder model. 40-hour specialized training. Mental health clinician embedded with CIT officer. Routes individuals directly into designated
-psychiatric emergency facilities, bypassing criminal jail. Validates dual-role crisis node staffing in Zone A
-and Zone B.
+CIT (Crisis Intervention Team) Specialized law enforcement co-responder model. 40-hour specialized training. Mental health clinician embedded with CIT officers. Routes individuals directly into
+designated psychiatric emergency facilities, bypassing criminal jail. Validates dual-role crisis node staffing
+in Zone A and Zone B.
 
 CPTED (Crime Prevention Through Environmental Design) Architectural alternative to
 camera-dense digital surveillance. Designs spaces enabling residents to naturally observe common areas as
-part of daily movement. Glass-partitioned common rooms, high-visibility stairwells, Digital Access Center
+part of daily movement. Glass-partitioned common rooms, high-visibility stairwells, digital access center,
 and pod kitchen at circulation chokepoints.
 
 EmPATH (Emergency Psychiatric Assessment Treatment and Healing) Non-coercive psychiatric emergency unit design model. Open floor plan, recliner chairs, residential aesthetic, rapid stabilization, de-escalation as environmental design first response. Validates Zone A and Zone B ground floor design
 philosophy.
 
-Mobile Crisis Outreach Workers MDI field assessment personnel. Jointly with ACT teams and law
-enforcement, apply the Three-Gate Triage Decision Architecture to every crisis presentation.
+Outreach Workers MDI field assessment personnel. Jointly with ACT teams and law enforcement,
+apply the Three-Gate Triage Decision Architecture to every crisis presentation.
 
-61
+HMIS (Homeless Management Information System) HUD-required data system for tracking
+homeless individuals and services. The MDI Stewardship Authority operates a proprietary HMIS instance
+as the by-name registry backbone.
+
+66
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
-
-HMIS (Homeless Management Information System) Federal HUD-required data system for
-tracking homeless individuals and services. The MDI Stewardship Authority operates a proprietary HMIS
-instance as the by-name registry backbone.
 
 LAHSA (Los Angeles Homeless Services Authority) The joint authority of the City and County
 of Los Angeles responsible for coordinating and implementing homeless services. Administers the annual
@@ -2534,21 +2589,21 @@ governing water quality in the Los Angeles region. Enforcement records document 
 of housing law.
 
 PIT Count (Point-in-Time Count) The annual one-night survey of the homeless population mandated by HUD. Systematically undercounts the most hidden encampments, particularly Pipeline C Riparian
-individuals. 2025 Greater Los Angeles PIT: approximately 75,312 total homeless, 58% unsheltered.
+individuals. 2025 Greater Los Angeles PIT: approximately 75,312 total homeless, 58 percent unsheltered.
 
 Part VI: Architectural and Physical Design Terms
 Residential Data Minimization Protocol The only data exported from a residential ALMU to the
 central cybernetic grid is a binary safe/not-safe occupancy indicator. All other environmental data processed
 locally and purged within 24 hours. Structurally precludes behavioral profiling and the Panopticon Effect.
 
-Biophilic Infrastructure Two-tier system. Tier 1: 200–300 sq ft planted pod-level alcove on every
-4–5 floors, adjacent to pod common kitchen. Tier 2: Tower-level destination sanctuary every 7 floors with
+Biophilic Infrastructure Two-tier system. Tier 1: 200-300 sq ft planted pod-level alcove on every
+4-5 floors, adjacent to pod common kitchen. Tier 2: Tower-level destination sanctuary every 7 floors with
 hydroponic garden, oxygenated lounge, rooftop greenspace. Reduces cortisol, improves mood regulation,
 decreases agitation incidents.
 
-Real-time Unit Availability Display Live display of unit and resource availability across the tower
-network. Deployed in the ground floor Resource Center and Transportation Asset Management system.
-Neutralizes scarcity-driven anxiety before it becomes behavioral agitation.
+Real-time Unit Availability Display Live display of unit and resource availability across the network.
+Deployed in the ground floor Resource Center and Transportation Asset Management system. Neutralizes
+scarcity-driven anxiety before it becomes behavioral agitation.
 
 Digital Access Center Low-distraction, high-bandwidth vocational and educational access hub. Gigabit internet, hardware lending, vocational training, legal self-defense resources (benefits enrollment, ID
 restoration, credit rehabilitation), gig-work platform access.
@@ -2560,15 +2615,15 @@ apartment standards.
 HLM (Habitation à Loyer Modéré) French social housing designation. Large-scale high-rise social
 housing complexes where the Gardien/Pod Steward model was developed and validated.
 
-62
+HVAC (Heating, Ventilation, and Air Conditioning) Individual HVAC control within a 68 to
+78 degree operating band in each ALMU. Tower-level Tier 2 biophilic sanctuary operates at 50 percent of
+original HVAC design load surplus, producing elevated oxygen concentration.
+
+67
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
-
-HVAC (Heating, Ventilation, and Air Conditioning) Individual HVAC control within a 68–78
-degree operating band in each ALMU. Tower-level Tier 2 biophilic sanctuary operates at 50% of original
-HVAC design load surplus, producing elevated oxygen concentration.
 
 MAP (Managed Alcohol Program) Medically supervised alcohol management facility for individuals in active, functionally incapacitating heavy substance dependence. Pre-ALMU track for this subpopulation. Post-MAP stabilization, transfer to the ALMU track follows.
 
@@ -2582,53 +2637,54 @@ RFID (Radio Frequency Identification) Electronic identification token system. Us
 boundary enforcement on shared amenity floors via time-slot scheduling, secure possession storage access,
 and bicycle transportation asset tracking.
 
-STC (Sound Transmission Class) Standardized measure of sound attenuation performance. STC
-55 is the biological floor (prevents hearing damage). STC 65 is the MDI ontological threshold—reduces
-ambient sound transfer to clinical quiet-room standards, neutralizing hypervigilance triggers in traumaimpacted residents.
+STC (Sound Transmission Class) Measure of sound attenuation performance. STC 55 is the
+biological floor (prevents hearing damage). STC 65 is the MDI ontological threshold, which reduces ambient
+sound transfer to clinical quiet-room standards, neutralizing hypervigilance triggers in trauma-impacted
+residents.
 
 UV-C (Ultraviolet-C) Germicidal ultraviolet light wavelength. UV-C scrubbing deployed in acuitysegmented hygiene modules and ALMU HVAC systems for clinical-grade disinfection.
 
-VOC (Volatile Organic Compound) Airborne chemical compounds released by building materials. MDI biophilic node species selected for low-VOC properties alongside drought tolerance and sensory
-appropriateness.
+VOC (Volatile Organic Compound) Airborne chemical compounds released by building materials.
+MDI biophilic node species selected for low-VOC properties, drought tolerance, and sensory appropriateness.
 
 Part VII: Fiscal Terms
-CRE (Commercial Real Estate) The distressed commercial inventory providing the MDI acquisition
-target. One California Plaza: $120/sq ft floor valuation (approximately 80% below peak CRE valuations).
-The 16 million sq ft network conversion opportunity across the distressed downtown corridor.
+CRE (Commercial Real Estate) The distressed commercial real estate providing the MDI acquisition target. One California Plaza: 120 dollars per square foot floor valuation (approximate 80 percent below
+peak CRE valuations). The 16 million square foot network conversion opportunity across the distressed
+downtown corridor.
 
 DHCS (Department of Health Care Services) California state agency. Licenses MHRC facilities
 via Form 1813. Governs Medi-Cal specialty mental health billing standards. MDI petitions DHCS for the
 Medical Classification Waiver.
 
-63
+FMAP (Federal Medical Assistance Percentage) The federal cost-sharing rate for Medi-Cal
+expenditures. Approximately 50 percent federal financial participation on MHRC sub-acute specialty mental
+health billing. The load-bearing fiscal base of Phase Zero.
+
+68
 
 Working Paper, May 2026
 
 Material Dignity Infrastructure (Los Angeles)
 
-FMAP (Federal Medical Assistance Percentage) The federal cost-sharing rate for Medi-Cal
-expenditures. Approximately 50% federal financial participation on MHRC sub-acute specialty mental
-health billing. The load-bearing fiscal base of Phase Zero.
-
 Four-Layer Funding Stack Layer 0: MHRC Medi-Cal sub-acute billing (Phase Zero). Layer 1: ACT
-Medi-Cal billing (tower-resident clinical services at $150–$190/day/enrolled client). Layer 2: Measure Alpha
-and MHSA Full Service Partnership (field architecture, Pod Stewards, residential management). Layer 3:
-Efficiency Surplus (capital recovery through municipal service cost elimination). No layer depends on a
-speculative administrative approval for its core viability.
+Medi-Cal billing (clinical services at 150 to 190 dollars per day per enrolled client). Layer 2: Measure Alpha
+and MHSA Full Service Partnership (field architecture, Pod Stewards, residential management). Layer
+3: Efficiency Surplus (capital recovery through municipal service cost elimination). No layer depends on
+speculative administrative approval for core viability.
 
-Measure Alpha Los Angeles County measure generating $843M annually for homelessness services.
-MDI Stewardship Authority operationalizes this funding by providing a verifiable infrastructure destination
-with measurable per-resident outcome verification.
+Measure Alpha Los Angeles County measure generating 843 million dollars annually for homelessness
+services. The MDI Stewardship Authority operationalizes this funding by providing a verifiable infrastructure
+destination with measurable per-resident outcome verification.
 
-MHSA (Mental Health Services Act) California state act generating approximately $3.5B statewide
-annually. Los Angeles County allocation: approximately $400M/year. ACT teams for the chronically
-homeless unsheltered are among the highest-priority eligible expenditures under the Full Service Partnership
-category.
+MHSA (Mental Health Services Act) California state act generating approximately 3.5 billion
+dollars statewide annually. Los Angeles County allocation: approximately 400 million dollars per year.
+ACT teams for the chronically homeless unsheltered are among the highest priority eligible expenditures
+under the Full Service Partnership category.
 
 SAMHSA (Substance Abuse and Mental Health Services Administration) Federal agency
 funding ACT implementation through competitive grants of $500K–$2M per program.
 
-64
+69
 
 Working Paper, May 2026
 
@@ -2768,15 +2824,6 @@ RFID
 
 Radio Frequency Identification
 
-EmPATH Emergency Psychiatric
-Treatment and Healing
-
-Assessment
-
-FMAP
-
-Federal Medical Assistance Percentage
-
 SAMHSA
 
 Substance Abuse and Mental Health
@@ -2786,14 +2833,21 @@ SPT
 
 Singular Prototype Threshold
 
+EmPATH Emergency Psychiatric
+Treatment and Healing
+FMAP
+
+Assessment
+
+Federal Medical Assistance Percentage
+
 FTE
 
 Full-Time Equivalent
 
-ST-65
+STC 65
 
-Sound Treatment 65 dB (Medical Utility
-Unit)
+Sound Transmission Class 65 Module
 
 HEPA
 
@@ -2833,7 +2887,7 @@ Welfare and Institutions Code
 
 WIC
 
-65
+70
 
 Working Paper, May 2026
 
@@ -2856,7 +2910,15 @@ billing guidelines. Technical report, California Department of Health Care Servi
 as a Medi-Cal-billable service under the Community Mental Health Services framework; defines the one
 hundred fifty to one hundred ninety dollar per day per enrolled client reimbursement rate; documents
 eighty-five to ninety percent Medi-Cal eligibility among the chronically homeless population.
-California Department of Health Care Services (2024b).
+California Department of Health Care Services (2024b). Full Service Partnership and ACT Billing Realization
+Metrics.
+
+Technical report, DHCS Behavioral Health Division.
+
+Establishing sixty percent historical
+
+utilization bounds for street-based mental health services.
+California Department of Health Care Services (2024c).
 
 Mental health rehabilitation center (MHRC)
 
@@ -2865,6 +2927,17 @@ Defines MHRC as a 24-hour DHCS-licensed facility for adults with mental disorder
 rehabilitative services; establishes DHCS Form 1813 licensure pathway, specialty mental health Medi-Cal
 billing eligibility, and program standard requirements for sub-acute stabilization; applicable to Phase Zero
 Metabolic Stabilization cluster architecture under the MDI pipeline.
+California Department of Housing and Community Development (2024). Legal frameworks for single room
+occupancy and residential hotel tenancy exemptions. HCD Policy Brief. Details the legal precedent
+allowing specific high-support residential configurations to operate under licensure exemptions avoiding
+standard housing court eviction jurisdiction.
+
+71
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 California Mental Health Services Oversight and Accountability Commission (2024). Mental health services
 act (Proposition 63) annual revenue and expenditure report. Technical report, MHSOAC. Documents
 approximately three point five billion dollars statewide annual revenue from the one-percent income tax
@@ -2875,13 +2948,6 @@ California State Auditor (2026). Homelessness in California: The state’s appro
 dollar-level spending has achieved meaningful outcomes. California State Auditor Report. Documents
 approximately twenty-four billion dollars in state homelessness expenditures from fiscal year 2019 through
 2026; identifies accountability gaps and fragmented program delivery as primary efficiency failures.
-
-66
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
-
 California State Legislature (2002). Assembly bill 1421: Assisted outpatient treatment (Laura’s Law).
 California Legislature, 2001–2002 Session. Authorizes court-ordered outpatient psychiatric treatment
 for individuals with documented histories of treatment non-compliance, hospitalization, incarceration, or
@@ -2899,17 +2965,25 @@ California State Legislature (2023). Senate bill 43: Behavioral health. Californ
 Session. Expands the definition of grave disability under the Lanterman-Petris-Short Act to include
 individuals unable to provide for personal safety or necessary medical care due to severe substance use
 disorder; broadens conservatorship eligibility.
-California State Legislature (2024).
+California State Legislature (2024a).
 
-Assembly bill 1976:
-
-CARE court implementation.
+Assembly bill 1976: CARE court implementation.
 
 California
 
 Legislature, 2023–2024 Session. Appropriates fourteen point seven million dollars statewide for CARE
 Court implementation; defines eligible expenditures for petitioning entities and county behavioral health
 departments.
+California State Legislature (2024b). Senate bill 14: Community assistance, recovery, and empowerment
+(care) act expansion. Chapter 484, Statutes of 2024. Codifies the expansion of the CARE Court target
+population to include bipolar disorder with psychotic features, effective early 2026.
+
+72
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 CalMatters (2026). California homelessness funding 2026: The accountability standard. Public Policy
 Analytics, CalMatters.
 
@@ -2917,6 +2991,13 @@ Analyzes the fifty-thousand-dollar annual per-person municipal service cost
 
 baseline for the chronically unhoused in California; documents accountability requirements for state and
 county homelessness expenditures.
+Centers for Medicare & Medicaid Services (2017). State medicaid director letter #17-003: Strategies to
+address the opioid epidemic. Technical report, Department of Health and Human Services. Details CMS
+interpretation of the IMD Exclusion, specifically addressing the facility clustering and campus integration
+guidance that presents legal risk for coordinated multi-cluster operations.
+Centers for Medicare & Medicaid Services (2023). CalAIM Section 1115 Demonstration Waiver: Standard
+Terms and Conditions. Technical report, U.S. Department of Health and Human Services. Authorizing
+innovative service delivery and sub-acute clustering under Medi-Cal reform.
 CIT International (2023). The memphis model: Crisis intervention team core elements. Technical report,
 CIT International. Documents the forty-hour specialized law enforcement training program, co-responder
 pairing with mental health clinicians, twenty-eight to fifty-eight percent reduction in use-of-force incidents,
@@ -2926,13 +3007,6 @@ report, Coalition for the Homeless of Houston/Harris County. Documents sixty per
 homelessness 2011–2020; fifty-eight to seventy percent housing placement rates at targeted encampment
 clearance events; ninety percent two-year housing retention system-wide; one hundred twenty-seven
 encampments fully resolved 2021–2023.
-
-67
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
-
 Corbusier, L. (1952). Unité d’Habitation, Marseille. Architectural Press. Three hundred thirty-seven
 apartments housing sixteen hundred residents across seventeen stories; internal commercial street, rooftop
 gymnasium, and communal infrastructure embedded in the residential fabric; conceptual predecessor to
@@ -2944,6 +3018,13 @@ Crosstown Arts and Crosstown Concourse LLC (2017). Crosstown concourse: Adaptive
 Sears distribution center, Memphis. Project Documentation. One point five million square foot adaptive
 reuse of a former Sears warehouse into a mixed-use vertical community incorporating housing, non-profit
 offices, education, arts, and retail; validates the four-to-one civilian-to-resident integration ratio.
+
+73
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 Dunbar, R. I. M. (1992). Neocortex Size as a Constraint on Group Size in Primates, volume 22. Journal
 of Human Evolution. Establishes the cognitive ceiling of approximately one hundred fifty for stable,
 trust-based social relationships; the theoretical basis for the Dunbar Pod partitioning framework.
@@ -2951,6 +3032,9 @@ Eindhoven University of Technology (2024). The gardien effect: Live-in caretaker
 in large-scale social housing. Technical report, TU Eindhoven, Department of the Built Environment.
 Documents measurable social fragmentation in French HLM social housing complexes following reduction
 or consolidation of live-in Gardien presence; validates the one-to-one-hundred-fifty staffing ratio.
+Environmental Protection Agency (2023). NPDES Compliance and Riparian Encampment Abatement
+Protocols. Technical report, EPA Office of Water. Establishing public health and environmental violation
+thresholds for riparian clearance.
 Estrada, I. (2026). Los Angeles approves conversion of empty offices into thousands of housing units.
 Real Estate Policy Briefs. Documents the municipal approval framework for commercial to residential
 conversion; identifies specific distressed asset categories eligible for authority acquisition.
@@ -2966,13 +3050,6 @@ Frontiers in Psychology Editorial Board (2024). Acoustic environment and psychol
 residential settings. Frontiers in Psychology, 15. Documents correlation between high-performance acoustic
 isolation (STC 60 and above) and reduced cortisol levels, improved sleep quality, and fostering of autonomy
 in residential occupants.
-
-68
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
-
 GB Acoustics (2024). Sound transmission class performance standards for residential applications. Technical
 report, GB Acoustics. Technical specification document establishing that STC 65 renders loud speech
 inaudible in adjacent residential spaces; STC 65 approaches clinical quiet-room standards.
@@ -2981,11 +3058,15 @@ University Press. Defines ontological security as the confidence that most human
 continuity of their self-identity and in the constancy of their social and material environments; foundational
 to the MDI ALMU design thesis.
 GlobeSt (2025). Los Angeles aims to put housing on vacant lots. Commercial Real Estate Intelligence,
-GlobeSt.
+GlobeSt. Documents the fifty million square foot vacant commercial inventory, the $120 per square foot
+distressed floor valuation, and the city’s policy framework for residential conversion.
 
-Documents the fifty million square foot vacant commercial inventory in the Los Angeles
+74
 
-metropolitan core and the city’s policy framework for residential conversion.
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 Grand Rising Behavioral Health (2024). Biophilic design in psychiatric and high-density residential settings.
 Technical report, Grand Rising Behavioral Health. Documents measurable cortisol reduction, improved
 mood regulation, and decreased agitation incidents in residential environments incorporating biophilic
@@ -3011,13 +3092,6 @@ automated irrigation, species selection, and HVAC interaction parameters.
 Laing, R. D. (1960). The Divided Self: An Existential Study in Sanity and Madness. Penguin Books.
 Establishes the relationship between environmental predictability and psychotic fragmentation; identifies
 ontological insecurity as a precondition for schizoid withdrawal.
-
-69
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
-
 Larimer, M. E. et al. (2009). Health care and public service use and costs before and after provision of
 housing for chronically homeless persons with severe alcohol problems. Journal of the American Medical
 Association, 301(13). Documents Seattle’s 1811 Eastlake Housing First program for chronically homeless
@@ -3031,6 +3105,13 @@ Los Angeles City Planning (2026b). Housing crisis act (SB 330) implementation. T
 Angeles City Planning Department. Implementation documentation for the Housing Crisis Act (SB
 330); establishes anti-demolition protections, density preservation requirements, and expedited approval
 pathways for qualifying residential conversion projects.
+
+75
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 Los Angeles County Chief Executive Office (2025). Fiscal year 2026–27 Measure Alpha spending plan.
 Technical report, Los Angeles County Chief Executive Office. Eight hundred and forty-three million
 dollar approved spending plan; mandates one point two five percent accountability and data allocation
@@ -3050,14 +3131,7 @@ Mehanna, H. M., Moledina, J., and Travis, J. (2008). Refeeding syndrome: What it
 and treat it. British Medical Journal, 336:1495–1498. Clinical guidelines for identifying and managing
 refeeding syndrome risk in severely malnourished individuals; documents the electrolyte shift mechanism
 and cardiac arrhythmia risk from rapid carbohydrate reintroduction.
-
-70
-
-Working Paper, May 2026
-
 Mobile Loaves and Fishes (2024).
-
-Material Dignity Infrastructure (Los Angeles)
 
 Community first!
 
@@ -3077,6 +3151,13 @@ NYU Marron Institute of Urban Management (2024). Smart home sensors in low-incom
 autonomy, and the panopticon effect. NYU Marron Institute Working Papers. Documents behavioral
 alteration, performance stress, and erosion of home-as-sanctuary among residents subject to smart home
 sensor deployment in subsidized housing.
+
+76
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 Podymow, T., Turnbull, J., Coyle, D., Yetisir, E., and Wells, G. (2006). Shelter-based managed alcohol
 administration to chronically homeless people addicted to alcohol. Canadian Medical Association Journal,
 174(1):45–49. Documents the Ottawa Managed Alcohol Program; controlled alcohol administration in a
@@ -3090,28 +3171,13 @@ evidence-based practices implementation resource kit. Technical report, SAMHSA, 
 of Health and Human Services. Documents the federal ACT implementation grant program; competitive
 grants of five hundred thousand to two million dollars per program; California historically a strong
 SAMHSA ACT grantee.
-Supreme Court of the United States (1986). Dow Chemical Co. v. United States. 476 U.S. 227 (1986).
-Held that EPA aerial photography of an industrial facility from navigable airspace does not constitute
-an unreasonable search under the Fourth Amendment; establishes precedent for warrantless overhead
-observation from public airspace.
-Supreme Court of the United States (1989). Florida v. Riley. 488 U.S. 445 (1989). Held that helicopter
-surveillance from four hundred feet above a residential greenhouse does not require a warrant; extends
-the open-fields and navigable-airspace doctrines to rotary-wing observation.
-Supreme Court of the United States (2012). NFIB v. Sebelius. 567 U.S. 519 (2012). Held that Congress may
-not use the Spending Clause to coerce states into accepting new conditions by threatening to withhold
-all existing federal funding; establishes the constitutional constraint on conditional federal grant design
-relevant to the Direct Block Capitalization architecture.
-
-71
-
-Working Paper, May 2026
-
-Material Dignity Infrastructure (Los Angeles)
-
-Supreme Court of the United States (2024). City of Grants Pass v. Johnson. 603 U.S. 520 (2024). Held
-that municipal anti-camping ordinances do not constitute cruel and unusual punishment under the Eighth
-Amendment; reversed the Ninth Circuit framework that had constrained encampment enforcement in the
-absence of available shelter beds.
+UCSF Benioff Homelessness and Housing Initiative (2023). Toward a new understanding: The california
+statewide study of people experiencing homelessness. Technical report, UCSF Benioff Homelessness and
+Housing Initiative. Documents the sub-forty percent housing retention outcomes for highly vulnerable
+cohorts absent continuous clinical stabilization prerequisites.
+United States Congress (1933). Tennessee valley authority act of 1933. 16 U.S.C. §§ 831-831ee. Establishes the
+foundational federal precedent for a quasi-governmental, state-chartered stewardship authority wielding
+delegated police power and independent bonding capacity for public infrastructure operations.
 United States Congress (1972). Federal water pollution control act (Clean Water Act), 33 U.S.C. § 1251
 et seq. Public Law 92-500. Section 402 establishes the NPDES permit system governing point source
 discharges into navigable waters; provides the federal regulatory basis for environmental enforcement
@@ -3127,6 +3193,13 @@ U.S. Department of Housing and Urban Development (2022). Barriers to shelter uti
 unsheltered homeless population. Technical report, HUD Office of Policy Development and Research.
 Documents the Three Ps refusal pattern (pets, partners, possessions) as the primary driver of voluntary
 shelter non-participation among the encamped engageable population.
+
+77
+
+Working Paper, May 2026
+
+Material Dignity Infrastructure (Los Angeles)
+
 World Health Organization (2006). Oral rehydration salts: Production of the new ORS. WHO Technical
 Document. WHO-formulated oral rehydration solution specification; establishes the clinical standard for
 electrolyte-balanced rehydration preventing hyponatremia in severely dehydrated individuals.
@@ -3138,6 +3211,6 @@ Documents sixty-eight percent reduction in long-term
 homelessness in Finland 2008–2022; details the Housing First national program, institutional landlord
 model, and cost-effectiveness evidence.
 
-72
+78
 
 

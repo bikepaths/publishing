@@ -95,51 +95,8 @@ Inhabitable. Material Dignity Infrastructure Working Paper 4. Working Paper, Jun
 Relational Dignity Infrastructure (RDI Working Paper 4)
 
 Contents
-1 The Retention Problem and Its Missing Layer
-2 Theoretical Foundations
-2.1 Ontological Security: The First Requirement . . . . . . . . . . . . . . . . . . . . . . .
-2.2 The Social Integration Evidence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.3 Identity Capital: The Accumulation Mechanism . . . . . . . . . . . . . . . . . . . . .
-2.4 The Objectification Failure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3 Relational Dignity Infrastructure: Formal Definition
-4 The Five RDI Production Conditions
-4.1 Dunbar-Scale Social Environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.2 The Pod Steward: Continuous Witness . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.3 Peer Support Workforce: The Relational Bridge . . . . . . . . . . . . . . . . . . . . .
-4.4 The Ground Floor Commons: Unconditional Relational Access . . . . . . . . . . . . .
-4.5 Recurring Community Practice: The Pod Council and Common Kitchen . . . . . . .
-5 Integration with MDI Architecture: The Process 5 Mapping
-5.1 The CalAIM Revenue Architecture . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-6 Integration Gaps: Two Specifications Required
-6.1 The Relational Intake Protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-6.2 The Social Network Transition Protocol . . . . . . . . . . . . . . . . . . . . . . . . . .
-7 Verification Metrics
-8 Positioning and Contribution
-References
 
 3
-
-4
-5
-5
-6
-6
-7
-8
-9
-9
-9
-10
-10
-11
-12
-12
-14
-14
-14
-16
-18
-19
 
 Working Paper, June 2026
 
