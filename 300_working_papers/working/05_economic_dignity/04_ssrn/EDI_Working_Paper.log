@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.6.12)  3 JUL 2026 18:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.6.12)  3 JUL 2026 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1028,42 +1028,37 @@ l.145 \newpage
 \tf@toc=\write5
 \openout5 = `EDI_Working_Paper.toc'.
 
- [2] [3]
-Overfull \hbox (2.89908pt too wide) in paragraph at lines 183--184
-\OT1/cmr/m/n/12 poth-e-sis, in which ex-ter-nal sub-stances are used to reg-u-l
-ate dis-tress-ing in-ter-nal states [[]].
- []
-
-[4] [5] [6] [7] [8] [9] (./EDI_Working_Paper.bbl [10])
+ [2] [3] [4] [5] [6] [7] [8]
+[9] [10] [11] [12] (./EDI_Working_Paper.bbl [13])
 
 Package caption Warning: Unused \captionsetup[table] on input line 88.
 See the caption package documentation for explanation.
 
-[11] (./EDI_Working_Paper.aux)
+[14] (./EDI_Working_Paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `EDI_Working_Paper.out' has not changed.
-(rerunfilecheck)             Checksum: D5682C10EDE7F94D12092AA82A8195E9;1947.
+(rerunfilecheck)             Checksum: 0DFE3A5076ABA32EAD0E3EDADFC9496B;2013.
  ) 
 Here is how much of TeX's memory you used:
- 27759 strings out of 476182
- 521378 string characters out of 5795595
- 1933975 words of memory out of 5000000
- 49298 multiletter control sequences out of 15000+600000
+ 27765 strings out of 476182
+ 521428 string characters out of 5795595
+ 1934975 words of memory out of 5000000
+ 49300 multiletter control sequences out of 15000+600000
  565255 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 102i,13n,107p,1376b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,13n,107p,1819b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/user0/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600
 pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on EDI_Working_Paper.pdf (12 pages, 104757 bytes).
+Output written on EDI_Working_Paper.pdf (15 pages, 113070 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 5717 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 196 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 5725 words of extra memory for PDF output out of 10000 (max. 10000000)
 
