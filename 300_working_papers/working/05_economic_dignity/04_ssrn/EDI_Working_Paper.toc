@@ -4,7 +4,7 @@
 \contentsline {subsection}{\numberline {3.1}Physiological Grounding for Relational Continuity}{6}{subsection.3.1}%
 \contentsline {section}{\numberline {4}The Cooperative Reintegration Mechanism}{7}{section.4}%
 \contentsline {section}{\numberline {5}The Tenancy Bridge Guarantee}{8}{section.5}%
-\contentsline {section}{\numberline {6}Theory of Change}{9}{section.6}%
-\contentsline {section}{\numberline {7}Failure Modes and Structural Limitations}{10}{section.7}%
-\contentsline {section}{\numberline {8}Conclusion}{12}{section.8}%
-\contentsline {section}{References}{13}{section.8}%
+\contentsline {section}{\numberline {6}Theory of Change}{10}{section.6}%
+\contentsline {section}{\numberline {7}Failure Modes and Structural Limitations}{11}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{13}{section.8}%
+\contentsline {section}{References}{14}{section.8}%
