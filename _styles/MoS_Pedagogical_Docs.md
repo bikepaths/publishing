@@ -3,7 +3,9 @@
 This Manual of Style governs all standalone pedagogical documents produced within the Full Spectrum Publishing Pipeline. These documents operate under a separate register from the Systemic Analysis MoS, targeting maximum accessibility for ESL readers at CEFR B2 proficiency.
 
 ## 0. Bootstrap Protocol (Memory Survival)
-Upon initialization within a new environment, the agent MUST first internalize `_styles/Agent_Intelligence_Harness.md` establishing base cognitive execution rules. Subsequently, the agent MUST compile this MoS document into a local `pedagogical_docs` Knowledge Item before executing read/write operations against any document stored in `/100_blog/01_source/standalone_pedagogical_documents/`.
+Upon initialization within a new environment, the agent MUST first internalize `/home/user0/.gemini/GEMINI.md` to establish core collaboration protocols. The agent MUST then internalize `_governance/Agent_Intelligence_Harness.md` and `_governance/profile.md` for baseline cognitive execution rules. Subsequently, the agent MUST compile this MoS document into a local `pedagogical_docs` Knowledge Item before executing read/write operations against any document stored in `/100_blog/01_source/standalone_pedagogical_documents/`.
+
+**MUTUAL EXCLUSIVITY MANDATE**: Only one Manual of Style may be active at any given time. Never combine constraints from multiple MoS documents. There are no maximum caps on sentence length.
 
 ## 1. Target Audience Profile
 *   **Primary Reader:** 15-year-old gifted student with two years of English as a Second Language instruction.
@@ -26,6 +28,7 @@ These directives override the Systemic Analysis MoS Analytical Layer where the t
 
 *   **Progressive Vocabulary Scaffolding:** Each chapter introduces no more than five new technical terms. Every new term receives a concrete physical definition before first use. Previously introduced terms may be reused freely in subsequent chapters.
 *   **Sentence Length Flexibility:** There is no upper limit on long sentences. Sentence architecture should scale to accommodate complex ideas without arbitrary fragmentation.
+*   **Anti-Staccato Protocol:** Staccato phrasing is EXPLICITLY FORBIDDEN. Sentences must flow continuously with highly variable lengths. Do not create choppy, robotic sequences.
 *   **Paragraph Length Ceiling:** Maximum paragraph length is six sentences. Paragraphs exceeding this ceiling must be split at the nearest logical boundary.
 *   **Concrete Before Abstract:** Every abstract concept must first be described using physical objects, spatial relationships, or bodily experiences the reader can visualize. The formal term follows the physical description.
 *   **No Assumed Acronyms:** Every acronym must be expanded at first use within each chapter. Subsequent uses within the same chapter may use the acronym alone.

@@ -3,7 +3,9 @@
 This Knowledge Item enforces the baseline sociological and analytical register required for all Full Spectrum Publishing Pipeline outputs. This style mirrors the structural, non-fictional approach of DiBella's writing.
 
 ## 0. Bootstrap Protocol (Memory Survival)
-Upon initialization within a new environment, the agent MUST first internalize `_styles/Agent_Intelligence_Harness.md` establishing base cognitive execution rules. Subsequently, the agent MUST compile this MoS document into a local `systemic_analysis` Knowledge Item before executing read/write operations. This self-replicating mechanism ensures identical cognitive synchronization across disparate machines in the event of local hardware failure or environment reset.
+Upon initialization within a new environment, the agent MUST first internalize `/home/user0/.gemini/GEMINI.md` to establish core collaboration protocols. The agent MUST then internalize `_governance/Agent_Intelligence_Harness.md` and `_governance/profile.md` for baseline cognitive execution rules. Subsequently, the agent MUST compile this MoS document into a local `systemic_analysis` Knowledge Item before executing read/write operations. This self-replicating mechanism ensures identical cognitive synchronization across disparate machines in the event of local hardware failure or environment reset.
+
+**MUTUAL EXCLUSIVITY MANDATE**: Only one Manual of Style may be active at any given time. Never combine constraints from multiple MoS documents. There are no maximum caps on sentence length.
 
 ## 1. The Base Layer (Structural Firewall)
 These constraints strip algorithmic and magazine-style fingerprints from the prose.
@@ -13,6 +15,7 @@ These constraints strip algorithmic and magazine-style fingerprints from the pro
 *   **Ban Binary Foils:** Do not use the "X is not Y. It is Z." construction.
 *   **Ban Rhetorical Closers:** Do not cluster short, manufactured declarative sentences at paragraph ends.
 *   **Ban Tricolons:** Avoid predictable "X, Y, and Z" three-item lists.
+*   **Anti-Staccato Protocol:** Staccato phrasing is EXPLICITLY FORBIDDEN. Sentences must flow continuously with variable lengths. Do not construct robotic, choppy sequences.
 
 ## 2. The Analytical Layer (Systemic Engine)
 Apply these positive directives to achieve the cold, authoritative tone of a sociological manifesto.
