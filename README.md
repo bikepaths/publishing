@@ -16,7 +16,7 @@ Repository functions as the master media deployment pipeline for all theoretical
 - **scripts**: Directory contains pre-push verification hook. Hook intercepts and blocks commits failing remote HTTP checks before pushing changes to origin. Nested folders manage database backups, KDP synchronization workflows, and other automated routines.
 - **_governance**: Directory contains operational profiles and system prompts, including `profile.md` which defines operational terminology, syntax, and punctuation constraints.
 - **_styles**: Directory houses semantic registers that dictate stylistic and publication formatting rules.
-- **_epub**, **_templates**, **published**: Global operational directories supporting the deployment and formatting of KDP and multi-platform assets.
+- **_epub**, **_templates**: Global operational directories supporting the deployment and formatting of KDP and multi-platform assets.
 
 ## Development Cycle
 
