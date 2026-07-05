@@ -27,6 +27,9 @@ Favor direct, clear, concise language.
 
 ## Handoff Summary
 
-**Current Status**: This section to be updated by the Large Language Model after significant changes in the system.
-
+**Current Status**: The Publishing Pipeline has been structurally stabilized (July 2026).
+- **Working Papers Decoupled**: Academic research (`300_working_papers`) has been moved to an autonomous Git repository to enforce the Systemic Analysis register.
+- **Pipeline Unified**: The master media deployment sequence operates via four strict streams: `100_blog`, `200_amazon_kdp`, `300_multimodal_pedagogy` (content + audio mechanical pipeline merged), and `400_networking`.
+- **Scripts Synced**: Automation scripts match the 100-400 hierarchy. The `published` directory and legacy ghost scripts have been purged.
+- **Next Directive**: Maintain strict architectural separation between these deployment pipelines.
 
