@@ -1,4 +1,4 @@
-# 600 — Multimodal Pedagogy
+# 300 — Multimodal Pedagogy
 **Systemic Dignity Infrastructure: Audio & Visual Syndication**
 
 ---
@@ -7,8 +7,8 @@
 
 This folder holds all the pieces needed to turn the written academic research into things people can actually **listen to**. Think of it like this:
 
-- The working papers in `300_working_papers/` are the **blueprints** — precise, technical documents written for academics and policy reviewers.
-- This folder (`600_multimodal_pedagogy/`) takes those blueprints and turns them into **spoken words** — podcast episodes a person on the street, a caseworker, or a civic leader can actually hear and understand.
+- The working papers in the external `working_papers` repository are the **blueprints** — precise, technical documents written for academics and policy reviewers.
+- This folder (`300_multimodal_pedagogy/`) takes those blueprints and turns them into **spoken words** — podcast episodes a person on the street, a caseworker, or a civic leader can actually hear and understand.
 
 The teaching method used here is called **Organic Vernacular Pedagogy (OVP)**. That means we never start with a theory. We start with a body — with what it physically feels like to be hungry, scared, or invisible — and then we build the explanation from there.
 
@@ -17,7 +17,7 @@ The teaching method used here is called **Organic Vernacular Pedagogy (OVP)**. T
 ## Folder Structure
 
 ```
-600_multimodal_pedagogy/
+300_multimodal_pedagogy/
 │
 ├── README.md                   ← This file. Explains the whole folder.
 │
@@ -87,7 +87,7 @@ The process works like this:
 1. You copy the script text (or automate it via code).
 2. You send that text to a service like **ElevenLabs**, **Google Text-to-Speech**, or similar.
 3. That service returns a `.mp3` or `.wav` audio file.
-4. That audio file gets saved into `/home/user0/git/publishing/500_podcasts/03_mastered_tracks/`.
+4. That audio file gets saved into `/home/user0/git/publishing/300_multimodal_pedagogy/03_mastered_tracks/`.
 
 **Currently**: No API key for an audio provider has been configured. Audio generation requires the Sysop to either:
 - Manually paste scripts into a provider's website, **or**
