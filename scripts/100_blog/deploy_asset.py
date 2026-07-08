@@ -152,7 +152,7 @@ def generate_draft(raw_file, generate_image=False):
 
     print("Initiating autonomous narrative synthesis via OpenRouter API...")
     
-    mos_path = os.path.join(os.path.dirname(blog_dir), "_styles", "MoS_OVP_Lite.md")
+    mos_path = os.path.join(os.path.dirname(blog_dir), "_styles", "Publication_Formats.md")
     try:
         with open(mos_path, "r", encoding="utf-8") as mos_file:
             mos_content = mos_file.read()

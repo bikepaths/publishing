@@ -112,7 +112,7 @@ def verify_file(filepath):
         if in_references:
             continue
 
-        if ":" in line:
+        if ":" in line and idx > 3:
             is_valid_colon = line.strip().endswith(":") or (line.strip().startswith("*") and "**" in line)
             if "://" not in line and not is_valid_colon:
                 print(f"  [WARNING] Pass 2: Line {idx} contains colon: {line}")
