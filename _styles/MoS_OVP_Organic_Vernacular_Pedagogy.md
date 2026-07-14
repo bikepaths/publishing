@@ -54,6 +54,7 @@ The tone carries the quiet confidence of a witness. The writing is educational b
 - "nuanced", "holistic", "seamless", "heavy", "heavily"
 - "essential", "fundamentally", "specifically", "perfectly"
 - "assets", "symbiotic", "operational", "dynamic", "capacity", "velocity", "mechanisms"
+- "exact", "exactly"
 
 **3.3 Prohibited Filler Phrases:**
 - "In conclusion" or "In summary"
