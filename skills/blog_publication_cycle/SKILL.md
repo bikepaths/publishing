@@ -39,9 +39,10 @@ All blog posts MUST adhere to the following strict formatting and stylistic cons
    - Governed by `/home/user0/git/publishing/_styles/Publication_Formats.md`.
    - Markdown headings `#`, `##`, and `###` are explicitly banned throughout the entire document. Use only `####` or bold text for section breaks.
    - Do not phoneticize numbers (e.g., use "1960", not "nineteen sixty").
-4. **Stylistic Voice (OVP):** 
-   - Governed by `/home/user0/git/publishing/_styles/MoS_OVP_Organic_Vernacular_Pedagogy.md`.
-   - Apply the Kitchen Table Test: use B2+ plain spoken English. Strip all academic and systemic jargon (e.g., replace "mechanical inversion" with "flipped upside down").
+4. **Stylistic Voice (Analytical OVP):** 
+   - Governed by `/home/user0/git/publishing/_styles/MoS_Analytical_OVP.md`.
+   - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words) and a strict 28-word maximum sentence length.
+   - Ground all abstraction. Strip heavy academic and systemic jargon (e.g., replace "epistemological relativism" with "abandoning shared reality").
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
    - Enforce organic asymmetry (variable sentence/paragraph lengths) and chronological fluidity (observable reality before systemic abstraction).
 
