@@ -11,7 +11,7 @@ This document governs the technical formatting constraints for specific publishi
 **Web Post Constraints:**
 - Vocabulary: CEFR B2+ common-word register. Enforced via automated pipeline verification against `100_blog/06_data/cefr_b2_dict.txt`. Do not phoneticize numbers (e.g., use numerals like "2005").
 - Structure: Dynamic length. Use as many paragraphs as subject complexity demands. No paragraph ceiling.
-- Headings: Do not use #, ##, or ### headings. Only #### or bold headings are permitted.
+- Headings: Do not use any # header tags. Only bold text is permitted for section breaks.
 - Metadata Format: Start your response EXACTLY with these three lines before the narrative body:
   Title: [Insert Title]
   Description: [Insert 1-sentence description]

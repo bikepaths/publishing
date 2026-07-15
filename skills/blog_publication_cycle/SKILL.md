@@ -18,10 +18,11 @@ Before creating any new content, the agent MUST determine the current chronologi
 4. Calculate the target date for the new post based on the sequential schedule.
 
 ## Phase 2: Post Instantiation (File Creation and Assets)
-1. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_title.md`. 
+1. **Source Document Acquisition:** Ask the SYSOP to provide the source document or text that will form the basis of the new blog post. Do not proceed until the SYSOP provides this content.
+2. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_title.md`. 
    *(Example: `2026-07-16-06-00-00_society,media,psychology,economics,technology_the-political-economy-of-narcissism.md`)*
-2. **Directory Routing:** Write the new markdown file directly into the appropriate local `scheduled/` subdirectory (e.g., `blog/society/image/scheduled/`).
-3. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset. 
+3. **Directory Routing:** Write the new markdown file directly into the appropriate local `scheduled/` subdirectory (e.g., `blog/society/image/scheduled/`).
+4. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset. 
    - **Prompt Protocols:** All generated visual assets must use descriptive prompts explicitly requiring wide, landscape, or 16:9 cinematic compositions to maximize horizontal interface geometry. (e.g., Include keywords: "16:9, landscape, cinematic composition").
    - **Semantic Naming:** Name the file using exactly four descriptive visual keywords separated by underscores, mapping the physical contents of the image rather than the document topic (e.g., `urban_solar_radiation_man.png`).
    - Convert and crop the generated `.png` artifact to a `.webp` landscape image using the exact parameters, saving it locally for review: 
@@ -33,15 +34,18 @@ All blog posts MUST adhere to the following strict formatting and stylistic cons
    - Title: `<!--t [Title] t-->`
    - Description: `<!--d [One-sentence description] d-->`
    - Tags: `<!--tag [comma-separated tags] tag-->`
+     - The first tag MUST be the primary category, strictly chosen from: society, skills, systems, money, nature, technology, adventure, health, history, or mind.
+     - Include up to 5 additional secondary tags from `/home/user0/git/publishing/100_blog/06_data/tags.lang` (maximum 6 tags total).
    - Image: `<!--image [absolute URL] image-->` (If a new image was generated, map this exactly to `https://bikepaths.org/blog/content/images/webp/[filename].webp`)
+   - **Line Break Mandate:** You MUST insert exactly one blank line between the final metadata tag and the first line of the narrative prose body.
 2. **No Initial Headers:** NEVER initiate the narrative body with markdown headers (`#`, `##`, etc.). The text body must begin immediately following the metadata block as standard prose.
 3. **Format Constraints (CMS Web Post):** 
    - Governed by `/home/user0/git/publishing/_styles/Publication_Formats.md`.
-   - Markdown headings `#`, `##`, and `###` are explicitly banned throughout the entire document. Use only `####` or bold text for section breaks.
+   - All markdown headings (`#`, `##`, `###`, `####`) are explicitly banned. Use ONLY bold text for section breaks.
    - Do not phoneticize numbers (e.g., use "1960", not "nineteen sixty").
 4. **Stylistic Voice (Analytical OVP):** 
    - Governed by `/home/user0/git/publishing/_styles/MoS_Analytical_OVP.md`.
-   - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words) and a strict 28-word maximum sentence length.
+   - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words). There is no upper limit on sentence length.
    - Ground all abstraction. Strip heavy academic and systemic jargon (e.g., replace "epistemological relativism" with "abandoning shared reality").
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
    - Enforce organic asymmetry (variable sentence/paragraph lengths) and chronological fluidity (observable reality before systemic abstraction).
