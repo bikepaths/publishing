@@ -45,20 +45,22 @@ All blog posts MUST adhere to the following strict formatting and stylistic cons
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
    - Enforce organic asymmetry (variable sentence/paragraph lengths) and chronological fluidity (observable reality before systemic abstraction).
 
-## Phase 4: Automated Linting and Sysop Handshake
-1. **Automated Linter Execution:** Before requesting Sysop approval, the agent MUST run the custom Python linter against the active document:
+## Phase 4: Automated Linting and The Separation of State Mandate
+1. **Automated Linter Execution:** Before requesting Sysop approval or executing any version control/deployment commands, the agent MUST run the custom Python linter against the active document:
    `python3 /home/user0/git/publishing/scripts/100_blog/mos_linter.py [target_file.md]`
 2. **Mandatory Resolution:** The agent must execute consecutive mutative hardening passes until the linter returns a clean exit code (`0`).
-3. **Discussion Mode Default (TNMA):** Following a clean linter pass, the agent must pause and present the proposed text or plan to the Sysop. Take No Mutative Action (TNMA) regarding final commits or styling replacements until authorized.
+3. **The Air Gap (TNMA Checkpoint):** Following a clean linter pass, the agent must halt all tool execution, enter Discussion Mode (TNMA), and present the local changes to the Sysop. 
+   - **Command Bundling Ban:** The agent is explicitly forbidden from stringing local file edits, version control commands (`git commit`), and deployment scripts together in a single execution sequence.
    - **Image Review:** If a new image asset was generated, present the locally saved `.webp` file (`/home/user0/git/publishing/100_blog/05_img/webp/[filename].webp`) for Sysop visual approval before any deployment occurs.
 4. **Anti-Diff Fog Mandate:** Present mutative hardening passes clearly. Do not bundle massive structural changes without explicit authorization.
-5. **Trigger Verification:** Wait for the explicit Sysop command (e.g., "EXECUTE hardening") before modifying the active document.
 
 ## Phase 5: Primary VM Deployment and Version Control
-Upon Sysop approval and successful file modification:
+Version control (`git commit/push`) and remote synchronization are restricted entirely to Phase 5. The agent cannot initiate this phase without an explicit, secondary Sysop command (e.g., "Execute deployment and sync").
+
+Upon explicit Sysop deployment approval:
 1. **Asset Deployment (If Generated):** Transfer the newly generated `.webp` image directly to the VM:
    `scp -P 2323 [output.webp] user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/images/webp/`
 2. **VM Source of Truth Deployment:** Deploy the markdown file directly to the primary VM using `scp` over port 2323. This guarantees the source of truth is updated first.
    *(Example: `scp -P 2323 /path/to/local/post user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/chas/blog/[category]/[type]/scheduled/`)*
-2. **Secondary Git Mirroring:** Once VM deployment is confirmed, execute the git cycle in the project root to update the GitHub/Vercel mirror:
+3. **Secondary Git Mirroring:** Once VM deployment is confirmed, execute the git cycle in the project root to update the GitHub/Vercel mirror:
    `git add -A && git commit -m "[Action Summary]" && git push`
