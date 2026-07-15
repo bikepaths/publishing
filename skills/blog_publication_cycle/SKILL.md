@@ -22,9 +22,10 @@ Before creating any new content, the agent MUST determine the current chronologi
    *(Example: `2026-07-16-06-00-00_society,media,psychology,economics,technology_the-political-economy-of-narcissism.md`)*
 2. **Directory Routing:** Write the new markdown file directly into the appropriate local `scheduled/` subdirectory (e.g., `blog/society/image/scheduled/`).
 3. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset. 
+   - **Prompt Protocols:** All generated visual assets must use descriptive prompts explicitly requiring wide, landscape, or 16:9 cinematic compositions to maximize horizontal interface geometry. (e.g., Include keywords: "16:9, landscape, cinematic composition").
    - **Semantic Naming:** Name the file using exactly four descriptive visual keywords separated by underscores, mapping the physical contents of the image rather than the document topic (e.g., `urban_solar_radiation_man.png`).
-   - Convert and crop the generated `.png` artifact to a `.webp` landscape image using the exact parameters: 
-     `cwebp -crop 0 192 1024 640 -q 80 [keyword1_keyword2_keyword3_keyword4.png] -o [keyword1_keyword2_keyword3_keyword4.webp]`
+   - Convert and crop the generated `.png` artifact to a `.webp` landscape image using the exact parameters, saving it locally for review: 
+     `cwebp -crop 0 192 1024 640 -q 80 [keyword1_keyword2_keyword3_keyword4.png] -o /home/user0/git/publishing/100_blog/05_img/webp/[keyword1_keyword2_keyword3_keyword4.webp]`
 
 ## Phase 3: Stylistic Hardening
 All blog posts MUST adhere to the following strict formatting and stylistic constraints:
@@ -46,6 +47,7 @@ All blog posts MUST adhere to the following strict formatting and stylistic cons
 
 ## Phase 4: Sysop Handshake and Authorization
 1. **Discussion Mode Default (TNMA):** Following the initial content generation or structural refactoring plan, the agent must pause and present the proposed text or plan to the Sysop. Take No Mutative Action (TNMA) regarding final commits or styling replacements until authorized.
+   - **Image Review:** If a new image asset was generated, present the locally saved `.webp` file (`/home/user0/git/publishing/100_blog/05_img/webp/[filename].webp`) for Sysop visual approval before any deployment occurs.
 2. **Anti-Diff Fog Mandate:** Present mutative hardening passes (e.g., converting Systemic Analysis to OVP) clearly. Do not bundle massive structural changes without explicit authorization.
 3. **Trigger Verification:** Wait for the explicit Sysop command (e.g., "EXECUTE OVP hardening") before modifying the active document.
 
