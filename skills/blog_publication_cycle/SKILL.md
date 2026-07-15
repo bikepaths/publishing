@@ -45,11 +45,14 @@ All blog posts MUST adhere to the following strict formatting and stylistic cons
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
    - Enforce organic asymmetry (variable sentence/paragraph lengths) and chronological fluidity (observable reality before systemic abstraction).
 
-## Phase 4: Sysop Handshake and Authorization
-1. **Discussion Mode Default (TNMA):** Following the initial content generation or structural refactoring plan, the agent must pause and present the proposed text or plan to the Sysop. Take No Mutative Action (TNMA) regarding final commits or styling replacements until authorized.
+## Phase 4: Automated Linting and Sysop Handshake
+1. **Automated Linter Execution:** Before requesting Sysop approval, the agent MUST run the custom Python linter against the active document:
+   `python3 /home/user0/git/publishing/scripts/100_blog/mos_linter.py [target_file.md]`
+2. **Mandatory Resolution:** The agent must execute consecutive mutative hardening passes until the linter returns a clean exit code (`0`).
+3. **Discussion Mode Default (TNMA):** Following a clean linter pass, the agent must pause and present the proposed text or plan to the Sysop. Take No Mutative Action (TNMA) regarding final commits or styling replacements until authorized.
    - **Image Review:** If a new image asset was generated, present the locally saved `.webp` file (`/home/user0/git/publishing/100_blog/05_img/webp/[filename].webp`) for Sysop visual approval before any deployment occurs.
-2. **Anti-Diff Fog Mandate:** Present mutative hardening passes (e.g., converting Systemic Analysis to OVP) clearly. Do not bundle massive structural changes without explicit authorization.
-3. **Trigger Verification:** Wait for the explicit Sysop command (e.g., "EXECUTE OVP hardening") before modifying the active document.
+4. **Anti-Diff Fog Mandate:** Present mutative hardening passes clearly. Do not bundle massive structural changes without explicit authorization.
+5. **Trigger Verification:** Wait for the explicit Sysop command (e.g., "EXECUTE hardening") before modifying the active document.
 
 ## Phase 5: Primary VM Deployment and Version Control
 Upon Sysop approval and successful file modification:
