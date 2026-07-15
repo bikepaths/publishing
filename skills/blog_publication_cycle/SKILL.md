@@ -49,8 +49,10 @@ All blog posts MUST adhere to the following strict formatting and stylistic cons
 ## Phase 4: Automated Linting and The Separation of State Mandate
 1. **Automated Linter Execution:** Before requesting Sysop approval or executing any version control/deployment commands, the agent MUST run the custom Python linter against the active document:
    `python3 /home/user0/git/publishing/scripts/100_blog/mos_linter.py [target_file.md]`
+   The linter dynamically parses the active MoS document for its banned word and phrase lists. To lint against a different MoS, pass it as the second argument:
+   `python3 /home/user0/git/publishing/scripts/100_blog/mos_linter.py [target_file.md] [mos_file.md]`
 2. **Mandatory Resolution:** The agent must execute consecutive mutative hardening passes until the linter returns a clean exit code (`0`).
-3. **The Air Gap (TNMA Checkpoint):** Following a clean linter pass, the agent must halt all tool execution, enter Discussion Mode (TNMA), and present the local changes to the Sysop. 
+3. **The Air Gap (TNMA Checkpoint):** Following a clean linter pass, the agent must halt all tool execution and enter **Discussion Mode (Take No Mutative Action)**. "TNMA" means the agent is explicitly forbidden from executing any file writes, terminal commands, version control operations, or deployment scripts. The agent may only use read-only tools (view_file, list_dir, grep_search) and must present the local changes to the Sysop for review.
    - **Command Bundling Ban:** The agent is explicitly forbidden from stringing local file edits, version control commands (`git commit`), and deployment scripts together in a single execution sequence.
    - **Image Review:** If a new image asset was generated, present the locally saved `.webp` file (`/home/user0/git/publishing/100_blog/05_img/webp/[filename].webp`) for Sysop visual approval before any deployment occurs.
 4. **Anti-Diff Fog Mandate:** Present mutative hardening passes clearly. Do not bundle massive structural changes without explicit authorization.
@@ -63,5 +65,12 @@ Upon explicit Sysop deployment approval:
    `scp -P 2323 [output.webp] user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/images/webp/`
 2. **VM Source of Truth Deployment:** Deploy the markdown file directly to the primary VM using `scp` over port 2323. This guarantees the source of truth is updated first.
    *(Example: `scp -P 2323 /path/to/local/post user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/chas/blog/[category]/[type]/scheduled/`)*
-3. **Secondary Git Mirroring:** Once VM deployment is confirmed, execute the git cycle in the project root to update the GitHub/Vercel mirror:
-   `git add -A && git commit -m "[Action Summary]" && git push`
+3. **Multi-Repository Git Mirroring:** Changes often span two separate repositories. Both must be committed and pushed independently:
+   - **Content repository** (`/home/user0/git/bikepaths`): Contains blog posts and server sync data.
+     `cd /home/user0/git/bikepaths && git add -A && git commit -m "[Action Summary]" && git push`
+   - **Publishing repository** (`/home/user0/git/publishing`): Contains SKILL definitions, MoS documents, and tooling scripts.
+     `cd /home/user0/git/publishing && git add -A && git commit -m "[Action Summary]" && git push`
+   Only commit to repositories that contain actual changes.
+4. **Global Synchronization:** After all git pushes are complete, execute the global sync script to trigger the atomic server-to-GitHub mirror and pull the latest state back to the local machine:
+   `/home/user0/git/publishing/scripts/100_blog/sync_bikepaths_blog.sh`
+   This script is mandatory. Without it, the VM Source of Truth and the GitHub mirror will remain desynchronized.
