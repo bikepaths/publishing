@@ -16,14 +16,14 @@ The agent must be aware of the following directory structure within `/home/user0
 
 ## Phase 1: Remote State Discovery (Date Scanning)
 Before creating any new content, the agent MUST determine the current chronological deployment sequence.
-1. Use `run_command` to execute a script or command to list the remote blog directory over SFTP/SSH: `sftp://[user]@[ip]:[port]/[path/to/blog]`. 
-   *(Example: `sftp://user0@165.232.151.110:2323/home/user0/www/bikepaths/html/blog/content/chas/blog`)*
-2. Recursively scan the target directories (e.g., `society/image/`, `society/post/`) and their `scheduled/` subdirectories.
+1. Use `run_command` to execute a script or command to list the remote blog directory over SFTP/SSH. You MUST extract and sort exclusively by the filename timestamp to avoid alphabetical path-sorting errors.
+   *(Example: `ssh -p 2323 user@[ip] 'find /path/to/blog -type f -name "*.md" -exec basename {} \; | sort'`)*
+2. Recursively scan the target directories across all categories.
 3. Identify three critical timestamp markers:
    - **Last Published:** The most recent date in the live directories.
    - **Last Scheduled:** The furthest date in the `scheduled/` directories.
    - **Next Scheduled:** The immediate next chronological opening.
-4. Calculate the target date for the new post based on the sequential schedule.
+4. Calculate the target date for the new post based on the sequential schedule. Compare this generated date against the current system date. If the remote date is in the past, the current system date must become the baseline.
 
 ## Phase 2: Post Instantiation (File Creation and Assets)
 1. **Source Document Acquisition:** Read the source document from `/home/user0/git/publishing/100_blog/01_source/` or ask the SYSOP to provide the text that will form the basis of the new blog post. Do not proceed until the source content is secured.
