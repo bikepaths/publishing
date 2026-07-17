@@ -6,6 +6,14 @@ description: Manages the end-to-end process of scanning remote publication dates
 
 This skill defines the complete operational cycle for deploying new blog posts. This process guarantees chronological integrity, stylistic adherence, and Sysop auditability.
 
+## Directory Map (Context)
+The agent must be aware of the following directory structure within `/home/user0/git/publishing/100_blog/`:
+*   `01_source/`: Raw input materials, research documents, and initial topic seeds drafted by the agent or provided by the Sysop.
+*   `02_draft/`: Legacy processing directory.
+*   `03_posted/`: Local tracking repository for deployed live assets and scheduled posts.
+*   `05_img/`: Local image assets mapped for deployed posts (`webp` format).
+*   `06_data/`: System configuration data (e.g., `tags.lang`).
+
 ## Phase 1: Remote State Discovery (Date Scanning)
 Before creating any new content, the agent MUST determine the current chronological deployment sequence.
 1. Use `run_command` to execute a script or command to list the remote blog directory over SFTP/SSH: `sftp://[user]@[ip]:[port]/[path/to/blog]`. 
@@ -18,7 +26,7 @@ Before creating any new content, the agent MUST determine the current chronologi
 4. Calculate the target date for the new post based on the sequential schedule.
 
 ## Phase 2: Post Instantiation (File Creation and Assets)
-1. **Source Document Acquisition:** Ask the SYSOP to provide the source document or text that will form the basis of the new blog post. Do not proceed until the SYSOP provides this content.
+1. **Source Document Acquisition:** Read the source document from `/home/user0/git/publishing/100_blog/01_source/` or ask the SYSOP to provide the text that will form the basis of the new blog post. Do not proceed until the source content is secured.
 2. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_title.md`. 
    *(Example: `2026-07-16-06-00-00_society,media,psychology,economics,technology_the-political-economy-of-narcissism.md`)*
 3. **Directory Routing:** Write the new markdown file directly into the appropriate local `scheduled/` subdirectory (e.g., `blog/society/image/scheduled/`).
