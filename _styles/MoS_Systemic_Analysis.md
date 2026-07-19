@@ -11,7 +11,7 @@ Upon initialization within a new environment, the agent MUST first internalize `
 These constraints strip algorithmic and magazine-style fingerprints from the prose.
 
 *   **Anti-Slop Index:** Purge all academic filler. Banned words include: *however, utilize, mitigate, robust, seamless, comprehensive, furthermore, moreover, additionally, therefore, thus, hence, absolutely, completely, structurally, operational, precisely, notably, generates, exact, exactly, strict, strictly, strickly* (use *produces* or *creates*).
-*   **The Em-Dash Ban:** Zero em-dashes (—), en-dashes (–), or parentheses allowed. You must restructure using comma pairs for parentheticals, or subordinate clauses/periods for pivots. Colons may not be used as hard stops.
+*   **The Em-Dash Ban:** Zero em-dashes (—) or en-dashes (–) allowed. You must restructure using comma pairs for parentheticals, or subordinate clauses/periods for pivots. Parentheses and colons may not be used within prose (they are explicitly permitted in structural headers and frontmatter keys).
 *   **Ban Binary Foils:** Do not use the "X is not Y. It is Z." construction.
 *   **Ban Rhetorical Closers:** Do not cluster short, manufactured declarative sentences at paragraph ends.
 *   **Ban Tricolons:** Avoid predictable "X, Y, and Z" three-item lists.
