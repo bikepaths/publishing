@@ -50,7 +50,14 @@ def parse_mos(mos_path):
         for p in phrase_items:
             banned_phrases.append(p.strip().lower())
 
-    return banned_words, banned_phrases
+    exemptions = set()
+    exempt_match = re.search(r'\*\*Linter Exemptions:\*\*\s*(.+)', content)
+    if exempt_match:
+        raw = exempt_match.group(1)
+        for e in raw.split(','):
+            exemptions.add(e.strip().lower())
+
+    return banned_words, banned_phrases, exemptions
 
 
 def lint_file(filepath, mos_path):
@@ -58,12 +65,13 @@ def lint_file(filepath, mos_path):
         print(f"Error: File '{filepath}' not found.")
         sys.exit(1)
 
-    banned_words, banned_phrases = parse_mos(mos_path)
+    banned_words, banned_phrases, exemptions = parse_mos(mos_path)
 
     print(f"--- MoS Linter ---")
     print(f"Target: {filepath}")
     print(f"MoS Source: {mos_path}")
     print(f"Loaded {len(banned_words)} banned words, {len(banned_phrases)} banned phrases.")
+    print(f"Loaded {len(exemptions)} exemptions.")
     print()
 
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -71,6 +79,7 @@ def lint_file(filepath, mos_path):
 
     in_comment = False
     in_code_block = False
+    in_html_code_block = False
     violations = []
 
     for i, line in enumerate(original_lines):
@@ -90,10 +99,22 @@ def lint_file(filepath, mos_path):
             continue
 
         if line.strip().startswith('```'):
+            if 'ban_markdown_code_blocks' in exemptions:
+                violations.append((line_num, "Formatting Constraint", "Markdown code blocks (```) are banned by this MoS. Use <pre><code> instead."))
             in_code_block = not in_code_block
             continue
 
         if in_code_block:
+            continue
+
+        if '<pre><code>' in line:
+            in_html_code_block = True
+            
+        if '</code></pre>' in line:
+            in_html_code_block = False
+            continue
+            
+        if in_html_code_block:
             continue
 
         lower_line = line.lower()
@@ -109,23 +130,23 @@ def lint_file(filepath, mos_path):
                 violations.append((line_num, "Banned Phrase", f"Found banned phrase '{phrase}'"))
 
         # Check banned punctuation
-        if '\u2014' in line:
+        if '\u2014' in line and 'allow_em_dash' not in exemptions:
             violations.append((line_num, "Banned Punctuation", "Found Em-dash (\u2014)"))
-        if '\u2013' in line:
+        if '\u2013' in line and 'allow_en_dash' not in exemptions:
             violations.append((line_num, "Banned Punctuation", "Found En-dash (\u2013)"))
-        if ';' in line:
+        if ';' in line and 'allow_semicolons' not in exemptions:
             violations.append((line_num, "Banned Punctuation", "Found Semicolon (;)"))
 
         # Check parentheses, ignoring markdown links [text](url)
         clean_line = re.sub(r'\[.*?\]\(.*?\)', '', line)
         is_structural_line = clean_line.strip().startswith('#') or clean_line.strip().startswith('**')
         
-        if not is_structural_line and ('(' in clean_line or ')' in clean_line):
+        if not is_structural_line and ('(' in clean_line or ')' in clean_line) and 'allow_parentheses' not in exemptions:
             violations.append((line_num, "Banned Punctuation", "Found Parentheses ()"))
 
         # Check colons (not part of http:// or https://)
         no_url_line = re.sub(r'https?://', '', clean_line)
-        if ':' in no_url_line and not is_structural_line:
+        if ':' in no_url_line and not is_structural_line and 'allow_colons' not in exemptions:
             violations.append((line_num, "Banned Punctuation", "Found Colon (:) acting as hard stop"))
 
         # Synthetic contrast checks
