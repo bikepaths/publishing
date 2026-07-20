@@ -18,13 +18,13 @@ The Technical Operations style blends authoritative, clinical exactness with ins
 
 ## 3. Visual Architecture (WAF Compliance)
 Due to Apache WAF constraints and CMS rendering limitations:
-- **Code Block Safety**: Raw markdown code blocks (` ``` `) are banned. All code payloads MUST be encapsulated within explicit HTML `<pre><code>` tags.
+- **Code Block Safety**: Use standard markdown code blocks (```) for all code payloads to ensure safe CMS rendering.
 - **Entity Encoding**: All angle brackets inside code blocks MUST be HTML entity encoded (`&lt;`, `&gt;`).
 - **Standard Markdown Restrictions**: Avoid complex markdown layouts (nested blockquotes, deep lists). Markdown headers (`#`) are strictly banned. Use bold text (`**`) to create section divisions. Use explicit HTML tables or alerts if necessary.
 
 ## 4. Constraint Exemptions
 
-**Linter Exemptions:** allow_colons, allow_parentheses, ban_markdown_code_blocks, allow_semicolons, allow_em_dash, allow_en_dash
+**Linter Exemptions:** allow_colons, allow_parentheses, allow_semicolons, allow_em_dash, allow_en_dash
 
 These exemptions instruct the `mos_linter.py` script to bypass the legacy Systemic Analysis punctuation bans, as parentheses, colons, and hyphens are essential for technical syntax and file paths.
 
