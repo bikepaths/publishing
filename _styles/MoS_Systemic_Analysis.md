@@ -37,7 +37,7 @@ Apply these positive directives to achieve the cold, authoritative tone of a soc
 *   **Systemic Focus:** Discuss infrastructure, societal systems, physiological baselines, and power dynamics directly without hiding behind narrative avatars.
 
 ## 3. Visual Asset Deployment
-*   **Landscape Orientation:** All generated visual assets must use descriptive prompts explicitly requiring wide, landscape, or 16:9 cinematic compositions maximizing horizontal interface geometry.
+*   **2.15:1 Aspect Ratio (Prompt Engineering Mandate):** All visual assets must be designed for a 2.15:1 cinematic widescreen aspect ratio. Because base generation tools often default to 1:1 squares, you MUST explicitly command the generator to force the primary subject into the exact horizontal center axis and leave the top 30% and bottom 30% of the canvas as empty, atmospheric negative space. This ensures the subject survives the destructive post-generation crop to 2.15:1.
 *   **Format Conversion:** All generated `.png` artifacts must be converted into `.webp` format using terminal commands or scripts before deployment into the active repository.
 *   **Semantic Visual Taxonomy:** Asset filenames must deploy four descriptive visual keywords mapping actual image contents decoupled from document topics (e.g., `urban_solar_radiation_man.webp`).
 *   **Directory Routing:** Converted assets must be deployed directly into `100_blog/05_img/webp/` mapping required remote target structures.
