@@ -16,7 +16,7 @@ Upon initialization within a new environment, the agent MUST first internalize `
 ## 2. The Base Layer (Structural Firewall)
 Inherits all constraints from `MoS_Systemic_Analysis.md` Section 1, with the following additions and overrides.
 
-*   **Anti-Slop Index:** All terms banned under the Systemic Analysis MoS remain banned. Additional banned terms for this register: *weaponize, destroy, brutal, blood, sub-acute, jurisdictional, exponentially, matrices, regulatory, classification, thermodynamic, sequencing, inferential, heuristic*.
+*   **Anti-Slop Index:** All terms banned under the Systemic Analysis MoS remain banned. Additional banned terms for this register: *weaponize, weaponizing, weaponized, weapon, exact, exactly, destroy, brutal, blood, sub-acute, jurisdictional, exponentially, matrices, regulatory, classification, thermodynamic, sequencing, inferential, heuristic*.
 *   **The Em-Dash Ban:** Inherited without modification.
 *   **Ban Binary Foils:** Inherited without modification.
 *   **Ban Rhetorical Closers:** Inherited without modification.
