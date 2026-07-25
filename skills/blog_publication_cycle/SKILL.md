@@ -62,6 +62,7 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
 3. **Format Constraints (CMS Web Post):**
    - Governed by `/home/user0/git/publishing/_styles/Publication_Formats.md`.
    - All markdown headings (`#`, `##`, `###`, `####`) are explicitly banned. Use ONLY bold text for section breaks.
+   - **Header Spacing Mandate:** Bold headers MUST be isolated by exactly one blank line above and one blank line below. Text must never stack directly against a header.
    - Do not phoneticize numbers (e.g., use "1960", not "nineteen sixty").
 4. **Stylistic Voice (Dynamic OVP):**
    - Governed dynamically by the Sysop-authorized MoS document from `_styles/`.
@@ -69,7 +70,7 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
    - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words). There is no upper limit on sentence length.
    - Ground all abstraction. Strip heavy academic and systemic jargon (e.g., replace "epistemological relativism" with "abandoning shared reality").
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
-   - Enforce organic asymmetry (variable sentence/paragraph lengths) and chronological fluidity (observable reality before systemic abstraction).
+   - **Organic Asymmetry (Human Composition):** The text MUST shatter predictable block geometry. Paragraphs must visually alternate in length, organically mixing short groupings with longer blocks. Bridge long, flowing thoughts using subordinating conjunctions and abruptly punctuate them with short, hard declarative statements. Consecutive sentences must rarely share the same length or identical subject-verb opening structures.
 
 ## Phase 4: Automated Linting and The Separation of State Mandate
 1. **Automated Linter Execution:** Before requesting Sysop approval or executing any version control/deployment commands, the agent MUST run the custom Python linter against the active document:
