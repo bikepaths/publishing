@@ -14,6 +14,13 @@ The agent must be aware of the following directory structure within `/home/user0
 *   `05_img/`: Local image assets mapped for deployed posts (`webp` format).
 *   `06_data/`: System configuration data (e.g., `tags.lang`).
 
+## Operational Mandates
+1. **View Before Touch Mandate:** The agent MUST execute `view_file` on target files prior to editing.
+2. **Skill Verification Mandate:** The agent MUST execute `view_file` on this SKILL document phase immediately prior to execution.
+3. **Semantic Reconciliation Mandate:** When modifying core metrics or variables, the agent MUST perform a full document semantic cross-reference audit.
+4. **Level One Communication Standard:** The agent MUST use plain simple language, direct tone, and propose the next three actions.
+5. **Absolute Path Mandate:** The agent MUST ALWAYS use absolute paths (`/home/user0/...`).
+
 ## Phase 1: Remote State Discovery (Date Scanning)
 Before creating any new content, the agent MUST determine the current chronological deployment sequence.
 1. Use `run_command` to execute a script or command to list the remote blog directory over SFTP/SSH. You MUST extract and sort exclusively by the filename timestamp to avoid alphabetical path-sorting errors.
@@ -25,34 +32,39 @@ Before creating any new content, the agent MUST determine the current chronologi
    - **Next Scheduled:** The immediate next chronological opening.
 4. Calculate the target date for the new post based on the sequential schedule. Compare this generated date against the current system date. If the remote date is in the past, the current system date must become the baseline.
 
-## Phase 2: Post Instantiation (File Creation and Assets)
-1. **Source Document Acquisition:** Read the source document from `/home/user0/git/publishing/100_blog/01_source/` or ask the SYSOP to provide the text that will form the basis of the new blog post. Do not proceed until the source content is secured.
-2. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_title.md`. 
-   *(Example: `2026-07-16-06-00-00_society,media,psychology,economics,technology_the-political-economy-of-narcissism.md`)*
-3. **Directory Routing:** Write the new markdown file directly into the appropriate local `scheduled/` subdirectory (e.g., `blog/society/image/scheduled/`).
-4. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset. 
-   - **Prompt Protocols:** All generated visual assets must use descriptive prompts explicitly requiring wide, landscape, or 16:9 cinematic compositions to maximize horizontal interface geometry. (e.g., Include keywords: "16:9, landscape, cinematic composition").
-   - **Semantic Naming:** Name the file using exactly four descriptive visual keywords separated by underscores, mapping the physical contents of the image rather than the document topic (e.g., `urban_solar_radiation_man.png`).
-   - Convert and crop the generated `.png` artifact to a `.webp` landscape image using the exact parameters, saving it locally for review: 
-     `cwebp -crop 0 192 1024 640 -q 80 [keyword1_keyword2_keyword3_keyword4.png] -o /home/user0/git/publishing/100_blog/05_img/webp/[keyword1_keyword2_keyword3_keyword4.webp]`
+## Phase 1.5: Source Document Analysis
+1. **MoS Mapping:** The agent MUST analyze the source text against all available styles in `_styles/` to determine the closest stylistic match.
+2. **MoS Query Mandate:** The agent MUST query the Sysop with the suggested best-fit MoS and await explicit authorization before proceeding to file creation.
+
+## Phase 2: Generative Synthesis and Asset Creation
+1. **Source Document Acquisition:** Read the source document from `/home/user0/git/publishing/100_blog/01_source/` or ask the SYSOP to provide the text. Do not proceed until the source content is secured.
+2. **Generative Rewrite:** The agent MUST execute a comprehensive generative rewrite of the source text, actively applying all constraints of the Sysop-authorized MoS. Do NOT passively copy the source text.
+3. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_title.md`.
+4. **Directory Routing:** Write the newly synthesized markdown file into the `/home/user0/git/publishing/100_blog/02_draft/` directory. Do not write directly to `03_posted/`.
+5. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset.
+   - **Prompt Protocols:** The prompt MUST specify: "The subject must be perfectly centered, and the top and bottom of the image must be dead blur."
+   - **Semantic Naming:** Name the file using exactly four descriptive visual keywords separated by underscores (e.g., `urban_solar_radiation_man.png`).
+   - **Image Processing:** Convert and crop the generated `.png` artifact to a 956x444 centered `.webp` image. For a 1024x1024 source image, use these exact parameters:
+     `cwebp -crop 34 290 956 444 -q 60 -m 6 [keyword1_keyword2_keyword3_keyword4.png] -o /home/user0/git/publishing/100_blog/05_img/webp/[keyword1_keyword2_keyword3_keyword4.webp]`
 
 ## Phase 3: Stylistic Hardening
-All blog posts MUST adhere to the following strict formatting and stylistic constraints:
+All blog posts MUST adhere to the formatting and stylistic constraints of the authorized MoS.
 1. **Metadata Frontmatter:** The document must begin EXACTLY with these metadata lines, using HTML comment syntax:
    - Title: `<!--t [Title] t-->`
    - Description: `<!--d [One-sentence description] d-->`
    - Tags: `<!--tag [comma-separated tags] tag-->`
      - The first tag MUST be the primary category, strictly chosen from: society, skills, systems, money, nature, technology, adventure, health, history, or mind.
-     - Include up to 5 additional secondary tags from `/home/user0/git/publishing/100_blog/06_data/tags.lang` (maximum 6 tags total).
+     - Include exactly 5 additional secondary tags from `/home/user0/git/publishing/100_blog/06_data/tags.lang` (exactly 6 tags total).
    - Image: `<!--image [absolute URL] image-->` (If a new image was generated, map this exactly to `https://bikepaths.org/blog/content/images/webp/[filename].webp`)
    - **Line Break Mandate:** You MUST insert exactly one blank line between the final metadata tag and the first line of the narrative prose body.
 2. **No Initial Headers:** NEVER initiate the narrative body with markdown headers (`#`, `##`, etc.). The text body must begin immediately following the metadata block as standard prose.
-3. **Format Constraints (CMS Web Post):** 
+3. **Format Constraints (CMS Web Post):**
    - Governed by `/home/user0/git/publishing/_styles/Publication_Formats.md`.
    - All markdown headings (`#`, `##`, `###`, `####`) are explicitly banned. Use ONLY bold text for section breaks.
    - Do not phoneticize numbers (e.g., use "1960", not "nineteen sixty").
-4. **Stylistic Voice (Analytical OVP):** 
-   - Governed by `/home/user0/git/publishing/_styles/MoS_Analytical_OVP.md`.
+4. **Stylistic Voice (Dynamic OVP):**
+   - Governed dynamically by the Sysop-authorized MoS document from `_styles/`.
+   - The agent MUST strictly enforce the constraints of the authorized MoS (e.g., vocabulary ceilings, punctuation bans, avatar permissions).
    - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words). There is no upper limit on sentence length.
    - Ground all abstraction. Strip heavy academic and systemic jargon (e.g., replace "epistemological relativism" with "abandoning shared reality").
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.

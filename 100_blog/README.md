@@ -4,7 +4,7 @@ This directory serves as the primary processing pipeline for systemic blog synth
 
 ## Directory Map
 *   `01_source/`: Raw input materials, research documents, and initial topic seeds drafted by the agent or provided by the Sysop.
-*   `02_draft/`: Active synthesis manuscripts. (Legacy processing directory, mostly superseded by direct scheduling deployment).
+*   `02_draft/`: Mandatory routing destination for active synthesis manuscripts pending stylistic hardening and Sysop approval.
 *   `03_posted/`: Local tracking repository for deployed live assets and scheduled posts.
 *   `05_img/`: Local image assets mapped for deployed posts (`webp` format).
 *   `06_data/`: System configuration data (e.g., `tags.lang`).
@@ -30,15 +30,16 @@ The processing architecture is governed by the `blog_publication_cycle` skill. T
 ## Composition Authorities
 **DO NOT use this README for stylistic or structural generative rules.** 
 All blog synthesis is strictly governed by external knowledge items and baseline documents:
-1.  **Master Manual of Style:** Located at `_styles/MoS_OVP_specification.md` (Section 3.1 — Format 1: CMS Web Post). This is the authoritative governing document for all web post generation.
-2.  **Systemic Analysis KI:** Active agent constraint parameters.
+1.  **Format Constraints:** Governed by `_styles/Publication_Formats.md` unless overridden by a specific MoS.
+2.  **Stylistic Voice (Dynamic):** Governed by the Sysop-authorized MoS. The agent MUST analyze the source text against all available styles in `_styles/` to determine the closest match.
+3.  **MoS Query Mandate:** The agent MUST ALWAYS query the Sysop with the suggested best-fit MoS and await authorization before generation.
 
 ## Metadata Requirements
 Required metadata tags block (embed as HTML comments anywhere in file):
 `<!--t [Exact Title] t-->`
 `<!--d [Meta Description] d-->`
 `<!--tag [primary_category,tag2,tag3] tag-->`
-`<!--image [image_filename.jpg or URL] image-->`
+`<!--image [image_filename.webp or absolute URL] image-->`
 
 *   **Tags:** Must contain exactly 6 tags (1 primary category followed by exactly 5 sub-tags).
 *   **Primary Categories:** `society`, `skills`, `systems`, `money`, `nature`, `technology`, `adventure`, `health`, `history`, `mind`.
