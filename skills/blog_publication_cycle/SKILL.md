@@ -44,7 +44,8 @@ Before creating any new content, the agent MUST determine the current chronologi
    - **Write in the third person:** All blog posts use a third-person objective voice. Never use "you" or "your" to address the reader. Never use first person ("I", "we").
    - **Subordinate framing devices:** If the source uses a character, avatar, or narrative framing device (e.g., "imagine you are a student"), that device must be subordinated. The systemic argument carries the post. The character appears sparingly as a lens, not as the protagonist of every paragraph.
    - **Reference Post (Gold Standard):** Before writing, the agent MUST read the most recent file in `/home/user0/git/publishing/100_blog/03_posted/` and use its voice, register, paragraph geometry, and sentence variance as the structural model for the new post.
-3. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_title.md`.
+3. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_semantic-seo-slug.md`.
+   - **Semantic SEO Slug:** The filename slug MUST contain semantic SEO terms related to the topic and title (e.g., `urban-homelessness-infrastructure-systems-failure-infinite-loop.md`), rather than just a literal lowercase copy of the title. This optimizes for search discovery.
 4. **Directory Routing:** Write the newly synthesized markdown file into the `/home/user0/git/publishing/100_blog/02_draft/` directory. Do not write directly to `03_posted/`.
 5. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset.
    - **Prompt Protocols:** The prompt MUST specify: "The subject must be perfectly centered, and the top and bottom of the image must be dead blur."
@@ -106,7 +107,9 @@ Upon explicit Sysop deployment approval:
 1. **Asset Deployment (If Generated):** Transfer the newly generated `.webp` image directly to the VM:
    `scp -P 2323 [output.webp] user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/images/webp/`
 2. **VM Source of Truth Deployment:** Deploy the markdown file directly to the primary VM using `scp` over port 2323. This guarantees the source of truth is updated first.
-   *(Example: `scp -P 2323 /path/to/local/post user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/chas/blog/[category]/[type]/scheduled/`)*
+   - The path format is: `/home/user0/www/bikepaths/html/blog/content/chas/blog/[category]/[type]/scheduled/`
+   - **`[type]` Routing Rule:** If the markdown file contains an image tag (`<!--image ... image-->`), `[type]` MUST be `image`. If it does not contain an image, `[type]` MUST be `post`.
+   - *(Example: `scp -P 2323 /path/to/local/post user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/chas/blog/systems/image/scheduled/`)*
 3. **Multi-Repository Git Mirroring:** Changes often span two separate repositories. Both must be committed and pushed independently:
    - **Content repository** (`/home/user0/git/bikepaths`): Contains blog posts and server sync data.
      `cd /home/user0/git/bikepaths && git add -A && git commit -m "[Action Summary]" && git push`
