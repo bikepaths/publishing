@@ -20,6 +20,7 @@ The agent must be aware of the following directory structure within `/home/user0
 3. **Semantic Reconciliation Mandate:** When modifying core metrics or variables, the agent MUST perform a full document semantic cross-reference audit.
 4. **Level One Communication Standard:** The agent MUST use plain simple language, direct tone, and propose the next three actions.
 5. **Absolute Path Mandate:** The agent MUST ALWAYS use absolute paths (`/home/user0/...`).
+6. **Pipeline Push Mandate:** The agent MUST immediately execute a `git push` to the remote repository whenever modifying pipeline architecture files (e.g., `SKILL.md`, `README.md`, `_styles/`) to prevent data loss.
 
 ## Phase 1: Remote State Discovery (Date Scanning)
 Before creating any new content, the agent MUST determine the current chronological deployment sequence.
