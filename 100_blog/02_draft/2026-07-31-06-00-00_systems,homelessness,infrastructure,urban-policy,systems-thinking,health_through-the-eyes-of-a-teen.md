@@ -37,7 +37,7 @@ The architecture addresses this by writing a new social protocol based on the Du
 
 **Running the Applications**
 
-No reasonable system asks someone to sustain a competitive job while they are biologically freezing or relationally traumatized. Economic recovery can only execute after the hardware layer is stable and the social operating system is securely connected.
+No reasonable system asks someone to sustain a competitive job while they are biologically unstable or relationally traumatized. Economic recovery can only execute after the hardware layer is stable and the social operating system is securely connected.
 
 To bridge the massive gap in employment history that chronic homelessness creates, the program launches cooperative micro-businesses inside the stabilization facility itself. Residents work as a cohesive team, share the output, and rebuild their economic agency in a controlled environment before facing the open market. A special backend funding mechanism called a Medicaid waiver then acts as a Tenancy Bridge Guarantee, underwriting and guaranteeing their rent for the first twelve months in a standard apartment so that the transition out of the system does not trigger an abrupt crash.
 
@@ -47,11 +47,6 @@ In computer programming, the entire program refuses to compile if the coder miss
 
 This same rigid standard must apply to city governments attempting to implement the architecture. If a city tries to run the economic recovery loop without first proving that it has fully stabilized the human hardware layer and the social operating system, the system triggers an automated disqualification. The biological realities of survival do not negotiate with city council budgets or political compromise.
 
-Right now, the first production prototype is being deployed at One California Plaza in Los Angeles. The building is designed to generate 365 days of hard, auditable performance data to prove to the world that this system architecture actually works. The robotics student on the bus would recognize it immediately for what it is. A beta test.
+Read the full specification at [Reversing Chronic Unsheltered Homelessness](http://www.bikepaths.org/sdi)
 
-**Glossary**
 
-*   **Dunbar-scale cohort** A small group sized to maintain close social relationships.
-*   **Master lease** A legal agreement where a single entity rents an entire building.
-*   **Medicaid waiver** A special rule allowing government health funds to pay for housing.
-*   **Tenancy Bridge Guarantee** A financial promise to cover rent for a specific period.
