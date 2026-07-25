@@ -39,7 +39,11 @@ Before creating any new content, the agent MUST determine the current chronologi
 
 ## Phase 2: Generative Synthesis and Asset Creation
 1. **Source Document Acquisition:** Read the source document from `/home/user0/git/publishing/100_blog/01_source/` or ask the SYSOP to provide the text. Do not proceed until the source content is secured.
-2. **Generative Rewrite:** The agent MUST execute a comprehensive generative rewrite of the source text, actively applying all constraints of the Sysop-authorized MoS. Do NOT passively copy the source text.
+2. **Generative Rewrite:** The agent MUST execute a comprehensive generative rewrite of the source text. The source document is RAW MATERIAL, not a template. Do NOT passively copy, paraphrase, or lightly rearrange the source text. The agent must:
+   - **Determine authorial intent:** Before writing, identify the core thesis the author is attempting to convey to the reader. The rewrite must optimally express that thesis.
+   - **Write in the third person:** All blog posts use a third-person objective voice. Never use "you" or "your" to address the reader. Never use first person ("I", "we").
+   - **Subordinate framing devices:** If the source uses a character, avatar, or narrative framing device (e.g., "imagine you are a student"), that device must be subordinated. The systemic argument carries the post. The character appears sparingly as a lens, not as the protagonist of every paragraph.
+   - **Reference Post (Gold Standard):** Before writing, the agent MUST read the most recent file in `/home/user0/git/publishing/100_blog/03_posted/` and use its voice, register, paragraph geometry, and sentence variance as the structural model for the new post.
 3. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_title.md`.
 4. **Directory Routing:** Write the newly synthesized markdown file into the `/home/user0/git/publishing/100_blog/02_draft/` directory. Do not write directly to `03_posted/`.
 5. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset.
@@ -64,15 +68,25 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
    - All markdown headings (`#`, `##`, `###`, `####`) are explicitly banned. Use ONLY bold text for section breaks.
    - **Header Spacing Mandate:** Bold headers MUST be isolated by exactly one blank line above and one blank line below. Text must never stack directly against a header.
    - Do not phoneticize numbers (e.g., use "1960", not "nineteen sixty").
+   - **No Glossary:** Blog posts do not include glossary sections. Define terms inline within the prose.
+   - **No Chapters:** The document is a singular blog post, not a book. Never use the word "Chapter" in headers.
 4. **Stylistic Voice (Dynamic OVP):**
    - Governed dynamically by the Sysop-authorized MoS document from `_styles/`.
    - The agent MUST strictly enforce the constraints of the authorized MoS (e.g., vocabulary ceilings, punctuation bans, avatar permissions).
    - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words). There is no upper limit on sentence length.
    - Ground all abstraction. Strip heavy academic and systemic jargon (e.g., replace "epistemological relativism" with "abandoning shared reality").
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
-   - **Organic Asymmetry (Human Composition):** The text MUST shatter predictable block geometry and formulaic structural loops. Never repeat identical paragraph formatting across sections (e.g., Header -> single-sentence thesis -> elaboration). Every section must open and flow unpredictably. Bridge long, flowing thoughts using subordinating conjunctions and abruptly punctuate them with short, hard declarative statements. Consecutive sentences must rarely share the same length or identical subject-verb opening structures.
-   - **No Chapters:** The document is a singular blog post, not a book. Never use the word "Chapter" in headers.
    - **Professional Metadata:** Titles and descriptions must function as compelling intellectual hooks, not lazy, literal summaries.
+     - BAD TITLE: "A Robotics Student Analyzes Homelessness" (lazy, literal)
+     - GOOD TITLE: "The Infinite Loop: Why Cities Keep Crashing on Homelessness" (intellectual hook)
+     - BAD DESCRIPTION: "An analysis of urban policy failures." (vague, generic)
+     - GOOD DESCRIPTION: "Urban homelessness operates as a sequential dependency failure, and the fix requires an engineering specification that most politicians refuse to follow." (specific, provocative)
+   - **Organic Asymmetry (Human Composition):** The text MUST read like a human wrote it. This means:
+     - **Shatter formulaic loops.** Never repeat the same structural pattern across sections. If one section opens with a short declarative statement, the next must open with a long flowing thought or a counterargument.
+     - BAD PATTERN (machine-like): Every section follows Header → single-sentence thesis → explanatory block → single-sentence closer. This is robotic.
+     - GOOD PATTERN (human-like): One section opens mid-argument. The next opens with data. Another opens by refuting a common assumption. The reader cannot predict the next paragraph's shape.
+     - **Vary sentence length aggressively.** Bridge long, flowing thoughts using subordinating conjunctions ("Although", "Because", "While") and abruptly punctuate them with short, hard declarative statements. Consecutive sentences must rarely share the same length or identical subject-verb opening structures.
+     - **Vary paragraph length.** Mix short two-sentence paragraphs with longer four-sentence blocks. Never stack identically-sized paragraphs consecutively.
 
 ## Phase 4: Automated Linting and The Separation of State Mandate
 1. **Automated Linter Execution:** Before requesting Sysop approval or executing any version control/deployment commands, the agent MUST run the custom Python linter against the active document:
