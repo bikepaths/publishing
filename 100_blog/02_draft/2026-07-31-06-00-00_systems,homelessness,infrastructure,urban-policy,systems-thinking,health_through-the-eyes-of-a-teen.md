@@ -1,7 +1,7 @@
 <!--t The Infinite Loop: Why Cities Keep Crashing on Homelessness t-->
 <!--d Urban homelessness operates as a sequential dependency failure, and the fix requires an engineering specification that most politicians refuse to follow. d-->
 <!--tag systems,homelessness,infrastructure,urban-policy,systems-thinking,health tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/teen_urban_data_pipeline.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/urban_software_pipeline_crash.webp image-->
 
 A high school robotics student riding the bus through Los Angeles sees something that most adults have stopped noticing. Tent encampments line the concrete highway overpasses in clusters that shift position every few weeks but never actually disappear. The television news frames this as a political argument between two factions. One faction demands that the government spend billions of new dollars to fix the crisis permanently. The opposing faction insists that money alone cannot fix anything because the entire bureaucratic system is fundamentally broken.
 
