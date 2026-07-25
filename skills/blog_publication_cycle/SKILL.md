@@ -70,7 +70,9 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
    - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words). There is no upper limit on sentence length.
    - Ground all abstraction. Strip heavy academic and systemic jargon (e.g., replace "epistemological relativism" with "abandoning shared reality").
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
-   - **Organic Asymmetry (Human Composition):** The text MUST shatter predictable block geometry. Paragraphs must visually alternate in length, organically mixing short groupings with longer blocks. Bridge long, flowing thoughts using subordinating conjunctions and abruptly punctuate them with short, hard declarative statements. Consecutive sentences must rarely share the same length or identical subject-verb opening structures.
+   - **Organic Asymmetry (Human Composition):** The text MUST shatter predictable block geometry and formulaic structural loops. Never repeat identical paragraph formatting across sections (e.g., Header -> single-sentence thesis -> elaboration). Every section must open and flow unpredictably. Bridge long, flowing thoughts using subordinating conjunctions and abruptly punctuate them with short, hard declarative statements. Consecutive sentences must rarely share the same length or identical subject-verb opening structures.
+   - **No Chapters:** The document is a singular blog post, not a book. Never use the word "Chapter" in headers.
+   - **Professional Metadata:** Titles and descriptions must function as compelling intellectual hooks, not lazy, literal summaries.
 
 ## Phase 4: Automated Linting and The Separation of State Mandate
 1. **Automated Linter Execution:** Before requesting Sysop approval or executing any version control/deployment commands, the agent MUST run the custom Python linter against the active document:
