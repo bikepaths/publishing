@@ -1,16 +1,17 @@
-<!--t Social Media, Whisper-Phones, and the Playground t-->
+<!--t Social Media, Whisper-Phones, and the Schoolyard t-->
 <!--d A pedagogical fable for children and adults about how secret algorithms and hidden incentives divide communities. d-->
 <!--tag mind,education,polarization,platforms,algorithms,pedagogy tag-->
+<!--image https://bikepaths.org/blog/content/images/webp/angry_children_tin_cans.webp image-->
 
 This story is written for children, but adults may find it uncomfortably familiar. Read the fable first, then read the explanation at the end.
 
-**The Whisper-Phones and the Playground**
+**The Whisper-Phones and the Schoolyard**
 
-The children at Valley School loved a game called Kick-the-Can. For a long time, the game ran on a very simple engine. Everyone followed the same rules, which were carved into a wooden sign by the playground fence, and every player could read them before the match started. If a defender tagged your shoulder, you sat on the sidelines until someone kicked the can, and when the can got kicked, every captured player ran free. Disagreements were rare, because everyone could see what happened with their own eyes, and the wooden sign settled any argument that the eyes could not.
+The children at Valley School loved a game called Kick-the-Can. For a long time, the game ran on a very simple engine. Everyone followed the same rules, which were carved into a wooden sign by the schoolyard fence, and every player could read them before the match started. If a defender tagged your shoulder, you sat on the sidelines until someone kicked the can, and when the can got kicked, every captured player ran free. Disagreements were rare, because everyone could see what happened with their own eyes, and the wooden sign settled any argument that the eyes could not.
 
-One spring, everything changed because of a strange new invention called the Whisper-Phones.
+One spring, everything changed because of a new invention called the Whisper-Phones.
 
-The Whisper-Phones were shiny metallic cans connected by long, invisible strings. A group of older students, who called themselves the Gadget Makers, handed them out to the entire school without asking for any payment. The Gadget Makers told the younger children that these devices would make the game better, because players could now talk to teammates on the far side of the field.
+The Whisper-Phones were shiny metallic cans connected by long, invisible strings. A group of older children, who called themselves the Gadget Makers, handed them out to the entire school without asking for any payment. The Gadget Makers told the younger children that these devices would make the game better, because players could now talk to teammates on the far side of the field.
 
 What the younger children never learned was that the Gadget Makers had a hidden business. Every time a child pressed a Whisper-Phone against their ear and kept listening, the Gadget Makers earned a shiny silver token. The longer a child listened, and the angrier or more frightened the message made them feel, the more tokens flowed into the Gadget Makers' collection jar. Because of this, the Gadget Makers tuned the invisible strings so that only the loudest and angriest whispers traveled through them, while calm and boring messages faded away to nothing.
 
@@ -43,3 +44,4 @@ Every object in the fable maps to something in the real world. The Whisper-Phone
 The fable demonstrates three specific processes. First, when a platform's revenue depends on sustained attention, the algorithm learns to promote outrage over accuracy, because outrage holds attention longer than calm reporting does. Second, when two groups receive different algorithmically curated versions of the same event, they lose the ability to agree on shared facts, and without shared facts, cooperation becomes impossible. Third, moderate voices like Clara's get suppressed by the system's own economics, because content that calms people down reduces the time they spend on the platform, which reduces revenue.
 
 The wooden sign at the playground fence represents the idea of shared rules and shared truth that existed before algorithmic curation. The story asks a question that has no easy answer, because once the Whisper-Phones are already in everyone's hands, nobody knows how a community gets back to the wooden sign.
+
