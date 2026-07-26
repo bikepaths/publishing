@@ -105,12 +105,9 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
 Version control (`git commit/push`) and remote synchronization are restricted entirely to Phase 5. The agent cannot initiate this phase without an explicit, secondary Sysop command (e.g., "Execute deployment and sync").
 
 Upon explicit Sysop deployment approval:
-1. **Asset Deployment (If Generated):** Transfer the newly generated `.webp` image directly to the VM:
-   `scp -P 2323 [output.webp] user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/images/webp/`
-2. **VM Source of Truth Deployment:** Deploy the markdown file directly to the primary VM using `scp` over port 2323. This guarantees the source of truth is updated first.
-   - The path format is: `/home/user0/www/bikepaths/html/blog/content/chas/blog/[category]/[type]/scheduled/`
-   - **`[type]` Routing Rule:** If the markdown file contains an image tag (`<!--image ... image-->`), `[type]` MUST be `image`. If it does not contain an image, `[type]` MUST be `post`.
-   - *(Example: `scp -P 2323 /path/to/local/post user0@165.232.151.110:/home/user0/www/bikepaths/html/blog/content/chas/blog/systems/image/scheduled/`)*
+1. **Automated Pipeline Deployment:** The agent MUST use the automated deployment script to deploy the draft and associated assets.
+   `python3 /home/user0/git/publishing/scripts/100_blog/deploy_asset.py --deploy [target_file.md] --force`
+2. **Manual SCP Prohibition:** The agent is STRICTLY PROHIBITED from executing raw manual `scp` commands to transfer markdown files or image assets to the VM. All deployment routing, file renaming, and remote cleanup must be handled internally by the `deploy_asset.py` script to prevent untracked duplicate artifacts.
 3. **Multi-Repository Git Mirroring:** Changes often span two separate repositories. Both must be committed and pushed independently:
    - **Content repository** (`/home/user0/git/bikepaths`): Contains blog posts and server sync data.
      `cd /home/user0/git/bikepaths && git add -A && git commit -m "[Action Summary]" && git push`

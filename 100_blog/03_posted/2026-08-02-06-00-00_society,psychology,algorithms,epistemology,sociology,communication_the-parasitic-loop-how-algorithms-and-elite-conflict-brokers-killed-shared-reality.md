@@ -1,7 +1,7 @@
 <!--t The Parasitic Loop: How Algorithms and Elite Conflict Brokers Killed Shared Reality t-->
 <!--d Digital communication infrastructure runs on a parasitic feedback loop where algorithmic attention harvesting and the financialization of conflict by a wealthy minority systematically destroy the shared factual baseline required for civic governance. d-->
 <!--tag society,psychology,algorithms,epistemology,sociology,communication tag-->
-<!--image http://165.232.151.110/blog/content/images/webp/subway_passengers_staring_phones_20.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/subway_passengers_staring_phones_20.webp image-->
 
 The core machinery of modern digital communication runs on a parasitic feedback loop. The infrastructure powering every social media platform, every algorithmic news feed, and every short-form video engine is designed around a single metric, which is the total number of seconds that a human eye remains locked on a screen. Software engineers build these systems to maximize that number above all other variables. The algorithms running inside these platforms have learned through trillions of data points that certain emotional states hold human attention far longer than others. Fear, dread, moral outrage, and the feeling of facing an existential threat all produce dramatically higher engagement numbers than calm factual reporting ever does. The platform does not care whether the content is true. It cares whether the content keeps the user scrolling.
 
