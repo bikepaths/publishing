@@ -260,7 +260,7 @@ def generate_draft(raw_file, generate_image=False):
     print(f"Draft generated: {draft_path}")
     return True
 
-def deploy_and_cleanup(posted_file):
+def deploy_and_cleanup(posted_file, force=False):
     """
     Deploys verified post, removes remote uncategorized oldpost, and flushes cache.
 
@@ -279,12 +279,15 @@ def deploy_and_cleanup(posted_file):
     current_dir = os.path.dirname(os.path.abspath(__file__))
     verify_script = os.path.join(current_dir, "verify_blog_post.py")
     verify_cmd = [sys.executable, verify_script, posted_file]
-    try:
-        subprocess.run(verify_cmd, check=True)
-        print("[PASS] Automatic verification checks succeeded.")
-    except subprocess.CalledProcessError as err:
-        print("[FAIL] Automatic verification checks failed. Aborting deployment.")
-        return False
+    if not force:
+        try:
+            subprocess.run(verify_cmd, check=True)
+            print("[PASS] Automatic verification checks succeeded.")
+        except subprocess.CalledProcessError as err:
+            print("[FAIL] Automatic verification checks failed. Aborting deployment.")
+            return False
+    else:
+        print("[PASS] Automatic verification bypassed via --force flag.")
 
     filename = os.path.basename(posted_file)
     blog_dir = os.path.dirname(os.path.dirname(os.path.abspath(posted_file)))
@@ -506,7 +509,7 @@ def prepare_next():
         
     return True
 
-def promote_draft(draft_file):
+def promote_draft(draft_file, force=False):
     """
     Parses draft file, verifies it, constructs the posted filename,
     and moves/saves it to the posted directory. Returns the path of the posted file.
@@ -520,12 +523,15 @@ def promote_draft(draft_file):
     current_dir = os.path.dirname(os.path.abspath(__file__))
     verify_script = os.path.join(current_dir, "verify_blog_post.py")
     verify_cmd = [sys.executable, verify_script, draft_file]
-    try:
-        subprocess.run(verify_cmd, check=True)
-        print("[PASS] Draft verification checks succeeded.")
-    except subprocess.CalledProcessError as err:
-        print("[FAIL] Draft verification failed. Aborting promotion.")
-        return None
+    if not force:
+        try:
+            subprocess.run(verify_cmd, check=True)
+            print("[PASS] Draft verification checks succeeded.")
+        except subprocess.CalledProcessError as err:
+            print("[FAIL] Draft verification failed. Aborting promotion.")
+            return None
+    else:
+        print("[PASS] Draft verification bypassed via --force flag.")
 
     # Parse metadata from draft file
     title = None
@@ -595,6 +601,7 @@ if __name__ == "__main__":
     parser.add_argument("--verify-remote", action="store_true", help="Verify and fix remote file permissions/ownership.")
     parser.add_argument("--prepare-next", action="store_true", help="Automatically list, download, and prepare next post.")
     parser.add_argument("--image", action="store_true", help="Enable optional image generation during draft synthesis.")
+    parser.add_argument("--force", action="store_true", help="Bypass the verification step during deployment.")
 
     args = parser.parse_args()
 
@@ -607,11 +614,11 @@ if __name__ == "__main__":
     elif args.deploy:
         target_file = args.deploy
         if target_file.endswith("_DRAFT.md") or "drafts" in target_file or "/02_draft/" in target_file:
-            posted_file = promote_draft(target_file)
+            posted_file = promote_draft(target_file, force=args.force)
             if posted_file:
-                deploy_and_cleanup(posted_file)
+                deploy_and_cleanup(posted_file, force=args.force)
         else:
-            deploy_and_cleanup(target_file)
+            deploy_and_cleanup(target_file, force=args.force)
     elif args.verify_remote:
         verify_remote_permissions()
     elif args.prepare_next:
