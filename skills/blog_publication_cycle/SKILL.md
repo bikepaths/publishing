@@ -75,7 +75,7 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
 4. **Stylistic Voice (Dynamic OVP):**
    - Governed dynamically by the Sysop-authorized MoS document from `_styles/`.
    - The agent MUST strictly enforce the constraints of the authorized MoS (e.g., vocabulary ceilings, punctuation bans, avatar permissions).
-   - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words). There is no upper limit on sentence length.
+   - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words). Target an asymmetrical, high-FK structural mandate (FK 12.0-16.0) leaning toward longer, complex sentence structures.
    - Ground all abstraction. Strip heavy academic and systemic jargon (e.g., replace "epistemological relativism" with "abandoning shared reality").
    - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
    - **Professional Metadata:** Titles and descriptions must function as compelling intellectual hooks, not lazy, literal summaries.

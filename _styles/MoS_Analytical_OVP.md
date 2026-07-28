@@ -10,7 +10,7 @@
 - **The Jargon Ban:** Explicitly banned are heavy, abstract sociological and economic terms that do not pass the Kitchen Table Test. 
   - *Forbidden examples:* "epistemological relativism," "institutional curation," "sovereign media paradigm," "fiduciary." 
   - *Permitted examples:* "systems," "incentives," "structural," "financial."
-- **Sentence Architecture:** There is no upper limit on sentence length. This allows for compound thoughts and deeper nuance, but prevents massive, winding compound-complex sentences that alienate casual readers.
+- **Sentence Architecture:** The default geometry is a long-form, asymmetric sentence structure. Target a high Flesch-Kincaid grade (12.0-16.0) by leaning toward longer, complex sentences while restricting extreme polysyllabic jargon via the C1 ceiling.
 
 ## 3. The Grounding Mandate
 All abstract concepts must be immediately tied to concrete human action or physical reality.
