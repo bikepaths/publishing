@@ -22,7 +22,7 @@ This MoS inherits ALL global prohibitions enforced across the entire publication
 - **Punctuation Bans:** Em-dashes (`—`), en-dashes (`–`), semicolons (`;`), and parentheses (`()`) are strictly forbidden. Colons may not be used as hard stops.
 - **Filler Phrases:** "In conclusion", "It is important to note that", "We must", "You should", "As mentioned above."
 - **Synthetic Contrast:** No "not X, but Y" or "did more than X; it Y" structural slop.
-- **The Global 44 Banned Words:** however, utilize, mitigate, robust, seamless, comprehensive, furthermore, moreover, additionally, therefore, thus, hence, absolutely, completely, structurally, operational, precisely, notably, generates, exact, exactly, strict, strictly, strickly, leverage, fosters, greatly, solely, nuanced, holistic, heavy, heavily, essential, fundamentally, specifically, perfectly, assets, symbiotic, dynamic, capacity, velocity, mechanisms, mere, merely, etc.
+- **The Global 45 Banned Words:** however, utilize, mitigate, robust, seamless, comprehensive, furthermore, moreover, additionally, therefore, thus, hence, absolutely, completely, structurally, operational, precisely, notably, generates, exact, exactly, strict, strictly, strickly, leverage, fosters, greatly, solely, nuanced, holistic, heavy, heavily, essential, fundamentally, specifically, perfectly, assets, symbiotic, dynamic, capacity, velocity, mechanisms, mere, merely, cybernetic, etc.
 
 ## 5. Rhetorical Tone
 - **Authoritative but Accessible:** Speak with confidence, but do not speak down to the reader.
