@@ -32,5 +32,5 @@ These exemptions instruct the `mos_linter.py` script to bypass the legacy System
 
 While technical terms are permitted, marketing jargon and synthetic abstractions are banned.
 
-**Banned Words:** synergy, leverage, impactful, paradigm, utilize, optimal, bespoke, revolutionize
+**Banned Words:** synergy, leverage, impactful, paradigm, utilize, optimal, bespoke, revolutionize, mere, merely
 **Filler Phrases:** "At the end of the day", "In conclusion", "It is important to note", "Needless to say"
