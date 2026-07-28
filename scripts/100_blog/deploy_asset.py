@@ -371,14 +371,12 @@ def deploy_and_cleanup(posted_file, force=False):
             print(f"Error uploading image: {err}")
             return False
 
-    final_posted_path = os.path.join(blog_dir, "03_posted", filename)
-    if os.path.dirname(os.path.abspath(posted_file)) != os.path.dirname(os.path.abspath(final_posted_path)):
-        try:
-            os.rename(posted_file, final_posted_path)
-            print(f"Moved staged file to posted: {final_posted_path}")
-        except OSError as err:
-            print(f"Error moving staged file: {err}")
-            return False
+    # Delete the local staged file since the Source of Truth is now on the VM
+    try:
+        os.remove(posted_file)
+        print(f"Cleaned up local staged file: {posted_file}")
+    except OSError as err:
+        print(f"Warning: could not delete local staged file: {err}")
 
     raw_path = os.path.join(blog_dir, "02_draft", f"{timestamp}_RAW.md")
     

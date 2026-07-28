@@ -10,7 +10,6 @@ This skill defines the complete operational cycle for deploying new blog posts. 
 The agent must be aware of the following directory structure within `/home/user0/git/publishing/100_blog/`:
 *   `01_source/`: Raw input materials, research documents, and initial topic seeds drafted by the agent or provided by the Sysop.
 *   `02_draft/`: Legacy processing directory.
-*   `03_posted/`: Local tracking repository for deployed live assets and scheduled posts.
 *   `05_img/`: Local image assets mapped for deployed posts (`webp` format).
 *   `06_data/`: System configuration data (e.g., `tags.lang`).
 
@@ -43,10 +42,10 @@ Before creating any new content, the agent MUST determine the current chronologi
    - **Determine authorial intent:** Before writing, identify the core thesis the author is attempting to convey to the reader. The rewrite must optimally express that thesis.
    - **Write in the third person:** All blog posts use a third-person objective voice. Never use "you" or "your" to address the reader. Never use first person ("I", "we").
    - **Subordinate framing devices:** If the source uses a character, avatar, or narrative framing device (e.g., "imagine you are a student"), that device must be subordinated. The systemic argument carries the post. The character appears sparingly as a lens, not as the protagonist of every paragraph.
-   - **Reference Post (Gold Standard):** Before writing, the agent MUST read the most recent file in `/home/user0/git/publishing/100_blog/03_posted/` and use its voice, register, paragraph geometry, and sentence variance as the structural model for the new post.
+   - **Reference Post (Gold Standard):** Before writing, the agent MUST read the most recent file in the `/home/user0/git/bikepaths/blog/` repository hierarchy and use its voice, register, paragraph geometry, and sentence variance as the structural model for the new post.
 3. **Filename Protocol:** Construct the filename using the format `YYYY-MM-DD-HH-MM-SS_tags_semantic-seo-slug.md`.
    - **Semantic SEO Slug:** The filename slug MUST contain semantic SEO terms related to the topic and title (e.g., `urban-homelessness-infrastructure-systems-failure-infinite-loop.md`), rather than just a literal lowercase copy of the title. This optimizes for search discovery.
-4. **Directory Routing:** Write the newly synthesized markdown file into the `/home/user0/git/publishing/100_blog/02_draft/` directory. Do not write directly to `03_posted/`.
+4. **Directory Routing:** Write the newly synthesized markdown file into the `/home/user0/git/publishing/100_blog/02_draft/` directory.
 5. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset.
    - **Prompt Protocols:** The prompt MUST specify: "The image must be a real-world photograph integrating human scale, natural elements, or vibrant colors to illustrate systemic concepts. Brutalist, sterile, or overcast aesthetics are explicitly forbidden. The subject must be perfectly centered on both axes, and the top 25% and bottom 25% of the image must be dead blur." You MUST explicitly forbid adding uncentered environmental elements (like ground landscapes or skies) that shift the vertical center of mass away from the exact geometric center. You MUST explicitly forbid scale models, miniatures, dioramas, blueprints, abstract graphics, and 3D renders.
    - **Asset Cleanup Mandate:** If an image generation is rejected by the Sysop or aborted, the agent MUST immediately delete the rejected `.webp` and `.png` files from the local directories before continuing.
