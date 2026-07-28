@@ -27,3 +27,6 @@ This MoS inherits ALL global prohibitions enforced across the entire publication
 ## 5. Rhetorical Tone
 - **Authoritative but Accessible:** Speak with confidence, but do not speak down to the reader.
 - **Objective:** Analyze the mechanics of human behavior without moralizing or emotional pleading.
+
+## 6. Image Generation Aesthetics
+- **Banned Visual Tones:** Brutalist, sterile, or overcast aesthetic prompts are explicitly forbidden. Imagery should integrate human scale, nature, or vibrant colors while retaining the objective systemic focus.
