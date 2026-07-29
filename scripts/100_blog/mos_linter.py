@@ -153,7 +153,8 @@ def lint_file(filepath, mos_path):
 
         # Check parentheses, ignoring markdown links [text](url)
         clean_line = re.sub(r'\[.*?\]\(.*?\)', '', line)
-        is_structural_line = clean_line.strip().startswith('#') or clean_line.strip().startswith('**')
+        is_table_line = clean_line.strip().startswith('|')
+        is_structural_line = clean_line.strip().startswith('#') or clean_line.strip().startswith('**') or is_table_line
         
         if not is_structural_line and ('(' in clean_line or ')' in clean_line) and 'allow_parentheses' not in exemptions:
             violations.append((line_num, "Banned Punctuation", "Found Parentheses ()"))
