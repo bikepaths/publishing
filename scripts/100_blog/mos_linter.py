@@ -65,6 +65,20 @@ def lint_file(filepath, mos_path):
         print(f"Error: File '{filepath}' not found.")
         sys.exit(1)
 
+    # Pre-scan for dynamic MoS metadata tag
+    with open(filepath, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    mos_match = re.search(r'<!--\s*mos\s+([A-Za-z0-9_.-]+\.md)\s+mos\s*-->', content)
+    if mos_match:
+        dynamic_mos = mos_match.group(1)
+        styles_dir = "/home/user0/git/publishing/_styles"
+        potential_path = os.path.join(styles_dir, dynamic_mos)
+        if os.path.exists(potential_path):
+            mos_path = potential_path
+        else:
+            print(f"Warning: Dynamic MoS '{dynamic_mos}' not found in {styles_dir}. Falling back to {mos_path}")
+
     banned_words, banned_phrases, exemptions = parse_mos(mos_path)
 
     print(f"--- MoS Linter ---")
@@ -154,6 +168,42 @@ def lint_file(filepath, mos_path):
             violations.append((line_num, "Synthetic Contrast", "Found potential synthetic contrast pivot ('did more than... it')"))
         if re.search(r'\bnot\b.*?, \bbut\b', lower_line):
             violations.append((line_num, "Synthetic Contrast", "Found potential synthetic contrast pivot ('not X, but Y')"))
+
+    # Sentence-Level Structural Checks
+    clean_text = re.sub(r'<!--.*?-->', '', "".join(original_lines), flags=re.DOTALL)
+    clean_text = re.sub(r'```.*?```', '', clean_text, flags=re.DOTALL)
+    clean_text = re.sub(r'<pre><code>.*?</code></pre>', '', clean_text, flags=re.DOTALL)
+    clean_text_for_split = re.sub(r'\b([A-Z])\.', r'\1', clean_text)
+    clean_text_for_split = re.sub(r'\b(Jr|Sr|Mr|Mrs|Ms|Dr)\.', r'\1', clean_text_for_split)
+    
+    clean_sentences = []
+    for paragraph in re.split(r'\n\n+', clean_text_for_split.strip()):
+        for s in re.split(r'(?<=[.!?])\s+', paragraph.strip()):
+            if s.strip():
+                clean_sentences.append(s.strip())
+
+    CONJUNCTIONS_REGEX = re.compile(r'^\s*(because|since)\b', re.IGNORECASE)
+    BINARY_FOIL_REGEX = re.compile(r'\b(?:is|are|was|were)\s+not\b[^.!?]*[.!?]\s*(?:It|This|They)\s+(?:is|are|was|were)\b', re.IGNORECASE)
+    TRICOLON_REGEX = re.compile(r'(?:[a-zA-Z0-9_ -]+,\s*){2,}and\s+[a-zA-Z0-9_ -]+', re.IGNORECASE)
+
+    if 'allow_binary_foil' not in exemptions:
+        if BINARY_FOIL_REGEX.search(clean_text):
+            violations.append(("[Doc]", "Binary Foil", "Binary foil construction detected ('X is not Y. It is Z.')"))
+
+    for s in clean_sentences:
+        s_clean = s.strip()
+        if not s_clean:
+            continue
+        
+        if 'allow_conjunction_starts' not in exemptions and CONJUNCTIONS_REGEX.match(s_clean):
+            violations.append(("[Doc]", "Forbidden Conjunction", f"Sentence starts with forbidden conjunction: {s_clean[:30]}..."))
+            
+        if 'allow_tricolon' not in exemptions and TRICOLON_REGEX.search(s_clean):
+            violations.append(("[Doc]", "Tricolon Ban", f"Potential tricolon list detected: {s_clean[:30]}..."))
+            
+        s_words = re.findall(r'\b[a-zA-Z]+\b', s_clean)
+        if 'allow_staccato' not in exemptions and 0 < len(s_words) < 6:
+            violations.append(("[Doc]", "Staccato Sentence", f"Staccato sentence (< 6 words): {s_clean}"))
 
     if violations:
         print(f"--- Results ---")
