@@ -15,7 +15,7 @@ When instructed to harden a working paper, the agent MUST execute the following 
    - Enforce all rules defined in `MoS_SSRN_Academic.md`.
    - Purge all algorithmic slop and academic filler (e.g., 'however', 'utilize', 'robust').
    - Eliminate predictable tricolons (X, Y, and Z) and robotic binary foils ("X rather than Y", "Instead of X, it is Y").
-   - Enforce the absolute ban on em-dashes and colons in the narrative text. Verify that comma infrastructure has been deployed to prevent run-on sentences.
+   - Enforce the absolute ban on em-dashes and colons in the narrative prose. Colons are permitted in lists. Verify that comma infrastructure has been deployed to prevent run-on sentences.
    - Maintain Plain English Precision; avoid convoluted academic jargon where simple mechanical explanation suffices.
 
 2. **Redundancy Purge:**
@@ -33,3 +33,7 @@ When instructed to harden a working paper, the agent MUST execute the following 
    - Execute the proper compilation sequence to process citations: `pdflatex file.tex`, followed by `bibtex file.aux`, followed by `pdflatex file.tex` twice.
    - Clean the directory of all intermediate build files (`.aux`, `.log`, `.out`, `.toc`, `.fls`, `.fdb_latexmk`, `.bbl`, `.blg`).
    - Commit the changes and push the repository to GitHub.
+
+## Global Rule Refinements (Active Overrides)
+*   **Punctuation Exceptions:** Colons are explicitly permitted in headers, tables, and lists. Colons are forbidden in prose. Parentheses are explicitly permitted in tables. These exceptions override any previous punctuation bans.
+*   **Anti-Slop Expansion:** The words "ruthless" and "mere*" are added to the absolute forbidden words list across all registers.
