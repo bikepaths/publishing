@@ -42,9 +42,12 @@ The following words are globally prohibited to maintain narrative momentum, acce
 
 ## 4. Syntactical Rhythm
 - **Sentence Structure:** Compound-complex sentences are permitted and encouraged to sustain nuanced arguments.
-- **Paragraph Architecture:** Maintain organic asymmetry. Mix shorter punchy paragraphs with longer analytical blocks. Do not adhere to the rigid clinical uniformity of the Systemic Analysis style.
+- **Paragraph Architecture:** Maintain organic asymmetry. **Human Cadence Metric:** Consecutive paragraphs must alternate in total word count by a minimum variance of 30% to break visual monotony. Mix shorter punchy paragraphs with longer analytical blocks. Do not adhere to the rigid clinical uniformity of the Systemic Analysis style.
 
 ## 5. Rhetorical Tone
 - **Authoritative:** Speak directly and confidently.
 - **Diagnostic:** Analyze the world as a series of interconnected systems and incentives, avoiding moralizing or emotional pleading.
 - **Objective Distance:** Maintain a neutral, journalistic distance from the subjects being analyzed. Do not write from the perspective of an activist or a partisan.
+
+## 6. Document Structure
+*   **Front Matter:** YAML block containing Title, `audience_target: systemic`, and any relevant metadata.

@@ -116,3 +116,7 @@ Upon explicit Sysop deployment approval:
 4. **Global Synchronization:** After all git pushes are complete, execute the global sync script to trigger the atomic server-to-GitHub mirror and pull the latest state back to the local machine:
    `/home/user0/git/publishing/scripts/100_blog/sync_bikepaths_blog.sh`
    This script is mandatory. Without it, the VM Source of Truth and the GitHub mirror will remain desynchronized.
+
+## Global Rule Refinements (Active Overrides)
+*   **Punctuation Exceptions:** Colons are explicitly permitted in headers and tables. Parentheses are explicitly permitted in tables. These exceptions override any previous punctuation bans.
+*   **Anti-Slop Expansion:** The word "ruthless" is added to the absolute forbidden words list across all registers.

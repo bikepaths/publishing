@@ -94,10 +94,20 @@ def lint_file(filepath, mos_path):
     in_comment = False
     in_code_block = False
     in_html_code_block = False
+    in_frontmatter = False
     violations = []
 
     for i, line in enumerate(original_lines):
         line_num = i + 1
+
+        # YAML Frontmatter tracking
+        if line_num == 1 and line.strip() == '---':
+            in_frontmatter = True
+            continue
+        if in_frontmatter:
+            if line.strip() == '---':
+                in_frontmatter = False
+            continue
 
         # Simple state machine for comments and code blocks
         if '<!--' in line and '-->' in line:
@@ -154,13 +164,15 @@ def lint_file(filepath, mos_path):
         # Check parentheses, ignoring markdown links [text](url)
         clean_line = re.sub(r'\[.*?\]\(.*?\)', '', line)
         is_table_line = clean_line.strip().startswith('|')
-        is_structural_line = clean_line.strip().startswith('#') or clean_line.strip().startswith('**') or is_table_line
+        is_header = bool(re.match(r'^\s*#+', clean_line))
+        is_bold_start = bool(re.match(r'^\s*(?:-\s*|\*\s*|\d+\.\s*)?\*\*', clean_line))
+        is_structural_line = is_header or is_bold_start or is_table_line
         
         if not is_structural_line and ('(' in clean_line or ')' in clean_line) and 'allow_parentheses' not in exemptions:
             violations.append((line_num, "Banned Punctuation", "Found Parentheses ()"))
 
-        # Check colons (not part of http:// or https://)
-        no_url_line = re.sub(r'https?://', '', clean_line)
+        # Check colons (not part of URLs)
+        no_url_line = re.sub(r'(https?|file|mailto)://?', '', clean_line)
         if ':' in no_url_line and not is_structural_line and 'allow_colons' not in exemptions:
             violations.append((line_num, "Banned Punctuation", "Found Colon (:) acting as hard stop"))
 

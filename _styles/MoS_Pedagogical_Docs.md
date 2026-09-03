@@ -28,10 +28,10 @@ These directives override the Systemic Analysis MoS Analytical Layer where the t
 
 *   **Progressive Vocabulary Scaffolding:** Each chapter introduces no more than five new technical terms. Every new term receives a concrete physical definition before first use. Previously introduced terms may be reused freely in subsequent chapters.
 *   **Sentence Length Flexibility:** There is no upper limit on long sentences. Sentence architecture should scale to accommodate complex ideas without arbitrary fragmentation.
-*   **The Asymmetry Mandate:** Explicitly require that no three consecutive sentences share the same length or syntactical structure. Sentences must flow continuously with highly variable lengths, combining short punchy statements with long, complex, flowing thoughts.
+*   **The Asymmetry Mandate:** Explicitly require that no three consecutive sentences share the same length or syntactical structure. **Human Cadence Metric:** Adjacent sentences must demonstrate a minimum variance of 30% in total word count. Sentences must flow continuously with highly variable lengths, combining short punchy statements (5-8 words) with long, complex, flowing thoughts (20+ words).
 *   **Paragraph Variance:** Destroy uniform block geometry. Mandate that paragraphs must visually alternate in length. A two-sentence paragraph should occasionally follow a five-sentence paragraph to mimic human pacing. Single-sentence paragraphs are EXPLICITLY FORBIDDEN.
 *   **Complex Sentence Mandate:** Colons, semicolons, and em-dashes remain strictly FORBIDDEN. To achieve flow and connect related thoughts without these punctuation marks, you must use complex and compound-complex sentence structures. Use subordinating and coordinating conjunctions to bridge simple concepts organically.
-*   **Anti-Staccato Protocol:** Staccato phrasing is EXPLICITLY FORBIDDEN. Do not create choppy, robotic sequences. Subordinating conjunctions (because, while, although, since) must be used to build complex, flowing sentences rather than artificially chopping ideas into multiple short sentences.
+*   **Anti-Staccato Protocol:** Staccato phrasing is EXPLICITLY FORBIDDEN. **Human Cadence Metric:** The baseline sentence length across any paragraph must exceed 12 words, and at least 50% of sentences must contain two or more distinct clauses (compound/complex architecture). Do not create choppy, robotic sequences. Subordinating conjunctions (because, while, although, since) must be used to build complex, flowing sentences rather than artificially chopping ideas into multiple short sentences.
 *   **Concrete Before Abstract:** Every abstract concept must first be described using physical objects, spatial relationships, or bodily experiences the reader can visualize. The formal term follows the physical description.
 *   **No Assumed Acronyms:** Every acronym must be expanded at first use within each chapter. Subsequent uses within the same chapter may use the acronym alone.
 *   **Chaptered Architecture:** Documents must use sequential numbered chapters building progressively from simple physical reality toward complex systemic mechanics. No chapter may reference concepts not yet introduced in a preceding chapter.
@@ -41,7 +41,7 @@ These directives override the Systemic Analysis MoS Analytical Layer where the t
 *   **Textual Expansion Mandate:** ALL simplification revisions require massive textual expansion overriding previous length limits guaranteeing total conceptual transfer. Vocabulary reduction sequences require automatic mathematical scaling increasing sentence counts.
 
 ## 4. Document Structure
-*   **Front Matter:** Title, target audience statement, prerequisite chapters, estimated reading time.
+*   **Front Matter:** YAML block containing Title, `audience_target: pedagogical`, prerequisite chapters, estimated reading time.
 *   **Body:** Numbered chapters, each with a single-sentence thesis opening.
 *   **Glossary:** Cumulative running glossary appended at document end.
 *   **Estimated Length:** 12,000 to 20,000 words per complete pedagogical document.
