@@ -28,25 +28,23 @@ def parse_mos(mos_path):
     banned_words = []
     banned_phrases = []
 
-    # Extract banned words: look for a line containing "Banned Words" followed by
-    # a comma-separated list of plain words (possibly on the same line after a colon/label)
-    # Format: "**The Global 42 Banned Words:** word1, word2, word3, etc."
-    words_match = re.search(r'[Bb]anned [Ww]ords[:\*]*\s*(.+)', content)
-    if words_match:
-        raw = words_match.group(1).strip().rstrip('.')
-        # Also handle the italicized format: *word1, word2, word3.*
-        raw = raw.strip('*').rstrip('.')
-        for w in raw.split(','):
+    # Extract banned words (multiline support)
+    words_section = re.search(r'(?:[Bb]anned|[Pp]rohibited).*?[Ww]ords.*?:(.*?)(?=\n\s*\n|\n#|$)', content, re.DOTALL | re.IGNORECASE)
+    if words_section:
+        raw_words = words_section.group(1)
+        items = re.findall(r'"([^"]+)"', raw_words)
+        if not items:
+            items = [w.strip() for w in re.split(r'[,*]', raw_words) if w.strip()]
+        for w in items:
             cleaned = w.strip().lower()
-            if cleaned and cleaned != 'etc':
+            if cleaned and cleaned not in ['etc', 'use']:
                 banned_words.append(cleaned)
 
-    # Extract banned phrases: look for quoted strings in Filler Phrases lines
-    # Format: '**Filler Phrases:** "In conclusion", "In summary"'
-    phrases_match = re.search(r'[Ff]iller [Pp]hrases[:\*]*\s*(.+)', content)
-    if phrases_match:
-        raw = phrases_match.group(1)
-        phrase_items = re.findall(r'"([^"]+)"', raw)
+    # Extract banned phrases (multiline support)
+    phrases_section = re.search(r'(?:[Ff]iller|[Bb]anned|[Pp]rohibited).*?[Pp]hrases.*?:(.*?)(?=\n\s*\n|\n#|$)', content, re.DOTALL | re.IGNORECASE)
+    if phrases_section:
+        raw_phrases = phrases_section.group(1)
+        phrase_items = re.findall(r'"([^"]+)"', raw_phrases)
         for p in phrase_items:
             banned_phrases.append(p.strip().lower())
 
@@ -211,12 +209,13 @@ def lint_file(filepath, mos_path):
         if 'allow_conjunction_starts' not in exemptions and CONJUNCTIONS_REGEX.match(s_clean):
             violations.append(("[Doc]", "Forbidden Conjunction", f"Sentence starts with forbidden conjunction: {s_clean[:30]}..."))
             
-        if 'allow_tricolon' not in exemptions and TRICOLON_REGEX.search(s_clean):
-            violations.append(("[Doc]", "Tricolon Ban", f"Potential tricolon list detected: {s_clean[:30]}..."))
+        # Tricolons and staccato DISABLED per user request
+        # if 'allow_tricolon' not in exemptions and TRICOLON_REGEX.search(s_clean):
+        #     violations.append(("[Doc]", "Tricolon Ban", f"Potential tricolon list detected: {s_clean[:30]}..."))
             
-        s_words = re.findall(r'\b[a-zA-Z]+\b', s_clean)
-        if 'allow_staccato' not in exemptions and 0 < len(s_words) < 6:
-            violations.append(("[Doc]", "Staccato Sentence", f"Staccato sentence (< 6 words): {s_clean}"))
+        # s_words = re.findall(r'\b[a-zA-Z]+\b', s_clean)
+        # if 'allow_staccato' not in exemptions and 0 < len(s_words) < 6:
+        #     violations.append(("[Doc]", "Staccato Sentence", f"Staccato sentence (< 6 words): {s_clean}"))
 
     if violations:
         print(f"--- Results ---")

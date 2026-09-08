@@ -50,12 +50,12 @@ Before creating any new content, the agent MUST determine the current chronologi
    - **Prompt Protocols:** The prompt MUST specify: "The image must be a real-world photograph integrating human scale, natural elements, or vibrant colors to illustrate systemic concepts. Brutalist, sterile, or overcast aesthetics are explicitly forbidden. The subject must be perfectly centered on both axes, and the top 25% and bottom 25% of the image must be dead blur." You MUST explicitly forbid adding uncentered environmental elements (like ground landscapes or skies) that shift the vertical center of mass away from the exact geometric center. You MUST explicitly forbid scale models, miniatures, dioramas, blueprints, abstract graphics, and 3D renders.
    - **Asset Cleanup Mandate:** If an image generation is rejected by the Sysop or aborted, the agent MUST immediately delete the rejected `.webp` and `.png` files from the local directories before continuing.
    - **Semantic Naming:** Name the file using exactly four descriptive visual keywords separated by underscores (e.g., `urban_solar_radiation_man.png`).
-   - **Image Processing:** Convert and crop the generated `.png` artifact to a 956x444 centered `.webp` image. For a 1024x1024 source image, use these exact parameters:
-     `cwebp -crop 34 290 956 444 -q 60 -m 6 [keyword1_keyword2_keyword3_keyword4.png] -o /home/user0/git/publishing/100_blog/05_img/webp/[keyword1_keyword2_keyword3_keyword4.webp]`
+   - **Image Processing (2.15:1 Widescreen Mandate):** The CMS layout requires a strict 2.15:1 cinematic landscape crop for all visual assets. Convert and crop the generated `.png` artifact to a `.webp` image. For a 1024x1024 source image, use these exact parameters to maintain the center axis:
+     `cwebp -crop 0 274 1024 476 -q 80 [input.png] -o /home/user0/git/publishing/100_blog/05_img/webp/[output.webp]`
 
 ## Phase 3: Stylistic Hardening
 All blog posts MUST adhere to the formatting and stylistic constraints of the authorized MoS.
-1. **Metadata Frontmatter:** The document must begin EXACTLY with these metadata lines, using HTML comment syntax:
+1. **Metadata Frontmatter (CMS Strict Compliance):** The document must begin EXACTLY with these metadata lines, using HTML comment syntax. WARNING: Never use `<!--title-->` or `<!--mos-->` tags in the deployed file; doing so will crash the CMS template engine. Use the exact tags below:
    - Title: `<!--t [Title] t-->`
    - Description: `<!--d [One-sentence description] d-->`
    - Tags: `<!--tag [comma-separated tags] tag-->`
@@ -104,7 +104,8 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
 Version control (`git commit/push`) and remote synchronization are restricted entirely to Phase 5. The agent cannot initiate this phase without an explicit, secondary Sysop command (e.g., "Execute deployment and sync").
 
 Upon explicit Sysop deployment approval:
-1. **Automated Pipeline Deployment:** The agent MUST use the automated deployment script to deploy the draft and associated assets.
+1. **MoS Deployment Ban:** Pedagogical MoS files (`MoS_Pedagogical_Docs.md`) CANNOT be deployed through the pipeline. Only documents formally synthesized under the `MoS_Systemic_Analysis.md` format may be deployed as live blog posts.
+2. **Automated Pipeline Deployment:** The agent MUST use the automated deployment script to deploy the draft and associated assets.
    `python3 /home/user0/git/publishing/scripts/100_blog/deploy_asset.py --deploy [target_file.md] --force`
 2. **Manual SCP Prohibition:** The agent is STRICTLY PROHIBITED from executing raw manual `scp` commands to transfer markdown files or image assets to the VM. All deployment routing, file renaming, and remote cleanup must be handled internally by the `deploy_asset.py` script to prevent untracked duplicate artifacts.
 3. **Multi-Repository Git Mirroring:** Changes often span two separate repositories. Both must be committed and pushed independently:

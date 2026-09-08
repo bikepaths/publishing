@@ -92,3 +92,7 @@ Never use instructional commands (e.g., "We must," "You should," "It is importan
 **6.4 Open Source Requirement**
 - All tools recommended or referenced must be open source and zero cost.
 - Absolutely no proprietary software references in any published output.
+
+**6.5 Document Architecture**
+- Documents written in OVP function as a single continuous narrative flow.
+- Chaptered architecture is explicitly NOT required. Do not fragment the text into numbered chapters.
