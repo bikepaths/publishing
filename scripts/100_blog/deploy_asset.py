@@ -433,7 +433,6 @@ def deploy_and_cleanup(posted_file, force=False):
     month = timestamp_parts[1]
     slug = filename.split('_')[-1].replace('.md', '')
     print(f"\n[SEO] Live URL (post-cache purge): https://bikepaths.org/blog/{year}/{month}/{slug}")
-    print("[NEXT ACTION] Sysop Command: execute batch pipeline")
     return True
 
 def verify_remote_permissions():
