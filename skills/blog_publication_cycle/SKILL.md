@@ -33,8 +33,8 @@ Before creating any new content, the agent MUST determine the current chronologi
 4. Calculate the target date for the new post based on the sequential schedule. Compare this generated date against the current system date. If the remote date is in the past, the current system date must become the baseline.
 
 ## Phase 1.5: Source Document Analysis
-1. **MoS Mapping:** The agent MUST analyze the source text against all available styles in `_styles/` to determine the closest stylistic match.
-2. **MoS Query Mandate:** The agent MUST query the Sysop with the suggested best-fit MoS and await explicit authorization before proceeding to file creation.
+1. **MoS Selection Prompting:** The agent MUST always prompt the Sysop to opt for one of the three approved styles: Systemic Analysis, Organic Vernacular Pedagogy (OVP), or Pedagogical Document Style (PDS). The sysop has total flexibility of choice.
+2. **MoS Query Mandate:** The agent MUST query the Sysop with these three options and await explicit authorization before proceeding to file creation.
 
 ## Phase 2: Generative Synthesis and Asset Creation
 1. **Source Document Acquisition:** Read the source document from `/home/user0/git/publishing/100_blog/01_source/` or ask the SYSOP to provide the text. Do not proceed until the source content is secured.
@@ -47,7 +47,7 @@ Before creating any new content, the agent MUST determine the current chronologi
    - **Semantic SEO Slug:** The filename slug MUST contain semantic SEO terms related to the topic and title (e.g., `urban-homelessness-infrastructure-systems-failure-infinite-loop.md`), rather than just a literal lowercase copy of the title. This optimizes for search discovery.
 4. **Directory Routing:** Write the newly synthesized markdown file into the `/home/user0/git/publishing/100_blog/02_draft/` directory.
 5. **Image Asset Generation (Optional):** If a library image is unavailable or inappropriate, use the `generate_image` tool to create a new asset.
-   - **Prompt Protocols:** The prompt MUST specify: "The image must be a real-world photograph integrating human scale, natural elements, or vibrant colors to illustrate systemic concepts. Brutalist, sterile, or overcast aesthetics are explicitly forbidden. Use an extreme wide shot where the subject occupies only the middle horizontal third of the canvas, ensuring the top and bottom of the image remain as vast empty space or dead blur." You MUST explicitly forbid adding uncentered environmental elements (like ground landscapes or skies) that shift the vertical center of mass away from the exact geometric center. You MUST explicitly forbid scale models, miniatures, dioramas, blueprints, abstract graphics, and 3D renders.
+   - **Prompt Protocols:** The prompt MUST specify: "The image must be a real-world photograph integrating human scale, natural elements, or vibrant colors to illustrate systemic concepts. Brutalist, sterile, or overcast aesthetics are explicitly forbidden. Center the primary subject entirely within the horizontal middle third of the square. The top and bottom thirds must contain meaningless environmental context—such as empty sky, ceiling, or open foreground pavement—that can be safely discarded during a center crop. Do not use blur." You MUST explicitly forbid scale models, miniatures, dioramas, blueprints, abstract graphics, and 3D renders.
    - **Asset Cleanup Mandate:** If an image generation is rejected by the Sysop or aborted, the agent MUST immediately delete the rejected `.webp` and `.png` files from the local directories before continuing.
    - **Semantic Naming:** Name the file using exactly four descriptive visual keywords separated by underscores (e.g., `urban_solar_radiation_man.png`).
    - **Image Processing (2.15:1 Widescreen Mandate):** The CMS layout requires a strict 2.15:1 cinematic landscape crop for all visual assets. Convert and crop the generated `.png` artifact to a `.webp` image. For a 1024x1024 source image, use these exact parameters to maintain the center axis:
@@ -104,10 +104,13 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
 Version control (`git commit/push`) and remote synchronization are restricted entirely to Phase 5. The agent cannot initiate this phase without an explicit, secondary Sysop command (e.g., "Execute deployment and sync").
 
 Upon explicit Sysop deployment approval:
-1. **MoS Deployment Ban:** Pedagogical MoS files (`MoS_Pedagogical_Docs.md`) CANNOT be deployed through the pipeline. Only documents formally synthesized under the `MoS_Systemic_Analysis.md` format may be deployed as live blog posts.
+1. **MoS Deployment Flexibility:** All three active manuals of style (Systemic Analysis, Organic Vernacular Pedagogy, and Pedagogical Document Style) are fully authorized for live deployment through the pipeline. The agent MUST NOT restrict deployment to Systemic Analysis.
 2. **Automated Pipeline Deployment:** The agent MUST use the automated deployment script to deploy the draft and associated assets.
    `python3 /home/user0/git/publishing/scripts/100_blog/deploy_asset.py --deploy [target_file.md] --force`
-2. **Manual SCP Prohibition:** The agent is STRICTLY PROHIBITED from executing raw manual `scp` commands to transfer markdown files or image assets to the VM. All deployment routing, file renaming, and remote cleanup must be handled internally by the `deploy_asset.py` script to prevent untracked duplicate artifacts.
+   *Note: Extract the generated live URL from the script output for the syndication step.*
+3. **Social Syndication & Cross-Posting:** After successful deployment, run the syndication script using the drafted file and the live URL:
+   `python3 /home/user0/git/publishing/scripts/100_blog/social_syndication.py [target_file.md] --url [live_url]`
+4. **Manual SCP Prohibition:** The agent is STRICTLY PROHIBITED from executing raw manual `scp` commands to transfer markdown files or image assets to the VM. All deployment routing, file renaming, and remote cleanup must be handled internally by the `deploy_asset.py` script to prevent untracked duplicate artifacts.
 3. **Multi-Repository Git Mirroring:** Changes often span two separate repositories. Both must be committed and pushed independently:
    - **Content repository** (`/home/user0/git/bikepaths`): Contains blog posts and server sync data.
      `cd /home/user0/git/bikepaths && git add -A && git commit -m "[Action Summary]" && git push`
