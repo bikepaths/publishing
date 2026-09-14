@@ -1,5 +1,7 @@
 # Organic Vernacular Pedagogy (OVP) Manual of Style
 
+> **STATUS: DORMANT — This MoS is NOT authorized for blog post deployment.** The sole governing blog post standard is `MoS_Dynamic_Synthesis.md`. This document is retained for non-blog applications and as a structural reference only.
+
 This document defines the Organic Vernacular Pedagogy (OVP) metastyle. OVP is a standalone, exclusive Manual of Style.
 
 ## 0. Bootstrap Protocol (Memory Survival)

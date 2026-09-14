@@ -1,5 +1,7 @@
 # Pedagogical Document Style Guide
 
+> **STATUS: DORMANT — This MoS is NOT authorized for blog post deployment.** The sole governing blog post standard is `MoS_Dynamic_Synthesis.md`. This document is retained for standalone pedagogical documents and as a structural reference only.
+
 This Manual of Style governs all standalone pedagogical documents produced within the Full Spectrum Publishing Pipeline. These documents operate under a separate register from the Systemic Analysis MoS, targeting maximum accessibility for ESL readers at CEFR B2 proficiency.
 
 ## 0. Bootstrap Protocol (Memory Survival)

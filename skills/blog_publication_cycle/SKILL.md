@@ -32,9 +32,6 @@ Before creating any new content, the agent MUST determine the current chronologi
    - **Next Scheduled:** The immediate next chronological opening.
 4. Calculate the target date for the new post based on the sequential schedule. Compare this generated date against the current system date. If the remote date is in the past, the current system date must become the baseline.
 
-## Phase 1.5: Source Document Analysis
-1. **MoS Selection Prompting:** The agent MUST always prompt the Sysop to opt for one of the three approved styles: Systemic Analysis, Organic Vernacular Pedagogy (OVP), or Pedagogical Document Style (PDS). The sysop has total flexibility of choice.
-2. **MoS Query Mandate:** The agent MUST query the Sysop with these three options and await explicit authorization before proceeding to file creation.
 
 ## Phase 2: Generative Synthesis and Asset Creation
 1. **Source Document Acquisition:** Read the source document from `/home/user0/git/publishing/100_blog/01_source/` or ask the SYSOP to provide the text. Do not proceed until the source content is secured.
@@ -54,7 +51,7 @@ Before creating any new content, the agent MUST determine the current chronologi
      `cwebp -crop 0 274 1024 476 -q 80 [input.png] -o /home/user0/git/publishing/100_blog/05_img/webp/[output.webp]`
 
 ## Phase 3: Stylistic Hardening
-All blog posts MUST adhere to the formatting and stylistic constraints of the authorized MoS.
+All blog posts MUST adhere to the formatting and stylistic constraints of `/home/user0/git/publishing/_styles/MoS_Dynamic_Synthesis.md`.
 1. **Metadata Frontmatter (CMS Strict Compliance):** The document must begin EXACTLY with these metadata lines, using HTML comment syntax. WARNING: Never use `<!--title-->` or `<!--mos-->` tags in the deployed file; doing so will crash the CMS template engine. Use the exact tags below:
    - Title: `<!--t [Title] t-->`
    - Description: `<!--d [One-sentence description] d-->`
@@ -71,29 +68,14 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
    - Do not phoneticize numbers (e.g., use "1960", not "nineteen sixty").
    - **No Glossary:** Blog posts do not include glossary sections. Define terms inline within the prose.
    - **No Chapters:** The document is a singular blog post, not a book. Never use the word "Chapter" in headers.
-4. **Stylistic Voice (Dynamic OVP):**
-   - Governed dynamically by the Sysop-authorized MoS document from `_styles/`.
-   - The agent MUST strictly enforce the constraints of the authorized MoS (e.g., vocabulary ceilings, punctuation bans, avatar permissions).
-   - Apply the Smart Kitchen Table Test: enforce a C1 vocabulary ceiling (10,000 words). Target an asymmetrical, high-FK structural mandate (FK 12.0-16.0) leaning toward longer, complex sentence structures.
-   - Ground all abstraction. Strip heavy academic and systemic jargon (e.g., replace "epistemological relativism" with "abandoning shared reality").
-   - Eliminate all em-dashes (`—`), en-dashes (`–`), and semicolons.
-   - **Professional Metadata:** Titles and descriptions must function as compelling intellectual hooks, not lazy, literal summaries.
-     - BAD TITLE: "A Robotics Student Analyzes Homelessness" (lazy, literal)
-     - GOOD TITLE: "The Infinite Loop: Why Cities Keep Crashing on Homelessness" (intellectual hook)
-     - BAD DESCRIPTION: "An analysis of urban policy failures." (vague, generic)
-     - GOOD DESCRIPTION: "Urban homelessness operates as a sequential dependency failure, and the fix requires an engineering specification that most politicians refuse to follow." (specific, provocative)
-   - **Organic Asymmetry (Human Composition):** The text MUST read like a human wrote it. This means:
-     - **Shatter formulaic loops.** Never repeat the same structural pattern across sections. If one section opens with a short declarative statement, the next must open with a long flowing thought or a counterargument.
-     - BAD PATTERN (machine-like): Every section follows Header → single-sentence thesis → explanatory block → single-sentence closer. This is robotic.
-     - GOOD PATTERN (human-like): One section opens mid-argument. The next opens with data. Another opens by refuting a common assumption. The reader cannot predict the next paragraph's shape.
-     - **Vary sentence length aggressively.** Bridge long, flowing thoughts using subordinating conjunctions ("Although", "Because", "While") and abruptly punctuate them with short, hard declarative statements. Consecutive sentences must rarely share the same length or identical subject-verb opening structures.
-     - **Vary paragraph length.** Mix short two-sentence paragraphs with longer four-sentence blocks. Never stack identically-sized paragraphs consecutively.
+4. **Stylistic Voice:**
+   - Governed exclusively by `/home/user0/git/publishing/_styles/MoS_Dynamic_Synthesis.md`. The agent MUST strictly enforce all constraints defined in that document (vocabulary ceiling, FK target, punctuation bans, human cadence metrics, and banned word lists).
+   - The agent MUST NOT apply constraints from any other MoS document (`MoS_Systemic_Analysis.md`, `MoS_OVP_Organic_Vernacular_Pedagogy.md`, `MoS_Pedagogical_Docs.md`). Those documents are dormant for blog post purposes.
 
 ## Phase 4: Automated Linting and The Separation of State Mandate
 1. **Automated Linter Execution:** Before requesting Sysop approval or executing any version control/deployment commands, the agent MUST run the custom Python linter against the active document:
-   `python3 /home/user0/git/publishing/scripts/100_blog/mos_linter.py [target_file.md]`
-   The linter dynamically parses the active MoS document for its banned word and phrase lists. To lint against a different MoS, pass it as the second argument:
-   `python3 /home/user0/git/publishing/scripts/100_blog/mos_linter.py [target_file.md] [mos_file.md]`
+   `python3 /home/user0/git/publishing/scripts/100_blog/mos_linter.py [target_file.md] /home/user0/git/publishing/_styles/MoS_Dynamic_Synthesis.md`
+   The linter parses the Dynamic Synthesis MoS for its banned word and phrase lists. Always pass the MoS as the second argument to ensure the correct dictionary is loaded.
 2. **Mandatory Resolution:** The agent must execute consecutive mutative hardening passes until the linter returns a clean exit code (`0`).
 3. **The Air Gap (TNMA Checkpoint):** Following a clean linter pass, the agent must halt all tool execution and enter **Discussion Mode (Take No Mutative Action)**. "TNMA" means the agent is explicitly forbidden from executing any file writes, terminal commands, version control operations, or deployment scripts. The agent may only use read-only tools (view_file, list_dir, grep_search) and must present the local changes to the Sysop for review.
    - **Command Bundling Ban:** The agent is explicitly forbidden from stringing local file edits, version control commands (`git commit`), and deployment scripts together in a single execution sequence.
@@ -104,7 +86,7 @@ All blog posts MUST adhere to the formatting and stylistic constraints of the au
 Version control (`git commit/push`) and remote synchronization are restricted entirely to Phase 5. The agent cannot initiate this phase without an explicit, secondary Sysop command (e.g., "Execute deployment and sync").
 
 Upon explicit Sysop deployment approval:
-1. **MoS Deployment Flexibility:** All three active manuals of style (Systemic Analysis, Organic Vernacular Pedagogy, and Pedagogical Document Style) are fully authorized for live deployment through the pipeline. The agent MUST NOT restrict deployment to Systemic Analysis.
+1. **MoS Authority:** All blog posts are deployed under the sole authority of `MoS_Dynamic_Synthesis.md`. No other Manual of Style governs blog post deployment.
 2. **Automated Pipeline Deployment:** The agent MUST use the automated deployment script to deploy the draft and associated assets.
    `python3 /home/user0/git/publishing/scripts/100_blog/deploy_asset.py --deploy [target_file.md] --force`
    *Note: Extract the generated live URL from the script output for the syndication step.*

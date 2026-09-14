@@ -1,5 +1,7 @@
 # Systemic Analysis Style Guide
 
+> **STATUS: DORMANT — This MoS is NOT authorized for blog post deployment.** The sole governing blog post standard is `MoS_Dynamic_Synthesis.md`. This document is retained for non-blog applications (e.g., SSRN papers, standalone research documents) and as a structural reference only.
+
 This Knowledge Item enforces the baseline sociological and analytical register required for all Full Spectrum Publishing Pipeline outputs. This style mirrors the structural, non-fictional approach of DiBella's writing.
 
 ## 0. Bootstrap Protocol (Memory Survival)
