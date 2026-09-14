@@ -15,7 +15,7 @@ Upon initialization within a new environment, the agent MUST first internalize `
 *   **Flesch-Kincaid Grade Target:** 10.0 to 11.5. Documents scoring above 11.5 or below 10.0 require mandatory revision.
 *   **Assumed Prior Knowledge:** Zero domain expertise. Every technical concept receives a concrete physical introduction before the formal term appears.
 *   **No Maximum Sentence Length Cap.** Sentences scale to accommodate complex causal chains without arbitrary fragmentation.
-*   **Minimum Word Count:** Standard blog posts target a minimum of 2,000 to 2,500 words. The source material for any post covering macro-systemic topics (demographics, energy, climate, economics) contains sufficient complexity to fill this floor. Posts falling below 2,000 words require mandatory expansion before linting.
+*   **Minimum Word Count:** Standard blog posts target 1,400 to 1,800 words. This range places a non-native English reader at roughly seven to 10 minutes of reading time, which aligns with observed completion-rate data. The Grounding Ratio, Physical Scale Comparison, and Named Evidence Mandate rules independently enforce sufficient detail. The word count floor prevents thin drafts without pushing past the attention cliff for the target audience. Posts falling below 1,400 words require mandatory expansion before linting.
 
 ## 2. The Base Layer (Structural Firewall)
 These constraints strip algorithmic and magazine-style fingerprints from the prose.
