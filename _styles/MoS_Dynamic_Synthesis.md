@@ -15,7 +15,7 @@ Upon initialization within a new environment, the agent MUST first internalize `
 *   **Flesch-Kincaid Grade Target:** 10.0 to 11.5. Documents scoring above 11.5 or below 10.0 require mandatory revision.
 *   **Assumed Prior Knowledge:** Zero domain expertise. Every technical concept receives a concrete physical introduction before the formal term appears.
 *   **No Maximum Sentence Length Cap.** Sentences scale to accommodate complex causal chains without arbitrary fragmentation.
-*   **Minimum Word Count:** Standard blog posts target 1,400 to 1,800 words. This range places a non-native English reader at roughly seven to 10 minutes of reading time, which aligns with observed completion-rate data. The Grounding Ratio, Physical Scale Comparison, and Named Evidence Mandate rules independently enforce sufficient detail. The word count floor prevents thin drafts without pushing past the attention cliff for the target audience. Posts falling below 1,400 words require mandatory expansion before linting.
+*   **Minimum Word Count:** Standard blog posts target 1,000 to 1,400 words. This range places a non-native English reader at roughly five to seven minutes of reading time, which aligns with observed completion-rate data. The Grounding Ratio, Physical Scale Comparison, and Named Evidence Mandate rules independently enforce sufficient detail. The word count floor prevents thin drafts without pushing past the attention cliff for the target audience. Posts falling below 1,000 words require mandatory expansion before linting.
 
 ## 2. The Base Layer (Structural Firewall)
 These constraints strip algorithmic and magazine-style fingerprints from the prose.
@@ -57,7 +57,7 @@ These directives guarantee that the prose reads as if written by a human, not ge
 *   **Chronological Fluidity:** Narrative moves in a straight, logical line. Begin from the sensory or observable physical experience. Move inward to the interior or systemic process. Observation first. Mechanism second. Implication third.
 *   **Opening Thesis Mandate:** Begin every document using a clear thesis statement. Subsequent paragraphs provide physical evidence proving this opening thesis true.
 *   **Ultimate Conclusion:** Terminate every manuscript using one standalone single-sentence paragraph. This final structural block carries zero length restrictions and synthesizes core arguments into total certainty without deploying summarizing filler.
-*   **Textual Expansion Mandate:** ALL simplification revisions require massive textual expansion overriding previous length limits guaranteeing total conceptual transfer. Vocabulary reduction sequences require automatic mathematical scaling increasing sentence counts.
+*   **Textual Expansion Mandate:** Simplification revisions require textual expansion when necessary to guarantee conceptual transfer. However, the agent must strive to keep total post length between 1,000 and 1,400 words.
 
 ## 5. The Metadata Layer (Professional Standards)
 *   **Professional Metadata:** Titles and descriptions function as compelling intellectual hooks, not lazy literal summaries.
